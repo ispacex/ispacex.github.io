@@ -19,7 +19,7 @@
 
 * [Обзор S.M.](https://www.youtube.com/watch?v=6A2miAGJ0QE)
     - ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (лимонный, светлый, средний, темный)
-        - `#F7D700` Winton Cadmium Lemon 86
+        - `#F7D700` <code style="color : #F7D700">■</code>  Winton Cadmium Lemon 86
         - `#FDD805` [Winton](https://www.winsornewton.com/na/paint/oil/winton-oil/) Cadmium Yellow Light 113
     - ◑ [PY1](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY1) Ганза желтая G, ариламид (Shinhan 706)
         - [Artiscreation](https://www.artiscreation.com/yellow.html)
