@@ -19,8 +19,8 @@
 
 * [Обзор S.M.](https://www.youtube.com/watch?v=6A2miAGJ0QE)
     - ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (лимонный, светлый, средний, темный)
-        - `#F7D700` <code style="color : #F7D700">■</code>  Winton Cadmium Lemon 86
-        - `#FDD805` [Winton](https://www.winsornewton.com/na/paint/oil/winton-oil/) Cadmium Yellow Light 113
+        - `#F7D700` <code style="color : #F7D700">■</code> Winton Cadmium Lemon 86
+        - `#FDD805` <code style="color : #FDD805">■</code> [Winton](https://www.winsornewton.com/na/paint/oil/winton-oil/) Cadmium Yellow Light 113
     - ◑ [PY1](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY1) Ганза желтая G, ариламид (Shinhan 706)
         - [Artiscreation](https://www.artiscreation.com/yellow.html)
         - учебная краска (Сонет)
@@ -48,7 +48,7 @@
     - ■ [PY139](https://en.wikipedia.org/wiki/Pigment_yellow_139) - isoindoline
         - [sypigment](https://www.sypigment.com/ru/pigment-yellow-139.html) China
         - MH Yellow Lake Deep 202
-    - ◑ `#FCD700` [PY120](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY120) Моноазо стабилизированный
+    - ◑ `#FCD700` <code style="color : #FCD700">◑</code> [PY120](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY120) Моноазо стабилизированный
         - [Old Holland](https://www.oldholland.com/wp-content/uploads/2020/11/Brochure-Old-Holland-Classic-Oil-Colours-2020.pdf) Scheveningen Yellow Medium 14
     - / [PY65](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY65) - арилид желтый RN
         - WN Yellow Deep
