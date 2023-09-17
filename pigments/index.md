@@ -63,24 +63,37 @@
     - □ [PY40](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY40) - Нитрит кобальта и калия, Ауреолин
         - Williamsburg Cobalt Yellow
 * [Обзор S.M. #2](https://www.youtube.com/watch?v=xZuJsDrhwLU)
-    - [PY42](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY42) - Желтый оксид синтетического железа
-    - [PY43](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY43) - Оксид натурального железа, Fe2O3H2O
+    - ■ [PY42](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY42) - Желтый оксид синтетического железа
+        - желтая охра
+    - ■ [PY43](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY43) - Оксид натурального железа, Fe2O3H2O
         - охра светлая
-    - [PY109](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY109) - Изоиндолин
-    - [PY151](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY151) - Моноазо стабилизированный
+    - ■ [PY109](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY109) - Изоиндолин
+    - ■ [PY151](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY151) - Моноазо стабилизированный
         - Hoenig HTL129
-    - PY83
-    - PY213
-    - PY53
-    - PY159
-    - PY39
+    - ◑ [PY83](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY83) - Ди-арилид стабилизированный
+        - Winton China
+        - теплый желтый цвет
+    - / [PY213](https://www.researchgate.net/figure/Pigment-Yellow-213-PY-213-C-23-H-21-N-5-O-9_fig1_24213743) - C23H21N5O9
+    - ■ PY53 - Nickel Titanate Yellow
+    - ◑ PY159 - силикат циркония
+    - ◑ [PY39](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY39) - Аурипигмент
+        - сульфид мышьяка?
+        - плохо перемешивается с маслом
     - [NY24](https://www.artiscreation.com/yellow.html) Gamboge
-    - NY2
-    - NY14
-    - NY8
-    - PY41
-    - PY46
-    - Lead Tiny Type I
+        - смола
+        - плохая светостойкость
+    - [NY2](https://m.sadtuna.org/paints/pigments/NY2) Reseda
+        - плохо смешивается с маслом
+        - плохая светостойкость
+    - [NY14](https://www.paintlibrary.art/pigments/yellow/NY14) - Stil de Grain, облепиха
+        - скорее коричневый
+        - плохая светостойкость
+    - NY8 - шелковица красильная
+    - PY41 - неаполитанский желтый, Lead Antimoniate
+        - MH
+    - PY46 - Окись свинца, Massicot Litharge
+        - [Artiscreation](https://www.artiscreation.com/yellow.html)
+    - Lead Tiny Type I (свинцово-оловянный)
 
 ## Синие
 
@@ -103,7 +116,9 @@
     - [Кадмий желтый средний](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=187)
         - максимальная светостойкость и укрывистость
         - хорошо ложится пастозно
-    - [Охра светлая](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=261) PY43
+    - ◑ [Охра светлая](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=261) PY43
+        - бывает укрывистая, Shinhan Art 708
     - [Охра золотистая](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=305)
-    - [Сиена Натуральная](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=351)
+        - [natpigments](https://natpigments.com/golden_ocher)
+    - ◑ [Сиена Натуральная](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=351)
     - ...
