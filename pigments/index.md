@@ -37,9 +37,12 @@
     - □ [PY110](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY110) Изоиндолин
     - □ [PY129](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY129) Азометин меди (Rembrandt)
     - ◑ [PY175](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY175) - [Maimeri](https://www.hudozhnik.club/kraski/maslyanye/maimeri-306112.html) Classico
-    - ◑ [PY97](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY97) - Maimeri
-    - ■ [PY155](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY155) - Maimeri
-    - ■ PY31 - Barium Chromate
+    - ◑ [PY97](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY97) Моноазо
+        - Maimeri [Naples Yellow Light 105](https://www.maimeri.it/en/products/oil/classico/naples-yellow-light-0302105.html)
+        - Maimeri 116
+    - ■ [PY155](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY155) Дисазо
+        - Maimeri 122
+    - ■ [PY31](https://en.wikipedia.org/wiki/Barium_chromate) - Barium Chromate
         - MH Lemon Yellow 108
         - [Jackson's Art](https://www.jacksonsart.com/roberson-dry-pigment-lemon-yellow-py31-250ml-200g-series-2) dry pigment
     - ■ [PY139](https://en.wikipedia.org/wiki/Pigment_yellow_139) - isoindoline
@@ -54,9 +57,10 @@
         - Mussini (Schminke)
     - ■ [PY184](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY184) - Ванадат висмута
         - Williamsburg Bysmuth Vanadate Yellow
-    - □ PY40 - Williamsburg Cobalt Yellow
+    - □ [PY40](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY40) - Нитрит кобальта и калия, Ауреолин
+        - Williamsburg Cobalt Yellow
 * [Обзор S.M. #2](https://www.youtube.com/watch?v=xZuJsDrhwLU)
-    - PY42
+    - [PY42](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY42) - Желтый оксид синтетического железа
     - PY43
     - PY109
     - PY151
