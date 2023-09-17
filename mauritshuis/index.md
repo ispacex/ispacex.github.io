@@ -1,5 +1,7 @@
 # Mauritshuis
 
+[Home](/)
+
 * [Mauritshuis collection](https://www.mauritshuis.nl/en/our-collection/)
 
 ## The Young Mother (1658)

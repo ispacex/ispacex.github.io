@@ -1,5 +1,7 @@
 # Pigments
 
+[Home](/)
+
 ## Желтые
 
 ### ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (сульфид кадмия и цинка)

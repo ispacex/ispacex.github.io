@@ -1,5 +1,7 @@
 # Vermeer
 
+[Home](/)
+
 ## Girl with a Pearl Earring (c. 1665)
 
 * [Mauritshuis](https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring/), see also [Mauritshuis](../mauritshuis/) index
