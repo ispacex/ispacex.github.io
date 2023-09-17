@@ -17,7 +17,7 @@
 
 ### Разные
 
-* [Обзор S.M.](https://www.youtube.com/watch?v=6A2miAGJ0QE)
+* [Обзор S.M.](https://www.youtube.com/watch?v=6A2miAGJ0QE) - смеси с PW4 (?), PB7, PBr7, PO73
     - ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (лимонный, светлый, средний, темный)
         - `#F7D700` <code style="color : #F7D700">■</code> Winton Cadmium Lemon 86
         - `#FDD805` <code style="color : #FDD805">■</code> [Winton](https://www.winsornewton.com/na/paint/oil/winton-oil/) Cadmium Yellow Light 113
@@ -62,7 +62,7 @@
         - Williamsburg Bysmuth Vanadate Yellow
     - □ [PY40](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY40) - Нитрит кобальта и калия, Ауреолин
         - Williamsburg Cobalt Yellow
-* [Обзор S.M. #2](https://www.youtube.com/watch?v=xZuJsDrhwLU)
+* [Обзор S.M. #2](https://www.youtube.com/watch?v=xZuJsDrhwLU) - смеси с PG7, PO73, PBr7, PW4
     - ■ [PY42](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY42) - Желтый оксид синтетического железа
         - желтая охра
     - ■ [PY43](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY43) - Оксид натурального железа, Fe2O3H2O
@@ -107,6 +107,16 @@
     - Winsor Newton
     - Michael Harding
     - Williamsburg
+
+### PB29 (Ультрамарин синий)
+
+* [Обзор S.M.](https://www.youtube.com/watch?v=D_kc8_RwZfs)
+    - Мастер-Класс
+    - Schmincke
+    - Rembrandt
+    - Pebeo
+    - Old Holland
+    - Blockx
 
 ## Разное
 
