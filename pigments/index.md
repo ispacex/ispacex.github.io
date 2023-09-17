@@ -11,11 +11,12 @@
     - Master class
     - Blockx
     - Michael Harding
+* [Handprint](https://www.handprint.com/HP/WCL/watery.html) - watercolors
 
 ### Разные
 
 * [Обзор S.M.](https://www.youtube.com/watch?v=6A2miAGJ0QE)
-    - ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (...)
+    - ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (лимонный, светлый, средний, темный)
     - ◑ PY1 (Shinhan 706)
     - ■ PY37 (Shinhan 787)
     - □ PY3 (?)
