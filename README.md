@@ -1,5 +1,14 @@
 # ispacex.github.io
 
-# [Pigments](/pigments)
-# [Vermeer](/vermeer)
-# [Mauritshuis](/mauritshuis)
+## Pigments
+
+* [Pigments](/pigments)
+
+## Venues
+
+* [Mauritshuis](/mauritshuis)
+
+## Painters
+
+* [Vermeer](/vermeer)
+* [Monet](/monet)
