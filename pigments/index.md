@@ -24,11 +24,11 @@
         - `#F7D700` <code style="color : #F7D700">■</code> Winton Cadmium Lemon 86
         - `#FDD805` <code style="color : #FDD805">■</code> [Winton](https://www.winsornewton.com/na/paint/oil/winton-oil/) Cadmium Yellow Light 113
     - ◑ [PY1](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY1) Ганза желтая G, ариламид
-        - Shinhan 706
+        - [Shinhan](https://www.jacksonsart.com/brands/shinhan/to-use-with/oil) 706
         - [Artiscreation](https://www.artiscreation.com/yellow.html)
         - учебная краска (Сонет)
     - ■ [PY37](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY37) сульфид кадмия CdS
-        - Shinhan 787
+        - [Shinhan](https://www.jacksonsart.com/brands/shinhan/to-use-with/oil) 787
     - □ [PY3](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY3) арилид желтый (?)
         - тоже есть Сонет
     - □ [PY74](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY74) ариламид желтый, Winton Oil
@@ -76,7 +76,7 @@
     - ■ [PY151](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY151) - Моноазо стабилизированный
         - Hoenig HTL129
     - ◑ [PY83](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY83) - Ди-арилид стабилизированный
-        - Winton China
+        - Winton China (врут про укрывистость, ■ - не правда)
         - теплый желтый цвет
     - / [PY213](https://www.researchgate.net/figure/Pigment-Yellow-213-PY-213-C-23-H-21-N-5-O-9_fig1_24213743) - C23H21N5O9
     - ■ PY53 - Nickel Titanate Yellow
@@ -171,7 +171,7 @@
         - максимальная светостойкость и укрывистость
         - хорошо ложится пастозно
     - ◑ [Охра светлая](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=261) PY43
-        - бывает укрывистая, Shinhan Art 708
+        - бывает укрывистая, [Shinhan Art](https://www.jacksonsart.com/brands/shinhan/to-use-with/oil) 708
     - [Охра золотистая](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=305)
         - [natpigments](https://natpigments.com/golden_ocher)
     - ◑ [Сиена Натуральная](https://youtu.be/r0t1FwQHTAk?list=PL1yPB_yBu1luReGovGLpZi4JdQasjxQtN&t=351)
