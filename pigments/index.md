@@ -4,6 +4,8 @@
 
 ## Желтые
 
+[Artiscreation](https://www.artiscreation.com/yellow.html)
+
 ### ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (сульфид кадмия и цинка)
 
 * [Обзор S.M.](https://www.youtube.com/watch?v=oXCv1VhlYxg)
@@ -21,10 +23,12 @@
     - ■ [PY35](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY35) (лимонный, светлый, средний, темный)
         - `#F7D700` <code style="color : #F7D700">■</code> Winton Cadmium Lemon 86
         - `#FDD805` <code style="color : #FDD805">■</code> [Winton](https://www.winsornewton.com/na/paint/oil/winton-oil/) Cadmium Yellow Light 113
-    - ◑ [PY1](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY1) Ганза желтая G, ариламид (Shinhan 706)
+    - ◑ [PY1](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY1) Ганза желтая G, ариламид
+        - Shinhan 706
         - [Artiscreation](https://www.artiscreation.com/yellow.html)
         - учебная краска (Сонет)
-    - ■ [PY37](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY37) сульфид кадмия CdS (Shinhan 787)
+    - ■ [PY37](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY37) сульфид кадмия CdS
+        - Shinhan 787
     - □ [PY3](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY3) арилид желтый (?)
         - тоже есть Сонет
     - □ [PY74](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY74) ариламид желтый, Winton Oil
@@ -37,7 +41,8 @@
     - □ [PY110](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY110) Изоиндолин
     - □ [PY129](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY129) Азометин меди (Rembrandt)
         - зеленоватый
-    - ◑ [PY175](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY175) - [Maimeri](https://www.hudozhnik.club/kraski/maslyanye/maimeri-306112.html) Classico Permanent Yellow Lemon 112
+    - ◑ [PY175](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY175)
+        - [Maimeri](https://www.hudozhnik.club/kraski/maslyanye/maimeri-306112.html) Classico Permanent Yellow Lemon 112
     - ◑ [PY97](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PY97) Моноазо
         - Maimeri [Naples Yellow Light 105](https://www.maimeri.it/en/products/oil/classico/naples-yellow-light-0302105.html)
         - Maimeri Primary Yellow 116
@@ -90,12 +95,23 @@
         - плохая светостойкость
     - NY8 - шелковица красильная
     - PY41 - неаполитанский желтый, Lead Antimoniate
-        - MH
+        - [Jackman' art](https://www.jackmansartmaterials.co.uk/products/copy-of-potters-pink-p-r-233-dry-pigment-powder) (yep, not Jackson's; has price bugs)
+        - MH [Genuine Naples Yellow Light 605](https://www.michaelharding.co.uk/materials/genuine-naples-yellow-light-no-605/)
     - PY46 - Окись свинца, Massicot Litharge
         - [Artiscreation](https://www.artiscreation.com/yellow.html)
     - Lead Tiny Type I (свинцово-оловянный)
+* [Vicki Norman](https://www.youtube.com/watch?v=fWPFb9gkLD4) review on Naples Yellows
+    - [Genuine Naples Yellow Light 605](https://www.michaelharding.co.uk/materials/genuine-naples-yellow-light-no-605/)
+    - [Genuine Naples Yellow Dark 606](https://www.michaelharding.co.uk/materials/genuine-naples-yellow-dark-no-606/)
+    - [Naples Yellow 218](https://www.michaelharding.co.uk/materials/naples-yellow-no-218/) (PBr24)
+    - [Warm White 137](https://www.michaelharding.co.uk/materials/warm-white-lead-alternative-no-137/) (PW6, PY43)
+    - [Manganese Violet 304](https://www.michaelharding.co.uk/materials/manganese-violet-no-304/) ([Pv16](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PV16) - фосфат марганца)
+    - [Genuine Chinese Vermillion 701](https://www.michaelharding.co.uk/materials/genuine-chinese-vermilion-no-701/) ([PR106](https://www.artiscreation.com/red.html) - HgS)
+    - [Cobalt blue 506](https://www.michaelharding.co.uk/materials/cobalt-blue-no-506/) ([PB28](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PB28) - алюминат кобальта)
 
 ## Синие
+
+[Artiscreation](https://www.artiscreation.com/blue.html)
 
 ### PB15 (Голубая ФЦ)
 
@@ -117,6 +133,34 @@
     - Pebeo
     - Old Holland
     - Blockx
+
+## Белые
+
+### Michael Harding
+
+* [Vicki Norman review](https://www.youtube.com/watch?v=WcSrq4swvZQ)
+    - [Titanium White](https://www.michaelharding.co.uk/materials/colour-titanium-white-no-1/) (No 1)
+    - Zinc White (discontinued)
+    - [Foundation White 225](https://www.michaelharding.co.uk/materials/colour-foundation-white/) (PW6 and PW1)
+    - [Cremnitz White (No 2)](https://www.michaelharding.co.uk/materials/cremnitz-white-no-2-walnut-oil/) (PW1)
+    - [Warm White](https://www.michaelharding.co.uk/materials/warm-white-lead-alternative-no-137/) (lead white alternative, PW6+PY43)
+
+## Oranges
+
+[Artiscreation](https://www.artiscreation.com/orange.html)
+
+### Michael Harding
+
+* [Vicki Norman review](https://www.youtube.com/watch?v=gSn1wSqsKfs)
+    - [Cadmium Orange 502](https://www.michaelharding.co.uk/materials/cadmium-orange-no-502/) -- [PO20](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PO20) (CdSe)
+    - [Permanent Orange 222](https://www.michaelharding.co.uk/materials/permanent-orange-no-222/) -- [PO73](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PO73)
+    - Lead White
+    - Lead Tin Yellow Lemon
+    - Pale Violet
+    - Permanent Green Light
+    - Amethyst
+    - Ultramarine Blue
+    - Vine Black
 
 ## Разное
 
