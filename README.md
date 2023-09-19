@@ -42,3 +42,4 @@
 * [César Córdova](https://www.youtube.com/@CesarCordova)
 * [Fausto Soler](https://www.youtube.com/@faustosoler/videos) - soy Artista Plástico y Profesor de Artes Visuales. Encontrarás en este canal mis experiencias como creador de imágenes, también como docente y estudiante de arte, tutoriales enfocados sobre todo al Dibujo y la pintura
     - [Paleta de Zorn](https://www.youtube.com/watch?v=yTepMTpW3CY) - limited [palette](https://www.ttamayo.com/2019/11/la-paleta-limitada-de-zorn/) of [Anders Zorn](https://ru.wikipedia.org/wiki/%D0%A6%D0%BE%D1%80%D0%BD,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81)
+    - [Dominating palette colors](https://www.youtube.com/watch?v=iDEsoaC51gU&list=PLlDPksSWJLP3xqWgtSb1VZdgdiETil9_z)
