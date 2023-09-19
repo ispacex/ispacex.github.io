@@ -40,3 +40,5 @@
 * [Ben Lustenhower](https://www.youtube.com/watch?v=rBzGzmqNl1c&list=PLTFuurONjrRrfJ8HTlxTIXtF2H8VRiYUn)
     - [portrait 3 color zones](https://www.youtube.com/watch?v=Sxce77G4C_A&list=PL9i8gCjOjwezGabhyTZFbPeQL88HnFLza)
 * [César Córdova](https://www.youtube.com/@CesarCordova)
+* [Fausto Soler](https://www.youtube.com/@faustosoler/videos) - soy Artista Plástico y Profesor de Artes Visuales. Encontrarás en este canal mis experiencias como creador de imágenes, también como docente y estudiante de arte, tutoriales enfocados sobre todo al Dibujo y la pintura
+    - [Paleta de Zorn](https://www.youtube.com/watch?v=yTepMTpW3CY) - limited [palette](https://www.ttamayo.com/2019/11/la-paleta-limitada-de-zorn/) of [Anders Zorn](https://ru.wikipedia.org/wiki/%D0%A6%D0%BE%D1%80%D0%BD,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81)
