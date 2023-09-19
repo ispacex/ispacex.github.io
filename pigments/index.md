@@ -134,6 +134,79 @@
     - Old Holland
     - Blockx
 
+## Красные
+
+## PR101
+
+* [Daniel Smith](https://www.youtube.com/watch?v=3QZBStC8llE) watercolors review
+
+## PR102
+
+* [Daniel Smith](https://www.youtube.com/watch?v=_tSDNDUwO3w) watercolors review
+
+### Разное
+
+* [Обзор S.M.](https://www.youtube.com/watch?v=4aDjLZe71vs) + PW4
+    - ■ [PR108](https://violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR108) - CdSe (Williamsburg, Rembrandt)
+    - □/■/╱ [PR101](https://violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR101) - Красная окись синтетического железа (Williamsburg, Rembrandt)
+    - ■ [PR122](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR122) - Хинакридон пурпурный (Pebeo, Williamsburg)
+    - ◑ [PR149](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR149) - Периленовая красная (Rembrandt)
+    - ◑ [PR176](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR176) - Monoazo (Rembrandt Carmine)
+    - □ [PR177](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR177) - Антраквиноноид (Williamsburg Permanent Crimson)
+    - □ [PR179](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR179) - Антраквинон (перилен) (Williamsburg Perylene Crimson)
+    - □ [PR187](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR187) - Краплак красный (Williamsburg Carl S Crimson)
+    - ╱ [PR202](https://www.kremer-pigmente.com/en/shop/pigments/23405-quinacridone-crimson-pr-202.html) - Quinacridone Crimson (Rembrandt)
+    - □ [PR207](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR207) - Quinacridone (Rembrandt)
+    - ◑ [PR254](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR254) - Пиррол (Дикетопиролопирол) (Rembrandt)
+    - ◑ [PR255](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR255) - Пиррол (Rembrandt)
+    - / [PR264](https://www.violtan.com/color/ind_pigments.php?Lang=RU&Oper=CheckFindColor&Pigment=PR264) - Пиррол Ализарин (Rembrandt)
+* [Обзор S.M. 2](https://www.youtube.com/watch?v=kmnoFEr63cA) + PW4 [photo](https://static.wixstatic.com/media/627cd1_269764af2da74d98a7451dd941ed4334~mv2.jpg)
+    - ■ PR108 - Кадмий красный
+    - ■ PR102 - Натуральная окись железа (Fe2O3)
+    - ■ PR9 - Нафтол красный (C24H17Cl2N3O3)
+        - при разбеле уходит немного в фиолетовую сторону, менее укрывист чем PR108, менее интенсивен
+    - ■ PR144 - Azo Red (C40H23Cl5N6O4)
+        - в чистом виде коричневат
+    - ■ PR112 - Нафтол красный (C24H16Cl3N3O2)
+        - заменитель красного кадмия
+        - на разбеле немного фиолетовый
+    - ◑ PR166 - алый (C40H24Cl4N6O4)
+    - ◑ PR168 - алый антрахинон (C22H8Br2O2)
+         - теплый в разбеле
+    - □ PR175 - вишневый красный (C26H19N5O5)
+        - светостойкий
+        - сохраняет чистоту цвета в разбеле
+    - □ PR83 - Ализарин красный (краплак красный, C14H8O4)
+        - от малинового до фиолетового
+        - известен 3500 лет, добывался из [марены красильной](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B5%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F)
+        - светостойкость ниже чем у кадмия
+    - ◑ PR265 - сульфид церия (Ce2S3)
+    - ■ Опал красный (гидрат диоксида кремния)
+        - коричневый цвет
+        - применялся старыми мастерами
+    - NR9 Ализарин из марены красильной (C14H8O4)
+        - natural red
+        - коричнево-фиолетовый
+        - низкая интенсивность
+        - C14H8O4 (ализарин) + C14H8O5 (пурпурин) + C15H8O7 (псевдо-пурпурин) + C15H10O4 + C15H8O6
+    - NR4 - Кармин (кашениль, C22H20O13)
+        - фиолетовый
+        - хорошая интенсивность
+        - мало пригоден для масляной живописи, имеет низкую светостойкость
+* [Обзор S.M. 3](https://www.youtube.com/watch?v=8qrXJmN0ejA)
+    - ■ PR108
+    - ◑ PR3
+    - □ PR12
+    - ◑ PR188
+    - □ PR206
+    - □ PR209
+    - ◑ PR214
+    - ◑ PR242
+    - ■ PR251
+    - □ PR259
+    - ■ PR105
+    - ■ PR106
+
 ## Белые
 
 ### Michael Harding

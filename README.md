@@ -4,6 +4,10 @@
 
 * [Pigments](/pigments)
 
+## Oil pastels
+
+* [Гамма студия](/pastels/gamma.md)
+
 ## Venues
 
 * [Mauritshuis](/mauritshuis)
