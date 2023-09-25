@@ -1,6 +1,6 @@
 # Mauritshuis
 
-[Home](/)
+[Home](/art)
 
 * [Mauritshuis collection](https://www.mauritshuis.nl/en/our-collection/)
 

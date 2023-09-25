@@ -1,6 +1,6 @@
 # Vermeer
 
-[Home](/)
+[Home](/art)
 
 ## Girl with a Pearl Earring (c. 1665)
 

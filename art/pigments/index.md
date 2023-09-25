@@ -1,6 +1,6 @@
 # Pigments
 
-[Home](/)
+[Home](/art)
 
 ## Желтые
 

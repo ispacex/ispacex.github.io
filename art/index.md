@@ -2,20 +2,20 @@
 
 ## Pigments
 
-* [Pigments](/pigments)
+* [Pigments](/art/pigments)
 
 ## Oil pastels
 
-* [Гамма студия](/pastels/gamma.md)
+* [Гамма студия](/art/pastels/gamma.md)
 
 ## Venues
 
-* [Mauritshuis](/mauritshuis)
+* [Mauritshuis](/art/mauritshuis)
 
 ## Painters
 
-* [Vermeer](/vermeer)
-* [Monet](/monet)
+* [Vermeer](/art/vermeer)
+* [Monet](/art/monet)
 * [Nicholas Roerich](https://en.wikipedia.org/wiki/Nicholas_Roerich)
     - [знамя мира](https://en.wikipedia.org/wiki/Banner_of_Peace)
     - [Madonna Oriflamma](https://en.wikipedia.org/wiki/Banner_of_Peace#/media/File:Madonna_Oriflamma.jpg), "Владычица Червонно-Пламенная"

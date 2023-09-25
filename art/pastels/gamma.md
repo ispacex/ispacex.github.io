@@ -1,6 +1,6 @@
 # Pastels / Gamma
 
-[Home](/)
+[Home](/art)
 
 * 01 <code style="color : #f00">■</code> Красная PW6, PR48:3
 * 02 Красно-оранжевая PO16
