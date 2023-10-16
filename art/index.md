@@ -22,6 +22,8 @@
         - [Sibro](https://sibro.ru/photo/roerich-shewwholeads/n-k-rerikh-madonna-oriflamma/)
     - [And We Are Opening the Gates](https://en.wikipedia.org/wiki/File:N._Roerich_-_And_We_are_Opening_the_Gates._From_the_%C2%ABSancta%C2%BB_Series_-_Google_Art_Project.jpg)
         - [Sancta](https://www.roerich.ee/galnew/gallery.php?gallery=NR&lang=eng&cat=series&value=Sancta) series
+    - [Last Angel, 1942](https://sibro.ru/photo/roerich-prorochestva/n-k-rerikh-angel-posledniy-1942/)
+    - [Last Angel, 1912](https://sibro.ru/photo/roerich-prorochestva/n-k-rerikh-angel-posledniy-1912/)
 * [Nicolai Fechin](https://en.wikipedia.org/wiki/Nicolai_Fechin)
 
 * [Vladimir Volegov](https://www.youtube.com/@artvolegov)
