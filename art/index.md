@@ -26,6 +26,8 @@
     - [Last Angel, 1912](https://sibro.ru/photo/roerich-prorochestva/n-k-rerikh-angel-posledniy-1912/)
 * [Nicolai Fechin](https://en.wikipedia.org/wiki/Nicolai_Fechin)
 
+***
+
 * [Vladimir Volegov](https://www.youtube.com/@artvolegov)
 * [Slava Korolenkov](https://www.youtube.com/c/SlavaKorolenkov)
     - [946 Tonal values](https://www.youtube.com/watch?v=EjZzO91Kq3w&list=PL9i8gCjOjwezGabhyTZFbPeQL88HnFLza&index=2)
@@ -45,3 +47,5 @@
 * [Fausto Soler](https://www.youtube.com/@faustosoler/videos) - soy Artista Plástico y Profesor de Artes Visuales. Encontrarás en este canal mis experiencias como creador de imágenes, también como docente y estudiante de arte, tutoriales enfocados sobre todo al Dibujo y la pintura
     - [Paleta de Zorn](https://www.youtube.com/watch?v=yTepMTpW3CY) - limited [palette](https://www.ttamayo.com/2019/11/la-paleta-limitada-de-zorn/) of [Anders Zorn](https://ru.wikipedia.org/wiki/%D0%A6%D0%BE%D1%80%D0%BD,_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81)
     - [Dominating palette colors](https://www.youtube.com/watch?v=iDEsoaC51gU&list=PLlDPksSWJLP3xqWgtSb1VZdgdiETil9_z)
+
+* [Jvan Rviz](https://www.instagram.com/jvan_rviz/)
