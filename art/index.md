@@ -1,5 +1,3 @@
-# ispacex.github.io
-
 ## Pigments
 
 * [Pigments](/art/pigments)

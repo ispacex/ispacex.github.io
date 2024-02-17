@@ -9,3 +9,4 @@
 ---
 
 * [Art](/art)
+* [Dance](/dance)
