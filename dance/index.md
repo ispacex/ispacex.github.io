@@ -8,6 +8,7 @@
 * [Глава 2](https://telegra.ph/Natyashastra-Glava-2-02-13), характеристики здания для представлений;
 * [Глава 3](https://telegra.ph/Natyashastra-Glava-3-poklonenie-bogam-sceny-02-13), поклонение богам сцены (raṅgapūjā);
 * [Глава 4 ч 1](https://telegra.ph/Natyashastra-glava-4-tehnika-tanca-shl-1-169-iz-328-02-18), о танце (шл. 1-169);
+* [Глава 4 ч 2](https://telegra.ph/Natyashastra-glava-4-ch-2-tehnika-tanca-angahary-shl-170-245-02-18), о танце (шл. 170-245);
 * Глава 5 описывает ритуал pūrvaraṅga (пурваранга);
 * Глава 6 посвящена теории раса;
 * Глава 7 раскрывает определение бхавы;
