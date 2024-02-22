@@ -47,4 +47,4 @@
 
 ### Дополнительные материалы
 
-* [Асамьюта хасты](https://telegra.ph/Asamyuta-Hastas-02-13)
+* [Асамьюта хасты](https://telegra.ph/Asamyuta-hastas-02-22)
