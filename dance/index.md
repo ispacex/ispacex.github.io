@@ -12,7 +12,7 @@
 * [Глава 4 ч 1](https://telegra.ph/Natyashastra-glava-4-tehnika-tanca-shl-1-169-iz-328-02-18), о танце (шл. 1-169);
 * [Глава 4 ч 2](https://telegra.ph/Natyashastra-glava-4-ch-2-tehnika-tanca-angahary-shl-170-245-02-18), о танце (шл. 170-245);
 * [Глава 4 ч 3](https://telegra.ph/Natyashastra-glava-4-ch-3-shl-246-328-02-20), о танце (шл. 246-328);
-* Глава 5 описывает ритуал pūrvaraṅga (пурваранга);
+* [Глава 5](https://telegra.ph/Natyashastra-glava-5-Purvaranga-02-22) описывает ритуал pūrvaraṅga (пурваранга) – подготовку сцены;
 * Глава 6 посвящена теории раса;
 * Глава 7 раскрывает определение бхавы;
 * Глава 8 говорит о мимике лица и дифференциации взглядов;
