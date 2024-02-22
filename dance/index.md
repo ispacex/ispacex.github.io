@@ -48,3 +48,4 @@
 ### Дополнительные материалы
 
 * [Асамьюта хасты](https://telegra.ph/Asamyuta-hastas-02-22)
+* [Самьюта хасты](https://natanam.ru/132/samyuta-hasta/)
