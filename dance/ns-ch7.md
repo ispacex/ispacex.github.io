@@ -2,6 +2,8 @@
 
 Бхарата Муни
 
+[Оглавление](/dance)
+
 ← [Глава 6](https://telegra.ph/Natyashastra-glava-6-Rasa-02-22)
 
           ДА БУДЕТ БЛАГО
