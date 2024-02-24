@@ -10,8 +10,8 @@
 
 ## Лекции
 
-* [Санжарова](https://www.youtube.com/watch?v=ZQe-ZTo7tfo)
-* [Таиров](https://www.youtube.com/watch?v=SIo7Qfcgd70)
+* [Оксана Санжарова](https://www.youtube.com/watch?v=ZQe-ZTo7tfo) – лекция в музее Скрябина
+* [Александр Таиров](https://www.youtube.com/watch?v=SIo7Qfcgd70)
 * [Art Studiolo](https://www.youtube.com/watch?v=t0Dul-7WHig) - мастер света и ультрамаринв
 * [Art Studiolo](https://www.youtube.com/watch?v=UOROfhG7G1w) - жизнь в [Делфте](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%84%D1%82)
 * [Art Studiolo](https://www.youtube.com/watch?v=Yb0RiwkGar0) - портреты или [трони](https://en.wikipedia.org/wiki/Tronie)

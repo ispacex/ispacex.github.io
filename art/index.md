@@ -1,5 +1,7 @@
 ## Pigments
 
+[Вернуться на главную](/)
+
 * [Pigments](/art/pigments)
 
 ## Oil pastels
