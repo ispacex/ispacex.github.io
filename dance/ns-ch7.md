@@ -4,7 +4,7 @@
 
 [Оглавление](/dance)
 
-← [Глава 6](https://telegra.ph/Natyashastra-glava-6-Rasa-02-22)
+← [Глава 6](https://telegra.ph/Natyashastra-glava-6-Rasa-02-22) | [Глава 7](/dance/ns-ch8) →
 
           ДА БУДЕТ БЛАГО
 
