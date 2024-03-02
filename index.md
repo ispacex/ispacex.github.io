@@ -1,5 +1,7 @@
 # Inner space exploration institute
 
+![Banner of Peace](900_pax_culture.jpg)
+
 Основные задачи института:
 
 * синтез нового гуманитарного знания
