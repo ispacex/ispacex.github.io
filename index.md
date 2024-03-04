@@ -12,3 +12,4 @@
 
 * [Art](/art)
 * [Dance](/dance)
+* [КШ](/ksh)
