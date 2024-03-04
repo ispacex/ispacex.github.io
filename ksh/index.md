@@ -24,3 +24,4 @@
 2. [Шесть йог Наропы](https://abhidharma.ru/A/Tantra/6YiogN.htm). Введение в глубинный путь Шести Йог Наропы ламы Драши Намджхала. *Перевод на китайский выполнен Манг Кунгом. Перевод на английский и введение выполнен Гармой Ч. Чангом. Перевод на русский Т. Данилевича.*
 3. [Tantrasara](http://www.gianfrancobertagni.it/materiali/tantra/tantrasara.pdf) of **Abhinavagupta**. *Translation from Sanskrit and Introduction by H.N. Chakravarty.  Edited by Boris Marjanovic.*
     * Существует частичный [перевод](https://www.sanskrit-trikashaivism.com/ru/tantrasara-introduction-trika-scriptures-non-dual-shaivism-of-kashmir-ru/919) Тантрасары на русский язык.
+4. [Трика](https://www.sanskrit-trikashaivism.com/ru/essentials-tour-russian-home-tour-trika-section/703) – Недвойственный Кашмирский Шиваизм. Габриэль Pradīpaka или Gurujī.
