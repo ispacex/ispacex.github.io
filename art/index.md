@@ -25,6 +25,7 @@
     - [Last Angel, 1942](https://sibro.ru/photo/roerich-prorochestva/n-k-rerikh-angel-posledniy-1942/)
     - [Last Angel, 1912](https://sibro.ru/photo/roerich-prorochestva/n-k-rerikh-angel-posledniy-1912/)
 * [Nicolai Fechin](https://en.wikipedia.org/wiki/Nicolai_Fechin)
+* [Hans Dahl](https://dzen.ru/a/XKIYgsJmIQCzEvf8)
 
 ***
 
