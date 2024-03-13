@@ -54,3 +54,8 @@
 ## Tattoo artists
 
 * [Sailor Jerry](https://sailorjerry.com/en/tattoos/)
+
+## Tattoo books
+
+* [TATTOO. 1730s-1970s. Henk Schiffmacher’s Private Collection](https://www.taschen.com/de/books/popculture/01175/tattoo-1730s-1970s-henk-schiffmacher-s-private-collection)
+* [Vintage Tattoos: The Book of Old-School Skin Art](https://www.amazon.com/Vintage-Tattoos-Book-Old-School-Skin/dp/0789318245)
