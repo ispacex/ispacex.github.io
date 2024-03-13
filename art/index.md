@@ -50,3 +50,7 @@
     - [Dominating palette colors](https://www.youtube.com/watch?v=iDEsoaC51gU&list=PLlDPksSWJLP3xqWgtSb1VZdgdiETil9_z)
 
 * [Jvan Rviz](https://www.instagram.com/jvan_rviz/)
+
+## Tattoo artists
+
+* [Sailor Jerry](https://sailorjerry.com/en/tattoos/)
