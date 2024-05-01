@@ -1,5 +1,7 @@
 ## Matya talam
 
+[Talam](/nt)
+
 	101
 
 	1. Ta ki ta | Ta ka | Ta ki ta ||

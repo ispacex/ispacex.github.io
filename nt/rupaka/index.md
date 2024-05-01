@@ -1,5 +1,7 @@
 ## Rupaka talam
 
+[Talam](/nt)
+
 	10
 
 	1. Ta ka | Ta ki ta ||
