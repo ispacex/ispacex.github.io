@@ -12,4 +12,5 @@
 
 * [Art](/art)
 * [Dance](/dance)
+  * [Natya talam](/nt)
 * [КШ](/ksh)
