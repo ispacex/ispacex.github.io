@@ -5,3 +5,5 @@
 * [Rupaka](/nt/rupaka/) 10
 * [Matya](/nt/matya/) 101
 * [Ata](/nt/ata/) 1100
+* [Jampa](/nt/jampa/) 1 ͜ 0
+* [Triputa](/nt/triputa/) 100
