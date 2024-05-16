@@ -7,3 +7,5 @@
 * [Ata](/nt/ata/) 1100
 * [Jampa](/nt/jampa/) 1 ͜ 0
 * [Triputa](/nt/triputa/) 100
+* [Eka](/nt/eka/) 1
+* [Dhruva](/nt/dhruva/) 1011
