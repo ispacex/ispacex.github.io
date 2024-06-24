@@ -14,3 +14,4 @@
 * [Dance](/dance)
   * [Natya talam](/nt)
 * [КШ](/ksh)
+* [Yoga](/yoga)
