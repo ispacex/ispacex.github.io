@@ -6,6 +6,13 @@
 
 *Мы носим в себе созидательный заряд вселенной, но в силу некоторых обстоятельств забываем об этом. // В. Дмитриева.*
 
+* [Паша](/ksh/pashas/) – удавки живых существ [5]
+    * жалость к себе и другим (грихнá)
+    * тоска, уныние (щóка)
+    * страх (бхая‘м)
+    * стыдливость (ладжá)
+    * брезгливость (джугупсá)
+
 ### Основные понятия
 
 * *Шактипата* – передача духовной энергии от учителя к ученику или от Божества напрямую к последователю. В КШ выделяется 7 уровней шактипаты:
@@ -82,6 +89,8 @@
 3. [Tantrasara](http://www.gianfrancobertagni.it/materiali/tantra/tantrasara.pdf) of **Abhinavagupta**. *Translation from Sanskrit and Introduction by H.N. Chakravarty.  Edited by Boris Marjanovic.*
     * Существует частичный [перевод](https://www.sanskrit-trikashaivism.com/ru/tantrasara-introduction-trika-scriptures-non-dual-shaivism-of-kashmir-ru/919) Тантрасары на русский язык.
 4. [Трика](https://www.sanskrit-trikashaivism.com/ru/essentials-tour-russian-home-tour-trika-section/703) – Недвойственный Кашмирский Шиваизм. Габриэль Pradīpaka или Gurujī.
+5. [Иван Дубовик о КШ](https://vk.com/@ivandubovik-tantricheskaya-tradiciya-kashmirskogo-shivaizma)
+
 
 ### Видеоматериалы
 
