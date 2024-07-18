@@ -11,3 +11,6 @@ Combo on spanset
 ###
 
 [Drops](/hoop/drops)
+
+* [Knee drop](/hoop/drops#knee-drop) 
+* [Floating salto](/hoop/drops#floating-salto) 
