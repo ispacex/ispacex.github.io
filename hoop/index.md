@@ -5,7 +5,7 @@
 [Combo](/hoop/combo)
 
 * [Combo on spanset](/hoop/combo#combo-on-spanset) // Rezeda Asadullina
-* [Splits and Stretching](/hoop/combo#splits-and-strething) // Liza
+* [Splits and Stretching](/hoop/combo#splits-and-stretching) // Liza
 
 [Drops](/hoop/drops)
 
