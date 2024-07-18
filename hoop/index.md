@@ -10,11 +10,13 @@
 [Elements](/hoop/elements)
 
 * [Foot hang](/hoop/elements#foot-hang)
+* [Bird flow](/hoop/elements#bird-flow)
 
 [Drops](/hoop/drops)
 
 * [Knee drop](/hoop/drops#knee-drop) 
 * [Floating salto](/hoop/drops#floating-salto) 
+* [5 in to Delilah](/hoop/drops#5-into-delilah) 
 
 [Duo](/hoop/duo)
 
