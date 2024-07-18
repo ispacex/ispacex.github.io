@@ -2,13 +2,9 @@
 
 ## Hoop
 
-### Combo
+[Combo](/hoop/combo)
 
-Combo on spanset
-
-{% include youtube.html id="Aw3Ke4Zhw8I" %}
-
-###
+* [Combo on spanset](/hoop/combo#combo-on-spanset)
 
 [Drops](/hoop/drops)
 
