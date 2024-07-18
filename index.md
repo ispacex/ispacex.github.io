@@ -15,3 +15,4 @@
   * [Natya talam](/nt)
 * [КШ](/ksh)
 * [Yoga](/yoga)
+* [Hoop](/hoop)
