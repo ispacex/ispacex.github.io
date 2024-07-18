@@ -19,3 +19,4 @@
 [Duo](/hoop/duo)
 
 * [Liza hand support](/hoop/duo#liza-hand-support) 
+* [Neck support](/hoop/duo#neck-support) 
