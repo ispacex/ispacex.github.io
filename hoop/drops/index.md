@@ -19,3 +19,7 @@
 🔹3. French Gazelle
 🔹4. Shoulder press Pencil
 🔹5. Armpit Amazon
+
+### Fun simple drops
+
+{% include youtube.html id="AdnB1CDZ0Co" %}
