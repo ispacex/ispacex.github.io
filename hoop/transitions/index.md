@@ -2,7 +2,7 @@
 
 ## Transitions
 
-### Knee drop
+### 8 simple transitions
 
 {% include youtube.html id="bqSFit4QJ_o" %}
 
