@@ -11,6 +11,7 @@
 
 * [Foot hang](/hoop/elements#foot-hang)
 * [Bird flow](/hoop/elements#bird-flow)
+* [Swan Lion roll](/hoop/elements#swan-lion-roll)
 
 [Drops](/hoop/drops)
 
