@@ -14,11 +14,11 @@
 
 {% include instagram.html id="reel/C8RUA4pIxmp" %}
 
-🔹1. Wine Glass
-🔹2. Delilah on top
-🔹3. French Gazelle
-🔹4. Shoulder press Pencil
-🔹5. Armpit Amazon
+1. Wine Glass
+2. Delilah on top
+3. French Gazelle
+4. Shoulder press Pencil
+5. Armpit Amazon
 
 ### Fun simple drops
 

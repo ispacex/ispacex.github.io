@@ -26,6 +26,11 @@
 * [Knee drop](/hoop/drops#knee-drop) 
 * [Floating salto](/hoop/drops#floating-salto) 
 * [5 in to Delilah](/hoop/drops#5-into-delilah) 
+  1. Wine Glass
+  2. Delilah on top
+  3. French Gazelle
+  4. Shoulder press Pencil
+  5. Armpit Amazon
 * [Fun simple drops](/hoop/drops#fun-simple-drops) 
 
 [Duo](/hoop/duo)
