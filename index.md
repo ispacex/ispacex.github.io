@@ -16,3 +16,4 @@
 * [КШ](/ksh)
 * [Yoga](/yoga)
 * [Hoop](/hoop)
+* [Books](/books)
