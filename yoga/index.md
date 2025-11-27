@@ -1,5 +1,5 @@
 ---
-title: "ispacex: yoga"
+title: "yoga"
 ---
 
 Здесь будут заметки по йоге.
