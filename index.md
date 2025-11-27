@@ -14,7 +14,7 @@
 * [Dance](/dance)
   * [Natya talam](/nt)
 * [КШ](/ksh)
-* [Theatre](/theatre)
+* [Theatre history](/theatre)
 * [Yoga](/yoga)
 * [Hoop](/hoop)
 * [Books](/books)
