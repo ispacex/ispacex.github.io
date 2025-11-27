@@ -1,3 +1,7 @@
+---
+title: "Inner space exploration institute"
+---
+
 # Inner space exploration institute
 
 ![Banner of Peace](900_pax_culture.jpg)
