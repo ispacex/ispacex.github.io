@@ -85,7 +85,6 @@
 
 Орхестра» (орхестра) и «театрон» (театрон) — это два основных элемента древнегреческого театра: орхестра — это круглая площадка для хора и актеров, а театрон — это зрительские места, расположенные вокруг нее.
 
-[Эволюция сцены](https://www.event-live.ru/articles/mnenie/mnenie-1_837.html) (прим. – тут есть схема древнегреческой сцены)
+<a href="https://www.event-live.ru/articles/mnenie/mnenie-1_837.html" target="_blank" rel="noopener noreferrer">Эволюция сцены</a> (прим. – тут есть схема древнегреческой сцены)
 
-<a href="https://www.event-live.ru/articles/mnenie/mnenie-1_837.html" target="_blank" rel="noopener noreferrer">Эволюция сцены</a>
-
+Любое действо несет в себе часть этого воссоединения которое было в греческом театре.
