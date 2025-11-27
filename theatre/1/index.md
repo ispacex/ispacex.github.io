@@ -96,6 +96,6 @@ title: "История театра: лекция 1"
 Следующая тема - трагедия.
 Чтение:
 
-	- Софокл "Эдип"
-	- Софокл "Антигона"
-	- Еврипид "Медея"
+	- <a href="https://lib.ru/POEEAST/SOFOKL/edip.txt" target="_blank" rel="noopener noreferrer">Софокл "Эдип"</a>
+	- <a href="https://lib.ru/POEEAST/SOFOKL/antigona.txt" target="_blank" rel="noopener noreferrer">Софокл "Антигона"</a>
+	- <a href="https://www.lib.ru/POEEAST/EVRIPID/evripid1_2.txt" target="_blank" rel="noopener noreferrer">Еврипид "Медея"</a>
