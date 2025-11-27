@@ -87,4 +87,5 @@
 
 [Эволюция сцены](https://www.event-live.ru/articles/mnenie/mnenie-1_837.html) (прим. – тут есть схема древнегреческой сцены)
 
+<a href="https://www.event-live.ru/articles/mnenie/mnenie-1_837.html" target="_blank" rel="noopener noreferrer">Эволюция сцены</a>
 
