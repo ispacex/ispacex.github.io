@@ -60,6 +60,25 @@
       word-break: break-all;
     }
 
+a {
+  color: #7dd3fc;              /* light sky blue */
+  text-decoration: none;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+a:hover {
+  color: #38bdf8;              /* brighter on hover */
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #94a3b8;              /* subtle gray-blue */
+}
+
+a:active {
+  color: #0ea5e9;
+}
+
     @media (max-width: 480px) {
       h1 {
         font-size: 1.7rem;
@@ -75,9 +94,8 @@
 
 <body>
 
-<header>Поддержать театр</header>
-
 <main>
+  <h2>Поддержите театр Артен</h2>
   {{ content }}
 </main>
 
