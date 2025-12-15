@@ -1,5 +1,6 @@
 ---
 title: "Поддержать театр Артен"
+layout: donate
 ---
 
 Театр [Артен](https://www.instagram.com/arten_theatre) нуждается в поддержке !
