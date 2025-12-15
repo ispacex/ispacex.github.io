@@ -7,7 +7,7 @@ layout: donate
 
 Чтобы поддержать театр, можно сделать перевод по следующим реквизитам:
 
-банковская карта на имя ARAKELYAN YELIZAVETA {% include copy.html id="4150960011976219" %}
+Банковская карта Evoca BANK на имя ARAKELYAN YELIZAVETA {% include copy.html id="4150960011976219" %}
 
 ```text
 4150960011976219
@@ -27,4 +27,4 @@ TRC20 {% include copy_trc20.html %}
 TV3Hp8xXe881QMaZASzCvNu2Z1vyXqkFU7
 ```
 
-Если есть готовность сделать перевод иным способом - пишите в личку в [инстаграм](https://www.instagram.com/arten_theatre).
+Если есть готовность сделать перевод иным способом - пишите в личные сообщения в [инстаграм](https://www.instagram.com/arten_theatre).
