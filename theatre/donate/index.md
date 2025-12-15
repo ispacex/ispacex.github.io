@@ -7,7 +7,7 @@ layout: donate
 
 Чтобы поддержать театр, можно сделать перевод по следующим реквизитам:
 
-банковская карта на имя ARAKELYAN YELIZAVETA:
+банковская карта на имя ARAKELYAN YELIZAVETA {% include copy.html id="4150960011976219" %}
 
 ```text
 4150960011976219
