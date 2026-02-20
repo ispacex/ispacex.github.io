@@ -18,7 +18,7 @@ title: "Inner space exploration institute"
 * [Dance](/dance)
   * [Natya talam](/nt)
 * [КШ](/ksh)
-* [Theatre history](/theatre)
+* [Theatre](/theatre)
 * [Yoga](/yoga)
 * [Hoop](/hoop)
 * [Books](/books)
