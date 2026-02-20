@@ -8,7 +8,7 @@ title: "Натьяшастра, Глава 7"
 
 [Оглавление](/dance)
 
-← [Глава 6](https://telegra.ph/Natyashastra-glava-6-Rasa-02-22) | [Глава 8](/dance/ns-ch8) →
+← [Глава 6](/dance/ns-ch6) | [Глава 8](/dance/ns-ch8) →
 
                       ДА  БУДЕТ  БЛАГО
                         НАТЬЯ ШАСТРА

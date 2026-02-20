@@ -8,7 +8,7 @@ title: "Натьяшастра, Глава 1"
 
 [Оглавление](/dance)
 
-[Глава 2](https://telegra.ph/Natyashastra-Glava-2-02-13) →
+[Глава 2](/dance/ns-ch2) →
 
                       ДА  БУДЕТ  БЛАГО
                         НАТЬЯ ШАСТРА
