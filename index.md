@@ -22,3 +22,4 @@ title: "Inner space exploration institute"
 * [Yoga](/yoga)
 * [Hoop](/hoop)
 * [Books](/books)
+* [Ship](/ship)
