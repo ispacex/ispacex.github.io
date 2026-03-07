@@ -23,8 +23,22 @@
       --link: #0066cc;
     }
 
+    .dark {
+      --bg: #1a1a2e;
+      --toolbar-bg: #16213e;
+      --toolbar-border: #0f3460;
+      --text: #e0e0e0;
+      --btn-bg: #0f3460;
+      --btn-hover: #1a4080;
+      --table-bg: #16213e;
+      --table-alt: #1a2744;
+      --table-border: #0f3460;
+      --table-head-bg: #0f3460;
+      --link: #6db3f2;
+    }
+
     @media (prefers-color-scheme: dark) {
-      :root {
+      .system-theme {
         --bg: #1a1a2e;
         --toolbar-bg: #16213e;
         --toolbar-border: #0f3460;
@@ -58,7 +72,7 @@
       flex-shrink: 0;
     }
 
-    #toolbar a.btn {
+    #toolbar a.btn, #toolbar button {
       background: var(--btn-bg);
       color: var(--text);
       border: 1px solid var(--toolbar-border);
@@ -67,9 +81,10 @@
       cursor: pointer;
       font-size: 14px;
       text-decoration: none;
+      line-height: 1.2;
     }
 
-    #toolbar a.btn:hover {
+    #toolbar a.btn:hover, #toolbar button:hover {
       background: var(--btn-hover);
     }
 
@@ -144,12 +159,13 @@
     }
   </style>
 </head>
-<body>
+<body class="system-theme">
   <div id="toolbar">
     <a class="btn" href="/ship/">&#8592; Назад</a>
     <h1>Словарь терминов</h1>
     <div class="spacer"></div>
     <input type="text" id="search" placeholder="Поиск...">
+    <button id="theme-toggle" title="Тема: системная">&#9788;</button>
     <a class="btn" href="dictionary.xlsx" download>&#11015; XLSX</a>
   </div>
   <div id="content">
@@ -167,6 +183,33 @@
   </div>
 
   <script>
+    // --- Theme ---
+    var themeBtn = document.getElementById('theme-toggle');
+    var themes = ['system', 'dark', 'light'];
+    var themeIcons = { system: '\u2604', dark: '\u263D', light: '\u2600' };
+    var themeTitles = { system: 'Тема: системная', dark: 'Тема: тёмная', light: 'Тема: светлая' };
+    var themeIndex = 0;
+
+    function applyTheme(name) {
+      document.body.classList.remove('system-theme', 'dark');
+      if (name === 'system') document.body.classList.add('system-theme');
+      else if (name === 'dark') document.body.classList.add('dark');
+      themeBtn.textContent = themeIcons[name];
+      themeBtn.title = themeTitles[name];
+      localStorage.setItem('pdf-theme', name);
+    }
+
+    var savedTheme = localStorage.getItem('pdf-theme');
+    if (savedTheme && themes.indexOf(savedTheme) !== -1) {
+      themeIndex = themes.indexOf(savedTheme);
+      applyTheme(savedTheme);
+    }
+
+    themeBtn.addEventListener('click', function() {
+      themeIndex = (themeIndex + 1) % themes.length;
+      applyTheme(themes[themeIndex]);
+    });
+
     // Dictionary data: [Russian, English, German, page_number_or_null]
     var DATA = [
       ["Длина по ватерлинии", "Length Water Line (LWL)", "Konstruktionswasserlinie (KWL/OWL)", 29],
