@@ -124,12 +124,35 @@
 
     .page-wrapper {
       flex-shrink: 0;
+      position: relative;
     }
 
     .page-wrapper canvas {
       display: block;
       box-shadow: 0 2px 8px var(--canvas-shadow);
       filter: var(--canvas-filter);
+    }
+
+    .text-layer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      overflow: hidden;
+      line-height: 1;
+    }
+
+    .text-layer span {
+      position: absolute;
+      color: transparent;
+      white-space: pre;
+      transform-origin: 0% 0%;
+      pointer-events: all;
+    }
+
+    .text-layer ::selection {
+      background: rgba(0, 100, 200, 0.3);
     }
   </style>
 </head>
@@ -223,6 +246,47 @@
 
     // --- Rendering ---
 
+    async function buildTextLayer(page, wrapper, cssScale) {
+      const textContent = await page.getTextContent();
+      const viewport = page.getViewport({ scale: cssScale });
+      const textDiv = document.createElement('div');
+      textDiv.className = 'text-layer';
+
+      for (const item of textContent.items) {
+        if (!item.str) continue;
+        const tx = pdfjsLib.Util.transform(viewport.transform, item.transform);
+        const span = document.createElement('span');
+        span.textContent = item.str;
+        const fontHeight = Math.hypot(tx[2], tx[3]);
+        const angle = Math.atan2(tx[1], tx[0]);
+        span.style.fontSize = fontHeight + 'px';
+        span.style.fontFamily = item.fontName || 'sans-serif';
+        span.style.left = tx[4] + 'px';
+        span.style.top = (tx[5] - fontHeight) + 'px';
+        if (angle) span.style.transform = 'rotate(' + angle + 'rad)';
+        // Scale width to match PDF item width
+        if (item.width > 0) {
+          const scaledWidth = item.width * cssScale;
+          span.style.letterSpacing = '0px';
+          span.style.scaleX = '1';
+          // After appending, adjust scaleX
+          span.dataset.targetWidth = scaledWidth;
+        }
+        textDiv.appendChild(span);
+      }
+
+      wrapper.appendChild(textDiv);
+
+      // Adjust span widths to match PDF layout
+      for (const span of textDiv.querySelectorAll('span[data-target-width]')) {
+        const target = parseFloat(span.dataset.targetWidth);
+        const actual = span.getBoundingClientRect().width;
+        if (actual > 0 && target > 0) {
+          span.style.transform = (span.style.transform || '') + ' scaleX(' + (target / actual) + ')';
+        }
+      }
+    }
+
     async function renderPageCanvas(num) {
       if (renderedPages.has(num)) return;
       renderedPages.add(num);
@@ -243,6 +307,7 @@
       wrapper.innerHTML = '';
       wrapper.appendChild(canvas);
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+      await buildTextLayer(page, wrapper, s);
     }
 
     async function createPlaceholders(count) {
@@ -339,6 +404,7 @@
       pageWrappers.push(wrapper);
 
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+      await buildTextLayer(page, wrapper, s);
       updatePageDisplay(num);
       container.scrollTop = 0;
     }
