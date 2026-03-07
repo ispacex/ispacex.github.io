@@ -1,0 +1,543 @@
+---
+---
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Теория плавания под парусами (DjVu)</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #ffffff;
+      --toolbar-bg: #f0f0f0;
+      --toolbar-border: #ccc;
+      --text: #333;
+      --btn-bg: #e0e0e0;
+      --btn-hover: #d0d0d0;
+      --btn-active: #c0c0c0;
+      --canvas-bg: #e8e8e8;
+      --canvas-shadow: rgba(0,0,0,0.2);
+      --canvas-filter: none;
+    }
+
+    .dark {
+      --bg: #1a1a2e;
+      --toolbar-bg: #16213e;
+      --toolbar-border: #0f3460;
+      --text: #e0e0e0;
+      --btn-bg: #0f3460;
+      --btn-hover: #1a4080;
+      --btn-active: #245090;
+      --canvas-bg: #0f0f1a;
+      --canvas-shadow: rgba(0,0,0,0.5);
+      --canvas-filter: invert(0.88) hue-rotate(180deg);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .system-theme {
+        --bg: #1a1a2e;
+        --toolbar-bg: #16213e;
+        --toolbar-border: #0f3460;
+        --text: #e0e0e0;
+        --btn-bg: #0f3460;
+        --btn-hover: #1a4080;
+        --btn-active: #245090;
+        --canvas-bg: #0f0f1a;
+        --canvas-shadow: rgba(0,0,0,0.5);
+        --canvas-filter: invert(0.88) hue-rotate(180deg);
+      }
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #toolbar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px;
+      background: var(--toolbar-bg);
+      border-bottom: 1px solid var(--toolbar-border);
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+
+    #toolbar button, #toolbar a.btn {
+      background: var(--btn-bg);
+      color: var(--text);
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      padding: 6px 10px;
+      cursor: pointer;
+      font-size: 14px;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    #toolbar button:hover, #toolbar a.btn:hover {
+      background: var(--btn-hover);
+    }
+
+    #toolbar button.active {
+      background: var(--btn-active);
+      border-color: var(--text);
+    }
+
+    #toolbar span {
+      font-size: 14px;
+      text-align: center;
+    }
+
+    #page-input {
+      width: 48px;
+      text-align: center;
+      padding: 4px;
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      background: var(--btn-bg);
+      color: var(--text);
+      font-size: 14px;
+    }
+
+    .spacer { flex: 1; }
+    .sep { width: 1px; height: 24px; background: var(--toolbar-border); }
+
+    #viewer-container {
+      flex: 1;
+      overflow: auto;
+      background: var(--canvas-bg);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 16px 0;
+      gap: 12px;
+    }
+
+    .page-wrapper {
+      flex-shrink: 0;
+    }
+
+    .page-wrapper canvas {
+      display: block;
+      box-shadow: 0 2px 8px var(--canvas-shadow);
+      filter: var(--canvas-filter);
+    }
+
+    #loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body class="system-theme">
+  <div id="toolbar">
+    <a class="btn" href="/ship/">&#8592;</a>
+    <div class="sep"></div>
+    <button id="mode-single" title="Одна страница">&#9633;</button>
+    <button id="mode-scroll" class="active" title="Непрерывная прокрутка">&#9776;</button>
+    <div class="sep"></div>
+    <button id="prev" title="Предыдущая">&#9664;</button>
+    <input id="page-input" type="text" title="Перейти к странице">
+    <span id="page-info">/ ...</span>
+    <button id="next" title="Следующая">&#9654;</button>
+    <div class="spacer"></div>
+    <button id="zoom-out" title="Уменьшить">&#8722;</button>
+    <button id="zoom-fit" title="По ширине">&#8596;</button>
+    <button id="zoom-in" title="Увеличить">+</button>
+    <div class="sep"></div>
+    <button id="theme-toggle" title="Тема: системная">&#9788;</button>
+    <div class="sep"></div>
+    <a class="btn" href="theory.djvu" download title="Скачать DjVu">&#11015;</a>
+  </div>
+  <div id="loading">Загрузка...</div>
+  <div id="viewer-container" style="display:none"></div>
+
+  <script src="djvu.js"></script>
+  <script>
+    // --- Theme ---
+    var themeBtn = document.getElementById('theme-toggle');
+    var themeNames = ['system', 'dark', 'light'];
+    var themeIcons = { system: '\u2604', dark: '\u263D', light: '\u2600' };
+    var themeTitles = { system: 'Тема: системная', dark: 'Тема: тёмная', light: 'Тема: светлая' };
+    var themeIndex = 0;
+
+    function applyTheme(name) {
+      document.body.classList.remove('system-theme', 'dark');
+      if (name === 'system') document.body.classList.add('system-theme');
+      else if (name === 'dark') document.body.classList.add('dark');
+      themeBtn.textContent = themeIcons[name];
+      themeBtn.title = themeTitles[name];
+      localStorage.setItem('pdf-theme', name);
+    }
+
+    var savedTheme = localStorage.getItem('pdf-theme');
+    if (savedTheme && themeNames.indexOf(savedTheme) !== -1) {
+      themeIndex = themeNames.indexOf(savedTheme);
+      applyTheme(savedTheme);
+    }
+
+    themeBtn.addEventListener('click', function() {
+      themeIndex = (themeIndex + 1) % themeNames.length;
+      applyTheme(themeNames[themeIndex]);
+    });
+
+    // --- State ---
+    var container = document.getElementById('viewer-container');
+    var loadingEl = document.getElementById('loading');
+    var pageInfo = document.getElementById('page-info');
+    var pageInput = document.getElementById('page-input');
+    var btnPrev = document.getElementById('prev');
+    var btnNext = document.getElementById('next');
+    var btnSingle = document.getElementById('mode-single');
+    var btnScroll = document.getElementById('mode-scroll');
+
+    var worker = null;
+    var totalPages = 0;
+    var pageSizes = [];
+    var currentPage = 1;
+    var scaleMode = 0; // 0 = fit-width
+    var manualScale = 1.0;
+    var SCALE_STEP = 0.25;
+    var pageWrappers = [];
+    var renderedPages = {};
+    var rendering = false;
+    var mode = 'scroll';
+
+    function getScale(pageWidth) {
+      if (scaleMode === 0) {
+        return (container.clientWidth - 32) / pageWidth;
+      }
+      return manualScale;
+    }
+
+    function updatePageDisplay(num) {
+      pageInfo.textContent = '/ ' + totalPages;
+      if (document.activeElement !== pageInput) {
+        pageInput.value = num;
+      }
+      currentPage = num;
+    }
+
+    // --- Rendering ---
+
+    async function renderPageCanvas(num) {
+      if (renderedPages[num]) return;
+      renderedPages[num] = true;
+
+      var wrapper = pageWrappers[num - 1];
+      var size = pageSizes[num - 1];
+      var s = getScale(size.width);
+      var dpr = window.devicePixelRatio || 1;
+
+      // Get ImageData from worker
+      var imageData = await worker.run(
+        worker.doc.getPage(num).getImageData()
+      );
+
+      // Scale: draw full-res to offscreen, then draw scaled to visible canvas
+      var fullW = imageData.width;
+      var fullH = imageData.height;
+      var cssW = Math.round(size.width * s);
+      var cssH = Math.round(size.height * s);
+
+      var canvas = document.createElement('canvas');
+      canvas.width = cssW * dpr;
+      canvas.height = cssH * dpr;
+      canvas.style.width = cssW + 'px';
+      canvas.style.height = cssH + 'px';
+
+      var ctx = canvas.getContext('2d');
+
+      // Use OffscreenCanvas or temp canvas for the full-res image
+      var tmpCanvas = document.createElement('canvas');
+      tmpCanvas.width = fullW;
+      tmpCanvas.height = fullH;
+      tmpCanvas.getContext('2d').putImageData(imageData, 0, 0);
+
+      ctx.drawImage(tmpCanvas, 0, 0, canvas.width, canvas.height);
+
+      wrapper.innerHTML = '';
+      wrapper.appendChild(canvas);
+    }
+
+    function createPlaceholders(count) {
+      container.innerHTML = '';
+      pageWrappers = [];
+      renderedPages = {};
+
+      for (var i = 0; i < count; i++) {
+        var size = pageSizes[i];
+        var s = getScale(size.width);
+        var wrapper = document.createElement('div');
+        wrapper.className = 'page-wrapper';
+        wrapper.style.width = Math.round(size.width * s) + 'px';
+        wrapper.style.height = Math.round(size.height * s) + 'px';
+        container.appendChild(wrapper);
+        pageWrappers.push(wrapper);
+      }
+    }
+
+    // --- Scroll mode ---
+
+    function getVisiblePages() {
+      var scrollTop = container.scrollTop;
+      var viewHeight = container.clientHeight;
+      var visible = [];
+      for (var i = 0; i < pageWrappers.length; i++) {
+        var w = pageWrappers[i];
+        var top = w.offsetTop - container.offsetTop;
+        var bottom = top + w.offsetHeight;
+        if (bottom >= scrollTop && top <= scrollTop + viewHeight) {
+          visible.push(i + 1);
+        }
+        if (top > scrollTop + viewHeight) break;
+      }
+      return visible;
+    }
+
+    async function renderVisibleScroll() {
+      if (rendering) return;
+      rendering = true;
+      var visible = getVisiblePages();
+
+      var toRender = [];
+      for (var i = 0; i < visible.length; i++) {
+        var p = visible[i];
+        if (p > 1 && !renderedPages[p - 1]) toRender.push(p - 1);
+        if (!renderedPages[p]) toRender.push(p);
+        if (p < totalPages && !renderedPages[p + 1]) toRender.push(p + 1);
+      }
+
+      // Deduplicate
+      var seen = {};
+      var unique = [];
+      for (var j = 0; j < toRender.length; j++) {
+        if (!seen[toRender[j]]) { seen[toRender[j]] = true; unique.push(toRender[j]); }
+      }
+
+      for (var k = 0; k < unique.length; k++) {
+        await renderPageCanvas(unique[k]);
+      }
+
+      if (visible.length > 0) {
+        updatePageDisplay(visible[0]);
+      }
+      rendering = false;
+    }
+
+    function scrollToPage(num) {
+      if (num < 1 || num > totalPages) return;
+      pageWrappers[num - 1].scrollIntoView({ behavior: 'instant' });
+    }
+
+    // --- Single page mode ---
+
+    async function renderSinglePage(num) {
+      if (num < 1 || num > totalPages) return;
+      currentPage = num;
+      renderedPages = {};
+      pageWrappers = [];
+
+      container.innerHTML = '';
+      var size = pageSizes[num - 1];
+      var s = getScale(size.width);
+      var dpr = window.devicePixelRatio || 1;
+
+      var imageData = await worker.run(
+        worker.doc.getPage(num).getImageData()
+      );
+
+      var cssW = Math.round(size.width * s);
+      var cssH = Math.round(size.height * s);
+
+      var canvas = document.createElement('canvas');
+      canvas.width = cssW * dpr;
+      canvas.height = cssH * dpr;
+      canvas.style.width = cssW + 'px';
+      canvas.style.height = cssH + 'px';
+
+      var ctx = canvas.getContext('2d');
+      var tmpCanvas = document.createElement('canvas');
+      tmpCanvas.width = imageData.width;
+      tmpCanvas.height = imageData.height;
+      tmpCanvas.getContext('2d').putImageData(imageData, 0, 0);
+      ctx.drawImage(tmpCanvas, 0, 0, canvas.width, canvas.height);
+
+      var wrapper = document.createElement('div');
+      wrapper.className = 'page-wrapper';
+      wrapper.appendChild(canvas);
+      container.appendChild(wrapper);
+      pageWrappers.push(wrapper);
+
+      updatePageDisplay(num);
+      container.scrollTop = 0;
+    }
+
+    // --- Mode switching ---
+
+    async function switchMode(newMode) {
+      mode = newMode;
+      btnSingle.classList.toggle('active', mode === 'single');
+      btnScroll.classList.toggle('active', mode === 'scroll');
+
+      if (mode === 'scroll') {
+        createPlaceholders(totalPages);
+        scrollToPage(currentPage);
+        await renderVisibleScroll();
+      } else {
+        await renderSinglePage(currentPage);
+      }
+    }
+
+    btnSingle.addEventListener('click', function() { switchMode('single'); });
+    btnScroll.addEventListener('click', function() { switchMode('scroll'); });
+
+    // --- Navigation ---
+
+    btnPrev.addEventListener('click', function() {
+      if (mode === 'single') {
+        if (currentPage > 1) renderSinglePage(currentPage - 1);
+      } else {
+        var visible = getVisiblePages();
+        var target = (visible[0] || currentPage) - 1;
+        if (target >= 1) { scrollToPage(target); setTimeout(renderVisibleScroll, 50); }
+      }
+    });
+
+    btnNext.addEventListener('click', function() {
+      if (mode === 'single') {
+        if (currentPage < totalPages) renderSinglePage(currentPage + 1);
+      } else {
+        var visible = getVisiblePages();
+        var last = visible[visible.length - 1] || currentPage;
+        if (last < totalPages) { scrollToPage(last + 1); setTimeout(renderVisibleScroll, 50); }
+      }
+    });
+
+    pageInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        var num = parseInt(pageInput.value, 10);
+        if (num >= 1 && num <= totalPages) {
+          if (mode === 'single') {
+            renderSinglePage(num);
+          } else {
+            scrollToPage(num);
+            setTimeout(renderVisibleScroll, 50);
+          }
+        }
+        pageInput.blur();
+      }
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (document.activeElement === pageInput) return;
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        btnPrev.click();
+      } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+        e.preventDefault();
+        btnNext.click();
+      }
+    });
+
+    // --- Zoom ---
+
+    async function applyZoom() {
+      if (mode === 'scroll') {
+        renderedPages = {};
+        createPlaceholders(totalPages);
+        scrollToPage(currentPage);
+        await renderVisibleScroll();
+      } else {
+        await renderSinglePage(currentPage);
+      }
+    }
+
+    document.getElementById('zoom-in').addEventListener('click', async function() {
+      if (scaleMode === 0) {
+        manualScale = getScale(pageSizes[0].width) + SCALE_STEP;
+        scaleMode = 1;
+      } else {
+        manualScale += SCALE_STEP;
+      }
+      await applyZoom();
+    });
+
+    document.getElementById('zoom-out').addEventListener('click', async function() {
+      if (scaleMode === 0) {
+        manualScale = Math.max(0.5, getScale(pageSizes[0].width) - SCALE_STEP);
+        scaleMode = 1;
+      } else {
+        manualScale = Math.max(0.5, manualScale - SCALE_STEP);
+      }
+      await applyZoom();
+    });
+
+    document.getElementById('zoom-fit').addEventListener('click', async function() {
+      scaleMode = 0;
+      await applyZoom();
+    });
+
+    // --- Scroll event ---
+
+    var scrollTimer;
+    container.addEventListener('scroll', function() {
+      if (mode !== 'scroll') return;
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(renderVisibleScroll, 80);
+      var visible = getVisiblePages();
+      if (visible.length > 0) {
+        updatePageDisplay(visible[0]);
+      }
+    });
+
+    // --- Resize ---
+
+    var resizeTimer;
+    window.addEventListener('resize', function() {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(async function() {
+        if (scaleMode === 0) await applyZoom();
+      }, 200);
+    });
+
+    // --- Load ---
+
+    async function loadDjVu() {
+      var response = await fetch('theory.djvu');
+      var buffer = await response.arrayBuffer();
+
+      worker = new DjVu.Worker();
+      await worker.createDocument(buffer);
+
+      pageSizes = await worker.doc.getPagesSizes().run();
+      totalPages = pageSizes.length;
+
+      loadingEl.style.display = 'none';
+      container.style.display = 'flex';
+
+      var params = new URLSearchParams(window.location.search);
+      var startPage = parseInt(params.get('page'), 10);
+      if (startPage > 0 && startPage <= totalPages) {
+        currentPage = startPage;
+      }
+
+      await switchMode('scroll');
+    }
+
+    loadDjVu();
+  </script>
+</body>
+</html>
