@@ -1,0 +1,261 @@
+---
+---
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Словарь терминов</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #ffffff;
+      --toolbar-bg: #f0f0f0;
+      --toolbar-border: #ccc;
+      --text: #333;
+      --btn-bg: #e0e0e0;
+      --btn-hover: #d0d0d0;
+      --table-bg: #fff;
+      --table-alt: #f5f5f5;
+      --table-border: #ddd;
+      --table-head-bg: #e8e8e8;
+      --link: #0066cc;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a1a2e;
+        --toolbar-bg: #16213e;
+        --toolbar-border: #0f3460;
+        --text: #e0e0e0;
+        --btn-bg: #0f3460;
+        --btn-hover: #1a4080;
+        --table-bg: #16213e;
+        --table-alt: #1a2744;
+        --table-border: #0f3460;
+        --table-head-bg: #0f3460;
+        --link: #6db3f2;
+      }
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #toolbar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: var(--toolbar-bg);
+      border-bottom: 1px solid var(--toolbar-border);
+      flex-shrink: 0;
+    }
+
+    #toolbar a.btn {
+      background: var(--btn-bg);
+      color: var(--text);
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      padding: 6px 12px;
+      cursor: pointer;
+      font-size: 14px;
+      text-decoration: none;
+    }
+
+    #toolbar a.btn:hover {
+      background: var(--btn-hover);
+    }
+
+    #toolbar h1 {
+      font-size: 16px;
+      font-weight: 600;
+      margin-left: 8px;
+    }
+
+    .spacer { flex: 1; }
+
+    #search {
+      padding: 6px 10px;
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      background: var(--table-bg);
+      color: var(--text);
+      font-size: 14px;
+      width: 200px;
+    }
+
+    #content {
+      flex: 1;
+      overflow: auto;
+      padding: 16px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    th, td {
+      padding: 8px 12px;
+      text-align: left;
+      border-bottom: 1px solid var(--table-border);
+    }
+
+    th {
+      background: var(--table-head-bg);
+      cursor: pointer;
+      user-select: none;
+      position: sticky;
+      top: 0;
+      white-space: nowrap;
+    }
+
+    th:hover {
+      background: var(--btn-hover);
+    }
+
+    th .sort-arrow {
+      margin-left: 4px;
+      opacity: 0.4;
+    }
+
+    th.sorted-asc .sort-arrow::after { content: "\25B2"; opacity: 1; }
+    th.sorted-desc .sort-arrow::after { content: "\25BC"; opacity: 1; }
+
+    tr:nth-child(even) td {
+      background: var(--table-alt);
+    }
+
+    td a {
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    td a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div id="toolbar">
+    <a class="btn" href="/ship/">&#8592; Назад</a>
+    <h1>Словарь терминов</h1>
+    <div class="spacer"></div>
+    <input type="text" id="search" placeholder="Поиск...">
+    <a class="btn" href="dictionary.xlsx" download>&#11015; XLSX</a>
+  </div>
+  <div id="content">
+    <table>
+      <thead>
+        <tr>
+          <th data-col="0">Русский <span class="sort-arrow"></span></th>
+          <th data-col="1">English <span class="sort-arrow"></span></th>
+          <th data-col="2">Deutsch <span class="sort-arrow"></span></th>
+          <th data-col="3">Стр. <span class="sort-arrow"></span></th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <script>
+    // Dictionary data: [Russian, English, German, page_number_or_null]
+    var DATA = [
+      ["Длина по ватерлинии", "Length Water Line (LWL)", "Konstruktionswasserlinie (KWL/OWL)", 29],
+      ["Максимальная длина", "Length Overall (LOA)", "Länge über Alles (LüA)", 29],
+      ["Максимальная ширина", "Beam", "Beam über Alles (BüA)", 29],
+      ["Осадка", "Draft", "Tiefgang", 29],
+      ["Водоизмещение", "Displacement", "Verdrängung", 29]
+    ];
+
+    var tbody = document.getElementById('tbody');
+    var searchInput = document.getElementById('search');
+    var currentSort = { col: -1, asc: true };
+
+    function renderRows(data) {
+      tbody.innerHTML = '';
+      for (var i = 0; i < data.length; i++) {
+        var row = data[i];
+        var tr = document.createElement('tr');
+        for (var c = 0; c < 3; c++) {
+          var td = document.createElement('td');
+          td.textContent = row[c] || '';
+          tr.appendChild(td);
+        }
+        var tdPage = document.createElement('td');
+        if (row[3]) {
+          var a = document.createElement('a');
+          a.href = 'viewer.html?page=' + row[3];
+          a.textContent = row[3];
+          a.title = 'Открыть страницу ' + row[3] + ' в книге';
+          tdPage.appendChild(a);
+        }
+        tr.appendChild(tdPage);
+        tbody.appendChild(tr);
+      }
+    }
+
+    function getFiltered() {
+      var q = searchInput.value.toLowerCase().trim();
+      if (!q) return DATA.slice();
+      return DATA.filter(function(row) {
+        return (row[0] && row[0].toLowerCase().indexOf(q) !== -1) ||
+               (row[1] && row[1].toLowerCase().indexOf(q) !== -1) ||
+               (row[2] && row[2].toLowerCase().indexOf(q) !== -1);
+      });
+    }
+
+    function sortAndRender() {
+      var data = getFiltered();
+      if (currentSort.col >= 0) {
+        var col = currentSort.col;
+        var dir = currentSort.asc ? 1 : -1;
+        data.sort(function(a, b) {
+          var va = (a[col] || '').toString().toLowerCase();
+          var vb = (b[col] || '').toString().toLowerCase();
+          if (col === 3) { va = parseInt(va) || 0; vb = parseInt(vb) || 0; }
+          if (va < vb) return -dir;
+          if (va > vb) return dir;
+          return 0;
+        });
+      }
+      renderRows(data);
+      // Update header classes
+      var ths = document.querySelectorAll('th');
+      for (var i = 0; i < ths.length; i++) {
+        ths[i].classList.remove('sorted-asc', 'sorted-desc');
+        if (parseInt(ths[i].dataset.col) === currentSort.col) {
+          ths[i].classList.add(currentSort.asc ? 'sorted-asc' : 'sorted-desc');
+        }
+      }
+    }
+
+    document.querySelectorAll('th').forEach(function(th) {
+      th.addEventListener('click', function() {
+        var col = parseInt(this.dataset.col);
+        if (currentSort.col === col) {
+          currentSort.asc = !currentSort.asc;
+        } else {
+          currentSort.col = col;
+          currentSort.asc = true;
+        }
+        sortAndRender();
+      });
+    });
+
+    searchInput.addEventListener('input', function() {
+      sortAndRender();
+    });
+
+    sortAndRender();
+  </script>
+</body>
+</html>

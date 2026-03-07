@@ -8,5 +8,6 @@ title: "Теория плавания под парусами"
 
 Чеслав Мархай / Czesław Marchaj
 
-* [Книга (PDF)](theory.pdf)
-* [Словарь терминов (XLSX)](dictionary.xlsx)
+* [Читать книгу](viewer.html)
+* [Скачать PDF](theory.pdf)
+* [Словарь терминов](dictionary.html)

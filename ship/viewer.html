@@ -1,0 +1,225 @@
+---
+---
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Теория плавания под парусами</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #ffffff;
+      --toolbar-bg: #f0f0f0;
+      --toolbar-border: #ccc;
+      --text: #333;
+      --btn-bg: #e0e0e0;
+      --btn-hover: #d0d0d0;
+      --canvas-bg: #e8e8e8;
+      --canvas-shadow: rgba(0,0,0,0.2);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a1a2e;
+        --toolbar-bg: #16213e;
+        --toolbar-border: #0f3460;
+        --text: #e0e0e0;
+        --btn-bg: #0f3460;
+        --btn-hover: #1a4080;
+        --canvas-bg: #0f0f1a;
+        --canvas-shadow: rgba(0,0,0,0.5);
+      }
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    #toolbar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: var(--toolbar-bg);
+      border-bottom: 1px solid var(--toolbar-border);
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+
+    #toolbar button, #toolbar a.btn {
+      background: var(--btn-bg);
+      color: var(--text);
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      padding: 6px 12px;
+      cursor: pointer;
+      font-size: 14px;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    #toolbar button:hover, #toolbar a.btn:hover {
+      background: var(--btn-hover);
+    }
+
+    #toolbar span {
+      font-size: 14px;
+      min-width: 80px;
+      text-align: center;
+    }
+
+    .spacer { flex: 1; }
+
+    #viewer-container {
+      flex: 1;
+      overflow: auto;
+      background: var(--canvas-bg);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 16px 0;
+      gap: 12px;
+    }
+
+    #viewer-container canvas {
+      box-shadow: 0 2px 8px var(--canvas-shadow);
+      max-width: 100%;
+      height: auto;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #viewer-container canvas {
+        filter: invert(0.88) hue-rotate(180deg);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="toolbar">
+    <a class="btn" href="/ship/">← Назад</a>
+    <div class="spacer"></div>
+    <button id="prev" title="Предыдущая">&#9664;</button>
+    <span id="page-info">...</span>
+    <button id="next" title="Следующая">&#9654;</button>
+    <div class="spacer"></div>
+    <button id="zoom-out" title="Уменьшить">−</button>
+    <button id="zoom-fit" title="По ширине">По ширине</button>
+    <button id="zoom-in" title="Увеличить">+</button>
+    <a class="btn" href="theory.pdf" download title="Скачать PDF">⬇ PDF</a>
+  </div>
+  <div id="viewer-container"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.min.mjs" type="module"></script>
+  <script type="module">
+    import * as pdfjsLib from 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.min.mjs';
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.worker.min.mjs';
+
+    const container = document.getElementById('viewer-container');
+    const pageInfo = document.getElementById('page-info');
+
+    let pdfDoc = null;
+    let currentPage = 1;
+    let totalPages = 0;
+    let scale = 0; // 0 = fit-width mode
+    let manualScale = 1.5;
+    const SCALE_STEP = 0.25;
+
+    async function loadPDF() {
+      pdfDoc = await pdfjsLib.getDocument('theory.pdf').promise;
+      totalPages = pdfDoc.numPages;
+      renderPage(currentPage);
+    }
+
+    async function renderPage(num) {
+      container.innerHTML = '';
+      const page = await pdfDoc.getPage(num);
+      const viewport0 = page.getViewport({ scale: 1 });
+
+      let s;
+      if (scale === 0) {
+        const availWidth = container.clientWidth - 32;
+        s = availWidth / viewport0.width;
+      } else {
+        s = manualScale;
+      }
+
+      const viewport = page.getViewport({ scale: s * (window.devicePixelRatio || 1) });
+      const canvas = document.createElement('canvas');
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+      canvas.style.width = (viewport.width / (window.devicePixelRatio || 1)) + 'px';
+      canvas.style.height = (viewport.height / (window.devicePixelRatio || 1)) + 'px';
+
+      container.appendChild(canvas);
+      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+      pageInfo.textContent = num + ' / ' + totalPages;
+      currentPage = num;
+    }
+
+    document.getElementById('prev').addEventListener('click', () => {
+      if (currentPage > 1) renderPage(currentPage - 1);
+    });
+    document.getElementById('next').addEventListener('click', () => {
+      if (currentPage < totalPages) renderPage(currentPage + 1);
+    });
+    document.getElementById('zoom-in').addEventListener('click', () => {
+      if (scale === 0) {
+        const vp = container.clientWidth - 32;
+        pdfDoc.getPage(currentPage).then(p => {
+          manualScale = vp / p.getViewport({ scale: 1 }).width;
+          manualScale += SCALE_STEP;
+          scale = 1;
+          renderPage(currentPage);
+        });
+      } else {
+        manualScale += SCALE_STEP;
+        renderPage(currentPage);
+      }
+    });
+    document.getElementById('zoom-out').addEventListener('click', () => {
+      if (scale === 0) {
+        const vp = container.clientWidth - 32;
+        pdfDoc.getPage(currentPage).then(p => {
+          manualScale = vp / p.getViewport({ scale: 1 }).width;
+          manualScale = Math.max(0.5, manualScale - SCALE_STEP);
+          scale = 1;
+          renderPage(currentPage);
+        });
+      } else {
+        manualScale = Math.max(0.5, manualScale - SCALE_STEP);
+        renderPage(currentPage);
+      }
+    });
+    document.getElementById('zoom-fit').addEventListener('click', () => {
+      scale = 0;
+      renderPage(currentPage);
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+        if (currentPage > 1) renderPage(currentPage - 1);
+      } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ') {
+        if (currentPage < totalPages) renderPage(currentPage + 1);
+      }
+    });
+
+    window.addEventListener('resize', () => {
+      if (scale === 0) renderPage(currentPage);
+    });
+
+    const params = new URLSearchParams(window.location.search);
+    const startPage = parseInt(params.get('page'), 10);
+    if (startPage > 0) currentPage = startPage;
+
+    loadPDF();
+  </script>
+</body>
+</html>
