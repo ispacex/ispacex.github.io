@@ -16,6 +16,7 @@
       --text: #333;
       --btn-bg: #e0e0e0;
       --btn-hover: #d0d0d0;
+      --btn-active: #c0c0c0;
       --canvas-bg: #e8e8e8;
       --canvas-shadow: rgba(0,0,0,0.2);
     }
@@ -28,6 +29,7 @@
         --text: #e0e0e0;
         --btn-bg: #0f3460;
         --btn-hover: #1a4080;
+        --btn-active: #245090;
         --canvas-bg: #0f0f1a;
         --canvas-shadow: rgba(0,0,0,0.5);
       }
@@ -46,7 +48,7 @@
     #toolbar {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       padding: 8px 12px;
       background: var(--toolbar-bg);
       border-bottom: 1px solid var(--toolbar-border);
@@ -59,7 +61,7 @@
       color: var(--text);
       border: 1px solid var(--toolbar-border);
       border-radius: 4px;
-      padding: 6px 12px;
+      padding: 6px 10px;
       cursor: pointer;
       font-size: 14px;
       text-decoration: none;
@@ -70,13 +72,29 @@
       background: var(--btn-hover);
     }
 
+    #toolbar button.active {
+      background: var(--btn-active);
+      border-color: var(--text);
+    }
+
     #toolbar span {
       font-size: 14px;
-      min-width: 80px;
       text-align: center;
     }
 
+    #page-input {
+      width: 48px;
+      text-align: center;
+      padding: 4px;
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      background: var(--btn-bg);
+      color: var(--text);
+      font-size: 14px;
+    }
+
     .spacer { flex: 1; }
+    .sep { width: 1px; height: 24px; background: var(--toolbar-border); }
 
     #viewer-container {
       flex: 1;
@@ -89,14 +107,17 @@
       gap: 12px;
     }
 
-    #viewer-container canvas {
+    .page-wrapper {
+      flex-shrink: 0;
+    }
+
+    .page-wrapper canvas {
+      display: block;
       box-shadow: 0 2px 8px var(--canvas-shadow);
-      max-width: 100%;
-      height: auto;
     }
 
     @media (prefers-color-scheme: dark) {
-      #viewer-container canvas {
+      .page-wrapper canvas {
         filter: invert(0.88) hue-rotate(180deg);
       }
     }
@@ -104,16 +125,21 @@
 </head>
 <body>
   <div id="toolbar">
-    <a class="btn" href="/ship/">← Назад</a>
-    <div class="spacer"></div>
+    <a class="btn" href="/ship/">&#8592;</a>
+    <div class="sep"></div>
+    <button id="mode-single" title="Одна страница">&#9633;</button>
+    <button id="mode-scroll" class="active" title="Непрерывная прокрутка">&#9776;</button>
+    <div class="sep"></div>
     <button id="prev" title="Предыдущая">&#9664;</button>
-    <span id="page-info">...</span>
+    <input id="page-input" type="text" title="Перейти к странице">
+    <span id="page-info">/ ...</span>
     <button id="next" title="Следующая">&#9654;</button>
     <div class="spacer"></div>
-    <button id="zoom-out" title="Уменьшить">−</button>
-    <button id="zoom-fit" title="По ширине">По ширине</button>
+    <button id="zoom-out" title="Уменьшить">&#8722;</button>
+    <button id="zoom-fit" title="По ширине">&#8596;</button>
     <button id="zoom-in" title="Увеличить">+</button>
-    <a class="btn" href="theory.pdf" download title="Скачать PDF">⬇ PDF</a>
+    <div class="sep"></div>
+    <a class="btn" href="theory.pdf" download title="Скачать PDF">&#11015;</a>
   </div>
   <div id="viewer-container"></div>
 
@@ -124,100 +150,304 @@
 
     const container = document.getElementById('viewer-container');
     const pageInfo = document.getElementById('page-info');
+    const pageInput = document.getElementById('page-input');
+    const btnPrev = document.getElementById('prev');
+    const btnNext = document.getElementById('next');
+    const btnSingle = document.getElementById('mode-single');
+    const btnScroll = document.getElementById('mode-scroll');
 
     let pdfDoc = null;
-    let currentPage = 1;
     let totalPages = 0;
-    let scale = 0; // 0 = fit-width mode
+    let currentPage = 1;
+    let scale = 0; // 0 = fit-width
     let manualScale = 1.5;
     const SCALE_STEP = 0.25;
+    const pageWrappers = [];
+    const renderedPages = new Set();
+    let rendering = false;
+    let mode = 'scroll'; // 'scroll' or 'single'
+
+    function getScale(pageWidth) {
+      if (scale === 0) {
+        return (container.clientWidth - 32) / pageWidth;
+      }
+      return manualScale;
+    }
+
+    function updatePageDisplay(num) {
+      pageInfo.textContent = '/ ' + totalPages;
+      if (document.activeElement !== pageInput) {
+        pageInput.value = num;
+      }
+      currentPage = num;
+    }
+
+    // --- Rendering ---
+
+    async function renderPageCanvas(num) {
+      if (renderedPages.has(num)) return;
+      renderedPages.add(num);
+
+      const wrapper = pageWrappers[num - 1];
+      const page = await pdfDoc.getPage(num);
+      const vp0 = page.getViewport({ scale: 1 });
+      const s = getScale(vp0.width);
+      const dpr = window.devicePixelRatio || 1;
+      const viewport = page.getViewport({ scale: s * dpr });
+
+      const canvas = document.createElement('canvas');
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+      canvas.style.width = (viewport.width / dpr) + 'px';
+      canvas.style.height = (viewport.height / dpr) + 'px';
+
+      wrapper.innerHTML = '';
+      wrapper.appendChild(canvas);
+      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+    }
+
+    async function createPlaceholders(count) {
+      container.innerHTML = '';
+      pageWrappers.length = 0;
+      renderedPages.clear();
+
+      const firstPage = await pdfDoc.getPage(1);
+      const vp0 = firstPage.getViewport({ scale: 1 });
+      const s = getScale(vp0.width);
+      const cssW = (vp0.width * s) + 'px';
+      const cssH = (vp0.height * s) + 'px';
+
+      for (let i = 0; i < count; i++) {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'page-wrapper';
+        wrapper.style.width = cssW;
+        wrapper.style.height = cssH;
+        container.appendChild(wrapper);
+        pageWrappers.push(wrapper);
+      }
+    }
+
+    // --- Scroll mode ---
+
+    function getVisiblePages() {
+      const scrollTop = container.scrollTop;
+      const viewHeight = container.clientHeight;
+      const visible = [];
+      for (let i = 0; i < pageWrappers.length; i++) {
+        const w = pageWrappers[i];
+        const top = w.offsetTop - container.offsetTop;
+        const bottom = top + w.offsetHeight;
+        if (bottom >= scrollTop && top <= scrollTop + viewHeight) {
+          visible.push(i + 1);
+        }
+        if (top > scrollTop + viewHeight) break;
+      }
+      return visible;
+    }
+
+    async function renderVisibleScroll() {
+      if (rendering) return;
+      rendering = true;
+      const visible = getVisiblePages();
+
+      const toRender = new Set();
+      for (const p of visible) {
+        if (p > 1) toRender.add(p - 1);
+        toRender.add(p);
+        if (p < totalPages) toRender.add(p + 1);
+      }
+
+      for (const p of toRender) {
+        await renderPageCanvas(p);
+      }
+
+      if (visible.length > 0) {
+        updatePageDisplay(visible[0]);
+      }
+      rendering = false;
+    }
+
+    function scrollToPage(num) {
+      if (num < 1 || num > totalPages) return;
+      const wrapper = pageWrappers[num - 1];
+      wrapper.scrollIntoView({ behavior: 'instant' });
+    }
+
+    // --- Single page mode ---
+
+    async function renderSinglePage(num) {
+      if (num < 1 || num > totalPages) return;
+      currentPage = num;
+      renderedPages.clear();
+      pageWrappers.length = 0;
+
+      container.innerHTML = '';
+      const page = await pdfDoc.getPage(num);
+      const vp0 = page.getViewport({ scale: 1 });
+      const s = getScale(vp0.width);
+      const dpr = window.devicePixelRatio || 1;
+      const viewport = page.getViewport({ scale: s * dpr });
+
+      const wrapper = document.createElement('div');
+      wrapper.className = 'page-wrapper';
+      const canvas = document.createElement('canvas');
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+      canvas.style.width = (viewport.width / dpr) + 'px';
+      canvas.style.height = (viewport.height / dpr) + 'px';
+      wrapper.appendChild(canvas);
+      container.appendChild(wrapper);
+      pageWrappers.push(wrapper);
+
+      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+      updatePageDisplay(num);
+      container.scrollTop = 0;
+    }
+
+    // --- Mode switching ---
+
+    async function switchMode(newMode) {
+      mode = newMode;
+      btnSingle.classList.toggle('active', mode === 'single');
+      btnScroll.classList.toggle('active', mode === 'scroll');
+
+      if (mode === 'scroll') {
+        await createPlaceholders(totalPages);
+        scrollToPage(currentPage);
+        await renderVisibleScroll();
+      } else {
+        await renderSinglePage(currentPage);
+      }
+    }
+
+    btnSingle.addEventListener('click', () => switchMode('single'));
+    btnScroll.addEventListener('click', () => switchMode('scroll'));
+
+    // --- Navigation ---
+
+    btnPrev.addEventListener('click', () => {
+      if (mode === 'single') {
+        if (currentPage > 1) renderSinglePage(currentPage - 1);
+      } else {
+        const visible = getVisiblePages();
+        const target = (visible[0] || currentPage) - 1;
+        if (target >= 1) { scrollToPage(target); setTimeout(renderVisibleScroll, 50); }
+      }
+    });
+
+    btnNext.addEventListener('click', () => {
+      if (mode === 'single') {
+        if (currentPage < totalPages) renderSinglePage(currentPage + 1);
+      } else {
+        const visible = getVisiblePages();
+        const last = visible[visible.length - 1] || currentPage;
+        if (last < totalPages) { scrollToPage(last + 1); setTimeout(renderVisibleScroll, 50); }
+      }
+    });
+
+    pageInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        const num = parseInt(pageInput.value, 10);
+        if (num >= 1 && num <= totalPages) {
+          if (mode === 'single') {
+            renderSinglePage(num);
+          } else {
+            scrollToPage(num);
+            setTimeout(renderVisibleScroll, 50);
+          }
+        }
+        pageInput.blur();
+      }
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (document.activeElement === pageInput) return;
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        btnPrev.click();
+      } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+        e.preventDefault();
+        btnNext.click();
+      }
+    });
+
+    // --- Zoom ---
+
+    async function applyZoom() {
+      if (mode === 'scroll') {
+        renderedPages.clear();
+        await createPlaceholders(totalPages);
+        scrollToPage(currentPage);
+        await renderVisibleScroll();
+      } else {
+        await renderSinglePage(currentPage);
+      }
+    }
+
+    document.getElementById('zoom-in').addEventListener('click', async () => {
+      if (scale === 0) {
+        const page = await pdfDoc.getPage(1);
+        manualScale = getScale(page.getViewport({ scale: 1 }).width) + SCALE_STEP;
+        scale = 1;
+      } else {
+        manualScale += SCALE_STEP;
+      }
+      await applyZoom();
+    });
+
+    document.getElementById('zoom-out').addEventListener('click', async () => {
+      if (scale === 0) {
+        const page = await pdfDoc.getPage(1);
+        manualScale = Math.max(0.5, getScale(page.getViewport({ scale: 1 }).width) - SCALE_STEP);
+        scale = 1;
+      } else {
+        manualScale = Math.max(0.5, manualScale - SCALE_STEP);
+      }
+      await applyZoom();
+    });
+
+    document.getElementById('zoom-fit').addEventListener('click', async () => {
+      scale = 0;
+      await applyZoom();
+    });
+
+    // --- Scroll event ---
+
+    let scrollTimer;
+    container.addEventListener('scroll', () => {
+      if (mode !== 'scroll') return;
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(renderVisibleScroll, 80);
+      const visible = getVisiblePages();
+      if (visible.length > 0) {
+        updatePageDisplay(visible[0]);
+      }
+    });
+
+    // --- Resize ---
+
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(async () => {
+        if (scale === 0) await applyZoom();
+      }, 200);
+    });
+
+    // --- Load ---
 
     async function loadPDF() {
       pdfDoc = await pdfjsLib.getDocument('theory.pdf').promise;
       totalPages = pdfDoc.numPages;
-      renderPage(currentPage);
+
+      const params = new URLSearchParams(window.location.search);
+      const startPage = parseInt(params.get('page'), 10);
+      if (startPage > 0 && startPage <= totalPages) {
+        currentPage = startPage;
+      }
+
+      await switchMode('scroll');
     }
-
-    async function renderPage(num) {
-      container.innerHTML = '';
-      const page = await pdfDoc.getPage(num);
-      const viewport0 = page.getViewport({ scale: 1 });
-
-      let s;
-      if (scale === 0) {
-        const availWidth = container.clientWidth - 32;
-        s = availWidth / viewport0.width;
-      } else {
-        s = manualScale;
-      }
-
-      const viewport = page.getViewport({ scale: s * (window.devicePixelRatio || 1) });
-      const canvas = document.createElement('canvas');
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
-      canvas.style.width = (viewport.width / (window.devicePixelRatio || 1)) + 'px';
-      canvas.style.height = (viewport.height / (window.devicePixelRatio || 1)) + 'px';
-
-      container.appendChild(canvas);
-      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
-      pageInfo.textContent = num + ' / ' + totalPages;
-      currentPage = num;
-    }
-
-    document.getElementById('prev').addEventListener('click', () => {
-      if (currentPage > 1) renderPage(currentPage - 1);
-    });
-    document.getElementById('next').addEventListener('click', () => {
-      if (currentPage < totalPages) renderPage(currentPage + 1);
-    });
-    document.getElementById('zoom-in').addEventListener('click', () => {
-      if (scale === 0) {
-        const vp = container.clientWidth - 32;
-        pdfDoc.getPage(currentPage).then(p => {
-          manualScale = vp / p.getViewport({ scale: 1 }).width;
-          manualScale += SCALE_STEP;
-          scale = 1;
-          renderPage(currentPage);
-        });
-      } else {
-        manualScale += SCALE_STEP;
-        renderPage(currentPage);
-      }
-    });
-    document.getElementById('zoom-out').addEventListener('click', () => {
-      if (scale === 0) {
-        const vp = container.clientWidth - 32;
-        pdfDoc.getPage(currentPage).then(p => {
-          manualScale = vp / p.getViewport({ scale: 1 }).width;
-          manualScale = Math.max(0.5, manualScale - SCALE_STEP);
-          scale = 1;
-          renderPage(currentPage);
-        });
-      } else {
-        manualScale = Math.max(0.5, manualScale - SCALE_STEP);
-        renderPage(currentPage);
-      }
-    });
-    document.getElementById('zoom-fit').addEventListener('click', () => {
-      scale = 0;
-      renderPage(currentPage);
-    });
-
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
-        if (currentPage > 1) renderPage(currentPage - 1);
-      } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ') {
-        if (currentPage < totalPages) renderPage(currentPage + 1);
-      }
-    });
-
-    window.addEventListener('resize', () => {
-      if (scale === 0) renderPage(currentPage);
-    });
-
-    const params = new URLSearchParams(window.location.search);
-    const startPage = parseInt(params.get('page'), 10);
-    if (startPage > 0) currentPage = startPage;
 
     loadPDF();
   </script>
