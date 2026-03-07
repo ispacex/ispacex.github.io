@@ -13,3 +13,4 @@ title: "Теория плавания под парусами"
 * [Скачать PDF](theory.pdf)
 * [Скачать DjVu](theory.djvu)
 * [Словарь терминов](dictionary.html)
+* [Сводная таблица яхт](yachts.html)

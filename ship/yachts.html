@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Яхты — Глава 2</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  min-height: 100vh;
+  background: #0f1115;
+  color: #e5e7eb;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 16px;
+}
+a { color: #60a5fa; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h2 { font-size: 1.6rem; margin-bottom: 8px; }
+p { color: #94a3b8; margin-bottom: 24px; font-size: 0.95rem; }
+.wrap { width: 100%; max-width: 1200px; overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+th, td { border: 1px solid #334155; padding: 8px 10px; text-align: center; white-space: nowrap; }
+th { background: #1e293b; color: #f1f5f9; cursor: pointer; user-select: none; position: sticky; top: 0; z-index: 2; }
+th.img-th { cursor: default; width: 80px; }
+th:hover { background: #334155; }
+th .arrow { font-size: 0.7em; margin-left: 4px; opacity: 0.5; }
+th.asc .arrow::after { content: "▲"; opacity: 1; }
+th.desc .arrow::after { content: "▼"; opacity: 1; }
+td:nth-child(2) { text-align: left; font-weight: 600; }
+td:nth-child(3) { text-align: left; }
+tr:nth-child(even) { background: #1a1d24; }
+tr:hover { background: #1e293b; }
+.back { margin-bottom: 24px; }
+.img-cell { padding: 4px; }
+.img-cell img { height: 56px; width: auto; border-radius: 4px; filter: invert(0.85); transition: transform 0.15s; }
+.img-cell img:hover { transform: scale(1.15); }
+/* Lightbox */
+.lb { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85); z-index: 100; justify-content: center; align-items: center; cursor: zoom-out; }
+.lb.active { display: flex; }
+.lb img { max-width: 90vw; max-height: 90vh; filter: invert(0.85); border-radius: 8px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<p class="back"><a href="/ship">&larr; Назад</a></p>
+<h2>Сводная таблица яхт</h2>
+<p>Глава 2 — «Общие сведения о яхтах». Нажмите на заголовок для сортировки.</p>
+<table id="t">
+<thead><tr><th class="img-th">Рис.</th><th onclick="sort(1)"><span>Яхта</span><span class="arrow"></span></th><th onclick="sort(2)"><span>Тип</span><span class="arrow"></span></th><th onclick="sort(3)"><span>Экипаж</span><span class="arrow"></span></th><th onclick="sort(4)"><span>Длина макс., м</span><span class="arrow"></span></th><th onclick="sort(5)"><span>Длина ВЛ, м</span><span class="arrow"></span></th><th onclick="sort(6)"><span>Ширина, м</span><span class="arrow"></span></th><th onclick="sort(7)"><span>Осадка, м</span><span class="arrow"></span></th><th onclick="sort(8)"><span>Водоизм., т</span><span class="arrow"></span></th><th onclick="sort(9)"><span>Балласт, т</span><span class="arrow"></span></th><th onclick="sort(10)"><span>Парусность, м²</span><span class="arrow"></span></th></tr></thead>
+<tbody>
+<tr><td class="img-cell">—</td><td data-sort="Олимпик (О-36)">Олимпик (О-36)</td><td data-sort="Швертбот">Швертбот</td><td data-sort="1">1</td><td data-sort="5.0">5.0</td><td data-sort="">—</td><td data-sort="1.66">1.66</td><td data-sort="1.06">1.06</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="11.0">11.0</td></tr>
+<tr><td class="img-cell"><a href="img/pic36.png" target="_blank"><img src="img/pic36.png" alt="Финн" loading="lazy"></a></td><td data-sort="Финн">Финн</td><td data-sort="Швертбот">Швертбот</td><td data-sort="1">1</td><td data-sort="4.5">4.5</td><td data-sort="">—</td><td data-sort="1.51">1.51</td><td data-sort="0.85">0.85</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="10.0">10.0</td></tr>
+<tr><td class="img-cell">—</td><td data-sort="Летучий голландец (FD)">Летучий голландец (FD)</td><td data-sort="Швертбот">Швертбот</td><td data-sort="2">2</td><td data-sort="6.05">6.05</td><td data-sort="">—</td><td data-sort="1.7">1.7</td><td data-sort="1.1">1.1</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="17.0">17.0</td></tr>
+<tr><td class="img-cell"><a href="img/pic38.png" target="_blank"><img src="img/pic38.png" alt="5-0-5" loading="lazy"></a></td><td data-sort="5-0-5">5-0-5</td><td data-sort="Швертбот">Швертбот</td><td data-sort="2">2</td><td data-sort="5.05">5.05</td><td data-sort="4.57">4.57</td><td data-sort="1.88">1.88</td><td data-sort="1.14">1.14</td><td data-sort="0.317">0.317</td><td data-sort="">—</td><td data-sort="16.5">16.5</td></tr>
+<tr><td class="img-cell"><a href="img/pic39.png" target="_blank"><img src="img/pic39.png" alt="Снайп" loading="lazy"></a></td><td data-sort="Снайп">Снайп</td><td data-sort="Швертбот">Швертбот</td><td data-sort="2">2</td><td data-sort="4.63">4.63</td><td data-sort="">—</td><td data-sort="1.53">1.53</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="10.0">10.0</td></tr>
+<tr><td class="img-cell"><a href="img/pic40.png" target="_blank"><img src="img/pic40.png" alt="Пират" loading="lazy"></a></td><td data-sort="Пират">Пират</td><td data-sort="Швертбот">Швертбот</td><td data-sort="2">2</td><td data-sort="5.0">5.0</td><td data-sort="">—</td><td data-sort="1.61">1.61</td><td data-sort="1.05">1.05</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="10.0">10.0</td></tr>
+<tr><td class="img-cell"><a href="img/pic41.png" target="_blank"><img src="img/pic41.png" alt="Кадет" loading="lazy"></a></td><td data-sort="Кадет">Кадет</td><td data-sort="Швертбот">Швертбот</td><td data-sort="2">2</td><td data-sort="3.2">3.2</td><td data-sort="">—</td><td data-sort="1.25">1.25</td><td data-sort="0.76">0.76</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="5.95">5.95</td></tr>
+<tr><td class="img-cell"><a href="img/pic42.png" target="_blank"><img src="img/pic42.png" alt="Моль" loading="lazy"></a></td><td data-sort="Моль">Моль</td><td data-sort="Швертбот">Швертбот</td><td data-sort="1">1</td><td data-sort="3.35">3.35</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="">—</td></tr>
+<tr><td class="img-cell"><a href="img/pic44.png" target="_blank"><img src="img/pic44.png" alt="Звездник" loading="lazy"></a></td><td data-sort="Звездник">Звездник</td><td data-sort="Килевая (прибрежная)">Килевая (прибрежная)</td><td data-sort="2">2</td><td data-sort="6.9">6.9</td><td data-sort="4.8">4.8</td><td data-sort="1.7">1.7</td><td data-sort="1.05">1.05</td><td data-sort="0.9">0.9</td><td data-sort="0.4">0.4</td><td data-sort="26.0">26.0</td></tr>
+<tr><td class="img-cell"><a href="img/pic46.png" target="_blank"><img src="img/pic46.png" alt="Дракон" loading="lazy"></a></td><td data-sort="Дракон">Дракон</td><td data-sort="Килевая (прибрежная)">Килевая (прибрежная)</td><td data-sort="3">3</td><td data-sort="8.9">8.9</td><td data-sort="5.7">5.7</td><td data-sort="1.9">1.9</td><td data-sort="1.2">1.2</td><td data-sort="2.0">2.0</td><td data-sort="1.0">1.0</td><td data-sort="22.0">22.0</td></tr>
+<tr><td class="img-cell"><a href="img/pic47.png" target="_blank"><img src="img/pic47.png" alt="R-5,5" loading="lazy"></a></td><td data-sort="R-5,5">R-5,5</td><td data-sort="Килевая (прибрежная)">Килевая (прибрежная)</td><td data-sort="3">3</td><td data-sort="">—</td><td data-sort="6.75">6.75</td><td data-sort="1.9">1.9</td><td data-sort="1.35">1.35</td><td data-sort="1.85">1.85</td><td data-sort="">—</td><td data-sort="27.75">27.75</td></tr>
+<tr><td class="img-cell"><a href="img/pic48.png" target="_blank"><img src="img/pic48.png" alt="Карина" loading="lazy"></a></td><td data-sort="Карина">Карина</td><td data-sort="Килевая (открытое море)">Килевая (открытое море)</td><td data-sort="">—</td><td data-sort="16.3">16.3</td><td data-sort="11.05">11.05</td><td data-sort="3.96">3.96</td><td data-sort="1.83">1.83</td><td data-sort="">—</td><td data-sort="">—</td><td data-sort="110.9">110.9</td></tr>
+<tr><td class="img-cell"><a href="img/pic49.png" target="_blank"><img src="img/pic49.png" alt="Маус оф Мальхама" loading="lazy"></a></td><td data-sort="Маус оф Мальхама">Маус оф Мальхама</td><td data-sort="Килевая (открытое море)">Килевая (открытое море)</td><td data-sort="">—</td><td data-sort="9.75">9.75</td><td data-sort="7.3">7.3</td><td data-sort="">—</td><td data-sort="1.75">1.75</td><td data-sort="2.4">2.4</td><td data-sort="0.94">0.94</td><td data-sort="29.0">29.0</td></tr>
+<tr><td class="img-cell">—</td><td data-sort="Сопранино">Сопранино</td><td data-sort="Килевая (открытое море)">Килевая (открытое море)</td><td data-sort="">—</td><td data-sort="6.0">6.0</td><td data-sort="4.95">4.95</td><td data-sort="1.67">1.67</td><td data-sort="">—</td><td data-sort="0.7">0.7</td><td data-sort="">—</td><td data-sort="14.9">14.9</td></tr>
+
+</tbody>
+</table>
+</div>
+<div class="lb" id="lb" onclick="this.classList.remove('active')"><img id="lbi" src=""></div>
+<script>
+document.querySelectorAll('.img-cell a').forEach(a => {
+  a.addEventListener('click', e => {
+    e.preventDefault();
+    document.getElementById('lbi').src = a.href;
+    document.getElementById('lb').classList.add('active');
+  });
+});
+let dir = Array(11).fill(0);
+function sort(col) {
+  const tb = document.querySelector('#t tbody');
+  const th = document.querySelectorAll('#t th');
+  const rows = Array.from(tb.rows);
+  dir[col] = dir[col] === 1 ? -1 : 1;
+  th.forEach((h, i) => { h.classList.remove('asc','desc'); if (i===col) h.classList.add(dir[col]===1?'asc':'desc'); });
+  rows.sort((a, b) => {
+    let va = a.cells[col].dataset.sort, vb = b.cells[col].dataset.sort;
+    if (va === '' && vb === '') return 0;
+    if (va === '') return 1;
+    if (vb === '') return -1;
+    let na = parseFloat(va), nb = parseFloat(vb);
+    if (!isNaN(na) && !isNaN(nb)) return (na - nb) * dir[col];
+    return va.localeCompare(vb, 'ru') * dir[col];
+  });
+  rows.forEach(r => tb.appendChild(r));
+}
+</script>
+</body>
+</html>
