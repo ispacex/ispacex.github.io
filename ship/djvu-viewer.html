@@ -228,6 +228,7 @@
         pageInput.value = num;
       }
       currentPage = num;
+      localStorage.setItem('djvu-last-page', num);
     }
 
     // --- Rendering ---
@@ -530,8 +531,11 @@
 
       var params = new URLSearchParams(window.location.search);
       var startPage = parseInt(params.get('page'), 10);
+      var savedPage = parseInt(localStorage.getItem('djvu-last-page'), 10);
       if (startPage > 0 && startPage <= totalPages) {
         currentPage = startPage;
+      } else if (savedPage > 0 && savedPage <= totalPages) {
+        currentPage = savedPage;
       }
 
       await switchMode('scroll');

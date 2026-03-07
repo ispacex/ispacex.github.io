@@ -242,6 +242,7 @@
         pageInput.value = num;
       }
       currentPage = num;
+      localStorage.setItem('pdf-last-page', num);
     }
 
     // --- Rendering ---
@@ -547,8 +548,11 @@
 
       const params = new URLSearchParams(window.location.search);
       const startPage = parseInt(params.get('page'), 10);
+      const savedPage = parseInt(localStorage.getItem('pdf-last-page'), 10);
       if (startPage > 0 && startPage <= totalPages) {
         currentPage = startPage;
+      } else if (savedPage > 0 && savedPage <= totalPages) {
+        currentPage = savedPage;
       }
 
       await switchMode('scroll');
