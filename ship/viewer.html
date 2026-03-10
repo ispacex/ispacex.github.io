@@ -20,6 +20,11 @@
       --canvas-bg: #e8e8e8;
       --canvas-shadow: rgba(0,0,0,0.2);
       --canvas-filter: none;
+      --panel-bg: #f8f8f8;
+      --panel-item-hover: #e8e8e8;
+      --panel-item-active: #d0d8e8;
+      --search-highlight: rgba(255, 200, 0, 0.4);
+      --search-highlight-active: rgba(255, 120, 0, 0.6);
     }
 
     .dark {
@@ -33,6 +38,11 @@
       --canvas-bg: #0f0f1a;
       --canvas-shadow: rgba(0,0,0,0.5);
       --canvas-filter: invert(0.88) hue-rotate(180deg);
+      --panel-bg: #12192e;
+      --panel-item-hover: #1a2540;
+      --panel-item-active: #1e3060;
+      --search-highlight: rgba(255, 200, 0, 0.35);
+      --search-highlight-active: rgba(255, 120, 0, 0.55);
     }
 
     @media (prefers-color-scheme: dark) {
@@ -47,6 +57,11 @@
         --canvas-bg: #0f0f1a;
         --canvas-shadow: rgba(0,0,0,0.5);
         --canvas-filter: invert(0.88) hue-rotate(180deg);
+        --panel-bg: #12192e;
+        --panel-item-hover: #1a2540;
+        --panel-item-active: #1e3060;
+        --search-highlight: rgba(255, 200, 0, 0.35);
+        --search-highlight-active: rgba(255, 120, 0, 0.55);
       }
     }
 
@@ -111,6 +126,148 @@
     .spacer { flex: 1; }
     .sep { width: 1px; height: 24px; background: var(--toolbar-border); }
 
+    #main-area {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+    }
+
+    #side-panel {
+      width: 300px;
+      background: var(--panel-bg);
+      border-right: 1px solid var(--toolbar-border);
+      display: none;
+      flex-direction: column;
+      flex-shrink: 0;
+      overflow: hidden;
+    }
+
+    #side-panel.open { display: flex; }
+
+    #panel-tabs {
+      display: flex;
+      border-bottom: 1px solid var(--toolbar-border);
+    }
+
+    #panel-tabs button {
+      flex: 1;
+      padding: 8px;
+      border: none;
+      background: transparent;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 13px;
+      border-bottom: 2px solid transparent;
+    }
+
+    #panel-tabs button.active {
+      border-bottom-color: var(--text);
+      font-weight: 600;
+    }
+
+    #panel-tabs button:hover {
+      background: var(--panel-item-hover);
+    }
+
+    .panel-content {
+      display: none;
+      flex: 1;
+      overflow-y: auto;
+      flex-direction: column;
+    }
+
+    .panel-content.active {
+      display: flex;
+    }
+
+    #toc-list {
+      list-style: none;
+      padding: 4px 0;
+    }
+
+    #toc-list li {
+      padding: 8px 12px;
+      cursor: pointer;
+      font-size: 13px;
+      line-height: 1.4;
+      border-bottom: 1px solid var(--toolbar-border);
+      transition: background 0.1s;
+    }
+
+    #toc-list li:hover { background: var(--panel-item-hover); }
+    #toc-list li.current { background: var(--panel-item-active); font-weight: 600; }
+
+    .toc-part { font-weight: 700; font-size: 12px; text-transform: uppercase; opacity: 0.6; padding: 12px 12px 4px; letter-spacing: 0.5px; }
+
+    #search-box {
+      padding: 8px;
+      border-bottom: 1px solid var(--toolbar-border);
+      display: flex;
+      gap: 4px;
+    }
+
+    #search-input {
+      flex: 1;
+      padding: 6px 8px;
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      background: var(--btn-bg);
+      color: var(--text);
+      font-size: 13px;
+    }
+
+    #search-box button {
+      background: var(--btn-bg);
+      color: var(--text);
+      border: 1px solid var(--toolbar-border);
+      border-radius: 4px;
+      padding: 4px 8px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+
+    #search-box button:hover { background: var(--btn-hover); }
+
+    #search-status {
+      padding: 4px 8px;
+      font-size: 12px;
+      opacity: 0.7;
+      border-bottom: 1px solid var(--toolbar-border);
+    }
+
+    #search-results {
+      list-style: none;
+      padding: 0;
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    #search-results li {
+      padding: 8px 12px;
+      cursor: pointer;
+      font-size: 13px;
+      line-height: 1.4;
+      border-bottom: 1px solid var(--toolbar-border);
+      transition: background 0.1s;
+    }
+
+    #search-results li:hover { background: var(--panel-item-hover); }
+    #search-results li.active { background: var(--panel-item-active); }
+
+    .sr-page { font-weight: 600; font-size: 12px; margin-bottom: 2px; }
+    .sr-context { font-size: 12px; opacity: 0.7; }
+    .sr-context mark { background: rgba(255,200,0,0.3); color: inherit; border-radius: 2px; padding: 0 1px; }
+
+    .search-highlight {
+      position: absolute;
+      background: var(--search-highlight);
+      border-radius: 2px;
+      pointer-events: none;
+    }
+    .search-highlight.active-match {
+      background: var(--search-highlight-active);
+    }
+
     #viewer-container {
       flex: 1;
       overflow: auto;
@@ -154,11 +311,18 @@
     .text-layer ::selection {
       background: rgba(0, 100, 200, 0.3);
     }
+
+    @media (max-width: 600px) {
+      #side-panel { width: 100%; position: absolute; z-index: 10; height: calc(100vh - 44px); top: 44px; }
+    }
   </style>
 </head>
 <body class="system-theme">
   <div id="toolbar">
-    <a class="btn" href="/ship/">&#8592;</a>
+    <a class="btn" href="./">&#8592;</a>
+    <div class="sep"></div>
+    <button id="btn-toc" title="Оглавление">&#9776;</button>
+    <button id="btn-search" title="Поиск">&#128269;</button>
     <div class="sep"></div>
     <button id="mode-single" title="Одна страница">&#9633;</button>
     <button id="mode-scroll" class="active" title="Непрерывная прокрутка">&#9776;</button>
@@ -176,7 +340,27 @@
     <div class="sep"></div>
     <a class="btn" href="theory.pdf" download title="Скачать PDF">&#11015;</a>
   </div>
-  <div id="viewer-container"></div>
+  <div id="main-area">
+    <div id="side-panel">
+      <div id="panel-tabs">
+        <button id="tab-toc" class="active">Оглавление</button>
+        <button id="tab-search">Поиск</button>
+      </div>
+      <div id="panel-toc" class="panel-content active">
+        <ul id="toc-list"></ul>
+      </div>
+      <div id="panel-search" class="panel-content">
+        <div id="search-box">
+          <input id="search-input" type="text" placeholder="Поиск по тексту...">
+          <button id="search-prev" title="Предыдущий">&#9650;</button>
+          <button id="search-next" title="Следующий">&#9660;</button>
+        </div>
+        <div id="search-status"></div>
+        <ul id="search-results"></ul>
+      </div>
+    </div>
+    <div id="viewer-container"></div>
+  </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.9.155/pdf.min.mjs" type="module"></script>
   <script type="module">
@@ -210,6 +394,100 @@
       applyTheme(themes[themeIndex]);
     });
 
+    // --- Table of Contents (from PDF outline) ---
+    const tocList = document.getElementById('toc-list');
+    let tocEntries = [];
+
+    async function buildToc() {
+      const outline = await pdfDoc.getOutline();
+      if (!outline || outline.length === 0) {
+        tocList.innerHTML = '<li style="opacity:0.5;padding:12px">Оглавление недоступно</li>';
+        return;
+      }
+
+      async function processItems(items, level) {
+        for (const item of items) {
+          let page = null;
+          if (item.dest) {
+            try {
+              const dest = typeof item.dest === 'string'
+                ? await pdfDoc.getDestination(item.dest)
+                : item.dest;
+              if (dest) {
+                const idx = await pdfDoc.getPageIndex(dest[0]);
+                page = idx + 1;
+              }
+            } catch (e) {}
+          }
+
+          tocEntries.push({ title: item.title, page, level });
+
+          const li = document.createElement('li');
+          if (level === 0 && item.items && item.items.length > 0) {
+            li.className = 'toc-part';
+            li.textContent = item.title;
+          } else {
+            li.style.paddingLeft = (12 + (level - 1) * 16) + 'px';
+            li.textContent = item.title;
+            if (page) {
+              li.dataset.page = page;
+              li.addEventListener('click', () => goToPage(page));
+            }
+          }
+          tocList.appendChild(li);
+
+          if (item.items && item.items.length > 0) {
+            await processItems(item.items, level + 1);
+          }
+        }
+      }
+
+      await processItems(outline, 0);
+    }
+
+    function updateTocHighlight(pageNum) {
+      let activeEntry = null;
+      for (const entry of tocEntries) {
+        if (entry.page && entry.page <= pageNum) activeEntry = entry;
+      }
+      tocList.querySelectorAll('li[data-page]').forEach(li => {
+        li.classList.toggle('current', activeEntry && li.dataset.page == activeEntry.page);
+      });
+    }
+
+    // --- Side panel ---
+    const sidePanel = document.getElementById('side-panel');
+    const btnToc = document.getElementById('btn-toc');
+    const btnSearch = document.getElementById('btn-search');
+    const tabToc = document.getElementById('tab-toc');
+    const tabSearch = document.getElementById('tab-search');
+    const panelToc = document.getElementById('panel-toc');
+    const panelSearch = document.getElementById('panel-search');
+    const searchInput = document.getElementById('search-input');
+
+    function showPanel(tab) {
+      const isOpen = sidePanel.classList.contains('open');
+      const currentTab = panelToc.classList.contains('active') ? 'toc' : 'search';
+
+      if (isOpen && currentTab === tab) {
+        sidePanel.classList.remove('open');
+        return;
+      }
+
+      sidePanel.classList.add('open');
+      panelToc.classList.toggle('active', tab === 'toc');
+      panelSearch.classList.toggle('active', tab === 'search');
+      tabToc.classList.toggle('active', tab === 'toc');
+      tabSearch.classList.toggle('active', tab === 'search');
+      if (tab === 'search') searchInput.focus();
+    }
+
+    btnToc.addEventListener('click', () => showPanel('toc'));
+    btnSearch.addEventListener('click', () => showPanel('search'));
+    tabToc.addEventListener('click', () => showPanel('toc'));
+    tabSearch.addEventListener('click', () => showPanel('search'));
+
+    // --- Viewer ---
     const container = document.getElementById('viewer-container');
     const pageInfo = document.getElementById('page-info');
     const pageInput = document.getElementById('page-input');
@@ -221,31 +499,26 @@
     let pdfDoc = null;
     let totalPages = 0;
     let currentPage = 1;
-    let scale = 0; // 0 = fit-width
+    let scale = 0;
     let manualScale = 1.5;
     const SCALE_STEP = 0.25;
     const pageWrappers = [];
     const renderedPages = new Set();
     let rendering = false;
-    let mode = 'scroll'; // 'scroll' or 'single'
+    let mode = 'scroll';
 
     function getScale(pageWidth) {
-      if (scale === 0) {
-        return (container.clientWidth - 32) / pageWidth;
-      }
+      if (scale === 0) return (container.clientWidth - 32) / pageWidth;
       return manualScale;
     }
 
     function updatePageDisplay(num) {
       pageInfo.textContent = '/ ' + totalPages;
-      if (document.activeElement !== pageInput) {
-        pageInput.value = num;
-      }
+      if (document.activeElement !== pageInput) pageInput.value = num;
       currentPage = num;
       localStorage.setItem('pdf-last-page', num);
+      updateTocHighlight(num);
     }
-
-    // --- Rendering ---
 
     async function buildTextLayer(page, wrapper, cssScale) {
       const textContent = await page.getTextContent();
@@ -265,12 +538,10 @@
         span.style.left = tx[4] + 'px';
         span.style.top = (tx[5] - fontHeight) + 'px';
         if (angle) span.style.transform = 'rotate(' + angle + 'rad)';
-        // Scale width to match PDF item width
         if (item.width > 0) {
           const scaledWidth = item.width * cssScale;
           span.style.letterSpacing = '0px';
           span.style.scaleX = '1';
-          // After appending, adjust scaleX
           span.dataset.targetWidth = scaledWidth;
         }
         textDiv.appendChild(span);
@@ -278,7 +549,6 @@
 
       wrapper.appendChild(textDiv);
 
-      // Adjust span widths to match PDF layout
       for (const span of textDiv.querySelectorAll('span[data-target-width]')) {
         const target = parseFloat(span.dataset.targetWidth);
         const actual = span.getBoundingClientRect().width;
@@ -309,6 +579,7 @@
       wrapper.appendChild(canvas);
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
       await buildTextLayer(page, wrapper, s);
+      showSearchHighlightsOnPage(num);
     }
 
     async function createPlaceholders(count) {
@@ -332,8 +603,6 @@
       }
     }
 
-    // --- Scroll mode ---
-
     function getVisiblePages() {
       const scrollTop = container.scrollTop;
       const viewHeight = container.clientHeight;
@@ -342,9 +611,7 @@
         const w = pageWrappers[i];
         const top = w.offsetTop - container.offsetTop;
         const bottom = top + w.offsetHeight;
-        if (bottom >= scrollTop && top <= scrollTop + viewHeight) {
-          visible.push(i + 1);
-        }
+        if (bottom >= scrollTop && top <= scrollTop + viewHeight) visible.push(i + 1);
         if (top > scrollTop + viewHeight) break;
       }
       return visible;
@@ -362,23 +629,22 @@
         if (p < totalPages) toRender.add(p + 1);
       }
 
-      for (const p of toRender) {
-        await renderPageCanvas(p);
-      }
+      for (const p of toRender) await renderPageCanvas(p);
 
-      if (visible.length > 0) {
-        updatePageDisplay(visible[0]);
-      }
+      if (visible.length > 0) updatePageDisplay(visible[0]);
       rendering = false;
     }
 
     function scrollToPage(num) {
       if (num < 1 || num > totalPages) return;
-      const wrapper = pageWrappers[num - 1];
-      wrapper.scrollIntoView({ behavior: 'instant' });
+      pageWrappers[num - 1].scrollIntoView({ behavior: 'instant' });
     }
 
-    // --- Single page mode ---
+    function goToPage(num) {
+      if (num < 1 || num > totalPages) return;
+      if (mode === 'single') renderSinglePage(num);
+      else { scrollToPage(num); setTimeout(renderVisibleScroll, 50); }
+    }
 
     async function renderSinglePage(num) {
       if (num < 1 || num > totalPages) return;
@@ -406,11 +672,11 @@
 
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
       await buildTextLayer(page, wrapper, s);
+      renderedPages.add(num);
+      showSearchHighlightsOnPage(num);
       updatePageDisplay(num);
       container.scrollTop = 0;
     }
-
-    // --- Mode switching ---
 
     async function switchMode(newMode) {
       mode = newMode;
@@ -428,8 +694,6 @@
 
     btnSingle.addEventListener('click', () => switchMode('single'));
     btnScroll.addEventListener('click', () => switchMode('scroll'));
-
-    // --- Navigation ---
 
     btnPrev.addEventListener('click', () => {
       if (mode === 'single') {
@@ -454,30 +718,20 @@
     pageInput.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
         const num = parseInt(pageInput.value, 10);
-        if (num >= 1 && num <= totalPages) {
-          if (mode === 'single') {
-            renderSinglePage(num);
-          } else {
-            scrollToPage(num);
-            setTimeout(renderVisibleScroll, 50);
-          }
-        }
+        if (num >= 1 && num <= totalPages) goToPage(num);
         pageInput.blur();
       }
     });
 
     document.addEventListener('keydown', (e) => {
-      if (document.activeElement === pageInput) return;
-      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+      if (document.activeElement === pageInput || document.activeElement === searchInput) return;
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); btnPrev.click(); }
+      else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); btnNext.click(); }
+      if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
         e.preventDefault();
-        btnPrev.click();
-      } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
-        e.preventDefault();
-        btnNext.click();
+        showPanel('search');
       }
     });
-
-    // --- Zoom ---
 
     async function applyZoom() {
       if (mode === 'scroll') {
@@ -495,9 +749,7 @@
         const page = await pdfDoc.getPage(1);
         manualScale = getScale(page.getViewport({ scale: 1 }).width) + SCALE_STEP;
         scale = 1;
-      } else {
-        manualScale += SCALE_STEP;
-      }
+      } else { manualScale += SCALE_STEP; }
       await applyZoom();
     });
 
@@ -506,9 +758,7 @@
         const page = await pdfDoc.getPage(1);
         manualScale = Math.max(0.5, getScale(page.getViewport({ scale: 1 }).width) - SCALE_STEP);
         scale = 1;
-      } else {
-        manualScale = Math.max(0.5, manualScale - SCALE_STEP);
-      }
+      } else { manualScale = Math.max(0.5, manualScale - SCALE_STEP); }
       await applyZoom();
     });
 
@@ -517,31 +767,210 @@
       await applyZoom();
     });
 
-    // --- Scroll event ---
-
     let scrollTimer;
     container.addEventListener('scroll', () => {
       if (mode !== 'scroll') return;
       clearTimeout(scrollTimer);
       scrollTimer = setTimeout(renderVisibleScroll, 80);
       const visible = getVisiblePages();
-      if (visible.length > 0) {
-        updatePageDisplay(visible[0]);
-      }
+      if (visible.length > 0) updatePageDisplay(visible[0]);
     });
-
-    // --- Resize ---
 
     let resizeTimer;
     window.addEventListener('resize', () => {
       clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(async () => {
-        if (scale === 0) await applyZoom();
-      }, 200);
+      resizeTimer = setTimeout(async () => { if (scale === 0) await applyZoom(); }, 200);
     });
 
-    // --- Load ---
+    // --- Search ---
+    const searchStatus = document.getElementById('search-status');
+    const searchResultsList = document.getElementById('search-results');
+    let searchMatches = [];
+    let activeMatchIdx = -1;
+    let pageTextCache = {};
 
+    async function getPageText(pageNum) {
+      if (pageTextCache[pageNum]) return pageTextCache[pageNum];
+      const page = await pdfDoc.getPage(pageNum);
+      const content = await page.getTextContent();
+      const items = content.items.filter(i => i.str);
+      const text = items.map(i => i.str).join(' ');
+      pageTextCache[pageNum] = { text, items };
+      return { text, items };
+    }
+
+    async function performSearch(query) {
+      searchMatches = [];
+      activeMatchIdx = -1;
+      searchResultsList.innerHTML = '';
+      clearAllHighlights();
+
+      if (!query || query.length < 2) {
+        searchStatus.textContent = '';
+        return;
+      }
+
+      searchStatus.textContent = 'Поиск...';
+      const queryLower = query.toLowerCase();
+      let matchCount = 0;
+
+      for (let p = 1; p <= totalPages; p++) {
+        const { text } = await getPageText(p);
+        const textLower = text.toLowerCase();
+        let pos = 0;
+        while ((pos = textLower.indexOf(queryLower, pos)) !== -1) {
+          const start = Math.max(0, pos - 30);
+          const end = Math.min(text.length, pos + query.length + 30);
+          let context = (start > 0 ? '...' : '') + text.substring(start, end) + (end < text.length ? '...' : '');
+          searchMatches.push({ page: p, pos, context, query });
+          matchCount++;
+          pos += query.length;
+        }
+      }
+
+      searchStatus.textContent = matchCount > 0
+        ? `Найдено: ${matchCount} совпадений`
+        : 'Ничего не найдено';
+
+      const byPage = {};
+      searchMatches.forEach((m, idx) => {
+        if (!byPage[m.page]) byPage[m.page] = [];
+        byPage[m.page].push({ ...m, idx });
+      });
+
+      for (const page of Object.keys(byPage).map(Number)) {
+        const matches = byPage[page];
+        const li = document.createElement('li');
+        const contextHtml = matches[0].context.replace(
+          new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'),
+          m => `<mark>${m}</mark>`
+        );
+        li.innerHTML = `<div class="sr-page">Стр. ${page}${matches.length > 1 ? ` (${matches.length})` : ''}</div><div class="sr-context">${contextHtml}</div>`;
+        li.addEventListener('click', () => activateMatch(matches[0].idx));
+        searchResultsList.appendChild(li);
+      }
+
+      if (matchCount > 0) activateMatch(0);
+    }
+
+    function activateMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      activeMatchIdx = idx;
+      const match = searchMatches[idx];
+
+      searchStatus.textContent = `${idx + 1} / ${searchMatches.length}`;
+
+      const pageItems = searchResultsList.querySelectorAll('li');
+      pageItems.forEach(li => li.classList.remove('active'));
+      for (const li of pageItems) {
+        if (li.querySelector('.sr-page').textContent.includes(`Стр. ${match.page}`)) {
+          li.classList.add('active');
+          li.scrollIntoView({ block: 'nearest' });
+          break;
+        }
+      }
+
+      goToPage(match.page);
+      setTimeout(() => showSearchHighlightsOnPage(match.page), 200);
+    }
+
+    function showSearchHighlightsOnPage(pageNum) {
+      const wrapper = pageWrappers[pageNum - 1];
+      if (!wrapper) return;
+
+      wrapper.querySelectorAll('.search-highlight').forEach(el => el.remove());
+
+      if (searchMatches.length === 0) return;
+
+      const textLayer = wrapper.querySelector('.text-layer');
+      if (!textLayer) return;
+
+      const query = searchMatches[0]?.query;
+      if (!query) return;
+
+      const spans = textLayer.querySelectorAll('span');
+      const queryLower = query.toLowerCase();
+
+      let fullText = '';
+      const spanMap = [];
+      spans.forEach((span, si) => {
+        const t = span.textContent;
+        for (let ci = 0; ci < t.length; ci++) {
+          spanMap.push({ spanIdx: si, charIdx: ci });
+        }
+        fullText += t;
+      });
+
+      const fullTextLower = fullText.toLowerCase();
+      let pos = 0;
+      while ((pos = fullTextLower.indexOf(queryLower, pos)) !== -1) {
+        const firstMap = spanMap[pos];
+        const lastMap = spanMap[pos + query.length - 1];
+        if (!firstMap || !lastMap) { pos++; continue; }
+
+        const firstSpan = spans[firstMap.spanIdx];
+        const lastSpan = spans[lastMap.spanIdx];
+        const wrapperRect = wrapper.getBoundingClientRect();
+        const firstRect = firstSpan.getBoundingClientRect();
+        const lastRect = lastSpan.getBoundingClientRect();
+
+        const left = firstRect.left - wrapperRect.left;
+        const top = Math.min(firstRect.top, lastRect.top) - wrapperRect.top;
+        const right = lastRect.right - wrapperRect.left;
+        const bottom = Math.max(firstRect.bottom, lastRect.bottom) - wrapperRect.top;
+
+        const highlight = document.createElement('div');
+        highlight.className = 'search-highlight';
+        const isActive = activeMatchIdx >= 0 && searchMatches[activeMatchIdx].page === pageNum;
+        if (isActive) highlight.classList.add('active-match');
+        highlight.style.left = left + 'px';
+        highlight.style.top = top + 'px';
+        highlight.style.width = (right - left) + 'px';
+        highlight.style.height = (bottom - top) + 'px';
+        wrapper.appendChild(highlight);
+
+        pos += query.length;
+      }
+    }
+
+    function clearAllHighlights() {
+      document.querySelectorAll('.search-highlight').forEach(el => el.remove());
+    }
+
+    let searchTimer;
+    searchInput.addEventListener('input', () => {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => performSearch(searchInput.value.trim()), 300);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        if (e.shiftKey) navigateMatch(-1);
+        else if (searchMatches.length > 0 && activeMatchIdx >= 0) navigateMatch(1);
+        else performSearch(searchInput.value.trim());
+      } else if (e.key === 'Escape') {
+        searchInput.value = '';
+        searchMatches = [];
+        activeMatchIdx = -1;
+        searchResultsList.innerHTML = '';
+        searchStatus.textContent = '';
+        clearAllHighlights();
+        sidePanel.classList.remove('open');
+      }
+    });
+
+    function navigateMatch(dir) {
+      if (searchMatches.length === 0) return;
+      let next = activeMatchIdx + dir;
+      if (next >= searchMatches.length) next = 0;
+      if (next < 0) next = searchMatches.length - 1;
+      activateMatch(next);
+    }
+
+    document.getElementById('search-prev').addEventListener('click', () => navigateMatch(-1));
+    document.getElementById('search-next').addEventListener('click', () => navigateMatch(1));
+
+    // --- Load PDF ---
     async function loadPDF() {
       pdfDoc = await pdfjsLib.getDocument('theory.pdf').promise;
       totalPages = pdfDoc.numPages;
@@ -549,12 +978,10 @@
       const params = new URLSearchParams(window.location.search);
       const startPage = parseInt(params.get('page'), 10);
       const savedPage = parseInt(localStorage.getItem('pdf-last-page'), 10);
-      if (startPage > 0 && startPage <= totalPages) {
-        currentPage = startPage;
-      } else if (savedPage > 0 && savedPage <= totalPages) {
-        currentPage = savedPage;
-      }
+      if (startPage > 0 && startPage <= totalPages) currentPage = startPage;
+      else if (savedPage > 0 && savedPage <= totalPages) currentPage = savedPage;
 
+      await buildToc();
       await switchMode('scroll');
     }
 
