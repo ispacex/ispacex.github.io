@@ -238,13 +238,31 @@ const formulas = [
   { latex: "C_s = \\frac{R_b}{51 \\cdot v^2 \\cdot F_m}", section: "Боковое сопротивление шверта", chapter: 4, page: 266, description: "Коэффициент бокового сопротивления шверта", params: "R_b — боковое сопротивление (= P_d, силе дрейфа), v — скорость яхты" },
   { latex: "R_d = R_b \\cdot \\sin(\\delta + 2^\\circ)", section: "Добавочное сопротивление шверта", chapter: 4, page: 267, description: "Добавочное сопротивление плоского шверта", params: "R_b — боковое сопротивление, δ — угол дрейфа; +2° — отклонение R_b от перпендикуляра" },
   { latex: "R_d = R_b \\cdot \\sin(\\delta - 3^\\circ)", section: "Добавочное сопротивление шверта", chapter: 4, page: 267, description: "Добавочное сопротивление профилированного шверта", params: "−3° — у профилированного шверта сила R_b проходит впереди перпендикуляра" },
+  { latex: "v_{\\text{макс.}} = 1{,}4 \\text{--} 1{,}7 \\sqrt{L_{KLW}}", section: "Использование циклонов", chapter: 5, page: 310, description: "Скорость водоизмещения яхты в благоприятных условиях", params: "v_макс — максимальная скорость (узлы), L_KLW — длина ватерлинии (футы)" },
+  { latex: "v_{\\text{макс.}} = 1 \\text{--} 1{,}1 \\sqrt{L_{KLW}}", section: "Использование циклонов", chapter: 5, page: 310, description: "Скорость водоизмещения на курсе фордевинд (средние условия)", params: "При средних условиях ветра и волны на курсе фордевинд" },
+  { latex: "v = v_1 \\left(\\frac{z_1}{z}\\right)^\\alpha", section: "Структура ветра", chapter: 5, page: 314, description: "Изменение скорости ветра с высотой", params: "v — скорость на высоте z, v₁ — скорость на высоте z₁ (до 16 м над уровнем моря), α — показатель степени" },
+  { latex: "P = m \\cdot \\omega", section: "Взаимодействие яхт", chapter: 5, page: null, description: "Сила, действующая на парус в аэродинамической тени", params: "P — сила, m — масса, ω — угловая скорость" },
+  { latex: "W = \\frac{2\\pi r}{T} = \\frac{\\pi \\cdot H}{T}", section: "Волны", chapter: 5, page: 346, description: "Орбитальная скорость частиц воды на волне", params: "W — орбитальная скорость, r — радиус орбиты (= H/2), T — период волны, H — высота волны" },
+  { latex: "c = \\frac{L}{T}", section: "Волны", chapter: 5, page: 347, description: "Скорость волны", params: "c — скорость волны, L — длина волны, T — период волны" },
+  { latex: "c = 1{,}25\\sqrt{L}", section: "Волны", chapter: 5, page: 347, description: "Скорость волны в зависимости от длины", params: "c — скорость волны (м/сек), L — длина волны (м)" },
+  { latex: "R_s = f\\,(G_m \\cdot \\sin \\alpha)", section: "Яхта на волне", chapter: 5, page: 355, description: "Сопротивление склона волны", params: "R_s — сопротивление склона, G_m — вес яхты, α — угол наклона склона волны" },
+  { latex: "m \\cdot v = \\frac{G}{g} \\cdot v", section: "Яхта на волне", chapter: 5, page: 356, description: "Количество движения (импульс) яхты", params: "m — масса яхты, v — скорость, G — вес яхты, g — ускорение свободного падения" },
+  { latex: "\\frac{G}{g} \\cdot (v - v_1) = \\frac{G}{g} \\cdot \\Delta v = \\Delta R \\cdot t", section: "Яхта на волне", chapter: 5, page: 356, description: "Уравнение импульса — изменение скорости яхты на волне", params: "Δv — изменение скорости, ΔR — добавочное сопротивление, t — время действия" },
+  { latex: "P_d = G \\cdot \\sin \\alpha", section: "Плавание с волнами", chapter: 5, page: 361, description: "Движущая сила при скатывании яхты с волны", params: "P_d — движущая сила, G — вес яхты, α — угол наклона склона волны" },
+  { latex: "v_w = \\frac{c}{\\cos K}", section: "Плавание с волнами", chapter: 5, page: 363, description: "Скорость яхты для использования энергии волны при курсовом угле", params: "v_w — необходимая скорость яхты, c — скорость волны, K — курсовой угол к направлению волны" },
+  { latex: "t = \\frac{S}{v}", section: "Приливно-отливные течения", chapter: 5, page: 370, description: "Время прохождения дистанции", params: "t — время, S — расстояние, v — скорость" },
+  { latex: "v_w = v_j + v_r", section: "Речные течения", chapter: 5, page: 373, description: "Скорость яхты при плавании по течению", params: "v_w — результирующая скорость, v_j — собственная скорость яхты, v_r — скорость течения" },
+  { latex: "v_w = v_j - v_r", section: "Речные течения", chapter: 5, page: 373, description: "Скорость яхты при плавании против течения", params: "v_w — результирующая скорость, v_j — собственная скорость яхты, v_r — скорость течения" },
+  { latex: "c = \\sqrt{g \\cdot h} = 3{,}13\\sqrt{h}", section: "Мелкая вода", chapter: 5, page: 378, description: "Критическая скорость на мелкой воде", params: "c — критическая скорость (м/сек), g — ускорение свободного падения, h — глубина воды (м)" },
+  { latex: "\\frac{v}{\\sqrt{gh}} \\approx 0{,}7", section: "Мелкая вода", chapter: 5, page: 379, description: "Условие максимального сопротивления на мелкой воде", params: "v — скорость яхты, g — ускорение свободного падения, h — глубина воды; при этом отношении сопротивление максимально" },
 ];
 
 const chapterNames = {
   1: "О силах, движении и яхтах",
   2: "Общие сведения о яхтах",
   3: "Аэродинамика паруса",
-  4: "Гидромеханика парусной яхты"
+  4: "Гидромеханика парусной яхты",
+  5: "Ветер и вода"
 };
 
 // Filters
@@ -255,7 +273,7 @@ allBtn.textContent = 'Все';
 allBtn.className = 'active';
 allBtn.onclick = () => { activeChapter = 0; render(); };
 filtersEl.appendChild(allBtn);
-for (const ch of [1,2,3,4]) {
+for (const ch of [1,2,3,4,5]) {
   const btn = document.createElement('button');
   const count = formulas.filter(f => f.chapter === ch).length;
   btn.textContent = `Гл. ${ch}`;
