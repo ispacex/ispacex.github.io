@@ -487,6 +487,7 @@
 
       if (isOpen && currentTab === tab) {
         sidePanel.classList.remove('open');
+        scheduleRelayout();
         return;
       }
 
@@ -496,6 +497,13 @@
       tabToc.classList.toggle('active', tab === 'toc');
       tabSearch.classList.toggle('active', tab === 'search');
       if (tab === 'search') searchInput.focus();
+      scheduleRelayout();
+    }
+
+    function scheduleRelayout() {
+      setTimeout(async () => {
+        if (scale === 0) await applyZoom();
+      }, 50);
     }
 
     btnToc.addEventListener('click', () => showPanel('toc'));
