@@ -342,7 +342,7 @@
     <div class="sep"></div>
     <button id="theme-toggle" title="Тема: системная">&#9788;</button>
     <div class="sep"></div>
-    <a class="btn" href="theory.pdf" download title="Скачать PDF">&#11015;</a>
+    <a class="btn" href="https://theatre-th.s3.amazonaws.com/ship/theory.pdf" download title="Скачать PDF">&#11015;</a>
   </div>
   <div id="main-area">
     <div id="side-panel">
@@ -997,7 +997,7 @@
 
     // --- Load PDF ---
     async function loadPDF() {
-      pdfDoc = await pdfjsLib.getDocument('theory.pdf').promise;
+      pdfDoc = await pdfjsLib.getDocument('https://theatre-th.s3.amazonaws.com/ship/theory.pdf').promise;
       totalPages = pdfDoc.numPages;
 
       const hashMatch = window.location.hash.match(/page=(\d+)/);

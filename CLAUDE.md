@@ -41,3 +41,23 @@ The `dance/` directory contains Natya Shastra chapter translations (`ns-ch1.md` 
 - Content pages are Markdown with Jekyll front matter
 - Embed external media using the `youtube.html` and `instagram.html` includes
 - Donation pages use the `donate` layout with crypto address copy components
+
+## Ship (Marchaj Book) — S3 Integration
+
+The `ship/` directory hosts the digitized book "Теория плавания под парусами" by Czesław Marchaj.
+
+**Large files (PDF, DjVu) are stored on S3**, not in the git repo:
+- S3 bucket: `theatre-th`, prefix: `ship/`
+- Public URL: `https://theatre-th.s3.amazonaws.com/ship/theory.pdf`
+- CORS is configured for `https://ispacex.github.io`
+
+**To update the PDF after rebuilding:**
+1. Build in the markhai repo: `cd ~/git/misc/books/markhai && make`
+2. Upload to S3: `./scripts/upload_to_s3.sh` (reads `.credentials` file)
+3. No need to commit/push anything to ispacex for PDF changes
+
+**To update ship/ HTML pages** (viewers, dictionary, formulas, etc.):
+1. Edit files in `~/git/ispacex/ship/`
+2. Commit and push to `main` — GitHub Pages auto-deploys
+
+S3 credentials are in `~/git/misc/books/markhai/.credentials` (gitignored).

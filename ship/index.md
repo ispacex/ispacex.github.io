@@ -10,9 +10,10 @@ title: "Теория плавания под парусами"
 
 * [Читать книгу (PDF)](viewer.html)
 * [Читать книгу (DjVu)](djvu-viewer.html)
-* [Скачать PDF](theory.pdf)
-* [Скачать DjVu](theory.djvu)
+* [Скачать PDF](https://theatre-th.s3.amazonaws.com/ship/theory.pdf)
+* [Скачать DjVu](https://theatre-th.s3.amazonaws.com/ship/theory.djvu)
 * [Словарь терминов](dictionary.html)
 * [Сводная таблица яхт](yachts.html)
 * [Рисунки](pictures.html)
 * [Таблицы](tables.html)
+* [Формулы](formulas.html)

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Формулы — Мархай</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  min-height: 100vh;
+  background: #0f1115;
+  color: #e5e7eb;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 16px;
+}
+a { color: #60a5fa; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h2 { font-size: 1.6rem; margin-bottom: 8px; }
+h3 { font-size: 1.15rem; margin: 32px 0 16px; color: #94a3b8; border-bottom: 1px solid #334155; padding-bottom: 8px; }
+.subtitle { color: #94a3b8; margin-bottom: 24px; font-size: 0.95rem; }
+.wrap { width: 100%; max-width: 900px; }
+.back { margin-bottom: 24px; }
+
+.filters { margin-bottom: 24px; display: flex; gap: 8px; flex-wrap: wrap; }
+.filters button {
+  background: #1e293b; color: #e5e7eb; border: 1px solid #334155; border-radius: 6px;
+  padding: 6px 14px; font-size: 0.85rem; cursor: pointer; transition: all 0.15s;
+}
+.filters button:hover { background: #334155; }
+.filters button.active { background: #60a5fa; color: #0f1115; border-color: #60a5fa; }
+
+.search-box {
+  margin-bottom: 24px;
+  width: 100%;
+}
+.search-box input {
+  width: 100%;
+  padding: 10px 14px;
+  background: #1a1d24;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  color: #e5e7eb;
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.15s;
+}
+.search-box input:focus { border-color: #60a5fa; }
+.search-box input::placeholder { color: #64748b; }
+
+.formula-card {
+  background: #1a1d24;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  transition: border-color 0.15s;
+}
+.formula-card:hover { border-color: #475569; }
+.formula-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  background: #15171c;
+  border-bottom: 1px solid #262a33;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.formula-desc {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #e5e7eb;
+}
+.formula-meta {
+  font-size: 0.78rem;
+  color: #64748b;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.formula-meta a { font-size: 0.78rem; }
+.formula-body {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  font-size: 1.1rem;
+}
+.formula-params {
+  padding: 0 16px 12px;
+  font-size: 0.8rem;
+  color: #94a3b8;
+  line-height: 1.6;
+  border-top: 1px solid #1e293b;
+  padding-top: 10px;
+  margin: 0 16px;
+}
+.formula-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 16px 10px;
+  gap: 8px;
+}
+.latex-code {
+  font-family: "SF Mono", "Fira Code", "Cascadia Code", monospace;
+  font-size: 0.75rem;
+  color: #64748b;
+  background: #12141a;
+  border: 1px solid #262a33;
+  border-radius: 4px;
+  padding: 4px 8px;
+  flex: 1;
+  overflow-x: auto;
+  white-space: nowrap;
+  cursor: text;
+  user-select: all;
+}
+.copy-btn {
+  background: #1e293b;
+  color: #94a3b8;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.copy-btn:hover { background: #334155; color: #e5e7eb; }
+.copy-btn.copied { background: #166534; color: #86efac; border-color: #166534; }
+
+.toc { margin-bottom: 32px; }
+.toc ul { list-style: none; padding: 0; }
+.toc li { padding: 4px 0; border-bottom: 1px solid #1e293b; }
+.toc li a { font-size: 0.85rem; }
+.toc .tch { color: #60a5fa; font-weight: 600; margin-right: 6px; }
+.toc .tsec { color: #94a3b8; font-size: 0.8rem; }
+.count-badge { font-size: 0.75rem; color: #64748b; margin-left: 4px; }
+.hidden { display: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<p class="back"><a href="./">&larr; Назад</a></p>
+<h2>Формулы</h2>
+<p class="subtitle">Все формулы из книги. Нажмите «Копировать» для LaTeX-кода.</p>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Поиск по описанию или формуле...">
+</div>
+
+<div class="filters" id="filters"></div>
+
+<div class="toc" id="toc-container">
+<ul id="toc"></ul>
+</div>
+
+<div id="formulas"></div>
+</div>
+
+<script>
+MathJax = {
+  tex: { inlineMath: [['$','$'], ['\\(','\\)']], displayMath: [['$$','$$'], ['\\[','\\]']] },
+  svg: { fontCache: 'global' },
+  startup: { typeset: true }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+<script>
+const formulas = [
+  { latex: "S=v\\cdot t", section: "Общие законы движения", chapter: 1, page: null, description: "Путь при равномерном движении", params: "S — путь, v — скорость, t — время" },
+  { latex: "a=\\frac{P}{m}", section: "Общие законы движения", chapter: 1, page: null, description: "Второй закон Ньютона — ускорение тела", params: "a — ускорение, P — сила, m — масса" },
+  { latex: "S=a\\cdot t^2", section: "Общие законы движения", chapter: 1, page: null, description: "Путь при равномерно-ускоренном движении", params: "S — путь, a — ускорение, t — время" },
+  { latex: "\\text{а) } \\Sigma P_x=0; \\quad \\text{б) } \\Sigma P_y=0; \\quad \\text{в) } \\Sigma M=0", section: "Условия равновесия", chapter: 1, page: 16, description: "Три условия равновесия яхты", params: "P_x, P_y — проекции сил, M — момент" },
+  { latex: "P_c - P_w = 0", section: "Условия равновесия", chapter: 1, page: 16, description: "Условие равновесия сил по горизонтали", params: "P_c — сила тяги паруса, P_w — сопротивление воды" },
+  { latex: "W - G = 0", section: "Условия равновесия", chapter: 1, page: 16, description: "Условие равновесия сил по вертикали", params: "W — сила поддержания (гидростатический напор), G — вес яхты" },
+  { latex: "G = W = \\gamma V", section: "Плавучесть", chapter: 1, page: 18, description: "Закон Архимеда — вес плавающего тела", params: "G — вес тела, W — сила поддержания, γ — удельный вес воды, V — объём вытесненной воды" },
+  { latex: "M_p = W \\cdot l = G \\cdot l", section: "Поперечная остойчивость", chapter: 1, page: 22, description: "Восстанавливающий момент при крене", params: "M_p — восстанавливающий момент, W — сила поддержания, G — вес, l — плечо остойчивости" },
+  { latex: "M_1 = P \\cdot h", section: "Поперечная остойчивость", chapter: 1, page: 24, description: "Кренящий момент от давления ветра", params: "M₁ — кренящий момент, P — давление ветра, h — плечо кренящего момента" },
+  { latex: "\\Delta M = \\Delta M_p, \\quad M_1 + \\Delta M = M_{p2}", section: "Поперечная остойчивость", chapter: 1, page: 24, description: "Условие равновесия при увеличении кренящего момента" },
+  { latex: "P = \\frac{\\gamma \\cdot v^2}{2g} \\cdot S \\cdot \\sin \\alpha", section: "Задачи механики плавания", chapter: 1, page: 31, description: "Формула давления ветра на парус (классическая)", params: "P — давление ветра, γ — удельный вес воздуха, v — скорость ветра, g — ускорение свободного падения, S — площадь паруса, α — угол атаки" },
+  { latex: "\\text{Гоночный балл} = \\frac{L + B + \\frac{3}{4}G + \\frac{1}{2}\\sqrt{S}}{2}", section: "Эволюция яхты", chapter: 2, page: 45, description: "Первая обмерная формула гоночного балла (1896 г.)", params: "L — длина по ватерлинии, B — ширина, G — обхват (цепной), S — площадь парусности" },
+  { latex: "\\text{Гоночный балл} = \\frac{L + B + \\frac{3}{4}G + 4d + \\frac{1}{2}\\sqrt{S}}{2{,}1}", section: "Эволюция яхты", chapter: 2, page: 46, description: "Улучшенная обмерная формула (1901 г.)", params: "d — разность осадок (осадка − надводный борт)" },
+  { latex: "\\text{Гоночный балл} = \\frac{L + B + \\frac{1}{2}G + 3d + \\frac{1}{3}\\sqrt{S} - F}{2}", section: "Эволюция яхты", chapter: 2, page: 47, description: "Международная обмерная формула (1906 г.)", params: "F — высота надводного борта" },
+  { latex: "R = \\frac{L + \\sqrt{S} + 2d - F}{2{,}37}", section: "Формулы классных обмеров", chapter: 2, page: 48, description: "Формула гоночного балла Международного парусно-гоночного союза", params: "R — гоночный балл, L — длина по КВЛ, S — площадь парусов, d — разность осадок, F — надводный борт" },
+  { latex: "\\text{R-5,5} = 0{,}9\\left(\\frac{L\\sqrt{S}}{12\\sqrt[3]{D}} + \\frac{L + \\sqrt{S}}{4}\\right)", section: "Формулы классных обмеров", chapter: 2, page: 48, description: "Обмерная формула класса R-5,5", params: "D — водоизмещение, L — длина по КВЛ, S — площадь парусности" },
+  { latex: "MR = 0{,}15\\,\\frac{L \\cdot \\sqrt{S}}{\\sqrt{B \\cdot D}} + 0{,}2\\,(L + \\sqrt{S})", section: "Формулы классных обмеров", chapter: 2, page: 49, description: "Формула RORC для морских гоночных яхт", params: "MR — гоночный балл, B — ширина, D — водоизмещение" },
+  { latex: "KR = \\frac{L + \\sqrt{S} - (\\sqrt[3]{D} + B + F)}{1{,}4} + 0{,}7\\left(\\frac{\\sqrt{S}}{\\sqrt[3]{D}} - 4{,}1\\right) - M_0", section: "Формулы классных обмеров", chapter: 2, page: 50, description: "Формула KR для крейсерско-гоночных яхт", params: "KR — гоночный балл, M₀ — поправка на двигатель, F — надводный борт" },
+  { latex: "\\text{Площадь} = \\frac{B \\cdot H + G \\cdot D}{2}", section: "Формулы классных обмеров", chapter: 2, page: 52, description: "Площадь гафельного паруса", params: "B — нижняя шкаторина, H — высота, G — верхняя шкаторина, D — диагональ" },
+  { latex: "\\text{Площадь} = \\frac{B \\cdot H}{2}", section: "Формулы классных обмеров", chapter: 2, page: 52, description: "Площадь треугольного паруса", params: "B — основание, H — высота" },
+  { latex: "\\text{Площадь} = 0{,}85\\,\\frac{I \\cdot J}{2}", section: "Формулы классных обмеров", chapter: 2, page: 52, description: "Площадь передних парусов", params: "I — высота переднего парусного треугольника, J — основание" },
+  { latex: "D = \\frac{L_{KLW} \\cdot B_{KLW} \\cdot H}{2{,}2}", section: "Формулы классных обмеров", chapter: 2, page: 53, description: "Водоизмещение яхты старой постройки", params: "L_KLW — длина по КВЛ, B_KLW — ширина по КВЛ, H — высота корпуса" },
+  { latex: "F = \\frac{F_v + F(0{,}55\\,L_{KLW}) + F_h}{3}", section: "Формулы классных обмеров", chapter: 2, page: 53, description: "Средняя высота надводного борта", params: "F_v — надводный борт на носу, F_h — надводный борт на корме" },
+  { latex: "\\rho = \\frac{\\gamma}{g} = \\frac{1{,}225}{9{,}81} = 0{,}125 \\text{ кГ·сек}^2\\text{/м}^4", section: "Основы аэродинамики паруса", chapter: 3, page: 81, description: "Удельная масса воздуха", params: "ρ — удельная масса, γ — удельный вес воздуха (1,225 кГ/м³), g — ускорение свободного падения" },
+  { latex: "E_k = \\frac{m \\cdot v^2}{2} = \\frac{\\rho \\cdot v^2}{2} = \\frac{\\gamma \\cdot v^2}{2g}", section: "Основы аэродинамики паруса", chapter: 3, page: 81, description: "Кинетическая энергия воздушного потока", params: "E_k — кинетическая энергия, m — масса, v — скорость потока" },
+  { latex: "Q = S_1 \\cdot v_1 \\cdot \\rho", section: "Уравнение Бернулли", chapter: 3, page: 83, description: "Массовый расход жидкости через сечение", params: "Q — массовый расход, S₁ — площадь сечения, v₁ — скорость потока, ρ — плотность" },
+  { latex: "S_1 \\cdot v_1 = S_2 \\cdot v_2", section: "Уравнение Бернулли", chapter: 3, page: 84, description: "Уравнение неразрывности потока", params: "S₁, S₂ — площади сечений, v₁, v₂ — скорости потока в этих сечениях" },
+  { latex: "q = \\frac{\\gamma \\cdot v_1^2}{2g}", section: "Уравнение Бернулли", chapter: 3, page: 85, description: "Скоростной напор (динамическое давление)", params: "q — скоростной напор (кГ/м²), γ — удельный вес, v — скорость потока" },
+  { latex: "\\frac{\\gamma \\cdot v_1^2}{2g} + \\gamma \\cdot h_1 + p_1 = \\frac{\\gamma \\cdot v_2^2}{2g} + \\gamma \\cdot h_2 + p_2", section: "Уравнение Бернулли", chapter: 3, page: 85, description: "Уравнение Бернулли (полная форма)", params: "γv²/2g — динамическое давление, γh — гидростатическое давление, p — статическое давление" },
+  { latex: "\\frac{\\gamma \\cdot v^2}{2g} + \\gamma \\cdot h + p = \\text{const}", section: "Уравнение Бернулли", chapter: 3, page: 85, description: "Уравнение Бернулли (сокращённая форма)", params: "Сумма динамического, гидростатического и статического давлений постоянна вдоль линии тока" },
+  { latex: "\\frac{\\gamma \\cdot v^2}{2g} + p = \\text{const}", section: "Аэродинамическая сила паруса", chapter: 3, page: 86, description: "Уравнение Бернулли для горизонтального потока", params: "Для горизонтального потока (h = const) гидростатический член выпадает" },
+  { latex: "q = \\frac{\\gamma \\cdot v^2}{2g} = \\frac{1{,}225 \\cdot 20^2}{2 \\cdot 9{,}81} = 25 \\text{ кГ/м}^2", section: "Аэродинамическая сила паруса", chapter: 3, page: 88, description: "Динамический напор ветра (числовой пример)", params: "При скорости ветра v = 20 м/сек" },
+  { latex: "\\lambda = \\frac{L}{l}", section: "Коэффициент аэродинамической силы", chapter: 3, page: 96, description: "Удлинение прямоугольного паруса", params: "λ — удлинение, L — высота паруса, l — ширина (хорда)" },
+  { latex: "\\lambda = \\frac{L^2}{S}", section: "Коэффициент аэродинамической силы", chapter: 3, page: 96, description: "Удлинение треугольного паруса", params: "λ — удлинение, L — высота, S — площадь паруса" },
+  { latex: "W = \\frac{f}{l}", section: "Коэффициент аэродинамической силы", chapter: 3, page: 96, description: "Пузатость паруса", params: "W — пузатость, f — стрелка прогиба, l — хорда паруса" },
+  { latex: "P = \\frac{\\gamma \\cdot v^2}{2g} \\cdot S \\cdot C", section: "Коэффициент аэродинамической силы", chapter: 3, page: 97, description: "Эмпирическая формула аэродинамической силы паруса", params: "P — аэродинамическая сила, S — площадь паруса, C — безразмерный аэродинамический коэффициент" },
+  { latex: "P = \\frac{v^2}{16} \\cdot S \\cdot C", section: "Коэффициент аэродинамической силы", chapter: 3, page: 97, description: "Упрощённая формула аэродинамической силы паруса", params: "Подставлены γ = 1,225 кГ/м³ и g = 9,81 м/сек²; v в м/сек, S в м², P в кГ" },
+  { latex: "C = \\frac{P \\cdot 16}{v^2 \\cdot S}", section: "Полярные кривые парусов", chapter: 3, page: 101, description: "Определение аэродинамического коэффициента", params: "C — аэродинамический коэффициент, определяемый из эксперимента" },
+  { latex: "P_{x_i} = f\\left(\\frac{P_z^2}{\\lambda}\\right)", section: "Индуктивное сопротивление", chapter: 3, page: 107, description: "Индуктивное сопротивление паруса", params: "P_xi — индуктивное сопротивление, P_z — подъёмная сила, λ — удлинение паруса" },
+  { latex: "k = \\frac{100 \\cdot \\nu}{v}", section: "Сопротивление трения паруса", chapter: 3, page: 110, description: "Допустимая шершавость парусины (формула Никурадзе)", params: "k — допустимая высота неровности (см), ν — кинематическая вязкость (см²/сек), v — скорость потока (см/сек)" },
+  { latex: "v_1 = v \\cdot \\frac{S_1}{S_2}", section: "Сопротивление формы", chapter: 3, page: 116, description: "Увеличение скорости потока между гротом и стакселем", params: "v₁ — скорость в щели, v — скорость набегающего потока, S₁/S₂ — отношение сечений" },
+  { latex: "\\frac{v_{1\\omega} \\cdot l_1}{\\nu} = \\frac{v_{2\\omega} \\cdot l_2}{\\nu} = Re", section: "Условия подобия потоков", chapter: 3, page: 117, description: "Число Рейнольдса и условие подобия потоков", params: "v — скорость потока, l — характерный размер, ν — кинематическая вязкость (0,15 см²/сек для воздуха)" },
+  { latex: "Re = \\frac{v_\\omega \\cdot l}{\\nu}", section: "Условия подобия потоков", chapter: 3, page: 118, description: "Число Рейнольдса (основная формула)", params: "Re — число Рейнольдса, v — скорость, l — характерный размер (хорда), ν — кинематическая вязкость" },
+  { latex: "P = \\frac{v^2}{16} \\cdot S \\cdot C \\cdot \\cos\\varphi", section: "Свойства паруса и его работа", chapter: 3, page: 126, description: "Аэродинамическая сила с учётом угла крена", params: "φ — угол крена яхты; при крене эффективная площадь паруса уменьшается" },
+  { latex: "P_{c_1} = P_1 \\cdot \\cos 10^\\circ = 24{,}2 \\cdot 0{,}985 = 23{,}8 \\text{ кГ}", section: "Свойства паруса и его работа", chapter: 3, page: 127, description: "Сила тяги при оптимальном угле атаки", params: "P_c — составляющая силы тяги, 10° — угол между P и направлением курса" },
+  { latex: "P_{c_2} = P_2 \\cdot \\cos 28^\\circ = 20{,}2 \\cdot 0{,}88 = 17{,}8 \\text{ кГ}", section: "Свойства паруса и его работа", chapter: 3, page: 127, description: "Сила тяги при перебранных шкотах", params: "При перебранных шкотах угол между P и курсом возрастает до 28°" },
+  { latex: "R_{cz} = R_t + R_k + R_f + R_d", section: "Гидродинамические сопротивления корпуса", chapter: 4, page: 233, description: "Общее лобовое сопротивление корпуса яхты", params: "R_cz — общее лобовое сопротивление, R_t — трения, R_k — формы, R_f — волновое, R_d — добавочное" },
+  { latex: "R_t = \\xi_t \\cdot \\gamma \\cdot \\frac{v^2}{2g} \\cdot F_{zm}", section: "Сопротивление трения корпуса", chapter: 4, page: 234, description: "Формула сопротивления трения корпуса", params: "ξ_t — коэффициент трения, γ — удельный вес воды (кГ/м³), v — скорость (м/сек), F_zm — смоченная поверхность (м²)" },
+  { latex: "R_t = 51 \\cdot \\xi_t \\cdot v^2 \\cdot F_{zm}", section: "Сопротивление трения корпуса", chapter: 4, page: 234, description: "Упрощённая формула сопротивления трения", params: "Подставлены γ = 1000 кГ/м³ и g = 9,81 м/сек² для морской воды" },
+  { latex: "Re = \\frac{v \\cdot l}{\\nu} = \\frac{4 \\cdot 6}{1{,}2 \\cdot 10^{-6}} = 2 \\cdot 10^7", section: "Сопротивление трения корпуса", chapter: 4, page: 236, description: "Число Рейнольдса для движения яхты в воде", params: "ν — кинематическая вязкость воды (1,2·10⁻⁶ м²/сек), l — длина по КВЛ" },
+  { latex: "R_t = 51 \\cdot 0{,}0066 \\cdot 4^2 \\cdot 6 \\cong 32 \\text{ кГ}", section: "Сопротивление трения корпуса", chapter: 4, page: 237, description: "Числовой расчёт сопротивления трения яхты класса H", params: "ξ_t = 0,0066, v = 4 м/сек, F_zm = 6 м²" },
+  { latex: "\\frac{v_{гл}}{v_{ш}} = \\sqrt{\\frac{106}{106 - 16}} \\cong 1{,}08", section: "Сопротивление трения корпуса", chapter: 4, page: 240, description: "Отношение скоростей яхт с разной гладкостью днища", params: "v_гл — скорость с гладким днищем, v_ш — с шершавым; разница ~8%" },
+  { latex: "\\frac{\\gamma \\cdot v_1^2}{2g} + \\gamma \\cdot h_1 + p_1 = \\frac{\\gamma \\cdot v_2^2}{2g} + \\gamma \\cdot h_2 + p_2 = \\text{const}", section: "Сопротивление волнообразования", chapter: 4, page: 247, description: "Уравнение Бернулли для волнообразования", params: "h — высота уровня воды, p — давление; применяется к потоку воды вдоль корпуса" },
+  { latex: "\\frac{\\gamma \\cdot v^2}{2g} = \\frac{\\gamma \\cdot v_1^2}{2g} + \\gamma \\cdot h_1", section: "Сопротивление волнообразования", chapter: 4, page: 248, description: "Образование носовой волны — подъём уровня воды", params: "h₁ — высота подъёма воды у носа (носовая волна)" },
+  { latex: "l = \\frac{2\\pi}{g} \\cdot v^2 = 0{,}64 \\cdot v^2", section: "Сопротивление волнообразования", chapter: 4, page: 250, description: "Длина поперечных волн от скорости яхты", params: "l — длина волны (м), v — скорость яхты (м/сек)" },
+  { latex: "Fr = \\frac{v}{\\sqrt{g \\cdot L_{KLW}}}", section: "Измерение волнового сопротивления", chapter: 4, page: 251, description: "Число Фруда — условие подобия волнообразования", params: "Fr — число Фруда, v — скорость, L_KLW — длина по конструктивной ватерлинии" },
+  { latex: "v_w = 1{,}4 \\text{--} 1{,}7\\sqrt{L_{KLW}}", section: "Измерение волнового сопротивления", chapter: 4, page: 252, description: "Скорость водоизмещения килевой яхты", params: "v_w — предельная скорость водоизмещения (узлы), L_KLW — длина по КВЛ (футы)" },
+  { latex: "R_f = \\xi_f \\cdot 51 \\cdot v^2 \\cdot F_{zm}", section: "Измерение волнового сопротивления", chapter: 4, page: 253, description: "Формула волнового сопротивления", params: "ξ_f — коэффициент волнового сопротивления (из графика по числу Фруда)" },
+  { latex: "\\frac{D}{\\left(\\frac{L}{100}\\right)^3}", section: "Теоретические условия глиссирования", chapter: 4, page: 255, description: "Отношение водоизмещения к длине (условие глиссирования)", params: "D — водоизмещение, L — длина в см; при значении < 100 возможно глиссирование" },
+  { latex: "P_s = C_s \\cdot 51 \\cdot v^2 \\cdot F_{st}", section: "Добавочное сопротивление", chapter: 4, page: 259, description: "Боковая сила руля", params: "C_s — коэффициент боковой силы, F_st — площадь руля (м²)" },
+  { latex: "R_d = C_r \\cdot 51 \\cdot v^2 \\cdot F_{st}", section: "Добавочное сопротивление", chapter: 4, page: 259, description: "Добавочное сопротивление руля", params: "C_r — коэффициент сопротивления руля (из графика по углу отклонения)" },
+  { latex: "R_b = C \\cdot 51 \\cdot v^2 \\cdot F_m", section: "Боковое сопротивление шверта", chapter: 4, page: 266, description: "Боковое сопротивление шверта", params: "C — гидродинамический коэффициент, F_m — поверхность шверта (м²)" },
+  { latex: "C_s = \\frac{R_b}{51 \\cdot v^2 \\cdot F_m}", section: "Боковое сопротивление шверта", chapter: 4, page: 266, description: "Коэффициент бокового сопротивления шверта", params: "R_b — боковое сопротивление (= P_d, силе дрейфа), v — скорость яхты" },
+  { latex: "R_d = R_b \\cdot \\sin(\\delta + 2^\\circ)", section: "Добавочное сопротивление шверта", chapter: 4, page: 267, description: "Добавочное сопротивление плоского шверта", params: "R_b — боковое сопротивление, δ — угол дрейфа; +2° — отклонение R_b от перпендикуляра" },
+  { latex: "R_d = R_b \\cdot \\sin(\\delta - 3^\\circ)", section: "Добавочное сопротивление шверта", chapter: 4, page: 267, description: "Добавочное сопротивление профилированного шверта", params: "−3° — у профилированного шверта сила R_b проходит впереди перпендикуляра" },
+];
+
+const chapterNames = {
+  1: "О силах, движении и яхтах",
+  2: "Общие сведения о яхтах",
+  3: "Аэродинамика паруса",
+  4: "Гидромеханика парусной яхты"
+};
+
+// Filters
+const filtersEl = document.getElementById('filters');
+let activeChapter = 0;
+const allBtn = document.createElement('button');
+allBtn.textContent = 'Все';
+allBtn.className = 'active';
+allBtn.onclick = () => { activeChapter = 0; render(); };
+filtersEl.appendChild(allBtn);
+for (const ch of [1,2,3,4]) {
+  const btn = document.createElement('button');
+  const count = formulas.filter(f => f.chapter === ch).length;
+  btn.textContent = `Гл. ${ch}`;
+  btn.dataset.ch = ch;
+  btn.onclick = () => { activeChapter = ch; render(); };
+  filtersEl.appendChild(btn);
+}
+
+// Search
+const searchEl = document.getElementById('search');
+searchEl.addEventListener('input', () => render());
+
+function render() {
+  const query = searchEl.value.toLowerCase().trim();
+  const filtered = formulas.filter(f => {
+    if (activeChapter && f.chapter !== activeChapter) return false;
+    if (query) {
+      const haystack = (f.description + ' ' + f.latex + ' ' + f.section).toLowerCase();
+      return haystack.includes(query);
+    }
+    return true;
+  });
+
+  // Update filter buttons
+  filtersEl.querySelectorAll('button').forEach(btn => {
+    btn.classList.remove('active');
+    if (activeChapter === 0 && !btn.dataset.ch) btn.classList.add('active');
+    if (btn.dataset.ch && parseInt(btn.dataset.ch) === activeChapter) btn.classList.add('active');
+  });
+
+  // Build TOC by section
+  const tocEl = document.getElementById('toc');
+  tocEl.innerHTML = '';
+  const sections = [];
+  const seen = new Set();
+  filtered.forEach(f => {
+    const key = f.chapter + ':' + f.section;
+    if (!seen.has(key)) {
+      seen.add(key);
+      sections.push({ chapter: f.chapter, section: f.section, count: filtered.filter(x => x.chapter === f.chapter && x.section === f.section).length });
+    }
+  });
+  sections.forEach(s => {
+    const li = document.createElement('li');
+    li.innerHTML = `<a href="#sec-${s.chapter}-${s.section.replace(/\s/g,'_')}"><span class="tch">Гл. ${s.chapter}</span>${s.section} <span class="tsec">(${s.count})</span></a>`;
+    tocEl.appendChild(li);
+  });
+
+  // Build formula cards
+  const container = document.getElementById('formulas');
+  container.innerHTML = '';
+  let currentSection = '';
+  filtered.forEach((f, idx) => {
+    const secKey = f.chapter + ':' + f.section;
+    if (secKey !== currentSection) {
+      currentSection = secKey;
+      const h = document.createElement('h3');
+      h.id = `sec-${f.chapter}-${f.section.replace(/\s/g,'_')}`;
+      h.textContent = `Гл. ${f.chapter} — ${f.section}`;
+      container.appendChild(h);
+    }
+
+    const card = document.createElement('div');
+    card.className = 'formula-card';
+
+    const header = document.createElement('div');
+    header.className = 'formula-header';
+    const pageLink = f.page ? `<a href="djvu-viewer.html?page=${f.page}">стр. ${f.page}</a>` : '';
+    header.innerHTML = `<span class="formula-desc">${f.description}</span><span class="formula-meta">${pageLink}</span>`;
+    card.appendChild(header);
+
+    const body = document.createElement('div');
+    body.className = 'formula-body';
+    body.innerHTML = `$$${f.latex}$$`;
+    card.appendChild(body);
+
+    if (f.params) {
+      const params = document.createElement('div');
+      params.className = 'formula-params';
+      params.textContent = f.params;
+      card.appendChild(params);
+    }
+
+    const footer = document.createElement('div');
+    footer.className = 'formula-footer';
+    const code = document.createElement('code');
+    code.className = 'latex-code';
+    code.textContent = f.latex;
+    footer.appendChild(code);
+
+    const copyBtn = document.createElement('button');
+    copyBtn.className = 'copy-btn';
+    copyBtn.textContent = 'Копировать';
+    copyBtn.onclick = () => {
+      navigator.clipboard.writeText(f.latex).then(() => {
+        copyBtn.textContent = 'Скопировано!';
+        copyBtn.classList.add('copied');
+        setTimeout(() => { copyBtn.textContent = 'Копировать'; copyBtn.classList.remove('copied'); }, 1500);
+      });
+    };
+    footer.appendChild(copyBtn);
+    card.appendChild(footer);
+    container.appendChild(card);
+  });
+
+  // Re-typeset MathJax
+  if (window.MathJax && MathJax.typesetPromise) {
+    MathJax.typesetPromise([container]).catch(err => console.log('MathJax error:', err));
+  }
+}
+
+render();
+</script>
+</body>
+</html>
