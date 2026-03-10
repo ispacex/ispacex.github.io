@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Таблицы — Мархай</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  min-height: 100vh;
+  background: #0f1115;
+  color: #e5e7eb;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 16px;
+}
+a { color: #60a5fa; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h2 { font-size: 1.6rem; margin-bottom: 8px; }
+.subtitle { color: #94a3b8; margin-bottom: 24px; font-size: 0.95rem; }
+.wrap { width: 100%; max-width: 1200px; }
+.back { margin-bottom: 24px; }
+
+.table-card {
+  background: #1a1d24;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+.table-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: #15171c;
+  border-bottom: 1px solid #334155;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.table-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+.table-num { color: #60a5fa; margin-right: 8px; }
+.table-meta { font-size: 0.8rem; color: #94a3b8; }
+.table-actions { display: flex; gap: 8px; }
+.table-actions button, .table-actions a {
+  background: #1e293b;
+  color: #e5e7eb;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 5px 12px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-decoration: none;
+}
+.table-actions button:hover, .table-actions a:hover { background: #334155; }
+
+.table-scroll {
+  overflow-x: auto;
+  padding: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+th, td {
+  padding: 6px 10px;
+  border: 1px solid #334155;
+  text-align: left;
+  white-space: nowrap;
+}
+th {
+  background: #1e293b;
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: #94a3b8;
+}
+td { color: #e5e7eb; }
+tr:hover td { background: #1a2540; }
+td.num { text-align: right; }
+
+.export-all {
+  margin-bottom: 24px;
+  display: flex;
+  gap: 8px;
+}
+.export-all button {
+  background: #1e293b;
+  color: #e5e7eb;
+  border: 1px solid #334155;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.export-all button:hover { background: #60a5fa; color: #0f1115; border-color: #60a5fa; }
+
+.toc { margin-bottom: 32px; }
+.toc ul { list-style: none; padding: 0; }
+.toc li {
+  padding: 6px 0;
+  border-bottom: 1px solid #1e293b;
+}
+.toc li a { font-size: 0.9rem; }
+.toc .tnum { color: #60a5fa; font-weight: 600; margin-right: 6px; }
+.toc .tch { color: #64748b; font-size: 0.8rem; margin-left: 8px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<p class="back"><a href="./">&larr; Назад</a></p>
+<h2>Таблицы</h2>
+<p class="subtitle">Все таблицы из книги. Можно экспортировать в Excel.</p>
+
+<div class="export-all">
+  <button onclick="exportAll()">Скачать все таблицы (XLSX)</button>
+</div>
+
+<div class="toc">
+<ul id="toc"></ul>
+</div>
+
+<div id="tables"></div>
+</div>
+
+<script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+<script>
+const tables = [
+  {
+    id: "1", title: "Олимпийские классы яхт по годам", chapter: 2, page: 49,
+    headers: ["Год", "R-12", "R-10", "R-8", "R-7", "R-6", "R-5,5", "Звёздный", "Дракон", "Firefly", "Швертбот (2 чел.)", "Швертбот (1 чел.)"],
+    rows: [
+      ["1908", "+", "+", "+", "+", "", "", "", "", "", "", ""],
+      ["1920", "+", "", "+", "+", "+", "", "", "", "", "", ""],
+      ["1924", "+", "", "+", "", "+", "", "", "", "", "", ""],
+      ["1928", "+", "", "+", "", "+", "", "", "", "", "", ""],
+      ["1932", "", "", "", "", "", "", "+", "", "", "", ""],
+      ["1936", "", "", "+", "", "+", "", "+", "+", "", "", "Олимпик"],
+      ["1948", "", "", "", "", "+", "+", "+", "+", "+", "", ""],
+      ["1952", "", "", "", "", "+", "+", "+", "+", "", "5-0-5", "Финн"],
+      ["1956", "", "", "", "", "", "+", "+", "+", "", "", "Финн"],
+      ["1960", "", "", "", "", "", "+", "+", "+", "", "", "Финн"],
+    ],
+  },
+  {
+    id: "2", title: "Классы яхт по формуле KR", chapter: 2, page: 55,
+    headers: ["Класс", "Гоночный балл R, м"],
+    rows: [
+      ["I", "от 17,00 до 21,95"],
+      ["II", "от 14,00 до 16,95"],
+      ["III", "от 11,00 до 13,95"],
+      ["IV", "от 8,50 до 10,95"],
+      ["V", "от 6,50 до 8,45"],
+      ["VI", "от 5,00 до 6,45"],
+    ],
+  },
+  {
+    id: "3", title: "Коэффициент учёта времени для яхт класса KR", chapter: 2, page: 55,
+    headers: ["R", "K", "R", "K", "R", "K", "R", "K"],
+    rows: [
+      ["5,00", "1,4785", "9,00", "0,9875", "13,00", "0,8315", "17,00", "0,7465"],
+      ["5,50", "1,3685", "9,50", "0,9625", "13,50", "0,8185", "17,50", "0,7385"],
+      ["6,00", "1,2745", "10,00", "0,9395", "14,00", "0,8065", "18,00", "0,7315"],
+      ["6,50", "1,1935", "10,50", "0,9185", "14,50", "0,7945", "18,50", "0,7245"],
+      ["7,00", "1,1245", "11,00", "0,8985", "15,00", "0,7835", "19,00", "0,7185"],
+      ["7,50", "1,0655", "11,50", "0,8805", "15,50", "0,7735", "19,50", "0,7125"],
+      ["8,00", "1,0135", "12,00", "0,8635", "16,00", "0,7635", "20,00", "0,7075"],
+      ["8,50", "0,9985", "12,50", "0,8475", "16,50", "0,7545", "21,00", "0,6975"],
+    ],
+    numCols: [0,1,2,3,4,5,6,7],
+  },
+  {
+    id: "4", title: "Пример вычисления учтённого времени", chapter: 2, page: 56,
+    headers: ["Яхта", "Гоночный балл R", "Коэффициент K"],
+    rows: [
+      ["«Звездочка»", "8,80", "0,994"],
+      ["«Альбатрос»", "11,10", "0,896"],
+      ["«Аист»", "14,40", "0,797"],
+    ],
+    numCols: [1, 2],
+  },
+  {
+    id: "5", title: "Сравнение размеров яхт классов R-5,5, Звёздный и Дракон", chapter: 2, page: 71,
+    headers: ["Параметр", "R-5,5", "Звёздный", "Дракон"],
+    rows: [
+      ["Длина по ватерлинии, м", "6,60", "4,72", "5,65"],
+      ["Ширина макс., м", "1,98", "1,73", "1,95"],
+      ["Осадка, м", "1,30", "1,02", "1,20"],
+      ["Водоизмещение, кг", "2000", "658", "1700"],
+      ["Площадь парусов, м²", "28,5", "26,5", "23,7"],
+    ],
+    numCols: [1, 2, 3],
+  },
+  {
+    id: "6", title: "Паруса яхты «Миф оф Мальхама»", chapter: 2, page: 78,
+    headers: ["№", "Парус", "Площадь, м²", "Материал"],
+    rows: [
+      ["1", "Грот", "41,8", "Терилен"],
+      ["2", "Триселя", "23,7", "Терилен"],
+      ["3", "Генуэзский стаксель №1", "46,5", "Нейлон"],
+      ["4", "Генуэзский стаксель №2", "37,2", "Терилен"],
+      ["5", "Стаксель №1", "18,6", "Терилен"],
+      ["6", "Стаксель №2", "13,0", "Терилен"],
+      ["7", "Стаксель штормовой", "9,3", "Терилен"],
+      ["8", "Спинакер №1", "111,5", "Нейлон"],
+      ["9", "Спинакер №2", "92,9", "Нейлон"],
+    ],
+    numCols: [0, 2],
+  },
+  {
+    id: "7", title: "Влияние диаметра отверстия спинакера на аэродинамическую силу", chapter: 3, page: 190,
+    headers: ["Диаметр отверстия, мм", "Аэродинамическая сила, кГ"],
+    rows: [
+      ["55", "9,9"],
+      ["120", "10,22"],
+      ["160", "10,87"],
+    ],
+    numCols: [0, 1],
+  },
+  {
+    id: "8", title: "Сопротивление ткани растяжению", chapter: 3, page: 195,
+    headers: ["Продолжительность, час", "По основе, %", "По утку, %", "По диагонали, %"],
+    rows: [
+      ["0,5", "9", "7,5", "24"],
+      ["6", "9", "7,5", "24"],
+      ["24", "10,5", "7,85", "24,25"],
+      ["1200", "12", "9,0", "25"],
+    ],
+    numCols: [0, 1, 2, 3],
+  },
+  {
+    id: "9", title: "Подбор парусины по площади паруса", chapter: 3, page: 197,
+    headers: ["Паруса", "5,5 м²", "9,3", "13,9", "19,5", "26", "34", "45", "60"],
+    rows: [
+      ["Грот, бизань", "200", "240", "270", "340", "380", "400", "480", ""],
+      ["Штормовые стаксели, триселя", "240", "380", "460", "480", "510", "580", "615", ""],
+      ["Передние паруса для ветра 5-6 баллов", "240", "270", "340", "380", "420", "460", "480", "510"],
+      ["Паруса для среднего ветра 3-4 балла", "140", "170", "200", "240", "270", "300", "340", "380"],
+      ["Хлопчатка для лёгкого ветра 1-2 балла", "85", "100", "120", "140", "155", "170", "190", "200"],
+      ["Паруса для лёгкого ветра 1-2 балла (дакрон)", "70", "85", "100", "120", "120", "140", "155", "170"],
+      ["Спинакер (нейлон, дакрон)", "", "50", "50", "50", "50", "", "60", ""],
+      ["Спинакер (хлопчатка)", "", "60", "60", "60", "85", "85", "85", ""],
+    ],
+    numCols: [1,2,3,4,5,6,7,8],
+  },
+  {
+    id: "10", title: "Подбор ткани на грот по удельному весу", chapter: 3, page: 197,
+    headers: ["Площадь паруса, м²", "Вес ткани, г/м²"],
+    rows: [
+      ["10", "165-200"],
+      ["15", "175-240"],
+      ["20", "250-340"],
+    ],
+  },
+  {
+    id: "11", title: "Сравнение паруса из толстой и тонкой ткани", chapter: 3, page: 198,
+    headers: ["Парус из толстой ткани", "Парус из тонкой ткани"],
+    rows: [
+      ["Больше времени на выхаживание", "Времени на выхаживание надо меньше"],
+      ["Более прочный и устойчивый", "Прочность и стабильность меньше"],
+      ["Лучше сохраняет форму независимо от атмосферных условий", "Хуже сохраняет форму при сильных ветрах и влажности"],
+      ["Сохраняет постоянное «пузо» при сильном и слабом ветре", "С ростом силы ветра увеличивается «пузатость» паруса"],
+      ["Более прочен на разрыв", "Менее прочен на разрыв"],
+      ["Заметно тяжелее по весу", "Заметно легче по весу"],
+    ],
+  },
+];
+
+// Build TOC
+const tocEl = document.getElementById('toc');
+tables.forEach(t => {
+  const li = document.createElement('li');
+  li.innerHTML = `<a href="#table-${t.id}"><span class="tnum">Табл. ${t.id}</span>${t.title}<span class="tch">Глава ${t.chapter}, стр. ${t.page}</span></a>`;
+  tocEl.appendChild(li);
+});
+
+// Build tables
+const container = document.getElementById('tables');
+tables.forEach(t => {
+  const card = document.createElement('div');
+  card.className = 'table-card';
+  card.id = 'table-' + t.id;
+
+  const header = document.createElement('div');
+  header.className = 'table-header';
+  header.innerHTML = `
+    <div>
+      <span class="table-title"><span class="table-num">Табл. ${t.id}</span>${t.title}</span>
+      <div class="table-meta">Глава ${t.chapter}, стр. ${t.page}</div>
+    </div>
+    <div class="table-actions">
+      <button onclick="exportTable('${t.id}')">XLSX</button>
+      <a href="viewer.html#page=${t.page}">Открыть в PDF</a>
+    </div>`;
+  card.appendChild(header);
+
+  const scroll = document.createElement('div');
+  scroll.className = 'table-scroll';
+
+  const table = document.createElement('table');
+  table.dataset.id = t.id;
+
+  const thead = document.createElement('thead');
+  const tr = document.createElement('tr');
+  t.headers.forEach(h => {
+    const th = document.createElement('th');
+    th.textContent = h;
+    tr.appendChild(th);
+  });
+  thead.appendChild(tr);
+  table.appendChild(thead);
+
+  const tbody = document.createElement('tbody');
+  t.rows.forEach(row => {
+    const tr = document.createElement('tr');
+    const cells = row;
+    cells.forEach((val, i) => {
+      const td = document.createElement('td');
+      td.textContent = val;
+      if (t.numCols && t.numCols.includes(i)) td.className = 'num';
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+
+  scroll.appendChild(table);
+  card.appendChild(scroll);
+  container.appendChild(card);
+});
+
+function getTableData(id) {
+  const t = tables.find(t => t.id === id);
+  if (!t) return null;
+  const rows = [t.headers];
+  t.rows.forEach(row => rows.push(row));
+  return { name: 'Табл. ' + t.id, data: rows };
+}
+
+function exportTable(id) {
+  const td = getTableData(id);
+  if (!td) return;
+  const wb = XLSX.utils.book_new();
+  const ws = XLSX.utils.aoa_to_sheet(td.data);
+  XLSX.utils.book_append_sheet(wb, ws, td.name);
+  XLSX.writeFile(wb, `markhai_table_${id}.xlsx`);
+}
+
+function exportAll() {
+  const wb = XLSX.utils.book_new();
+  tables.forEach(t => {
+    const td = getTableData(t.id);
+    if (!td) return;
+    const ws = XLSX.utils.aoa_to_sheet(td.data);
+    const name = td.name.substring(0, 31);
+    XLSX.utils.book_append_sheet(wb, ws, name);
+  });
+  XLSX.writeFile(wb, 'markhai_tables.xlsx');
+}
+</script>
+</body>
+</html>

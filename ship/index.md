@@ -15,3 +15,4 @@ title: "Теория плавания под парусами"
 * [Словарь терминов](dictionary.html)
 * [Сводная таблица яхт](yachts.html)
 * [Рисунки](pictures.html)
+* [Таблицы](tables.html)
