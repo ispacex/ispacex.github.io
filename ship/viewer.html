@@ -197,7 +197,11 @@
     #toc-list li:hover { background: var(--panel-item-hover); }
     #toc-list li.current { background: var(--panel-item-active); font-weight: 600; }
 
-    .toc-part { font-weight: 700; font-size: 12px; text-transform: uppercase; opacity: 0.6; padding: 12px 12px 4px; letter-spacing: 0.5px; }
+    .toc-part { font-weight: 700; font-size: 12px; text-transform: uppercase; opacity: 0.6; padding: 12px 12px 4px; letter-spacing: 0.5px; cursor: pointer; user-select: none; }
+    .toc-part:hover { opacity: 0.8; }
+    .toc-part::before { content: '▾ '; font-size: 10px; }
+    .toc-part.collapsed::before { content: '▸ '; }
+    .toc-group.collapsed { display: none; }
 
     #search-box {
       padding: 8px;
@@ -325,7 +329,7 @@
     <button id="btn-search" title="Поиск">&#128269;</button>
     <div class="sep"></div>
     <button id="mode-single" title="Одна страница">&#9633;</button>
-    <button id="mode-scroll" class="active" title="Непрерывная прокрутка">&#9776;</button>
+    <button id="mode-scroll" class="active" title="Непрерывная прокрутка">&#8661;</button>
     <div class="sep"></div>
     <button id="prev" title="Предыдущая">&#9664;</button>
     <input id="page-input" type="text" title="Перейти к странице">
@@ -405,7 +409,7 @@
         return;
       }
 
-      async function processItems(items, level) {
+      async function processItems(items, level, parent) {
         for (const item of items) {
           let page = null;
           if (item.dest) {
@@ -426,23 +430,35 @@
           if (level === 0 && item.items && item.items.length > 0) {
             li.className = 'toc-part';
             li.textContent = item.title;
+            parent.appendChild(li);
+
+            const group = document.createElement('div');
+            group.className = 'toc-group';
+            parent.appendChild(group);
+
+            li.addEventListener('click', () => {
+              li.classList.toggle('collapsed');
+              group.classList.toggle('collapsed');
+            });
+
+            await processItems(item.items, level + 1, group);
           } else {
-            li.style.paddingLeft = (12 + (level - 1) * 16) + 'px';
+            li.style.paddingLeft = (12 + Math.max(0, level - 1) * 16) + 'px';
             li.textContent = item.title;
             if (page) {
               li.dataset.page = page;
               li.addEventListener('click', () => goToPage(page));
             }
-          }
-          tocList.appendChild(li);
+            parent.appendChild(li);
 
-          if (item.items && item.items.length > 0) {
-            await processItems(item.items, level + 1);
+            if (item.items && item.items.length > 0) {
+              await processItems(item.items, level + 1, parent);
+            }
           }
         }
       }
 
-      await processItems(outline, 0);
+      await processItems(outline, 0, tocList);
     }
 
     function updateTocHighlight(pageNum) {
@@ -640,8 +656,9 @@
       pageWrappers[num - 1].scrollIntoView({ behavior: 'instant' });
     }
 
-    function goToPage(num) {
+    function goToPage(num, updateHash) {
       if (num < 1 || num > totalPages) return;
+      if (updateHash !== false) history.replaceState(null, '', '#page=' + num);
       if (mode === 'single') renderSinglePage(num);
       else { scrollToPage(num); setTimeout(renderVisibleScroll, 50); }
     }
@@ -975,10 +992,13 @@
       pdfDoc = await pdfjsLib.getDocument('theory.pdf').promise;
       totalPages = pdfDoc.numPages;
 
+      const hashMatch = window.location.hash.match(/page=(\d+)/);
+      const hashPage = hashMatch ? parseInt(hashMatch[1], 10) : 0;
       const params = new URLSearchParams(window.location.search);
       const startPage = parseInt(params.get('page'), 10);
       const savedPage = parseInt(localStorage.getItem('pdf-last-page'), 10);
-      if (startPage > 0 && startPage <= totalPages) currentPage = startPage;
+      if (hashPage > 0 && hashPage <= totalPages) currentPage = hashPage;
+      else if (startPage > 0 && startPage <= totalPages) currentPage = startPage;
       else if (savedPage > 0 && savedPage <= totalPages) currentPage = savedPage;
 
       await buildToc();
