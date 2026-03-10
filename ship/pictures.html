@@ -63,6 +63,10 @@ h3 { font-size: 1.15rem; margin: 32px 0 16px; color: #94a3b8; border-bottom: 1px
 .lb.active { display: flex; }
 .lb img { max-width: 90vw; max-height: 80vh; filter: invert(0.85); border-radius: 8px; }
 .lb-cap { color: #e5e7eb; margin-top: 16px; font-size: 0.95rem; text-align: center; max-width: 700px; }
+.lb-nav { position: fixed; top: 50%; transform: translateY(-50%); font-size: 3rem; color: #e5e7eb; cursor: pointer; padding: 16px; user-select: none; opacity: 0.6; transition: opacity 0.15s; z-index: 101; }
+.lb-nav:hover { opacity: 1; }
+.lb-prev { left: 16px; }
+.lb-next { right: 16px; }
 /* Filter */
 .filters { margin-bottom: 24px; display: flex; gap: 8px; flex-wrap: wrap; }
 .filters button {
@@ -89,8 +93,10 @@ h3 { font-size: 1.15rem; margin: 32px 0 16px; color: #94a3b8; border-bottom: 1px
 <div class="grid" id="grid"></div>
 </div>
 <div class="lb" id="lb" onclick="closeLb()">
-<img id="lbi" src="">
+<div class="lb-nav lb-prev" onclick="event.stopPropagation();navLb(-1)">&#8249;</div>
+<img id="lbi" src="" onclick="event.stopPropagation()">
 <div class="lb-cap" id="lbc"></div>
+<div class="lb-nav lb-next" onclick="event.stopPropagation();navLb(1)">&#8250;</div>
 </div>
 <script>
 const pics = [
@@ -379,19 +385,56 @@ function filter(ch) {
   render();
 }
 
-function openLb(p) {
+let currentPic = null;
+
+function openLb(p, pushState) {
+  currentPic = p;
   document.getElementById('lbi').src = `img/pic${p.n}.png`;
   document.getElementById('lbc').textContent = `Рис. ${p.n}. ${p.cap}`;
   document.getElementById('lb').classList.add('active');
+  if (pushState !== false) history.pushState(null, '', `#pic${p.n}`);
 }
 
-function closeLb() {
+function closeLb(pushState) {
+  currentPic = null;
   document.getElementById('lb').classList.remove('active');
+  if (pushState !== false) history.pushState(null, '', location.pathname + location.search);
 }
 
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLb(); });
+function navLb(dir) {
+  if (!currentPic) return;
+  const filtered = currentFilter === 'all' ? pics : pics.filter(p => p.ch === currentFilter);
+  const idx = filtered.findIndex(p => p.n === currentPic.n);
+  const next = filtered[idx + dir];
+  if (next) openLb(next);
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeLb();
+  if (e.key === 'ArrowLeft') navLb(-1);
+  if (e.key === 'ArrowRight') navLb(1);
+});
+
+window.addEventListener('popstate', () => {
+  const m = location.hash.match(/^#pic(\d+)$/);
+  if (m) {
+    const p = pics.find(x => x.n === +m[1]);
+    if (p) openLb(p, false);
+  } else {
+    closeLb(false);
+  }
+});
 
 render();
+
+// Handle initial hash on page load
+(function() {
+  const m = location.hash.match(/^#pic(\d+)$/);
+  if (m) {
+    const p = pics.find(x => x.n === +m[1]);
+    if (p) openLb(p, false);
+  }
+})();
 </script>
 </body>
 </html>
