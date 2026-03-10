@@ -588,6 +588,7 @@
     const renderedPages = new Set();
     let rendering = false;
     let mode = 'scroll';
+    const storageKey = 'pdf-page:' + pdfUrl;
 
     function getScale(pageWidth) {
       if (scale === 0) return (container.clientWidth - 32) / pageWidth;
@@ -598,7 +599,6 @@
       pageInfo.textContent = '/ ' + totalPages;
       if (document.activeElement !== pageInput) pageInput.value = num;
       currentPage = num;
-      const storageKey = 'pdf-last-page-' + pdfUrl.split('/').pop();
       localStorage.setItem(storageKey, num);
       updateTocHighlight(num);
     }
@@ -1109,7 +1109,6 @@
       const hashMatch = window.location.hash.match(/page=(\d+)/);
       const hashPage = hashMatch ? parseInt(hashMatch[1], 10) : 0;
       const startPage = parseInt(params.get('page'), 10);
-      const storageKey = 'pdf-last-page-' + pdfUrl.split('/').pop();
       const savedPage = parseInt(localStorage.getItem(storageKey), 10);
       if (hashPage > 0 && hashPage <= totalPages) currentPage = hashPage;
       else if (startPage > 0 && startPage <= totalPages) currentPage = startPage;
