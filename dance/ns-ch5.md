@@ -410,3 +410,5 @@ tāṇḍava-nṛttam idam pralayānte pātu harasya sadā sukhadāyi ||
 –
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>

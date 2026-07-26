@@ -550,3 +550,5 @@ title: "Натьяшастра, Глава 7"
   Такова седьмая глава в Натьяшастра Бхараты, называемая «описание бхава». 
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>

@@ -82,3 +82,5 @@ title: "Натьяшастра, Глава 12"
 На этом заканчивается глава XII «Натьяшастры» Бхараты, в которой говорится о выполнении Мандал.
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>

@@ -87,3 +87,5 @@ title: "Натьяшастра, Глава 37"
 Такова в Натьяшастра  Бхараты 37-я глава, повествующая о тайном.  
 
 Подписывайтесь, чтобы читать другие публикации о Натье [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>

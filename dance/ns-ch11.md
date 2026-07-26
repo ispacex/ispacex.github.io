@@ -217,3 +217,5 @@ title: "Натьяшастра, Глава 11"
 На этом заканчивается глава XI «Натьяшастры» Бхараты, в которой говорится о выполнении Чари.
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>

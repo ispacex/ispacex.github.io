@@ -626,3 +626,5 @@ title: "Натьяшастра, Глава 4"
 
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>

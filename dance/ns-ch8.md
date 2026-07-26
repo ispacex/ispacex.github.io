@@ -398,3 +398,5 @@ title: "Натьяшастра, Глава 8"
 Такова восьмая глава в Натьяшастра Бхараты, называемая о дополнительных частях тела.
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
+
+<script src="/dance/verse-links.js"></script>
