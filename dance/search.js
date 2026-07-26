@@ -37,6 +37,16 @@
 			.replace(/ё/g, 'е');
 	}
 
+	function chapterNo(url) {
+		var m = /ns-ch(\d+)/.exec(url);
+		return m ? parseInt(m[1], 10) : 1e6;
+	}
+
+	function verseNo(text) {
+		var m = VERSE.exec(text);
+		return m ? parseInt(m[1], 10) : 1e6;
+	}
+
 	function anchor(text) {
 		var m = VERSE.exec(text);
 		if (!m) return '';
@@ -89,6 +99,13 @@
 		var found = entries.filter(function (e) {
 			var f = fold(e.x);
 			return terms.every(function (t) { return f.indexOf(t) !== -1; });
+		});
+
+		/* Порядок в индексе — это порядок обхода файлов у Jekyll, где глава 18
+		   идёт раньше второй. Читателю нужен порядок трактата, поэтому
+		   сортируем по номеру главы, а внутри — по номеру строфы. */
+		found.sort(function (a, b) {
+			return chapterNo(a.u) - chapterNo(b.u) || verseNo(a.x) - verseNo(b.x);
 		});
 
 		status.textContent = found.length
