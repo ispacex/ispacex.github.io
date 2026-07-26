@@ -25,9 +25,18 @@
 	];
 
 	function respell(s) {
-		return RESPELL.reduce(function (acc, pair) {
+		var out = RESPELL.reduce(function (acc, pair) {
 			return acc.split(pair[0]).join(pair[1]);
 		}, s.toLowerCase());
+
+		/* «y» после согласной — глайд, а не слог: в hāsya это «хасья». Но
+		   синтезатор на «haasya» вставляет гласную и выговаривает «хасая»,
+		   поэтому слог разделяем явно: «haas-ya».
+
+		   Условие «есть предшествующий знак» отсекает начало слова: во
+		   vyabhicāri тот же «vy» читается как «вья» и правильно, разрывать
+		   его не надо. После гласной (abhinaya, laya) «ya» и так слог. */
+		return out.replace(/(.)([bcdfghjklmnpqrstvz])y/g, '$1$2-y');
 	}
 
 	function styles() {
@@ -51,6 +60,13 @@
 		document.head.appendChild(el);
 	}
 
+	/* Диакритику сворачиваем с обеих сторон: ищущий наберёт «rangapuja», а в
+	   таблице стоит «raṅgapūjā». NFD разбивает букву на основу и знак, знак
+	   выбрасываем. */
+	function fold(s) {
+		return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+	}
+
 	function filter() {
 		var input = document.getElementById('gl-filter');
 		if (!input) return;
@@ -58,9 +74,9 @@
 			return !tr.querySelector('th');
 		});
 		input.addEventListener('input', function () {
-			var q = input.value.trim().toLowerCase();
+			var q = fold(input.value.trim());
 			rows.forEach(function (tr) {
-				tr.style.display = !q || tr.textContent.toLowerCase().indexOf(q) !== -1 ? '' : 'none';
+				tr.style.display = !q || fold(tr.textContent).indexOf(q) !== -1 ? '' : 'none';
 			});
 		});
 	}
