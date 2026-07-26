@@ -48,6 +48,8 @@
 			'table.gl th{white-space:nowrap}',
 			'table.gl td.term{white-space:nowrap}',
 			'table.gl td.skt{white-space:nowrap;font-style:italic}',
+			/* Деванагари при том же кегле выглядит мельче латиницы. */
+			'table.gl td.deva{white-space:nowrap;font-size:1.15em;line-height:1.4}',
 			'button.tts{background:none;border:1px solid rgba(128,128,128,.5);border-radius:999px;',
 			'color:inherit;cursor:pointer;font-size:.8em;line-height:1;padding:.15em .4em;',
 			'margin-left:.35em;opacity:.5}',
