@@ -29,6 +29,12 @@
 			return acc.split(pair[0]).join(pair[1]);
 		}, s.toLowerCase());
 
+		/* Хинди-голос отбрасывает конечное краткое «a»: संघ он читает «сангх».
+		   В пали и санскрите этот слог произносится, поэтому отделяем его —
+		   «san-gha». Придыхательные (kh, gh, ch, dh, sh) идут в перечислении
+		   целиком: это один согласный, рвать его посередине нельзя. */
+		out = out.replace(/(chh|[kgcjtdpbs]h|[bcdfghjklmnpqrstvyz])a$/, '-$1a');
+
 		/* «y» после согласной — глайд, а не слог: в hāsya это «хасья». Но
 		   синтезатор на «haasya» вставляет гласную и выговаривает «хасая»,
 		   поэтому слог разделяем явно: «haas-ya».
@@ -78,7 +84,8 @@
 		input.addEventListener('input', function () {
 			var q = fold(input.value.trim());
 			rows.forEach(function (tr) {
-				tr.style.display = !q || fold(tr.textContent).indexOf(q) !== -1 ? '' : 'none';
+				var hay = fold(tr.textContent + ' ' + (tr.getAttribute('data-alias') || ''));
+				tr.style.display = !q || hay.indexOf(q) !== -1 ? '' : 'none';
 			});
 		});
 	}
