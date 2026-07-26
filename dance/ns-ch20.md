@@ -394,4 +394,4 @@ title: "Натьяшастра, Глава 20"
 
 Здесь заканчивается глава XX Натьяшастры Бхараты, посвящённая Десяти видам драмы.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

@@ -572,4 +572,4 @@ title: "Натьяшастра, Глава 23"
 
 ---
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

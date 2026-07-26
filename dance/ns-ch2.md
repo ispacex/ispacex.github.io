@@ -539,4 +539,4 @@ title: "Натьяшастра, Глава 2"
 
 Продолжение – в следующих публикациях [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

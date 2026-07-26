@@ -288,4 +288,4 @@ title: "Натьяшастра, Глава 35"
 
 Здесь заканчивается глава XXXV Натьяшастры, трактующая о распределении ролей.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

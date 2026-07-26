@@ -164,4 +164,4 @@ title: "Натьяшастра, Глава 18"
 
 Сим завершается глава восемнадцатая Натьяшастры, трактующая о правилах употребления языков.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

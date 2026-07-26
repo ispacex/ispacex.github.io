@@ -227,4 +227,4 @@ title: "Натьяшастра, Глава 24"
 
 ---
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

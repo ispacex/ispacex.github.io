@@ -88,4 +88,4 @@ title: "Натьяшастра, Глава 37"
 
 Подписывайтесь, чтобы читать другие публикации о Натье [https://t.me/natyashastra](https://t.me/natyashastra) 🙏
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

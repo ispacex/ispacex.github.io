@@ -20,7 +20,14 @@
 			'.vh{opacity:.25;text-decoration:none;margin-right:.4em;font-size:.85em}',
 			'.vh:hover,.vh:focus{opacity:1;text-decoration:none}',
 			'p:target{background:rgba(255,220,120,.25);border-radius:3px}',
-			'@media print{.vh{display:none}}'
+			'.to-top{position:fixed;left:12px;bottom:12px;z-index:998;',
+			'padding:.4em .75em;border-radius:999px;cursor:pointer;',
+			'font:9pt/1.4 Verdana,Arial,sans-serif;',
+			'opacity:0;visibility:hidden;transition:opacity .18s ease,visibility .18s ease}',
+			'.to-top.is-visible{opacity:.75;visibility:visible}',
+			'.to-top:hover,.to-top:focus{opacity:1}',
+			'@media (prefers-reduced-motion:reduce){.to-top{transition:none}}',
+			'@media print{.vh,.to-top{display:none}}'
 		].join('');
 		var el = document.createElement('style');
 		el.appendChild(document.createTextNode(css));
@@ -61,9 +68,39 @@
 		});
 	}
 
+	/* Кнопка «наверх»: главы длинные, а листать обратно к оглавлению долго.
+	   Появляется, когда прокручено больше экрана. */
+	function toTop() {
+		var btn = document.createElement('button');
+		btn.type = 'button';
+		btn.className = 'to-top';
+		btn.title = 'В начало страницы';
+		btn.setAttribute('aria-label', 'В начало страницы');
+		btn.appendChild(document.createTextNode('↑ наверх'));
+		btn.onclick = function () {
+			window.scrollTo({ top: 0, behavior: 'smooth' });
+		};
+		document.body.appendChild(btn);
+
+		var pending = false;
+		function update() {
+			pending = false;
+			btn.classList.toggle('is-visible', window.scrollY > window.innerHeight);
+		}
+		function schedule() {
+			if (pending) return;
+			pending = true;
+			window.requestAnimationFrame(update);
+		}
+		window.addEventListener('scroll', schedule, { passive: true });
+		window.addEventListener('resize', schedule, { passive: true });
+		update();
+	}
+
 	function run() {
 		styles();
 		mark();
+		toTop();
 		// Якоря появились только сейчас, так что переход по ссылке из адресной
 		// строки нужно доиграть вручную.
 		if (location.hash) {

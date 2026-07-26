@@ -186,4 +186,4 @@ title: "Натьяшастра, Глава 22"
 
 Здесь заканчивается глава XXII «Натьяшастры» Бхараты, трактующая о стилях.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

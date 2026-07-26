@@ -207,4 +207,4 @@ title: "Натьяшастра, Глава 32"
 
 Здесь заканчивается глава тридцать вторая Натьяшастры Бхараты, трактующая о песнях дхрува.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

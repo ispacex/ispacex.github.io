@@ -178,4 +178,4 @@ title: "Натьяшастра, Глава 16"
 
 170-171/ Общее число матр: первое полустишие -- тридцать; второе полустишие -- двадцать семь.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

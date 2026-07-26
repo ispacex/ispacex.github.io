@@ -179,4 +179,4 @@ title: "Натьяшастра, Глава 19"
 
 Здесь заканчивается глава XIX «Натьяшастры» Бхараты, посвящённая интонации в связи со словесным представлением.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

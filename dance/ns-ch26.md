@@ -288,4 +288,4 @@ title: "Натьяшастра, Глава 26"
 
 Здесь заканчивается глава XXVI Натьяшастры Бхараты, трактующая о живописном представлении.
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>

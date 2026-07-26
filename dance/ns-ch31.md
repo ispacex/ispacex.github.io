@@ -260,4 +260,4 @@ title: "Натьяшастра, Глава 31"
 
 Здесь заканчивается глава тридцать первая Натьяшастры Бхараты, трактующая о мере времени (тала).
 
-<script src="/dance/verse-links.js"></script>
+<script src="/dance/chapter.js"></script>
