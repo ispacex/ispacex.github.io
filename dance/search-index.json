@@ -1,0 +1,28 @@
+---
+layout: null
+sitemap: false
+---
+{%- comment -%}
+Индекс для поиска по главам «Натьяшастры». Собирается самим Jekyll при сборке
+сайта, поэтому не может разойтись с текстом и не требует ручного шага.
+
+Единица индекса — строка исходника: в этих главах одна строфа занимает ровно
+одну строку, так что попадание сразу указывает на строфу, а не на главу
+целиком. Якорь («#v7») выводит уже клиент — в Liquid нет регулярных выражений,
+а в JavaScript они есть.
+{%- endcomment -%}
+{%- assign chapters = site.pages | where_exp: "p", "p.path contains 'dance/ns-ch'" -%}
+[
+{%- assign first = true -%}
+{%- for ch in chapters -%}
+{%- assign lines = ch.content | newline_to_br | split: "<br />" -%}
+{%- for line in lines -%}
+{%- assign text = line | strip_html | strip -%}
+{%- if text.size > 24 -%}
+{%- unless first %},{% endunless -%}
+{%- assign first = false -%}
+{"u":{{ ch.url | jsonify }},"t":{{ ch.title | jsonify }},"x":{{ text | jsonify }}}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+]

@@ -8,6 +8,8 @@ title: "Индийский танец и театр, Натьяшастра"
 
 ## Натьяшастра
 
+[Поиск по главам](/dance/search) · [Словарь терминов](/dance/glossary)
+
 Обновления будут публиковаться в [канале](https://t.me/natyashastra).
 
 Перевод некоторых глав выполнен на основе [сайта о НШ](https://natyashastra.narod.ru/) с небольшими корректировками, исходный источник – [Wisdomlib](https://www.wisdomlib.org/hinduism/book/the-natyashastra), перевод на английский от Manomohan Ghosh.

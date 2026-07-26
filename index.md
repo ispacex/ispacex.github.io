@@ -15,7 +15,7 @@ title: "Inner space exploration institute"
 ---
 
 * [Art](/art)
-* [Dance](/dance)
+* [Natyashastra](/dance)
   * [Natya talam](/nt)
 * [КШ](/ksh)
 * [Theatre](/theatre)
