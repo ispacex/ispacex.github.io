@@ -1,15 +1,32 @@
 /* Словарь терминов: фильтр по строкам и озвучка санскритских слов.
  *
- * Пока звуковые файлы не сгенерированы, кнопки откатываются на системный
- * синтез речи. Отдавать ему IAST как есть нельзя: диакритику он глотает
- * (rasa и rāsa звучат одинаково, ś читается как s), поэтому произносится не
- * написание, а его переложение. Где общее правило врёт — у строки стоит
- * data-say с живым произношением.
+ * Комплектов озвучки два, и читают они по-разному: «системный» — macOS-голос
+ * hi_IN, применяющий правило хинди и проглатывающий конечное краткое «а»
+ * (saṅgha → «сангх»); Parler — ai4bharat/indic-parler-tts, обученный в том
+ * числе на санскрите, окончание выговаривает. Выбор запоминается.
+ *
+ * Если файла нет ни в одном комплекте, кнопка откатывается на системный синтез
+ * речи. Отдавать ему IAST как есть нельзя: диакритику он глотает (rasa и rāsa
+ * звучат одинаково, ś читается как s), поэтому произносится не написание, а
+ * его переложение. Где общее правило врёт — у строки стоит data-say с живым
+ * произношением.
  */
 (function () {
 	'use strict';
 
 	var AUDIO_BASE = '/dance/audio/';
+	var VOICES = { parler: 'parler/', lekha: '' };
+	var STORE = 'ns-voice';
+
+	function chosen() {
+		var v = null;
+		try { v = localStorage.getItem(STORE); } catch (e) { /* приватный режим */ }
+		return VOICES.hasOwnProperty(v) ? v : 'parler';
+	}
+
+	function remember(v) {
+		try { localStorage.setItem(STORE, v); } catch (e) { /* не беда */ }
+	}
 
 	/* Порядок значим: сочетания разбираются раньше одиночных знаков. */
 	var RESPELL = [
@@ -61,7 +78,9 @@
 			'margin-left:.35em;opacity:.5}',
 			'button.tts:hover,button.tts:focus{opacity:1}',
 			'#gl-filter{padding:.3em .6em;width:100%;max-width:26em}',
-			'@media print{button.tts,#gl-filter{display:none}}'
+			'#gl-voice{font-size:.9em;opacity:.75}',
+			'#gl-voice label{margin-right:1em;white-space:nowrap}',
+			'@media print{button.tts,#gl-filter,#gl-voice{display:none}}'
 		].join('');
 		var el = document.createElement('style');
 		el.appendChild(document.createTextNode(css));
@@ -106,22 +125,47 @@
 			btn.setAttribute('aria-label', 'Произношение: ' + iast);
 			btn.appendChild(document.createTextNode('♪'));
 			btn.addEventListener('click', function () {
-				new Audio(AUDIO_BASE + slug + '.mp3').play().catch(function () {
+				/* Выбранный комплект первый, второй — запасной: словарь
+				   пополняется, и файл может быть пока только в одном из них. */
+				var order = chosen() === 'parler'
+					? [VOICES.parler, VOICES.lekha]
+					: [VOICES.lekha, VOICES.parler];
+
+				function say() {
 					if (!canSpeak) return;
 					speechSynthesis.cancel();
 					var u = new SpeechSynthesisUtterance(spoken);
 					u.lang = 'hi-IN';
 					u.rate = 0.75;
 					speechSynthesis.speak(u);
-				});
+				}
+
+				(function tryAt(i) {
+					if (i >= order.length) return say();
+					new Audio(AUDIO_BASE + order[i] + slug + '.mp3')
+						.play().catch(function () { tryAt(i + 1); });
+				})(0);
 			});
 			td.appendChild(btn);
+		});
+	}
+
+	function voicePicker() {
+		var picker = document.getElementById('gl-voice');
+		if (!picker) return;
+		var start = chosen();
+		[].forEach.call(picker.querySelectorAll('input[name="gl-voice"]'), function (r) {
+			r.checked = r.value === start;
+			r.addEventListener('change', function () {
+				if (r.checked) remember(r.value);
+			});
 		});
 	}
 
 	function run() {
 		styles();
 		filter();
+		voicePicker();
 		speech();
 	}
 
