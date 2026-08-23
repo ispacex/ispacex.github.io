@@ -1,0 +1,43 @@
+---
+layout: null
+sitemap: false
+---
+{%- comment -%}
+Указатель для поиска по всему сайту. Собирается самим Jekyll при сборке, поэтому
+не может разойтись с текстом и не требует отдельного шага сборки.
+
+Единица — абзац исходника; абзацы сгруппированы по странице, чтобы не повторять
+её адрес и заголовок у каждого из них. Разметка Markdown (ссылки, звёздочки,
+решётки) снимается уже в браузере: в Liquid нет регулярных выражений, а в
+JavaScript они есть, и снять её один раз при загрузке дешевле, чем городить
+цепочку replace здесь.
+
+В указатель идут только страницы .md. Просмотрщики в ship/ — это .html со
+своими стилями и скриптами; их текст на девять десятых состоит из CSS и JS, и в
+выдаче от него один шум. Ссылки на них есть на /ship/, а она в указателе есть.
+
+Страницу можно исключить, поставив ей в front matter «search: false».
+{%- endcomment -%}
+{%- capture sep %}<br />
+<br />{% endcapture -%}
+[
+{%- assign firstpage = true -%}
+{%- for p in site.pages -%}
+{%- unless p.path contains '.md' -%}{% continue %}{% endunless -%}
+{%- if p.url == '/search/' or p.search == false -%}{% continue %}{% endif -%}
+{%- unless firstpage %},{% endunless -%}
+{%- assign firstpage = false -%}
+{"u":{{ p.url | jsonify }},"t":{{ p.title | default: p.url | jsonify }},"b":[
+{%- assign firstpara = true -%}
+{%- assign chunks = p.content | newline_to_br | split: sep -%}
+{%- for chunk in chunks -%}
+{%- assign text = chunk | strip_html | strip -%}
+{%- if text.size > 16 -%}
+{%- unless firstpara %},{% endunless -%}
+{%- assign firstpara = false -%}
+{{ text | jsonify }}
+{%- endif -%}
+{%- endfor -%}
+]}
+{%- endfor -%}
+]

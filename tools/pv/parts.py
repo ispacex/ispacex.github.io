@@ -1,0 +1,35 @@
+# Порядок частей трактата и их адреса на сайте.
+PARTS = [
+    ('790', 's1-2-1',  'Строфы 1–2, часть 1'),
+    ('791', 's1-2-2',  'Строфы 1–2, часть 2'),
+    ('792', 's1-2-3',  'Строфы 1–2, часть 3'),
+    ('793', 's1-2-4',  'Строфы 1–2, часть 4'),
+    ('794', 's3-4-1',  'Строфы 3–4, часть 1'),
+    ('795', 's3-4-2',  'Строфы 3–4, часть 2'),
+    ('796', 's3-4-3',  'Строфы 3–4, часть 3'),
+    ('797', 's3-4-4',  'Строфы 3–4, часть 4'),
+    ('798', 's5-8-1',  'Строфы 5–8, часть 1'),
+    ('799', 's5-8-2',  'Строфы 5–8, часть 2'),
+    ('800', 's5-8-3',  'Строфы 5–8, часть 3'),
+    ('801', 's5-8-4',  'Строфы 5–8, часть 4'),
+    ('802', 's5-8-5',  'Строфы 5–8, часть 5'),
+    ('805', 's5-8-6',  'Строфы 5–8, часть 6'),
+]
+SRC = 'https://www.sanskrit-trikashaivism.com/ru/'
+SRC_URL = {
+ '790':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-parātrīśikāvivaraṇa-ru-stanzas-1-to-2-part-1/790',
+ '791':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-2/791',
+ '792':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-3/792',
+ '793':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-4/793',
+ '794':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-1/794',
+ '795':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-2/795',
+ '796':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-3/796',
+ '797':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-4/797',
+ '798':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-1/798',
+ '799':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-2/799',
+ '800':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-3/800',
+ '801':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-4/801',
+ '802':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-5/802',
+ '805':'paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-6/805',
+ '540':'paratrishika-vivarana-introduction-trika-scriptures-non-dual-shaivism-of-kashmir-ru/540',
+}

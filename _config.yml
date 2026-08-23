@@ -1,2 +1,12 @@
 remote_theme: "dracula/gh-pages"
 google_analytics: "G-Z1L94CNEJN"
+
+# tools/ — конвейер сборки /ksh/pv/, а не содержимое сайта.
+# Список повторяет умолчания Jekyll: своё «exclude» их заменяет, а не дополняет.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - tools/
+  - CLAUDE.md
