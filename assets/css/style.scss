@@ -33,3 +33,75 @@
 	.wrapper h2 { font-size: 1.2rem; }
 	.wrapper h3 { font-size: 1.05rem; }
 }
+
+// Parātrīśikāvivaraṇa (/ksh/pv/) — санскрит, транслитерация и перевод идут
+// подряд, поэтому их надо различать глазом, а не по догадке.
+.pv-sa {
+  font-size: 1.15em;
+  line-height: 1.9;
+  color: #3f7a4f;
+}
+.pv-sa.pv-src { color: #a4453c; }
+.pv-iast {
+  font-style: italic;
+  line-height: 1.7;
+  opacity: .85;
+}
+
+// Санскритское сложное слово бывает длиной в строку и переноса внутри не
+// допускает, поэтому одна такая цитата растягивала страницу вбок. Рвём где
+// придётся: это транслитерация, а не текст, который читают по слогам.
+.pv-sa,
+.pv-iast,
+.pv-tr,
+.pv-en {
+  overflow-wrap: anywhere;
+}
+.pv-c { text-align: center; }
+
+// Перевод самого трактата — в отличие от пояснений переводчика.
+.pv-tr {
+  border-left: 3px solid var(--border-color-01, #999);
+  padding-left: 1em;
+  margin: 1.1em 0;
+}
+// Санскритское слово, к которому относится переведённое рядом.
+.pv-w { opacity: .65; font-size: .92em; }
+// Уточнение, добавленное Габриэлем: в источнике оно стоит в --двойных дефисах--.
+.pv-note { opacity: .8; }
+
+// Абзац, до которого перевод ещё не дошёл: он стоит по-английски, как у
+// источника, и это должно быть видно, а не выдаваться за русский текст.
+.pv-en {
+  opacity: .6;
+  font-size: .95em;
+  border-left: 3px dotted var(--border-color-01, #999);
+  padding-left: 1em;
+}
+.pv-todo {
+  font-size: .9em;
+  opacity: .8;
+  border: 1px solid var(--border-color-01, #999);
+  border-radius: 4px;
+  padding: .6em .9em;
+}
+
+.pv-rule { border: 0; border-top: 1px solid var(--border-color-01, #999); width: 6em; margin: 1.6em auto; }
+.pv-pager { font-size: .9em; opacity: .85; }
+.pv-toc li { margin-bottom: .2em; }
+
+@media (prefers-color-scheme: dark) {
+  .pv-sa { color: #7fbf8f; }
+  .pv-sa.pv-src { color: #e08b82; }
+}
+
+// Таблицы соответствий звуков и таттв — единственные во всём Parātrīśikāvivaraṇa.
+// Они широкие, поэтому прокручиваются внутри себя, а не растягивают страницу.
+.pv-chart {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+  font-size: .9em;
+}
+.pv-chart caption { font-weight: 600; padding-bottom: .5em; }
+.pv-chart td { padding: .25em .5em; }

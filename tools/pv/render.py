@@ -118,7 +118,7 @@ def render(pid, slug, name, idx):
         '',
         '# %s' % name,
         '',
-        '<p class="pv-pager">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
+        '<p class="pv-pager" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
         '',
     ]
     if missing_note:
@@ -126,7 +126,7 @@ def render(pid, slug, name, idx):
         head.append('')
     tail = [
         '',
-        '<p class="pv-pager">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
+        '<p class="pv-pager" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
         '',
         '---',
         '',

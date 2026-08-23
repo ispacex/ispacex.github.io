@@ -6,7 +6,7 @@ title: "Parātrīśikāvivaraṇa: строфы 1–2, часть 1"
 
 # Строфы 1–2, часть 1
 
-<p class="pv-pager">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
+<p class="pv-pager" markdown="1">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
 
 ## Введение
 
@@ -232,7 +232,7 @@ _(Выражение)_ «bhairava uvāca» — Bhairava сказал — <span c
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
+<p class="pv-pager" markdown="1">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
 
 ---
 
