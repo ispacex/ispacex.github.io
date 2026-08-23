@@ -49,12 +49,16 @@ def kind_of(cls, text, raw):
     letters = re.sub(r'[^A-Za-zÀ-ɏḀ-ỿ]', '', text)
     if not letters:
         return 'plain'
-    # IAST-блок: диакритики много, английских служебных слов нет, есть || или |
+    # IAST-блок узнаётся по плотности диакритики и по отсутствию английской
+    # служебной речи. Одно совпадение прощаем: в санскрите сплошь и рядом
+    # попадается кусок, который выглядит английским служебным словом, — «he
+    # prabho» («о Господь») даёт «he», «sa eva» даёт «sa». В переводе же таких
+    # слов не одно и не два, так что спутать его с IAST нельзя.
     eng = len(ENGWORD.findall(text))
     dia = len(DIAC.findall(text))
-    if dia and eng == 0 and re.search(r'\|\||॥|\|', text):
+    if dia and eng <= 1 and re.search(r'\|\||॥|\|', text):
         return 'iast'
-    if dia and eng == 0 and dia * 40 > len(letters):
+    if dia and eng <= 1 and dia * 25 > len(letters):
         return 'iast'
     return 'text'
 

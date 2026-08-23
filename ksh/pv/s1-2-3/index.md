@@ -18,7 +18,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 Санскрит Абхинавагупты набран зелёным, ниже та же строфа идёт в транслитерации IAST, курсивом. Перевод отбит вертикальной чертой слева; в скобках при каждом русском слове стоит санскритское, к которому оно относится.
 
-Читайте Parātrīśikāvivaraṇa и переживайте Высшую Ānanda, или Божественное Блаженство, дорогой Śiva.
+<p class="pv-iast">Read Parātrīśikāvivaraṇa and experience Supreme Ānanda or Divine Bliss, dear Śiva.</p>
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
@@ -216,7 +216,7 @@ Niyacchan bhoktṛtāmeti tataścakreśvaro bhavet||</p>
 
 Поэтому <span class="pv-w">(tasmāt)</span> построение <span class="pv-w">(karaṇam)</span> такой <span class="pv-w">(evaṁvidha)</span> фразы <span class="pv-w">(vākya)</span> с суффиксом «tamap» — то есть с «Anuttama» вместо «Anuttara» — (tamapi pratyaye) заведомо <span class="pv-w">(eva)</span> неуместно <span class="pv-w">(ayuktam)</span>.
 
-<p class="pv-iast">Nor does (na ca) "tamap" (tamap) express (abhidadhyāt) much more (adhikam atiśayam) than "tarap" (tarapaḥ).</p>
+И (na ca) «tamap» <span class="pv-w">(tamap)</span> не выражает <span class="pv-w">(abhidadhyāt)</span> большего превосходства <span class="pv-w">(adhikam atiśayam)</span>, чем «tarap» <span class="pv-w">(tarapaḥ)</span>.
 
 Итак <span class="pv-w">(evam)</span>, _(окончательный смысл)_ будет <span class="pv-w">(tāvat tu... syāt)</span> таков: «tamap» <span class="pv-w">(tamap)</span> употребляется <span class="pv-w">(prayogaḥ)</span> тогда, когда определённое соотносимое не подразумевается <span class="pv-w">(avivakṣite pratiyogi-viśeṣe)</span>. А <span class="pv-w">(tu)</span> «tarap» <span class="pv-w">(tarap)</span> _(употребляется)_ при наличии <span class="pv-w">(apekṣāyām)</span> определённого <span class="pv-w">(viśeṣa)</span> соотносимого <span class="pv-w">(pratiyogi)</span>. Смысл <span class="pv-w">(arthaḥ)</span> «upapada», второстепенного слова — подчинённого другому слову — <span class="pv-w">(upapada)</span>, _(возникает)_ при разделении <span class="pv-w">(vibhajya)</span> двойственным числом <span class="pv-w">(dvivacana)</span>, поскольку речь идёт о соотносимом <span class="pv-w">(pratiyogi-apekṣā eva)</span>. Ибо <span class="pv-w">(hi)</span> соотносимое <span class="pv-w">(pratiyogī)</span> тут только <span class="pv-w">(eva)</span> одно <span class="pv-w">(ekaḥ)</span>. _(В высказывании:)_ «Из этих двух <span class="pv-w">(anayoḥ)</span> вот это <span class="pv-w">(ayam)</span> белее <span class="pv-w">(atiśayena śuklaḥ... iti)</span>» третьего <span class="pv-w">(tṛtīyaḥ)</span> не подразумевается <span class="pv-w">(na... pratīyate)</span>. Чтобы <span class="pv-w">(arthena)</span> выделить нечто с определённостью <span class="pv-w">(nirdhāraṇa)</span>, нужно понятие <span class="pv-w">(avagateḥ)</span> «соотносимого» <span class="pv-w">(pratiyogitva)</span> применительно к первой _(вещи)_ (prathamasya eva) — скажем, эта вещь белее той.
 
@@ -302,7 +302,7 @@ _(Теперь Абхинавагупта даёт третье возможно
 
 <p class="pv-tr" markdown="1">«Раз Śiva вечно восхождён — то есть присутствует — <span class="pv-w">(śivasya satata-uditeḥ)</span>, к чему <span class="pv-w">(kim)</span> bhāvanā и karaṇa <span class="pv-w">(bhāvanā-karaṇābhyām... iti)</span>?»</p>
 
-И далее <span class="pv-w">(tathā)</span>:
+<p class="pv-iast">In like manner (tathā):</p>
 
 <p class="pv-tr" markdown="1">«Когда состояние Śiva, пребывающего во всём, познано <span class="pv-w">(jñāte śivatve sarva-sthe)</span> твёрдым восприятием <span class="pv-w">(pratipattyā dṛḍha-ātmanā)</span> хотя бы однажды <span class="pv-w">(ekavāram)</span> — через верное знание, писание или слово гуру <span class="pv-w">(pramāṇena śāstrāt vā guru-vākyataḥ)</span>, — то больше нигде и ничего <span class="pv-w">(na asti... kvāpi)</span> не остаётся делать <span class="pv-w">(kṛtyam)</span> ни через karaṇa <span class="pv-w">(karaṇena)</span>, ни <span class="pv-w">(api vā)</span> через bhāvanā <span class="pv-w">(bhāvanayā... iti)</span>».</p>
 
