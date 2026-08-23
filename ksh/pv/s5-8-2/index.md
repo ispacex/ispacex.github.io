@@ -2,13 +2,19 @@
 title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 2"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-2/799)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-2/799)</p>
 
 # Строфы 5–8, часть 2
 
-<p class="pv-pager" markdown="1">[← Строфы 5–8, часть 1](/ksh/pv/s5-8-1/) · [Строфы 5–8, часть 3 →](/ksh/pv/s5-8-3/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 5–8, часть 1](/ksh/pv/s5-8-1/) · [Строфы 5–8, часть 3 →](/ksh/pv/s5-8-3/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Строфы 5–8 (вторая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa продолжается. Абхинавагупта продолжает комментировать строфы 5 и 8 Parātrīśikā.
 
@@ -22,9 +28,9 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Строфы 5–8 (вторая часть комментария)
+## Строфы 5–8 (вторая часть комментария) {#s2}
 
-<p class="pv-sa" lang="sa">रागादिभिरेव च तथाविधत्वमस्येति रागादय एवाध्रियमानान् भावान् उक्तन्यायेन धारयन्तमीश्वरं प्रति प्रयोजकतां गच्छन्त्यतस्तस्यैव पुंस्त्वव्यपदेशकारणैकभूता द्वितीये णिचि उत्पन्ने धारणशब्दवाच्या णिजुत्पत्तावपि सर्वत्रैव प्रकृत्यर्थान्वयानपायो — ध्रियमाणतया प्रकाशमानस्यैव हि धार्यमाणता — प्रकाशनासञ्ज्ञा उपपद्यते। यथोक्तं मयैव शिवदृष्ट्यालोचने</p>
+<p class="pv-sa" id="s2-sa" lang="sa">रागादिभिरेव च तथाविधत्वमस्येति रागादय एवाध्रियमानान् भावान् उक्तन्यायेन धारयन्तमीश्वरं प्रति प्रयोजकतां गच्छन्त्यतस्तस्यैव पुंस्त्वव्यपदेशकारणैकभूता द्वितीये णिचि उत्पन्ने धारणशब्दवाच्या णिजुत्पत्तावपि सर्वत्रैव प्रकृत्यर्थान्वयानपायो — ध्रियमाणतया प्रकाशमानस्यैव हि धार्यमाणता — प्रकाशनासञ्ज्ञा उपपद्यते। यथोक्तं मयैव शिवदृष्ट्यालोचने</p>
 
 <p class="pv-sa pv-c" lang="sa">प्रेर्योऽपि स भवेद्यस्य शक्तता नाम विद्यते।</p>
 
@@ -101,7 +107,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">प्रत्यगात्मनि हि बुद्धिः पश्यन्ती रुद्रदेवता। परं सदाशिवज्ञानशक्तावेवानाश्रितशिवशक्त्यात्मनि विश्राम्यति। मनोऽहङ्कारयोर्ब्रह्मविष्णुदेवतयोर्वैखरीमध्यमापदे पत्योरीशसदाशिवक्रियाशक्तिपदमेव परा प्रतिष्ठाभूः। इति तावद् आगमसिद्धं स्वसंवेदनबृंहितं च। तत् पश्यन्त्युपरि पराभूमिर्भगवती — यत्र सर्वमभेदेनैव भाति च विमृश्यते च। यद्यपि हि विद्यापदे मायापदेऽप्यभेदेन भासना स्थितापि तत्र विमर्शोऽन्यथा विद्यापदे हीदमिति प्रमातृप्रमेयजातमेकतोऽहमात्मनि सङ्क्रामेत्तदाच्छादितं विमृश्यते — अहमिदमिति तद् एतत् समाने चिदात्मन्यधिकरण उभयं प्रतिबिम्बितमभेदेनैवावभासमानं सामानाधिकरण्यमुक्तम्। अत एवेश्वरावस्थायां परापरात्मिकां दशां भावा भजन्ते तथैव मायाध्वनि अपराम्। न तु सैव परापराशक्तिरपरा वेति। अत एव यद् ईश्वरतत्त्वं प्रति अभिहितं श्रीमदुत्पलदेवपादैस्तत् प्रदर्शितागमविपर्यासशङ्कायुक्तम् — इति न मन्तव्यं मन्त्रमहेशादिषु तु रूपं बोधैकपरमार्थमप्यपरबोधैकपरमार्थादन्यदहम्। इदं पुनरिदमेवेति संविद् विज्ञानाकलानां तु बोधैकपरमार्थेनापि रूपेणाहं नेदमिति संवित्। अप्रबोधादहमित्येव तत्राप्रबुद्धं प्रलयकेवलिनामिदम्हमित्यप्रबुद्धमेवात्र मायापदे च तन्निर्विकल्पकताभासेन यद्यप्यस्ति तथाविध एव प्राणभूतो विमर्शस्तथापि तद्रूपव्यवहारकस्य तत्प्रसादासादितसत्ताकस्यापि तदव्यतिरिक्तस्यापि वा पश्चात्तनस्य विमर्शस्येदं शरीरादि अहमहं योऽसौ ज्ञातेदं घटादिकमिदं यत्तज् ज्ञेयमिति भेदेनैव विमर्शरूपतया व्यवहारो विकल्पात्मैव तत्र तु तथाविधत्वे कारणान्तरासंवेदनात्कल्प्यमानेऽपि च कारणे पुनरपि तथाविधबोधाविनिर्भागमात्रपर्यवसानात्तस्यैवाविकल्पसंविदात्मनस्तथा सामर्थ्यम्। तथा सामर्थ्ययोगादेव च तदनन्तवैचित्र्यात्मकमैश्वर्यमनपायि सिद्ध्येत्। अस्यां च सत्तायामैश्वर्यमनपेतं — यतो वैखर्यात्मन्येवं मायीये वेद्येऽपि वा मध्यमामये धाम्नि भासनातिरेकी न सम्भाव्य एवं विमर्शः। अत्र तु परसंविदि यथैव भासस्तथैव व्यवहारमयोऽपि विमर्शः। तेन — जल इव जलं ज्वालायामिव ज्वाला सर्वथा अभेदमया एव भावा भासन्ते न तु प्रतिबिम्बकल्पेनापि केवलम्। यावद् एषापि परमेश्वरी उपदेशाय निरूप्यते तावद् अधरसत्ताकॢप्त्या तथा भवति। एवं च भासात्मकं भैरवरूपं स्वतः सिद्धमनादि प्रथमं सर्वतश्चरमं च सर्वतश्च वर्तमानमिति किमपरं तत्रोच्यताम्। तत्त्वभावविकासात्ममयमात्मैक्येनैव स्वप्रकाशं प्रकाशयति तथैव च विमृशत्यनपेततथाचमत्कारत्वेऽपि। यच्च तत् तथा विमर्शनं तद् भाविमायीयानन्तसृष्टिसंहारलक्षकोट्यर्बुदपरार्धसाक्षात्कारिणि भासने भवन् तथारूपमेव भवति। तथा भवच्च तद् यदि सृष्टौ प्राथमिकं माध्यमिकं वा पदं भासनान्न विमृशेत्तत् पूर्वस्य तदुत्तरव्यभिचारणाशङ्कासम्भावनानपगमादपरिपूर्णप्रथितेतरभावराशिखण्डिताभेदकथम् अनिर्व्यूढपरभैरवमहाधामसमाश्रिताधस्तनपश्यन्त्यादिनिष्ठभेदासूत्रणात्मकं तथाविधवस्तुपोषणवशनाममात्रीभूतपराभट्टारिकारूपं भवेत्। एतादृशधारारोहणाभावे च न किञ्चिद् इदं विजृम्भमाणं भासेत विजृम्भेतेति। व्रजत्वपूर्णता प्रतिष्ठितभावराशिरभेदकथा खण्ड्यतां मा निर्वाक्षीद्भैरवाश्रयता भेदकलङ्कमुद्वहतु नामधेयमात्रेण परत्वम् — इति न वक्तुं युक्तम्।...</p>
 
-<p class="pv-iast">Rāgādibhireva ca tathāvidhatvamasyeti rāgādaya evādhriyamānān bhāvān uktanyāyena dhārayantamīśvaraṁ prati prayojakatāṁ gacchantyatastasyaiva puṁstvavyapadeśakāraṇaikabhūtā dvitīye ṇici utpanne dhāraṇaśabdavācyā ṇijutpattāvapi sarvatraiva prakṛtyarthānvayānapāyo — Dhriyamāṇatayā prakāśamānasyaiva hi dhāryamāṇatā — Prakāśanāsañjñā upapadyate| Yathoktaṁ mayaiva śivadṛṣṭyālocane</p>
+<p class="pv-iast" id="s2-iast">Rāgādibhireva ca tathāvidhatvamasyeti rāgādaya evādhriyamānān bhāvān uktanyāyena dhārayantamīśvaraṁ prati prayojakatāṁ gacchantyatastasyaiva puṁstvavyapadeśakāraṇaikabhūtā dvitīye ṇici utpanne dhāraṇaśabdavācyā ṇijutpattāvapi sarvatraiva prakṛtyarthānvayānapāyo — Dhriyamāṇatayā prakāśamānasyaiva hi dhāryamāṇatā — Prakāśanāsañjñā upapadyate| Yathoktaṁ mayaiva śivadṛṣṭyālocane</p>
 
 <p class="pv-iast pv-c">Preryo'pi sa bhavedyasya śaktatā nāma vidyate|</p>
 
@@ -179,6 +185,7 @@ iti|
 <p class="pv-iast">Pratyagātmani hi buddhiḥ paśyantī rudradevatā| Paraṁ sadāśivajñānaśaktāvevānāśritaśivaśaktyātmani viśrāmyati| Mano'haṅkārayorbrahmaviṣṇudevatayorvaikharīmadhyamāpade patyorīśasadāśivakriyāśaktipadameva parā pratiṣṭhābhūḥ| Iti tāvad āgamasiddhaṁ svasaṁvedanabṛṁhitaṁ ca| Tat paśyantyupari parābhūmirbhagavatī — Yatra sarvamabhedenaiva bhāti ca vimṛśyate ca| Yadyapi hi vidyāpade māyāpade'pyabhedena bhāsanā sthitāpi tatra vimarśo'nyathā vidyāpade hīdamiti pramātṛprameyajātamekato'hamātmani saṅkrāmettadācchāditaṁ vimṛśyate — Ahamidamiti tad etat samāne cidātmanyadhikaraṇa ubhayaṁ pratibimbitamabhedenaivāvabhāsamānaṁ sāmānādhikaraṇyamuktam| Ata eveśvarāvasthāyāṁ parāparātmikāṁ daśāṁ bhāvā bhajante tathaiva māyādhvani aparām| Na tu saiva parāparāśaktiraparā veti| Ata eva yad īśvaratattvaṁ prati abhihitaṁ śrīmadutpaladevapādaistat pradarśitāgamaviparyāsaśaṅkāyuktam — Iti na mantavyaṁ mantramaheśādiṣu tu rūpaṁ bodhaikaparamārthamapyaparabodhaikaparamārthādanyadaham| Idaṁ punaridameveti saṁvid vijñānākalānāṁ tu bodhaikaparamārthenāpi rūpeṇāhaṁ nedamiti saṁvit| Aprabodhādahamityeva tatrāprabuddhaṁ pralayakevalināmidamhamityaprabuddhamevātra māyāpade ca tannirvikalpakatābhāsena yadyapyasti tathāvidha eva prāṇabhūto vimarśastathāpi tadrūpavyavahārakasya tatprasādāsāditasattākasyāpi tadavyatiriktasyāpi vā paścāttanasya vimarśasyedaṁ śarīrādi ahamahaṁ yo'sau jñātedaṁ ghaṭādikamidaṁ yattaj jñeyamiti bhedenaiva vimarśarūpatayā vyavahāro vikalpātmaiva tatra tu tathāvidhatve kāraṇāntarāsaṁvedanātkalpyamāne'pi ca kāraṇe punarapi tathāvidhabodhāvinirbhāgamātraparyavasānāttasyaivāvikalpasaṁvidātmanastathā sāmarthyam| Tathā sāmarthyayogādeva ca tadanantavaicitryātmakamaiśvaryamanapāyi siddhyet| Asyāṁ ca sattāyāmaiśvaryamanapetaṁ — Yato vaikharyātmanyevaṁ māyīye vedye'pi vā madhyamāmaye dhāmni bhāsanātirekī na sambhāvya evaṁ vimarśaḥ| Atra tu parasaṁvidi yathaiva bhāsastathaiva vyavahāramayo'pi vimarśaḥ| Tena — Jala iva jalaṁ jvālāyāmiva jvālā sarvathā abhedamayā eva bhāvā bhāsante na tu pratibimbakalpenāpi kevalam| Yāvad eṣāpi parameśvarī upadeśāya nirūpyate tāvad adharasattākḷptyā tathā bhavati| Evaṁ ca bhāsātmakaṁ bhairavarūpaṁ svataḥ siddhamanādi prathamaṁ sarvataścaramaṁ ca sarvataśca vartamānamiti kimaparaṁ tatrocyatām| Tattvabhāvavikāsātmamayamātmaikyenaiva svaprakāśaṁ prakāśayati tathaiva ca vimṛśatyanapetatathācamatkāratve'pi| Yacca tat tathā vimarśanaṁ tad bhāvimāyīyānantasṛṣṭisaṁhāralakṣakoṭyarbudaparārdhasākṣātkāriṇi bhāsane bhavan tathārūpameva bhavati| Tathā bhavacca tad yadi sṛṣṭau prāthamikaṁ mādhyamikaṁ vā padaṁ bhāsanānna vimṛśettat pūrvasya taduttaravyabhicāraṇāśaṅkāsambhāvanānapagamādaparipūrṇaprathitetarabhāvarāśikhaṇḍitābhedakatham anirvyūḍhaparabhairavamahādhāmasamāśritādhastanapaśyantyādiniṣṭhabhedāsūtraṇātmakaṁ tathāvidhavastupoṣaṇavaśanāmamātrībhūtaparābhaṭṭārikārūpaṁ bhavet| Etādṛśadhārārohaṇābhāve ca na kiñcid idaṁ vijṛmbhamāṇaṁ bhāseta vijṛmbheteti| Vrajatvapūrṇatā pratiṣṭhitabhāvarāśirabhedakathā khaṇḍyatāṁ mā nirvākṣīdbhairavāśrayatā bhedakalaṅkamudvahatu nāmadheyamātreṇa paratvam — Iti na vaktuṁ yuktam|...</p>
 
 _(Раз)_ Его <span class="pv-w">(asya)</span> наделённость такими _(ограниченными)_ свойствами <span class="pv-w">(tathāvidhatvam)</span> _(является)_ через Rāga и прочее <span class="pv-w">(rāga-ādibhiḥ eva... iti)</span>, — то именно Rāga и прочие <span class="pv-w">(rāga-ādayaḥ eva)</span> принимают положение побуждающих <span class="pv-w">(prayojakatām gacchanti)</span> по отношению <span class="pv-w">(prati)</span> к Господу <span class="pv-w">(īśvaram)</span>, _(так что Он)_ держит <span class="pv-w">(dhārayantam)</span> по названному правилу <span class="pv-w">(uktanyāyena)</span> те _(ограниченные)_ состояния <span class="pv-w">(bhāvān)</span>, которые надлежит держать <span class="pv-w">(ādhriyamānān)</span>. Поэтому <span class="pv-w">(atas)</span>, когда возникает вторая побудительная форма _(корня «dhṛ», держать)_ <span class="pv-w">(dvitīye ṇici utpanne)</span>, _(Rāga и прочие)_ становятся <span class="pv-w">(bhūtāḥ)</span> единственной <span class="pv-w">(eka)</span> причиной <span class="pv-w">(kāraṇa)</span> наименования <span class="pv-w">(vyapadeśa)</span> «состояние paśu, ограниченного существа» <span class="pv-w">(puṁstva)</span> применительно к Нему (tasya eva). Оттого их и называют <span class="pv-w">(vācyāḥ)</span> словом <span class="pv-w">(śabda)</span> «Dhāraṇā» <span class="pv-w">(dhāraṇa)</span>. Даже <span class="pv-w">(api)</span> при появлении побудительной формы глагола <span class="pv-w">(ṇij-utpattau)</span> связь <span class="pv-w">(anvaya)</span> со значением <span class="pv-w">(artha)</span> корня <span class="pv-w">(prakṛti)</span> нигде не теряется <span class="pv-w">(sarvatra eva... anapāyaḥ)</span>. _(Так)_ положение держимого <span class="pv-w">(dhāryamāṇatā)</span> прилагается именно к тому, что проявлено <span class="pv-w">(prakāśamānasya eva hi)</span> в положении держимого <span class="pv-w">(dhriyamāṇatayā)</span>: Rāga и прочие проявлены Господом и, соответственно, Им «держатся»; но и положение «держащих» к ним приложимо. _(В итоге)_ в изложении <span class="pv-w">(prakāśanā)</span> достигается <span class="pv-w">(upapadyate)</span> согласие <span class="pv-w">(sañjñā)</span>.
+{: #s2-ru}
 
 Как <span class="pv-w">(yathā)</span> я сам сказал <span class="pv-w">(uktam mayā eva)</span> в Śivadṛṣṭyālocana <span class="pv-w">(śivadṛṣṭyālocane)</span>:
 
@@ -326,7 +333,7 @@ _(писание)_ называет <span class="pv-w">(uktam)</span> и тро�
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Строфы 5–8, часть 1](/ksh/pv/s5-8-1/) · [Строфы 5–8, часть 3 →](/ksh/pv/s5-8-3/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 5–8, часть 1](/ksh/pv/s5-8-1/) · [Строфы 5–8, часть 3 →](/ksh/pv/s5-8-3/)</p>
 
 ---
 

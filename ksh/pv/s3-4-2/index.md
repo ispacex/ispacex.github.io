@@ -2,13 +2,19 @@
 title: "Parātrīśikāvivaraṇa: строфы 3–4, часть 2"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-2/795)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-2/795)</p>
 
 # Строфы 3–4, часть 2
 
-<p class="pv-pager" markdown="1">[← Строфы 3–4, часть 1](/ksh/pv/s3-4-1/) · [Строфы 3–4, часть 3 →](/ksh/pv/s3-4-3/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 3–4, часть 1](/ksh/pv/s3-4-1/) · [Строфы 3–4, часть 3 →](/ksh/pv/s3-4-3/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Строфы 3–4 (вторая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa продолжается. Абхинавагупта продолжает комментировать строфы 3 и 4 Parātrīśikā.
 
@@ -22,9 +28,9 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Строфы 3–4 (вторая часть комментария)
+## Строфы 3–4 (вторая часть комментария) {#s2}
 
-<p class="pv-sa" lang="sa">वस्तुतो हि शृणोति पश्यति वक्ति गृह्णाति इत्यादि भगवत्या एव रूपम्। यथोक्तम्</p>
+<p class="pv-sa" id="s2-sa" lang="sa">वस्तुतो हि शृणोति पश्यति वक्ति गृह्णाति इत्यादि भगवत्या एव रूपम्। यथोक्तम्</p>
 
 <p class="pv-sa pv-c" lang="sa">येन रूपं रसं गन्धं स्पर्शशब्दौ च मैथुनम्।<br />
 एतेनैव विजानाति किमत्र परिशिष्यते॥</p>
@@ -60,7 +66,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इति।...</p>
 
-<p class="pv-iast">Vastuto hi śṛṇoti paśyati vakti gṛhṇāti ityādi bhagavatyā eva rūpam| Yathoktam</p>
+<p class="pv-iast" id="s2-iast">Vastuto hi śṛṇoti paśyati vakti gṛhṇāti ityādi bhagavatyā eva rūpam| Yathoktam</p>
 
 <p class="pv-iast pv-c">Yena rūpaṁ rasaṁ gandhaṁ sparśaśabdau ca maithunam|<br />
 Etenaiva vijānāti kimatra pariśiṣyate||</p>
@@ -97,6 +103,7 @@ Ato'smi loke vede ca prathitaḥ puruṣottamaḥ||</p>
 iti|…
 
 На деле <span class="pv-w">(vastutas)</span> природа <span class="pv-w">(rūpam)</span> Супруги Благословенного <span class="pv-w">(bhagavatyāḥ eva)</span> такова: «Она слышит <span class="pv-w">(śṛṇoti)</span>, видит <span class="pv-w">(paśyati)</span>, говорит <span class="pv-w">(vakti)</span>, берёт <span class="pv-w">(gṛhṇāti)</span> и так далее <span class="pv-w">(iti-ādi)</span>». Как <span class="pv-w">(yathā)</span> сказано <span class="pv-w">(uktam)</span> Высшим Господом <span class="pv-w">(parama-īśvareṇa)</span> в Веданте <span class="pv-w">(vedānte)</span>:
+{: #s2-ru}
 
 <p class="pv-tr" markdown="1">«Раз <span class="pv-w">(yena)</span> человек познаёт <span class="pv-w">(vijānāti)</span> форму <span class="pv-w">(rūpam)</span>, вкус <span class="pv-w">(rasam)</span>, запах <span class="pv-w">(gandham)</span>, прикосновение и звук <span class="pv-w">(sparśa-śabdau)</span> и <span class="pv-w">(ca)</span> наслаждение соития <span class="pv-w">(maithunam)</span> единственно <span class="pv-w">(eva)</span> Им <span class="pv-w">(etena)</span>, — что _(ещё)_ <span class="pv-w">(kim)</span> остаётся <span class="pv-w">(pariśiṣyate)</span> здесь, в этом мире (atra... iti), _(чего Он не знал бы)_?»</p>
 
@@ -180,7 +187,7 @@ _(В обороте вроде:)_ «О <span class="pv-w">(he)</span> я <span c
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Строфы 3–4, часть 1](/ksh/pv/s3-4-1/) · [Строфы 3–4, часть 3 →](/ksh/pv/s3-4-3/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 3–4, часть 1](/ksh/pv/s3-4-1/) · [Строфы 3–4, часть 3 →](/ksh/pv/s3-4-3/)</p>
 
 ---
 

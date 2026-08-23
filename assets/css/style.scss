@@ -87,8 +87,30 @@
 }
 
 .pv-rule { border: 0; border-top: 1px solid var(--border-color-01, #999); width: 6em; margin: 1.6em auto; }
-.pv-pager { font-size: .9em; opacity: .85; }
+.pv-pager,
+.pv-crumbs { font-size: .9em; opacity: .85; }
 .pv-toc li { margin-bottom: .2em; }
+
+// Оглавление страницы. Раздел комментария идёт тремя стенами подряд —
+// деванагари, та же стена в транслитерации и только потом перевод, — так что
+// без ссылки на нужную стену до перевода приходится листать полсотни абзацев.
+.pv-nav {
+  font-size: .9em;
+  line-height: 1.7;
+  border-left: 3px solid var(--border-color-01, #999);
+  padding: .2em 0 .2em 1em;
+  margin: 1.4em 0;
+  opacity: .9;
+}
+
+// Якорь не должен упираться в самый верх окна: строка заголовка иначе
+// оказывается вплотную к краю и читается как обрезанная.
+.pv-sa[id],
+.pv-iast[id],
+.pv-tr[id],
+h2[id] {
+  scroll-margin-top: 1.2em;
+}
 
 @media (prefers-color-scheme: dark) {
   .pv-sa { color: #7fbf8f; }

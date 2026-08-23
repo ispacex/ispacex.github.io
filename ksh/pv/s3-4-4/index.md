@@ -2,13 +2,19 @@
 title: "Parātrīśikāvivaraṇa: строфы 3–4, часть 4"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-4/797)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-4/797)</p>
 
 # Строфы 3–4, часть 4
 
-<p class="pv-pager" markdown="1">[← Строфы 3–4, часть 3](/ksh/pv/s3-4-3/) · [Строфы 5–8, часть 1 →](/ksh/pv/s5-8-1/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 3–4, часть 3](/ksh/pv/s3-4-3/) · [Строфы 5–8, часть 1 →](/ksh/pv/s5-8-1/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Строфы 3–4 (четвёртая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa продолжается. Абхинавагупта заканчивает комментарий к строфам 3 и 4 Parātrīśikā.
 
@@ -22,9 +28,9 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Строфы 3–4 (четвёртая часть комментария)
+## Строфы 3–4 (четвёртая часть комментария) {#s2}
 
-<p class="pv-sa" lang="sa">यद्वा सति सद्रूपे यस्यति यत्नं करोति क्रियाशक्तिप्राणत्वात्तत् सद्य इति क्विपि नपुंसकनिर्देशः। सद्यदिति केचिद् गुरवः पठन्ति। तदुक्तं श्रीसिद्धसन्ताने</p>
+<p class="pv-sa" id="s2-sa" lang="sa">यद्वा सति सद्रूपे यस्यति यत्नं करोति क्रियाशक्तिप्राणत्वात्तत् सद्य इति क्विपि नपुंसकनिर्देशः। सद्यदिति केचिद् गुरवः पठन्ति। तदुक्तं श्रीसिद्धसन्ताने</p>
 
 <p class="pv-sa pv-c" lang="sa">प्रकाशमानाभासैव यद्भूतिस्तत्सदेव हि।</p>
 
@@ -79,7 +85,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">एवं यतोऽयं कौलिको विधिः प्रभवति यत्र च प्रतिष्ठापदवीं भजते यन्मयं चेदं कौलिकं तदेवानुत्त्तरमित्युक्तम्। तत्र कस्तावत् कौलिको विधिः कथं चास्य प्रसरोऽनुत्तरात् कथं चात्रैवास्य प्रतिष्ठा कथं चानुत्तरैकरूपत्वं यच्चोक्तं — उत्तरस्याप्यनुत्तरमिति तत् सर्वं युक्त्यागमस्वसंवेदननिष्कर्षणतत्त्वावबोधावाप्तविमर्शनिपुणान् शिष्यान् प्रति वितत्य निर्णिनीषुर्भगवान् प्रस्तौति ग्रन्थान्तरमेतावद्दृढोपदेशनिर्दलितभेदाभिमानविकल्पानल्पसंस्काराणं तु सर्वमेतावतैव अनुत्तरं कथमित्यादिसार्धश्लोकयुगलनिगमितेन प्रश्नेन शृणु देवि इत्यादिना सार्धश्लोकनिर्णीतेन चोत्तरेणानुत्तरपदप्राप्तिवशाविष्टजीवन्मुक्तभावानां कृतकृत्यता। अतस्तावन्मात्र एव दृढप्रतिपत्तिपवित्रीकृतैर्विश्रमणीयम् — इत्युद्भुजाः फूत्कुर्मः। तदनुत्तरपरभैरवपदविमलदर्पणान्तर्निविष्टकौलिकपदप्रविविक्तये ग्रन्थान्तरमवतरतीत्युक्तम्॥४॥</p>
 
-<p class="pv-iast">Yadvā sati sadrūpe yasyati yatnaṁ karoti kriyāśaktiprāṇatvāttat sadya iti kvipi napuṁsakanirdeśaḥ| Sadyaditi kecid guravaḥ paṭhanti| Taduktaṁ śrīsiddhasantāne</p>
+<p class="pv-iast" id="s2-iast">Yadvā sati sadrūpe yasyati yatnaṁ karoti kriyāśaktiprāṇatvāttat sadya iti kvipi napuṁsakanirdeśaḥ| Sadyaditi kecid guravaḥ paṭhanti| Taduktaṁ śrīsiddhasantāne</p>
 
 <p class="pv-iast pv-c">Prakāśamānābhāsaiva yadbhūtistatsadeva hi|</p>
 
@@ -137,6 +143,7 @@ Dīpto'bhinavaguptena vyākhyābhānuḥ prakāśitaḥ||</p>
 <hr class="pv-rule" />
 
 _**2)**_ Или же <span class="pv-w">(yad vā)</span> «sadyas» <span class="pv-w">(sadyaḥ iti)</span> есть То <span class="pv-w">(tad)</span>, что, пребывая в Своей подлинной природе как Sat, Сущее <span class="pv-w">(sati sat-rūpe)</span>, стремится <span class="pv-w">(yasyati)</span>, то есть прилагает <span class="pv-w">(karoti)</span> усилие <span class="pv-w">(yatnam)</span>, ибо Оно есть Жизнь <span class="pv-w">(prāṇatvāt)</span> Силы <span class="pv-w">(śakti)</span> Действия <span class="pv-w">(kriyā)</span>. _(А)_ прибавление суффикса «kvip» <span class="pv-w">(kvipi)</span> указывает <span class="pv-w">(nirdeśaḥ)</span>, _(что «sadyas» стоит в)_ среднем роде <span class="pv-w">(napuṁsaka)</span>.
+{: #s2-ru}
 
 Некоторые <span class="pv-w">(kecid)</span> гуру <span class="pv-w">(guravaḥ)</span> читают <span class="pv-w">(paṭhanti)</span> _(и)_ «sat-yat» (sat-yad iti).
 
@@ -214,7 +221,7 @@ _[Так Абхинавагупта закрывает раздел «Bimba», �
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Строфы 3–4, часть 3](/ksh/pv/s3-4-3/) · [Строфы 5–8, часть 1 →](/ksh/pv/s5-8-1/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 3–4, часть 3](/ksh/pv/s3-4-3/) · [Строфы 5–8, часть 1 →](/ksh/pv/s5-8-1/)</p>
 
 ---
 

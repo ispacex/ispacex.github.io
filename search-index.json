@@ -16,7 +16,11 @@ JavaScript они есть, и снять её один раз при загру
 своими стилями и скриптами; их текст на девять десятых состоит из CSS и JS, и в
 выдаче от него один шум. Ссылки на них есть на /ship/, а она в указателе есть.
 
-Страницу можно исключить, поставив ей в front matter «search: false».
+Страницу можно исключить, поставив ей в front matter «search: false», а
+отдельный служебный блок — классом nosearch. Крошки, листалка и оглавление
+страницы состоят из ссылок и в выдаче дают только шум; при этом одинаковыми
+они не бывают (в каждой свои названия соседних частей), так что отсеиванием
+повторов, как обвязку страниц, их не убрать.
 {%- endcomment -%}
 {%- capture sep %}<br />
 <br />{% endcapture -%}
@@ -31,6 +35,7 @@ JavaScript они есть, и снять её один раз при загру
 {%- assign firstpara = true -%}
 {%- assign chunks = p.content | newline_to_br | split: sep -%}
 {%- for chunk in chunks -%}
+{%- if chunk contains 'nosearch' -%}{% continue %}{% endif -%}
 {%- assign text = chunk | strip_html | strip -%}
 {%- if text.size > 16 -%}
 {%- unless firstpara %},{% endunless -%}

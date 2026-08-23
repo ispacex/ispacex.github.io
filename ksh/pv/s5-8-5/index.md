@@ -2,13 +2,19 @@
 title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 5"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-5/802)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-5/802)</p>
 
 # Строфы 5–8, часть 5
 
-<p class="pv-pager" markdown="1">[← Строфы 5–8, часть 4](/ksh/pv/s5-8-4/) · [Строфы 5–8, часть 6 →](/ksh/pv/s5-8-6/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 5–8, часть 4](/ksh/pv/s5-8-4/) · [Строфы 5–8, часть 6 →](/ksh/pv/s5-8-6/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Строфы 5–8 (пятая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa продолжается. Абхинавагупта продолжает комментировать строфы 5 и 8 Parātrīśikā.
 
@@ -22,9 +28,9 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Строфы 5–8 (пятая часть комментария)
+## Строфы 5–8 (пятая часть комментария) {#s2}
 
-<p class="pv-sa" lang="sa">तदेवं कृतकरिष्यमाणाद्यनन्तसङ्केतगर्भीकारेणैवायं शोध्यशोधकभावः। न चानवस्था नातिप्रसङ्गो नातिव्याप्तिर्न सङ्केतितस्यापारमार्थिकता — इति स्थितम्। एवं स्थिते प्रकृतमनुसरामः — अकाराद्या एव कालयोगेन सोमसूर्यौ यौ तदन्तः प्रकीर्तिताविति सम्बन्धः। तच्छब्देन प्राक्तनश्लोकोक्तमकुलं भैरवात्म परामृश्यते। तेनाकुलमेवान्तर्गृहीतकलनाकं — कुलशक्तेरत्रैव निवेशात्कलनात्मिका हि विमर्शशक्तिः। तामन्तरेणाकुलमपि तुर्यातीतं नाम न किञ्चित् — सौषुप्तपदाविष्टत्वात्तुर्यानन्तरताया अपि समानत्वात्। विमर्शशक्तिश्च परा परमेश्वरी भैरवभट्टारकस्य निरतिशयस्वातन्त्र्यात्मिका पूर्णकृशतदुभयात्मतदुभयरहितत्वेनावतिष्ठते। तत्र न कश्चित् क्रमयौगपद्योदयकलङ्कः — प्रोक्तोपदेशनयेनैतावत्याः पराभट्टारिकासंविदोऽनन्तागामिप्रलयोदयात्मकस्वस्वभावविमर्शैकघनत्वादिति।</p>
+<p class="pv-sa" id="s2-sa" lang="sa">तदेवं कृतकरिष्यमाणाद्यनन्तसङ्केतगर्भीकारेणैवायं शोध्यशोधकभावः। न चानवस्था नातिप्रसङ्गो नातिव्याप्तिर्न सङ्केतितस्यापारमार्थिकता — इति स्थितम्। एवं स्थिते प्रकृतमनुसरामः — अकाराद्या एव कालयोगेन सोमसूर्यौ यौ तदन्तः प्रकीर्तिताविति सम्बन्धः। तच्छब्देन प्राक्तनश्लोकोक्तमकुलं भैरवात्म परामृश्यते। तेनाकुलमेवान्तर्गृहीतकलनाकं — कुलशक्तेरत्रैव निवेशात्कलनात्मिका हि विमर्शशक्तिः। तामन्तरेणाकुलमपि तुर्यातीतं नाम न किञ्चित् — सौषुप्तपदाविष्टत्वात्तुर्यानन्तरताया अपि समानत्वात्। विमर्शशक्तिश्च परा परमेश्वरी भैरवभट्टारकस्य निरतिशयस्वातन्त्र्यात्मिका पूर्णकृशतदुभयात्मतदुभयरहितत्वेनावतिष्ठते। तत्र न कश्चित् क्रमयौगपद्योदयकलङ्कः — प्रोक्तोपदेशनयेनैतावत्याः पराभट्टारिकासंविदोऽनन्तागामिप्रलयोदयात्मकस्वस्वभावविमर्शैकघनत्वादिति।</p>
 
 <p class="pv-sa pv-c" lang="sa">स्वतन्त्रः परिपूर्णोऽयं भगवान्भैरवो विभुः।<br />
 तन्नास्ति यन्न विमले भासयेत्स्वात्मदर्पणे॥</p>
@@ -92,7 +98,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इत्यादि। अकारस्यैव घनता कवर्गः — कण्ठ्यत्वाद् इकारस्य चवर्गः — तालव्यत्वादुकारस्य पवर्गः — औष्ठ्यत्वादृकारस्य टवर्गः — मूर्धन्यत्वाद् ऌकारस्य तवर्गः — दन्त्यत्वाद्यशौ चवर्गस्यान्ता रषौ टवर्गस्य लसौ तवर्गस्य वकारोऽपि तपवर्गयोर्घनता। अबोधस्यामूर्तस्यापि चिन्मात्रस्यापि क्रियाशक्तिरूपतैव। सा चोक्तनीत्या शक्तिषट्कक्रमेणैवोपजायते — तेन पञ्च प्रसृताः षड्गुणितास्त्रिंशत्। षड्भिः सह षट्त्रिंशद्भवन्तीति। तदेवं शिवबीजमेव स्वातन्त्र्याद्घनीभूततया क्वचिद्वपुषि शाक्तरूपे कुसुमतया तिष्ठद्योनिरित्यभिधीयते। तदेव हि पुष्पं पूर्वोक्तनयेन ग्राह्यग्रहणग्राहककोणत्रयमयं वस्तुतः प्रसूतिपदं बीजसम्मिश्रतयैव भवति तदैव पुष्परूपत्वात्।...</p>
 
-<p class="pv-iast">Tadevaṁ kṛtakariṣyamāṇādyanantasaṅketagarbhīkāreṇaivāyaṁ śodhyaśodhakabhāvaḥ| Na cānavasthā nātiprasaṅgo nātivyāptirna saṅketitasyāpāramārthikatā — iti sthitam| Evaṁ sthite prakṛtamanusarāmaḥ — Akārādyā eva kālayogena somasūryau yau tadantaḥ prakīrtitāviti sambandhaḥ| Tacchabdena prāktanaślokoktamakulaṁ bhairavātma parāmṛśyate| Tenākulamevāntargṛhītakalanākaṁ — Kulaśakteratraiva niveśātkalanātmikā hi vimarśaśaktiḥ| Tāmantareṇākulamapi turyātītaṁ nāma na kiñcit — Sauṣuptapadāviṣṭatvātturyānantaratāyā api samānatvāt| Vimarśaśaktiśca parā parameśvarī bhairavabhaṭṭārakasya niratiśayasvātantryātmikā pūrṇakṛśatadubhayātmatadubhayarahitatvenāvatiṣṭhate| Tatra na kaścit kramayaugapadyodayakalaṅkaḥ — Proktopadeśanayenaitāvatyāḥ parābhaṭṭārikāsaṁvido'nantāgāmipralayodayātmakasvasvabhāvavimarśaikaghanatvāditi|</p>
+<p class="pv-iast" id="s2-iast">Tadevaṁ kṛtakariṣyamāṇādyanantasaṅketagarbhīkāreṇaivāyaṁ śodhyaśodhakabhāvaḥ| Na cānavasthā nātiprasaṅgo nātivyāptirna saṅketitasyāpāramārthikatā — iti sthitam| Evaṁ sthite prakṛtamanusarāmaḥ — Akārādyā eva kālayogena somasūryau yau tadantaḥ prakīrtitāviti sambandhaḥ| Tacchabdena prāktanaślokoktamakulaṁ bhairavātma parāmṛśyate| Tenākulamevāntargṛhītakalanākaṁ — Kulaśakteratraiva niveśātkalanātmikā hi vimarśaśaktiḥ| Tāmantareṇākulamapi turyātītaṁ nāma na kiñcit — Sauṣuptapadāviṣṭatvātturyānantaratāyā api samānatvāt| Vimarśaśaktiśca parā parameśvarī bhairavabhaṭṭārakasya niratiśayasvātantryātmikā pūrṇakṛśatadubhayātmatadubhayarahitatvenāvatiṣṭhate| Tatra na kaścit kramayaugapadyodayakalaṅkaḥ — Proktopadeśanayenaitāvatyāḥ parābhaṭṭārikāsaṁvido'nantāgāmipralayodayātmakasvasvabhāvavimarśaikaghanatvāditi|</p>
 
 <p class="pv-iast pv-c">Svatantraḥ paripūrṇo'yaṁ bhagavānbhairavo vibhuḥ|<br />
 Tannāsti yanna vimale bhāsayetsvātmadarpaṇe||</p>
@@ -161,6 +167,7 @@ Guruvaktraṁ tadevoktaṁ śakticakraṁ taducyate||</p>
 <p class="pv-iast">Ityādi| Akārasyaiva ghanatā kavargaḥ - Kaṇṭhyatvād ikārasya cavargaḥ — Tālavyatvādukārasya pavargaḥ — Auṣṭhyatvādṛkārasya ṭavargaḥ — Mūrdhanyatvād ḷkārasya tavargaḥ — Dantyatvādyaśau cavargasyāntā raṣau ṭavargasya lasau tavargasya vakāro'pi tapavargayorghanatā| Abodhasyāmūrtasyāpi cinmātrasyāpi kriyāśaktirūpataiva| Sā coktanītyā śaktiṣaṭkakrameṇaivopajāyate — Tena pañca prasṛtāḥ ṣaḍguṇitāstriṁśat| Ṣaḍbhiḥ saha ṣaṭtriṁśadbhavantīti| Tadevaṁ śivabījameva svātantryādghanībhūtatayā kvacidvapuṣi śāktarūpe kusumatayā tiṣṭhadyonirityabhidhīyate| Tadeva hi puṣpaṁ pūrvoktanayena grāhyagrahaṇagrāhakakoṇatrayamayaṁ vastutaḥ prasūtipadaṁ bījasammiśratayaiva bhavati tadaiva puṣparūpatvāt|...</p>
 
 Итак (tad evam), это <span class="pv-w">(ayam)</span> состояние <span class="pv-w">(bhāvaḥ)</span> очищающего <span class="pv-w">(śodhaka)</span> _(и)_ очищаемого <span class="pv-w">(śodhya)</span> _(складывается)_ вбиранием <span class="pv-w">(garbhī-kāreṇa eva)</span> бесконечных <span class="pv-w">(ananta)</span> уговорённых знаков <span class="pv-w">(saṅketa)</span> _(касательно мантр)_ — уже установленных <span class="pv-w">(kṛta)</span>, тех, что предстоит установить <span class="pv-w">(kariṣyamāṇa)</span>, и прочих <span class="pv-w">(ādi)</span>.
+{: #s2-ru}
 
 _(В таком состоянии)_ нет ни (na ca) бесконечной череды утверждений <span class="pv-w">(anavasthā)</span>, ни <span class="pv-w">(na)</span> чрезмерной привязки <span class="pv-w">(atiprasaṅgaḥ)</span>, ни <span class="pv-w">(na)</span> неоправданного растягивания _(правила)_ <span class="pv-w">(ativyāptiḥ)</span>, ни <span class="pv-w">(na)</span> _(того, чтобы можно было сказать, будто)_ условный знак <span class="pv-w">(saṅketitasya)</span> не имеет отношения к Высшей Реальности <span class="pv-w">(apāramārthikatā)</span>. Это установлено (iti sthitam).
 
@@ -352,7 +359,7 @@ _(А)_ вместе с шестью <span class="pv-w">(ṣaḍbhiḥ saha)</spa
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Строфы 5–8, часть 4](/ksh/pv/s5-8-4/) · [Строфы 5–8, часть 6 →](/ksh/pv/s5-8-6/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 5–8, часть 4](/ksh/pv/s5-8-4/) · [Строфы 5–8, часть 6 →](/ksh/pv/s5-8-6/)</p>
 
 ---
 

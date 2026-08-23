@@ -2,13 +2,19 @@
 title: "Parātrīśikāvivaraṇa: строфы 3–4, часть 1"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-1/794)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-1/794)</p>
 
 # Строфы 3–4, часть 1
 
-<p class="pv-pager" markdown="1">[← Строфы 1–2, часть 4](/ksh/pv/s1-2-4/) · [Строфы 3–4, часть 2 →](/ksh/pv/s3-4-2/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 1–2, часть 4](/ksh/pv/s1-2-4/) · [Строфы 3–4, часть 2 →](/ksh/pv/s3-4-2/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Строфы 3–4 (первая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa продолжается. Абхинавагупта начинает комментировать строфы 3 и 4 Parātrīśikā.
 
@@ -22,9 +28,9 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Строфы 3–4 (первая часть комментария)
+## Строфы 3–4 (первая часть комментария) {#s2}
 
-<p class="pv-sa" lang="sa">तदत्र प्रश्नसर्वस्वे</p>
+<p class="pv-sa" id="s2-sa" lang="sa">तदत्र प्रश्नसर्वस्वे</p>
 
 <p class="pv-sa pv-src pv-c" lang="sa">श्रीभैरव उवाच</p>
 
@@ -69,7 +75,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इत्यादि।...</p>
 
-<p class="pv-iast">Tadatra praśnasarvasve</p>
+<p class="pv-iast" id="s2-iast">Tadatra praśnasarvasve</p>
 
 <p class="pv-iast pv-c">Śrībhairava uvāca</p>
 
@@ -119,6 +125,7 @@ Sa binduryasya taṁ vande devamānandasāgaram||</p>
 <p class="pv-iast pv-c">Venerable Bhairava (śrī-bhairavaḥ) said (uvāca):</p>
 
 Это — прошедшее время в слове «сказал» — <span class="pv-w">(etad)</span> _(уже)_ объяснено <span class="pv-w">(vyākhyātam)</span> выше <span class="pv-w">(prāk eva)</span>. К чему <span class="pv-w">(kim)</span> говорить _(об этом)_ <span class="pv-w">(uktatā-āpādanena)</span> снова <span class="pv-w">(punar)</span>? Bhairava <span class="pv-w">(bhairavaḥ)</span> есть <span class="pv-w">(ātmakaḥ)</span> Тот, кто держит и несёт _(вселенную)_ <span class="pv-w">(bharaṇa)</span>, и <span class="pv-w">(ca)</span> есть <span class="pv-w">(ātmakaḥ)</span> звук <span class="pv-w">(rava)</span> Великой <span class="pv-w">(mahā)</span> Мантры <span class="pv-w">(mantra)</span> — Aham, «Я». Здесь <span class="pv-w">(atra)</span> _(лишь)_ <span class="pv-w">(kevalam)</span> преобладает <span class="pv-w">(prādhānyam)</span> _(Bhairava как)_ Обладатель Śakti <span class="pv-w">(śaktimat)</span> в виде <span class="pv-w">(rūpeṇa)</span> втягивания <span class="pv-w">(saṁhāra)</span>, то есть «ma-ha-a» (ma-ha-a iti), чья «природа» <span class="pv-w">(rūpam iti)</span> так и описана (evam... uktam) выше <span class="pv-w">(prāk)</span>, и <span class="pv-w">(ca)</span> она будет разъяснена <span class="pv-w">(sphuṭī-bhaviṣyati)</span> прежде всего (agratas eva) _(дальше)_.
+{: #s2-ru}
 
 Соответственно <span class="pv-w">(tad)</span>, смысл фразы _(«Досточтимый Bhairava сказал»)_ <span class="pv-w">(tātparya-arthaḥ)</span> здесь <span class="pv-w">(atra)</span> таков <span class="pv-w">(iyān)</span>:
 
@@ -184,7 +191,7 @@ _(Когда)_ эти самые (te eva) звуки <span class="pv-w">(varṇ�
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Строфы 1–2, часть 4](/ksh/pv/s1-2-4/) · [Строфы 3–4, часть 2 →](/ksh/pv/s3-4-2/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 1–2, часть 4](/ksh/pv/s1-2-4/) · [Строфы 3–4, часть 2 →](/ksh/pv/s3-4-2/)</p>
 
 ---
 

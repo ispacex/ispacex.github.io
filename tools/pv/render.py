@@ -39,17 +39,89 @@ def markup(t):
     t = PAREN.sub(paren, t)
     return t
 
-def para(t, cls=None):
+def para(t, cls=None, anchor=None):
     t = markup(t).replace('\n', '<br />\n')
     if cls:
-        return '<p class="%s" markdown="1">%s</p>' % (cls, t)
-    return t
+        return '<p class="%s"%s markdown="1">%s</p>' % (cls, ident(anchor), t)
+    # Обычный абзац разметки обёртки не имеет, и якорь ему ставится
+    # блочным IAL — своего тега, к которому можно приписать id, у него нет.
+    return t + ('\n{: #%s}' % anchor if anchor else '')
 
-def sanskrit(t, cls):
-    return '<p class="%s" lang="sa">%s</p>' % (cls, t.replace('\n', '<br />\n'))
+def ident(anchor):
+    return ' id="%s"' % anchor if anchor else ''
 
-def iast(t, cls):
-    return '<p class="%s">%s</p>' % (cls, t.replace('\n', '<br />\n'))
+def sanskrit(t, cls, anchor=None):
+    return '<p class="%s"%s lang="sa">%s</p>' % (cls, ident(anchor), t.replace('\n', '<br />\n'))
+
+def iast(t, cls, anchor=None):
+    return '<p class="%s"%s>%s</p>' % (cls, ident(anchor), t.replace('\n', '<br />\n'))
+
+
+# Страница устроена одинаково: заголовок раздела, затем стена деванагари, за
+# ней та же стена в транслитерации и только потом перевод — по три-четыре
+# десятка абзацев каждая. Читателю, которому нужен перевод, иначе пришлось бы
+# пролистать их все, поэтому у каждого раздела метится начало трёх его частей.
+SA_KINDS = ('deva', 'deva-red')
+
+def sections(blocks, ru, common):
+    """Разделы страницы и якорные блоки внутри каждого."""
+    starts = [i for i, b in enumerate(blocks) if b['k'] in ('h3', 'h4')]
+    out = []
+    for n, i in enumerate(starts):
+        end = starts[n + 1] if n + 1 < len(starts) else len(blocks)
+        sec = {'head': i, 'id': 's%d' % (n + 1), 'sa': None, 'iast': None, 'ru': None}
+        for j in range(i + 1, end):
+            k = blocks[j]['k']
+            if sec['sa'] is None and k in SA_KINDS:
+                sec['sa'] = j
+            elif sec['iast'] is None and k == 'iast':
+                sec['iast'] = j
+        # Начало перевода — первый достаточно длинный русский абзац после
+        # санскритской стены. Порог нужен: между абзацами IAST попадаются
+        # коротыши вроде «iti|», которые разбором признаны обычным текстом.
+        after = max(x for x in (i, sec['sa'], sec['iast']) if x is not None)
+        for j in range(after + 1, end):
+            b = blocks[j]
+            if b['k'] != 'text':
+                continue
+            v = ru.get(str(j)) or common.get(b['t']) or ''
+            # Кириллицы должно быть много: среди абзацев попадается IAST,
+            # который разбор счёл текстом, и «перевод» у него — он же сам.
+            if len(v) >= 120 and len(CYR.findall(v)) >= 60:
+                sec['ru'] = j
+                break
+        # Во «Введении» санскритской стены нет: там одна строка IAST и четыре
+        # абзаца пояснений, делить их на части незачем.
+        if sec['sa'] is None:
+            sec['iast'] = sec['ru'] = None
+        if sec['ru'] is None and sec['sa'] is not None:
+            for j in range(after + 1, end):
+                if blocks[j]['k'] == 'text':
+                    sec['ru'] = j
+                    break
+        out.append(sec)
+    return out
+
+
+def nav(secs, titles):
+    """Оглавление страницы: раздел, а рядом — три его части.
+
+    Строки разделены `<br />`, а не пустой строкой: пустая строка для сборщика
+    указателя — граница абзаца, и оглавление попало бы в поиск по кускам.
+    """
+    if len(secs) < 2:
+        return ''
+    rows = ['**На этой странице**']
+    for sec in secs:
+        row = '[%s](#%s)' % (titles[sec['head']], sec['id'])
+        parts = [('санскрит', 'sa'), ('транслитерация', 'iast'), ('перевод', 'ru')]
+        links = ['[%s](#%s-%s)' % (name, sec['id'], key)
+                 for name, key in parts if sec[key] is not None]
+        if links:
+            row += ' — ' + ' · '.join(links)
+        rows.append(row)
+    return ('<div class="pv-nav nosearch" markdown="1">\n%s\n</div>'
+            % '<br />\n'.join(rows))
 
 def render(pid, slug, name, idx):
     blocks = json.load(open(os.path.join(HERE, 'blocks', '%s.json' % pid), encoding='utf-8'))['blocks']
@@ -64,30 +136,42 @@ def render(pid, slug, name, idx):
             return None
         return v
 
+    secs = sections(blocks, ru, COMMON)
+    at = {}
+    titles = {}
+    for sec in secs:
+        for key in ('sa', 'iast', 'ru'):
+            if sec[key] is not None:
+                at[sec[key]] = '%s-%s' % (sec['id'], key)
+        at.setdefault(sec['head'], sec['id'])
+
     body = []
     for i, b in enumerate(blocks):
         k = b['k']
+        a = at.get(i)
         if k == 'rule':
             body.append('<hr class="pv-rule" />')
         elif k in ('h3', 'h4'):
             v = tr(i, b)
-            body.append(('## ' if k == 'h3' else '### ') + (v or b['t']))
+            titles[i] = v or b['t']
+            body.append(('## ' if k == 'h3' else '### ') + titles[i] + (' {#%s}' % a if a else ''))
             if v is None:
                 body[-1] += ' <span class="pv-en">(не переведено)</span>'
         elif k == 'deva':
-            body.append(sanskrit(b['t'], 'pv-sa' + (' pv-c' if b.get('c') else '')))
+            body.append(sanskrit(b['t'], 'pv-sa' + (' pv-c' if b.get('c') else ''), a))
         elif k == 'deva-red':
-            body.append(sanskrit(b['t'], 'pv-sa pv-src' + (' pv-c' if b.get('c') else '')))
+            body.append(sanskrit(b['t'], 'pv-sa pv-src' + (' pv-c' if b.get('c') else ''), a))
         elif k == 'iast':
-            body.append(iast(b['t'], 'pv-iast' + (' pv-c' if b.get('c') else '')))
+            body.append(iast(b['t'], 'pv-iast' + (' pv-c' if b.get('c') else ''), a))
         elif k == 'text':
             v = tr(i, b)
             if v is None:
                 # Ещё не переведено: показываем как у источника и помечаем, а не
                 # выдаём английский абзац за русский.
-                body.append('<p class="pv-en" lang="en">%s</p>' % markup(b['t']).replace('\n', '<br />\n'))
+                body.append('<p class="pv-en"%s lang="en">%s</p>'
+                            % (ident(a), markup(b['t']).replace('\n', '<br />\n')))
             else:
-                body.append(para(v, 'pv-tr' if b.get('c') else None))
+                body.append(para(v, 'pv-tr' if b.get('c') else None, a))
         elif k == 'list':
             items = [ru.get('%d.%d' % (i, j), x) for j, x in enumerate(b['items'])]
             if any(ru.get('%d.%d' % (i, j)) is None for j in range(len(b['items']))):
@@ -113,20 +197,24 @@ def render(pid, slug, name, idx):
 
     head = [
         '---\ntitle: "Parātrīśikāvivaraṇa: %s"\n---' % name.lower(),
-        '[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · '
-        '[Эта часть у источника](%s%s)' % (SRC, SRC_URL[pid]),
+        '<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · '
+        '[Поиск по сайту](/search/) · [Эта часть у источника](%s%s)</p>' % (SRC, SRC_URL[pid]),
         '',
         '# %s' % name,
         '',
-        '<p class="pv-pager" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
+        '<p class="pv-pager nosearch" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
         '',
     ]
+    page_nav = nav(secs, titles)
+    if page_nav:
+        head.append(page_nav)
+        head.append('')
     if missing_note:
         head.append(missing_note)
         head.append('')
     tail = [
         '',
-        '<p class="pv-pager" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
+        '<p class="pv-pager nosearch" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),
         '',
         '---',
         '',

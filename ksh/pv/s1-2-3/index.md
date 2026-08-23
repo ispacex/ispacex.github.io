@@ -2,13 +2,19 @@
 title: "Parātrīśikāvivaraṇa: строфы 1–2, часть 3"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-3/792)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-3/792)</p>
 
 # Строфы 1–2, часть 3
 
-<p class="pv-pager" markdown="1">[← Строфы 1–2, часть 2](/ksh/pv/s1-2-2/) · [Строфы 1–2, часть 4 →](/ksh/pv/s1-2-4/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 1–2, часть 2](/ksh/pv/s1-2-2/) · [Строфы 1–2, часть 4 →](/ksh/pv/s1-2-4/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Строфа 1 (третья часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa продолжается. Абхинавагупта продолжает комментировать строфу 1 Parātrīśikā.
 
@@ -22,9 +28,9 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Строфа 1 (третья часть комментария)
+## Строфа 1 (третья часть комментария) {#s2}
 
-<p class="pv-sa" lang="sa">तस्मात्तमपि प्रत्यय एवंविधवाक्यकरणमयुक्तमेव। न च तरपस्तमप् अधिकमतिशयमभिदध्यात्। एवं तावत्तु स्यात् — अविवक्षिते प्रतियोगिविशेषे तमप्प्रयोगः प्रतियोगिविशेषापेक्षायां तु तरप् प्रतियोग्यपेक्षैव द्विवचनविभज्योपपदार्थ एक एव हि प्रतियोगी भवेदनयोरयं शुक्लोऽतिशयेनेति न तृतीयः प्रतीयते निर्धारणार्थेन प्रथमस्यैव प्रतियोगित्वावगतेः। न च द्विप्रभृत्यपेक्षा भवत्येकस्य युगपदेकैकापेक्षा मता — इति तस्य क्रमेण नाधिकोऽर्थः कश्चित्। तारतम्यमिति तु प्रयोगः क्रमातिशयेऽव्युत्पन्न एव रूढ न तु तरप्तमप्प्रत्ययार्थानुगमात्तार्यं ताम्यमित्याद्यपि हि स्यात्। तदलमकाण्डे श्रुतलवकौशलप्रथनेन। इह तु उत्तरक्रमिकप्रतियोग्यपेक्षायां तरप्। प्रतियोग्यनपेक्षायामनुत्तममित्यपि प्रयोगेऽयमेवार्थः। तथाह्यागमान्तरे</p>
+<p class="pv-sa" id="s2-sa" lang="sa">तस्मात्तमपि प्रत्यय एवंविधवाक्यकरणमयुक्तमेव। न च तरपस्तमप् अधिकमतिशयमभिदध्यात्। एवं तावत्तु स्यात् — अविवक्षिते प्रतियोगिविशेषे तमप्प्रयोगः प्रतियोगिविशेषापेक्षायां तु तरप् प्रतियोग्यपेक्षैव द्विवचनविभज्योपपदार्थ एक एव हि प्रतियोगी भवेदनयोरयं शुक्लोऽतिशयेनेति न तृतीयः प्रतीयते निर्धारणार्थेन प्रथमस्यैव प्रतियोगित्वावगतेः। न च द्विप्रभृत्यपेक्षा भवत्येकस्य युगपदेकैकापेक्षा मता — इति तस्य क्रमेण नाधिकोऽर्थः कश्चित्। तारतम्यमिति तु प्रयोगः क्रमातिशयेऽव्युत्पन्न एव रूढ न तु तरप्तमप्प्रत्ययार्थानुगमात्तार्यं ताम्यमित्याद्यपि हि स्यात्। तदलमकाण्डे श्रुतलवकौशलप्रथनेन। इह तु उत्तरक्रमिकप्रतियोग्यपेक्षायां तरप्। प्रतियोग्यनपेक्षायामनुत्तममित्यपि प्रयोगेऽयमेवार्थः। तथाह्यागमान्तरे</p>
 
 <p class="pv-sa pv-c" lang="sa">अद्यापि यन्न विदितं सिद्धानां बोधशालिनाम्।<br />
 न चाप्यविदितं कस्य किमप्येकमनुत्तमम्॥</p>
@@ -119,7 +125,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इति। स्वरूपपरिज्ञानं चैतावदेव — यद् एतासु क्रोधादिषु वृत्तिषूदयसमयनिर्विकल्पैकरूपासु विकल्पोऽप्युदयमानो वर्णराशिसमारब्धतत्तद्विचित्रशब्दरूषितत्वेऽपि न तादृशेन वर्णपुञ्जात्मना शक्तिचक्रेण युज्यते यत्तस्य प्राक्तननिर्विकल्पैकव्यवहारमयस्य विकल्पात्मनो मातुः स्वरूपं खण्डयेत्। न च विकल्पा अनुभवाद्विकल्पान्तराद्वा भिन्ना अपि तु स एवैकः स्वातन्त्र्यभेदितभावोपरागलब्धभेदभूताद्यभिधविज्ञानचक्रप्रभुस्तदेवं खेचरीसाम्यमेव मोक्षस्तच्च अनुत्तरस्वरूपपरिज्ञानमेव सततोदितं परमेश्वर्याः शिवात्मनि सङ्घट्टसमापत्त्या उभयविमर्शानन्दरूढि।...</p>
 
-<p class="pv-iast">Tasmāttamapi pratyaya evaṁvidhavākyakaraṇamayuktameva| Na ca tarapastamap adhikamatiśayamabhidadhyāt| Evaṁ tāvattu syāt — Avivakṣite pratiyogiviśeṣe tamapprayogaḥ pratiyogiviśeṣāpekṣāyāṁ tu tarap pratiyogyapekṣaiva dvivacanavibhajyopapadārtha eka eva hi pratiyogī bhavedanayorayaṁ śuklo'tiśayeneti na tṛtīyaḥ pratīyate nirdhāraṇārthena prathamasyaiva pratiyogitvāvagateḥ| Na ca dviprabhṛtyapekṣā bhavatyekasya yugapadekaikāpekṣā matā — Iti tasya krameṇa nādhiko'rthaḥ kaścit| Tāratamyamiti tu prayogaḥ kramātiśaye'vyutpanna eva rūḍha na tu taraptamappratyayārthānugamāttāryaṁ tāmyamityādyapi hi syāt| Tadalamakāṇḍe śrutalavakauśalaprathanena| Iha tu uttarakramikapratiyogyapekṣāyāṁ tarap| Pratiyogyanapekṣāyāmanuttamamityapi prayoge'yamevārthaḥ| Tathāhyāgamāntare</p>
+<p class="pv-iast" id="s2-iast">Tasmāttamapi pratyaya evaṁvidhavākyakaraṇamayuktameva| Na ca tarapastamap adhikamatiśayamabhidadhyāt| Evaṁ tāvattu syāt — Avivakṣite pratiyogiviśeṣe tamapprayogaḥ pratiyogiviśeṣāpekṣāyāṁ tu tarap pratiyogyapekṣaiva dvivacanavibhajyopapadārtha eka eva hi pratiyogī bhavedanayorayaṁ śuklo'tiśayeneti na tṛtīyaḥ pratīyate nirdhāraṇārthena prathamasyaiva pratiyogitvāvagateḥ| Na ca dviprabhṛtyapekṣā bhavatyekasya yugapadekaikāpekṣā matā — Iti tasya krameṇa nādhiko'rthaḥ kaścit| Tāratamyamiti tu prayogaḥ kramātiśaye'vyutpanna eva rūḍha na tu taraptamappratyayārthānugamāttāryaṁ tāmyamityādyapi hi syāt| Tadalamakāṇḍe śrutalavakauśalaprathanena| Iha tu uttarakramikapratiyogyapekṣāyāṁ tarap| Pratiyogyanapekṣāyāmanuttamamityapi prayoge'yamevārthaḥ| Tathāhyāgamāntare</p>
 
 <p class="pv-iast pv-c">Adyāpi yanna viditaṁ siddhānāṁ bodhaśālinām|<br />
 Na cāpyaviditaṁ kasya kimapyekamanuttamam||</p>
@@ -215,6 +221,7 @@ Niyacchan bhoktṛtāmeti tataścakreśvaro bhavet||</p>
 <p class="pv-iast">iti| Svarūpaparijñānaṁ caitāvadeva — Yad etāsu krodhādiṣu vṛttiṣūdayasamayanirvikalpaikarūpāsu vikalpo'pyudayamāno varṇarāśisamārabdhatattadvicitraśabdarūṣitatve'pi na tādṛśena varṇapuñjātmanā śakticakreṇa yujyate yattasya prāktananirvikalpaikavyavahāramayasya vikalpātmano mātuḥ svarūpaṁ khaṇḍayet| Na ca vikalpā anubhavādvikalpāntarādvā bhinnā api tu sa evaikaḥ svātantryabheditabhāvoparāgalabdhabhedabhūtādyabhidhavijñānacakraprabhustadevaṁ khecarīsāmyameva mokṣastacca anuttarasvarūpaparijñānameva satatoditaṁ parameśvaryāḥ śivātmani saṅghaṭṭasamāpattyā ubhayavimarśānandarūḍhi|...</p>
 
 Поэтому <span class="pv-w">(tasmāt)</span> построение <span class="pv-w">(karaṇam)</span> такой <span class="pv-w">(evaṁvidha)</span> фразы <span class="pv-w">(vākya)</span> с суффиксом «tamap» — то есть с «Anuttama» вместо «Anuttara» — (tamapi pratyaye) заведомо <span class="pv-w">(eva)</span> неуместно <span class="pv-w">(ayuktam)</span>.
+{: #s2-ru}
 
 И (na ca) «tamap» <span class="pv-w">(tamap)</span> не выражает <span class="pv-w">(abhidadhyāt)</span> большего превосходства <span class="pv-w">(adhikam atiśayam)</span>, чем «tarap» <span class="pv-w">(tarapaḥ)</span>.
 
@@ -398,7 +405,7 @@ _(Когда)_ природы этих вещей познаны — то ест
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Строфы 1–2, часть 2](/ksh/pv/s1-2-2/) · [Строфы 1–2, часть 4 →](/ksh/pv/s1-2-4/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Строфы 1–2, часть 2](/ksh/pv/s1-2-2/) · [Строфы 1–2, часть 4 →](/ksh/pv/s1-2-4/)</p>
 
 ---
 

@@ -2,13 +2,20 @@
 title: "Parātrīśikāvivaraṇa: строфы 1–2, часть 1"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-parātrīśikāvivaraṇa-ru-stanzas-1-to-2-part-1/790)
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-parātrīśikāvivaraṇa-ru-stanzas-1-to-2-part-1/790)</p>
 
 # Строфы 1–2, часть 1
 
-<p class="pv-pager" markdown="1">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
 
-## Введение
+<div class="pv-nav nosearch" markdown="1">
+**На этой странице**<br />
+[Введение](#s1)<br />
+[Пять вступительных строф Абхинавагупты — комментатора](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)<br />
+[Строфа 1 (первая часть комментария)](#s3) — [санскрит](#s3-sa) · [транслитерация](#s3-iast) · [перевод](#s3-ru)
+</div>
+
+## Введение {#s1}
 
 Parātrīśikāvivaraṇa начинается. Сперва Абхинавагупта приводит пять вступительных строф. После этого он берётся комментировать сами строфы.
 
@@ -22,9 +29,9 @@ Parātrīśikāvivaraṇa начинается. Сперва Абхинаваг�
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Пять вступительных строф Абхинавагупты — комментатора
+## Пять вступительных строф Абхинавагупты — комментатора {#s2}
 
-<p class="pv-sa pv-c" lang="sa">विमलकलाश्रयाभिनवसृष्टिमहा जननी भरिततनुश्च पञ्चमुखगुप्तरुचिर्जनकः।<br />
+<p class="pv-sa pv-c" id="s2-sa" lang="sa">विमलकलाश्रयाभिनवसृष्टिमहा जननी भरिततनुश्च पञ्चमुखगुप्तरुचिर्जनकः।<br />
 तदुभययामलस्फुरितभावविसर्गमयं हृदयमनुत्तरामृतकुलं मम संस्फुरतात्॥१॥</p>
 
 <p class="pv-sa pv-c" lang="sa">यस्यामन्तर्विश्वमेतद्विभाति बाह्याभासं भासमानं विशृष्टौ।<br />
@@ -39,7 +46,7 @@ Parātrīśikāvivaraṇa начинается. Сперва Абхинаваг�
 <p class="pv-sa pv-c" lang="sa">निजशिष्यविबोधाय प्रबुद्धस्मरणाय च।<br />
 मयाभिनवगुप्तेन श्रमोऽयम् क्रियते मनाक्॥५॥</p>
 
-<p class="pv-iast pv-c">Vimalakalāśrayābhinavasṛṣṭimahā jananī bharitatanuśca pañcamukhaguptarucirjanakaḥ|<br />
+<p class="pv-iast pv-c" id="s2-iast">Vimalakalāśrayābhinavasṛṣṭimahā jananī bharitatanuśca pañcamukhaguptarucirjanakaḥ|<br />
 Tadubhayayāmalasphuritabhāvavisargamayaṁ hṛdayamanuttarāmṛtakulaṁ mama saṁsphuratāt||1||</p>
 
 <p class="pv-iast pv-c">Yasyāmantarviśvametadvibhāti bāhyābhāsaṁ bhāsamānaṁ viśṛṣṭau|<br />
@@ -58,7 +65,7 @@ Mayābhinavaguptena śramo'yam kriyate manāk||5||</p>
 
 <p class="pv-tr" markdown="1">**Первое толкование первой вступительной строфы**</p>
 
-<p class="pv-tr" markdown="1">Мать — то есть Śakti — <span class="pv-w">(jananī)</span> _(есть)_ Та, чьё Могущество <span class="pv-w">(mahā)</span> _(выражает себя)_ как вечно-новое <span class="pv-w">(abhinava)</span> проявление <span class="pv-w">(sṛṣṭi)</span>, покоящееся на <span class="pv-w">(āśraya)</span> Незапятнанной <span class="pv-w">(vimala)</span> Абсолютной Свободе <span class="pv-w">(kalā)</span>; а <span class="pv-w">(ca)</span> Отец — то есть Śiva — <span class="pv-w">(janakaḥ)</span> _(есть)_ Тот, чьё Тело <span class="pv-w">(tanuḥ)</span> Полно <span class="pv-w">(bharita)</span> _(и)_ Кто питает тайную <span class="pv-w">(gupta)</span> любовь <span class="pv-w">(ruciḥ)</span> _(к упомянутому вечно-новому проявлению, которое осуществляется)_ Его пятью <span class="pv-w">(pañca)</span> Ликами <span class="pv-w">(mukha)</span> — пятью Силами: Сознания, Блаженства, Воли, Знания и Действия. _(Да)_ расширится <span class="pv-w">(saṁsphuratāt)</span> моё <span class="pv-w">(mama)</span> Сердце — Блаженство, рождающееся от восприятия вселенной как Самости — <span class="pv-w">(hṛdayam)</span>, которое полно <span class="pv-w">(mayam)</span> Эмиссии <span class="pv-w">(visarga)</span> Состояния <span class="pv-w">(bhāva)</span>, явленного <span class="pv-w">(sphurita)</span> той _(божественной)_ Четой <span class="pv-w">(tad-ubhaya-yāmala)</span>, _(и)_ которое есть Обитель <span class="pv-w">(kulam)</span> Нектара <span class="pv-w">(amṛta)</span> Anuttara — Высшей Реальности — <span class="pv-w">(anuttara)</span>!||1||</p>
+<p class="pv-tr" id="s2-ru" markdown="1">Мать — то есть Śakti — <span class="pv-w">(jananī)</span> _(есть)_ Та, чьё Могущество <span class="pv-w">(mahā)</span> _(выражает себя)_ как вечно-новое <span class="pv-w">(abhinava)</span> проявление <span class="pv-w">(sṛṣṭi)</span>, покоящееся на <span class="pv-w">(āśraya)</span> Незапятнанной <span class="pv-w">(vimala)</span> Абсолютной Свободе <span class="pv-w">(kalā)</span>; а <span class="pv-w">(ca)</span> Отец — то есть Śiva — <span class="pv-w">(janakaḥ)</span> _(есть)_ Тот, чьё Тело <span class="pv-w">(tanuḥ)</span> Полно <span class="pv-w">(bharita)</span> _(и)_ Кто питает тайную <span class="pv-w">(gupta)</span> любовь <span class="pv-w">(ruciḥ)</span> _(к упомянутому вечно-новому проявлению, которое осуществляется)_ Его пятью <span class="pv-w">(pañca)</span> Ликами <span class="pv-w">(mukha)</span> — пятью Силами: Сознания, Блаженства, Воли, Знания и Действия. _(Да)_ расширится <span class="pv-w">(saṁsphuratāt)</span> моё <span class="pv-w">(mama)</span> Сердце — Блаженство, рождающееся от восприятия вселенной как Самости — <span class="pv-w">(hṛdayam)</span>, которое полно <span class="pv-w">(mayam)</span> Эмиссии <span class="pv-w">(visarga)</span> Состояния <span class="pv-w">(bhāva)</span>, явленного <span class="pv-w">(sphurita)</span> той _(божественной)_ Четой <span class="pv-w">(tad-ubhaya-yāmala)</span>, _(и)_ которое есть Обитель <span class="pv-w">(kulam)</span> Нектара <span class="pv-w">(amṛta)</span> Anuttara — Высшей Реальности — <span class="pv-w">(anuttara)</span>!||1||</p>
 
 <p class="pv-tr" markdown="1">**Второе толкование первой вступительной строфы**</p>
 
@@ -76,9 +83,9 @@ Mayābhinavaguptena śramo'yam kriyate manāk||5||</p>
 
 <p class="pv-tr" markdown="1">**Пояснений пока нет**</p>
 
-## Строфа 1 (первая часть комментария)
+## Строфа 1 (первая часть комментария) {#s3}
 
-<p class="pv-sa pv-src pv-c" lang="sa">श्रीदेव्युवाच<br />
+<p class="pv-sa pv-src pv-c" id="s3-sa" lang="sa">श्रीदेव्युवाच<br />
 अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।<br />
 येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥</p>
 
@@ -112,7 +119,7 @@ Mayābhinavaguptena śramo'yam kriyate manāk||5||</p>
 
 <p class="pv-sa" lang="sa">इत्यादि निजविवृतौ।...</p>
 
-<p class="pv-iast pv-c">Śrīdevyuvāca<br />
+<p class="pv-iast pv-c" id="s3-iast">Śrīdevyuvāca<br />
 Anuttaraṁ kathaṁ deva sadyaḥ kaulikasiddhidam|<br />
 Yena vijñātamātreṇa khecarīsamatāṁ vrajet||1||</p>
 
@@ -148,7 +155,7 @@ Parokṣamiva tatkālaṁ vimṛśenmattasuptavat||</p>
 
 <p class="pv-iast pv-c">The venerable (śrī) Goddess (devī) said (uvāca):</p>
 
-<p class="pv-tr" markdown="1">О Бог <span class="pv-w">(deva)</span>, как <span class="pv-w">(katham)</span> Anuttara — то есть Paramaśiva, Высшая Реальность — <span class="pv-w">(anuttaram)</span> немедленно <span class="pv-w">(sadyas)</span> дарует <span class="pv-w">(dam)</span> Kaulikasiddhi <span class="pv-w">(kaulika-siddhi)</span> _(тому или иному)_, кто одним лишь знанием которой — то есть Anuttara — <span class="pv-w">(yena vijñāta-mātreṇa)</span> _(такой человек)_ достигает тождества <span class="pv-w">(samatām vrajet)</span> с Khecarī <span class="pv-w">(khecarī)</span>?||1||</p>
+<p class="pv-tr" id="s3-ru" markdown="1">О Бог <span class="pv-w">(deva)</span>, как <span class="pv-w">(katham)</span> Anuttara — то есть Paramaśiva, Высшая Реальность — <span class="pv-w">(anuttaram)</span> немедленно <span class="pv-w">(sadyas)</span> дарует <span class="pv-w">(dam)</span> Kaulikasiddhi <span class="pv-w">(kaulika-siddhi)</span> _(тому или иному)_, кто одним лишь знанием которой — то есть Anuttara — <span class="pv-w">(yena vijñāta-mātreṇa)</span> _(такой человек)_ достигает тождества <span class="pv-w">(samatām vrajet)</span> с Khecarī <span class="pv-w">(khecarī)</span>?||1||</p>
 
 Высший <span class="pv-w">(parama)</span> Господь <span class="pv-w">(īśvaraḥ)</span> _(всегда)_ полон <span class="pv-w">(mayaḥ)</span> Пятеричного <span class="pv-w">(pañcavidha)</span> Действия <span class="pv-w">(kṛtya)</span>. _(Поскольку этот Высший Господь)_ обладает <span class="pv-w">(ākrāntaḥ)</span> Высшей <span class="pv-w">(parā-rūpayā)</span> Śakti, или Силой <span class="pv-w">(śaktyā)</span>, которая постоянно исполнена <span class="pv-w">(satatam... mayyā)</span> божественной Милости <span class="pv-w">(anugraha)</span>, Его единая природа <span class="pv-w">(eka-ātmā eva)</span> _(и)_ есть <span class="pv-w">(vastutas)</span> сама божественная Милость <span class="pv-w">(anugraha)</span>. Śakti — Сила Высшего Господа — <span class="pv-w">(śaktiḥ)</span> вовсе не <span class="pv-w">(nahi)</span> полагает <span class="pv-w">(āmarśayet)</span> _(Себя)_ отличной <span class="pv-w">(bhedam)</span> от Śiva, то есть от Высшего Господа <span class="pv-w">(śivāt)</span>.
 
@@ -232,7 +239,7 @@ _(Выражение)_ «bhairava uvāca» — Bhairava сказал — <span c
 
 <p class="pv-tr" markdown="1">**Сплошного длинного пояснения пока нет**</p>
 
-<p class="pv-pager" markdown="1">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
+<p class="pv-pager nosearch" markdown="1">[← Введение](/ksh/pv/) · [Строфы 1–2, часть 2 →](/ksh/pv/s1-2-2/)</p>
 
 ---
 
