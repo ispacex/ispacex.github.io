@@ -8,13 +8,11 @@ title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 4"
 
 <p class="pv-pager">[← Строфы 5–8, часть 3](/ksh/pv/s5-8-3/) · [Строфы 5–8, часть 5 →](/ksh/pv/s5-8-5/)</p>
 
-<p class="pv-todo">Эта часть переведена ещё не полностью: 127 абзацев ниже стоят по-английски — так, как они у источника. Санскрит и транслитерация на месте.</p>
-
 ## Введение
 
-<p class="pv-en" lang="en">Parātrīśikāvivaraṇa continues. Abhinavagupta keeps commenting on the stanzas 5 and 8 of Parātrīśikā.</p>
+Parātrīśikāvivaraṇa продолжается. Абхинавагупта продолжает комментировать строфы 5 и 8 Parātrīśikā.
 
-<p class="pv-en" lang="en">This is the fourth part of the commentary on the stanzas 5-8.</p>
+Это четвёртая часть комментария на строфы 5–8.
 
 Под переводом я буду писать «сплошное длинное пояснение»: если, как обычно, пользоваться отдельными «примечаниями», примечаний окажется столько, что работать с ними станет невозможно. К тому же запрограммировать такое количество примечаний, одно за другим, отняло бы уйму времени. Этим «сплошным длинным пояснением» я постараюсь сделать текст настолько понятным обычному читателю, насколько сумею!
 
@@ -24,7 +22,7 @@ title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 4"
 
 **Важно:** всё, что в переводе стоит в скобках и набрано курсивом, добавлено мной, чтобы завершить смысл той или иной фразы. А всё, что стоит между двойными дефисами (<span class="pv-note">— ... —</span>), — это поясняющие сведения, тоже добавленные мной.
 
-## Stanzas 5-8 (Fourth part of the commentary) <span class="pv-en">(не переведено)</span>
+## Строфы 5–8 (четвёртая часть комментария)
 
 <p class="pv-sa" lang="sa">(अ)</p>
 
@@ -128,7 +126,7 @@ title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 4"
 
 <p class="pv-sa" lang="sa">इत्यादिवचनाल्लौकिकशास्त्रान्तरीयादिवाच्यवाचकानन्त्यमपि सङ्गृहीतम्।...</p>
 
-<p class="pv-en" lang="en"><span class="pv-w">(A)</span></p>
+<span class="pv-w">(A)</span>
 
 <p class="pv-iast">(1) Śrotraṁ nādātmakabhāvarūpaṁ yonyātma<br />
 (2) Amṛtāpyāyakāribījacatuṣkāpyāyabhūmau patitaṁ bṛṁhatitvamavāpya<br />
@@ -153,9 +151,9 @@ title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 4"
 (7) Unmeṣordhvabījayogenānandendriyayonigam<br />
 (8) Sadāśiveśvaraśuddhavidyāmayaṁ bhavatīti sarvāgramadhyāntagāmitvenāparicchinnamanantaśaktiśivatattvamatroktaṁ bhavati|</p>
 
-<p class="pv-en" lang="en"><span class="pv-w">(I)</span></p>
+<span class="pv-w">(I)</span>
 
-<p class="pv-en" lang="en">Mālinyāmihatyāparasaṁvidanusṛtyā paśyantyātmakasattānusṛtyā ca krameṇa — Vāyuḥ sādākhyaṁ ca gho nabha īśvaraśca ṅa icchaiva śivamayī śuddhavidyā i anuttara eva svatantro'hambhāva a śivākhyo māyā māyā niyatiśca vaḥ prakṛtiḥ kālaśca bho niyatī rāgaśca yaḥ pādo vidyā ca ḍaḥ pāṇiḥ kalā ca ḍhakāraḥ pāyuḥ pumāṁśca ṭhaḥ sparśaḥ prakṛtiśca jhaḥ śabdaśca ño dhīrūpañca rūpamahaṅkṛt ca jo ro vidyā manaścānandendriyaṁ ṭaḥ śrotraṁ ca manastvak ca po rasaḥ cakṣuśca cho laḥ kalā rasanā ca ānandaśaktiḥ śaivī ā ghrāṇaṁ ceśvaro vāk ca so visargaśaktir aḥ pāṇiśca sadāśivaḥ pādaśca haḥ śuddhavidyā pāyuśca ṣaḥ śaktipṛthivī upasthaśca kṣaḥ pumāñcchabdaśca mo mahāmāyā śaḥ sparśaśca baindavī śivaśaktir aṁ rūpaṁ ca nāsikā rasaśca taḥ śivaśaktiḥ sāttvikī e gandhaśca saiva dīrghā ai nabhaśca tathaiva vāyutejasī o au cakṣurāpaśca do'haṅkṛt pṛthivī ca phaḥ|</p>
+Mālinyāmihatyāparasaṁvidanusṛtyā paśyantyātmakasattānusṛtyā ca krameṇa — Vāyuḥ sādākhyaṁ ca gho nabha īśvaraśca ṅa icchaiva śivamayī śuddhavidyā i anuttara eva svatantro'hambhāva a śivākhyo māyā māyā niyatiśca vaḥ prakṛtiḥ kālaśca bho niyatī rāgaśca yaḥ pādo vidyā ca ḍaḥ pāṇiḥ kalā ca ḍhakāraḥ pāyuḥ pumāṁśca ṭhaḥ sparśaḥ prakṛtiśca jhaḥ śabdaśca ño dhīrūpañca rūpamahaṅkṛt ca jo ro vidyā manaścānandendriyaṁ ṭaḥ śrotraṁ ca manastvak ca po rasaḥ cakṣuśca cho laḥ kalā rasanā ca ānandaśaktiḥ śaivī ā ghrāṇaṁ ceśvaro vāk ca so visargaśaktir aḥ pāṇiśca sadāśivaḥ pādaśca haḥ śuddhavidyā pāyuśca ṣaḥ śaktipṛthivī upasthaśca kṣaḥ pumāñcchabdaśca mo mahāmāyā śaḥ sparśaśca baindavī śivaśaktir aṁ rūpaṁ ca nāsikā rasaśca taḥ śivaśaktiḥ sāttvikī e gandhaśca saiva dīrghā ai nabhaśca tathaiva vāyutejasī o au cakṣurāpaśca do'haṅkṛt pṛthivī ca phaḥ|
 
 <p class="pv-iast">Atraiva ca yathoktaṁ śarīraniveśaḥ — Ityevaṁ sarvasarvātmakatvaṁ nirvyūḍhaṁ bhavet| Parābhaṭṭārikaiva hi proktanayena paśyantyāṁ pratibimbaṁ svakamarpayamāṇā tatsamakālameva svātmatādātmyavyavasthitamadhyamādhāmni bhinnayonitāmaśnuvānā tattadyonibījaparasparasambhedavaicitryasyānantyādasaṅkhyenaiva prakāreṇa tattatkulapuruṣādiparigaṇanabhedena bhedabhāginī mālinyeva| Yathoktam</p>
 
@@ -180,7 +178,7 @@ Pūrve'pi ca yathāpūrvaṁ mātṛkāyā vidhirmataḥ||<br />
 Etenaivānusāreṇa bhinnayonisvarūpataḥ||<br />
 Śāktādyasaṅkhyā devīyaṁ paraivottaramālinī||</p>
 
-<p class="pv-en" lang="en">iti|</p>
+iti|
 
 <p class="pv-iast pv-c">Adho'dho viniviṣṭeṣu bhedasaṅkhyeṣu dhāmasu|<br />
 Ekaṁ vindurathāpi prāganyeṣu prāktanāntyagām||<br />
@@ -214,7 +212,7 @@ Ubhe satyānṛte tyaktvā yena tyajasi tattyaja||</p>
 
 <p class="pv-iast">iti| Na caivamanavasthā — Sarvasyāsya bhagavatparasaṁvidekamayatvāt</p>
 
-<p class="pv-en" lang="en">... yena tyajasi tattyaja|</p>
+<p class="pv-tr" markdown="1">… yena tyajasi tattyaja|</p>
 
 <p class="pv-iast">ityevameva mantavyam| Antataḥ śodhako'pi vā bhedāṁśocchalattāyāṁ pāśātmakatvācchodhya eva| Śodhanaṁ ca paramārthataḥ sarvamalaploṣacaturabhairavasaṁvidabhedi hutavaha eva sarvasyānupraveśe paripūrṇataiva yadvakṣyati</p>
 
@@ -228,526 +226,525 @@ Jñeyāḥ saptaikādaśārṇā ekārdhārṇadvayānvitāḥ|</p>
 
 <p class="pv-iast">ityādivacanāllaukikaśāstrāntarīyādivācyavācakānantyamapi saṅgṛhītam|...</p>
 
-<p class="pv-en" lang="en"><span class="pv-note">— In order to alleviate the exhausted intellects of the readers, I will explain now the two arrangements of the Sanskrit alphabet <span class="pv-w">(Mātṛkā and Mālinī)</span>. With my exposition, the reader will find it easier to understand what Abhinavagupta is on the point of describing: The Mātṛkā arrangement is the traditional one, where the vowels are ordered separately from the consonants this way, and both follow a special pattern (e.g. consonants are ordered as guttural, palatal, etc.): **<span class="pv-w">(Vowels)</span>** "a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ" **<span class="pv-w">(Consonants)</span>** "ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa". In turn, the Mālinī arrangement has vowels and consonants mixed together without following any specific order or pattern apparently: **<span class="pv-w">(First 16 letters assigned to Śiva and Śakti alone)</span>** "na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga" **(Remaining letters assigned to the rest of tattva-s or categories)** "gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha". Also, use this simple chart describing the association of letters and tattva-s or categories in the Mātṛkā arrangement as a guidance or you will get lost in the jungle of the upcoming teachings. OK, with this brief introductory explanation the topic will not be so obscure for the reader, I guess —</span></p>
+_(Чтобы дать отдых утомлённому разуму читателя, поясню сперва два строя санскритского алфавита — Mātṛkā и Mālinī. С этим пояснением легче будет понять то, что Абхинавагупта вот-вот станет излагать. Строй **Mātṛkā** — обычный: гласные стоят отдельно от согласных, и те и другие в особом порядке (согласные — по месту образования: гортанные, нёбные и так далее): **гласные** «a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ», **согласные** «ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa». В строе **Mālinī** гласные и согласные перемешаны и, на первый взгляд, никакому порядку не подчинены: **первые 16 звуков, отнесённые к одним лишь Śiva и Śakti** — «na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga»; **остальные звуки, отнесённые к прочим таттвам** — «gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha». Держите под рукой и простую таблицу соответствия звуков и таттв в строе Mātṛkā — иначе в чаще дальнейших наставлений недолго и заблудиться. Ну, с этим коротким вступлением предмет, надеюсь, будет не так тёмен.)_
 
-<p class="pv-en" lang="en">_[Abhinavagupta describes now the aforesaid first sixteen letters in the Mālinī arrangement <span class="pv-w">(viz. na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga)</span> of the Sanskrit alphabet from the viewpoint of "Parā", and in the process he compares them to their respective tattvic positions in the Mātṛkā arrangement of the alphabet, also in "Parā".]_</p>
+_[Теперь Абхинавагупта описывает названные первые шестнадцать звуков строя Mālinī (то есть na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga) с точки зрения «Parā», попутно сопоставляя их с их таттвическими местами в строе Mātṛkā — тоже в «Parā».]_
 
-<p class="pv-en" lang="en">**(1)** _(The letter "na" standing for)_ "the power of hearing" <span class="pv-note">— category 17 —</span> _<span class="pv-w">(in the Mātṛkā arrangement)</span>_ <span class="pv-w">(śrotram)</span> is a "womb" <span class="pv-note">— a consonant —</span> <span class="pv-w">(yoni-ātma)</span> whose nature or form <span class="pv-w">(rūpam)</span> is the state <span class="pv-w">(bhāva)</span> consisting of <span class="pv-w">(ātmaka)</span> "Nāda" <span class="pv-note">— as the I-consciousness in Śivatattva —</span> <span class="pv-w">(nāda)</span>.</p>
+**(1)** _(Звук «na», означающий)_ «силу слуха» — 17-ю категорию — _(в строе Mātṛkā)_ <span class="pv-w">(śrotram)</span>, есть «лоно», то есть согласный <span class="pv-w">(yoni-ātma)</span>, чей облик <span class="pv-w">(rūpam)</span> — состояние <span class="pv-w">(bhāva)</span>, состоящее <span class="pv-w">(ātmaka)</span> из «Nāda» — Я-сознания в Śivatattva <span class="pv-w">(nāda)</span>.
 
-<p class="pv-en" lang="en">**(2)** _(That very "na")_ descends <span class="pv-w">(patitam)</span> in the stage <span class="pv-w">(bhūmau)</span> where it becomes full <span class="pv-w">(āpyāya)</span> _(in the form of)_ a group of four <span class="pv-w">(catuṣka)</span> "seeds" <span class="pv-note">— vowels —</span> <span class="pv-w">(bīja)</span> _<span class="pv-w">(called "Amṛta" <span class="pv-note">— i.e. the vowels "ṛ ṝ ḷ ḹ" —</span> because they)</span>_ increase <span class="pv-note">— they are the Abode of —</span> <span class="pv-w">(āpyāya-kāri)</span> Immortality <span class="pv-w">(amṛta)</span>, attaining <span class="pv-note">— such a letter "na" —</span> _(there <span class="pv-note">— in that group of four vowels —</span>)_ <span class="pv-w">(avāpya)</span> full vigor and maturity <span class="pv-w">(bṛṁhatitvam)</span> <span class="pv-note">— in other words, "Śiva's I-consciousness" attains full vigor and maturity when it reaches "ṛ ṝ ḷ ḹ" —</span>.</p>
+**(2)** _(Этот же «na»)_ нисходит <span class="pv-w">(patitam)</span> на ступень <span class="pv-w">(bhūmau)</span>, где он наполняется <span class="pv-w">(āpyāya)</span> _(в виде)_ четверицы <span class="pv-w">(catuṣka)</span> «семян», гласных <span class="pv-w">(bīja)</span>, _(зовущихся «Amṛta» — то есть гласных «ṛ ṝ ḷ ḹ» — потому, что они)_ умножают — суть Обитель — <span class="pv-w">(āpyāya-kāri)</span> Бессмертия <span class="pv-w">(amṛta)</span>, обретая _(там)_ <span class="pv-w">(avāpya)</span> полную силу и зрелость <span class="pv-w">(bṛṁhatitvam)</span>, — иначе говоря, «Я-сознание Śiva» обретает полную силу и зрелость, дойдя до «ṛ ṝ ḷ ḹ».
 
-<p class="pv-en" lang="en">**(3)** _<span class="pv-w">(The letter "tha" stands for "the power of tasting" <span class="pv-note">— category 20 —</span> in the Mātṛkā arrangement. Therefore, Śiva)</span>_ instantly enters <span class="pv-note">— lit. instantly entering —</span> <span class="pv-w">(jhaṭiti... pratipadya)</span> the state teeming with <span class="pv-w">(mayatvam)</span> "flavor" <span class="pv-w">(rasanā)</span>, _(and experiences)_ the principle <span class="pv-w">(tattva)</span> of "rasa" or "taste" <span class="pv-w">(rasa)</span> consisting of <span class="pv-w">(ātmaka)</span> a realization _(of His own nature as "I")_ <span class="pv-w">(grahaṇa)</span>.</p>
+**(3)** _(Звук «tha» означает «силу вкуса» — 20-ю категорию — в строе Mātṛkā. Итак, Śiva)_ мгновенно входит <span class="pv-w">(jhaṭiti... pratipadya)</span> в состояние, исполненное <span class="pv-w">(mayatvam)</span> «вкуса» <span class="pv-w">(rasanā)</span>, _(и переживает)_ принцип <span class="pv-w">(tattva)</span> «rasa», вкуса <span class="pv-w">(rasa)</span>, состоящий <span class="pv-w">(ātmaka)</span> из осознания _(Своей природы как «Я»)_ <span class="pv-w">(grahaṇa)</span>.
 
-<p class="pv-en" lang="en">**(4)** _<span class="pv-w">(The letter "ca" stands for "odor-as-such" <span class="pv-note">— category 31 —</span> in the Mātṛkā arrangement. So, Śiva)</span>_ becomes distinctly <span class="pv-note">— lit. becoming distinctly —</span> <span class="pv-w">(viśeṣī-bhūya)</span> "gandha" <span class="pv-note">— lit. odor, but it means "recognition" in the Mālinī arrangement —</span> <span class="pv-w">(gandha)</span> whose form <span class="pv-w">(ākāra)</span> is the earth element <span class="pv-w">(dharaṇī)</span> <span class="pv-note">— because "gandha" or "odor" is a well-known attribute of the earth element —</span>, _(and consequently recognizes His own "odor", figuratively speaking)_ <span class="pv-note">— i.e. Śiva fully recognizes that He is so and not otherwise —</span>.</p>
+**(4)** _(Звук «ca» означает «запах-как-таковой» — 31-ю категорию — в строе Mātṛkā. Итак, Śiva)_ отчётливо становится <span class="pv-w">(viśeṣī-bhūya)</span> «gandha» — букв. запахом, но в строе Mālinī это значит «узнавание» — <span class="pv-w">(gandha)</span>, чей облик <span class="pv-w">(ākāra)</span> — стихия земли <span class="pv-w">(dharaṇī)</span>, ибо «gandha», запах, — известное свойство стихии земли, _(и, соответственно, узнаёт Свой собственный «запах», говоря образно)_: то есть Śiva вполне узнаёт, что Он таков, а не иной.
 
-<p class="pv-en" lang="en">**(5)** _<span class="pv-w">(The letter "dha" stands for "the power of feeling by touch" <span class="pv-note">— category 18 —</span> in the Mātṛkā arrangement. As a result, now Śiva)</span>_ gets in touch <span class="pv-w">(sparśa-karaṇatām śritvā)</span> _<span class="pv-w">(with Its own Power <span class="pv-note">— Śakti —</span>)</span>_ right there <span class="pv-note">— while He "recognizes" His own nature as being so and not otherwise, as pointed out in the previous stage —</span> (tatra eva).</p>
+**(5)** _(Звук «dha» означает «силу осязания» — 18-ю категорию — в строе Mātṛkā. И вот теперь Śiva)_ соприкасается <span class="pv-w">(sparśa-karaṇatām śritvā)</span> _(со Своей собственной Силой, Śakti)_ там же (tatra eva) — узнавая Свою природу как таковую, о чём сказано на предыдущей ступени.
 
-<p class="pv-en" lang="en">**(6)** And <span class="pv-w">(ca)</span> such _(a condition described before)_ <span class="pv-w">(etāvat)</span> _(is called)_ the state <span class="pv-w">(dhāma)</span> relating to the Womb <span class="pv-w">(yaunam)</span> of Śakti <span class="pv-w">(śāktam)</span>. _<span class="pv-w">(In the present stage, Śiva)</span>_ becomes established <span class="pv-note">— lit. becoming established —</span> <span class="pv-w">(adhiṣṭhāya)</span> _<span class="pv-w">(in that state relating to the Womb of Śakti)</span>_ through the seed <span class="pv-note">— the vowel —</span> <span class="pv-w">(bījena)</span> "Īśāna" <span class="pv-note">— lit. "domination", an epithet of the vowel "ī" —</span> <span class="pv-w">(īśāna)</span>.</p>
+**(6)** И <span class="pv-w">(ca)</span> такое _(описанное выше состояние)_ <span class="pv-w">(etāvat)</span> _(зовётся)_ состоянием <span class="pv-w">(dhāma)</span>, относящимся к Лону <span class="pv-w">(yaunam)</span> Śakti <span class="pv-w">(śāktam)</span>. _(На этой ступени Śiva)_ утверждается <span class="pv-w">(adhiṣṭhāya)</span> _(в этом состоянии, относящемся к Лону Śakti,)_ через семя, то есть гласный <span class="pv-w">(bījena)</span>, «Īśāna» — букв. «владычество», эпитет гласного «ī» <span class="pv-w">(īśāna)</span>.
 
-<p class="pv-en" lang="en">**(7)** _<span class="pv-w">(The consonant "ṇa" stands for "the power of speaking" <span class="pv-note">— category 22 —</span> in the Mātṛkā arrangement. Consequently, Śiva's I-consciousness)</span>_ is _<span class="pv-w">(here)</span>_ reflected <span class="pv-w">(pratiphalitam)</span> in the Karaṇaśakti <span class="pv-note">— the Lord's Power to produce differences —</span> <span class="pv-w">(karaṇa-śaktau)</span> whose essence <span class="pv-w">(ātmani)</span> is "vāk" or "speech" <span class="pv-w">(vāk)</span>. _<span class="pv-w">(There is a reflection of Śiva as "I" in this "speech")</span>_.</p>
+**(7)** _(Согласный «ṇa» означает «силу речи» — 22-ю категорию — в строе Mātṛkā. Соответственно, Я-сознание Śiva)_ отражается _(здесь)_ <span class="pv-w">(pratiphalitam)</span> в Karaṇaśakti — Силе Господа производить различия — <span class="pv-w">(karaṇa-śaktau)</span>, чья суть <span class="pv-w">(ātmani)</span> — «vāk», речь <span class="pv-w">(vāk)</span>. _(Śiva отражается как «Я» в этой «речи».)_
 
-<p class="pv-en" lang="en">**(8)** Even <span class="pv-w">(api)</span> after that Karaṇaśakti <span class="pv-w">(tatas... karaṇa-śakteḥ)</span>, _<span class="pv-w">(Śiva's I-consciousness, appearing)</span>_ in the form of <span class="pv-w">(rūpatayā)</span> the seeds <span class="pv-note">— vowels —</span> <span class="pv-w">(bīja)</span> "Unmeṣa" <span class="pv-note">— an epithet of the letter "u" symbolizing introversion —</span> <span class="pv-w">(unmeṣa)</span> _<span class="pv-w">(and)</span>_ "Ūrdhvāśrayaṇa" <span class="pv-note">— lit. "relating to going upward", an epithet of the letter "ū" symbolizing extroversion —</span> <span class="pv-w">(ūrdhva-āśrayaṇa)</span>, rests <span class="pv-note">— lit. resting —</span> <span class="pv-w">(adhiśayya)</span> in the Womb <span class="pv-w">(yoni)</span> of Śakti <span class="pv-w">(śākta)</span> whose nature <span class="pv-w">(rūpām)</span> is Buddhi or intellect <span class="pv-note">— category 14 —</span> <span class="pv-w">(buddhi)</span> _<span class="pv-w">(represented by the letter "ba" in the Mātṛkā arrangement, where there is confirmation of Śiva's I-consciousness)</span>_.</p>
+**(8)** И <span class="pv-w">(api)</span> после этой Karaṇaśakti <span class="pv-w">(tatas... karaṇa-śakteḥ)</span> _(Я-сознание Śiva, являясь)_ в виде <span class="pv-w">(rūpatayā)</span> семян, гласных <span class="pv-w">(bīja)</span>, «Unmeṣa» — эпитет звука «u», означающий обращённость внутрь — <span class="pv-w">(unmeṣa)</span> _(и)_ «Ūrdhvāśrayaṇa» — букв. «относящееся к движению вверх», эпитет звука «ū», означающий обращённость наружу — <span class="pv-w">(ūrdhva-āśrayaṇa)</span>, — покоится <span class="pv-w">(adhiśayya)</span> в Лоне <span class="pv-w">(yoni)</span> Śakti <span class="pv-w">(śākta)</span>, чья природа <span class="pv-w">(rūpām)</span> — Buddhi, разум, 14-я категория <span class="pv-w">(buddhi)</span>, _(представленная звуком «ba» в строе Mātṛkā, где Я-сознание Śiva и утверждается)_.
 
-<p class="pv-en" lang="en">**(9)** _<span class="pv-w">(Finally)</span>_, the "Śivatattva" or the category Śiva <span class="pv-note">— as I-consciousness —</span> <span class="pv-w">(śiva-tattvam)</span> is <span class="pv-w">(bhavati)</span> said <span class="pv-w">(uktam)</span> to enter here thoroughly <span class="pv-w">(samāviṣṭam... atra)</span> in the wombs <span class="pv-note">— consonants —</span> <span class="pv-w">(yoni)</span> of the earth, water and agni elements <span class="pv-note">— categories 36, 35 and 34 —</span> <span class="pv-w">(pṛthivī-ap-tejas)</span> _<span class="pv-w">(assigned to the letter "ka", "kha" and "ga", respectively, where there are Firmness, Taste <span class="pv-note">— viz. Bliss —</span> and Light as far as the Śiva's I-consciousness is concerned)</span>_.</p>
+**(9)** _(Наконец)_ «Śivatattva», категория Śiva — как Я-сознание — <span class="pv-w">(śiva-tattvam)</span>, сказано (bhavati... uktam), всецело входит здесь <span class="pv-w">(samāviṣṭam... atra)</span> в лона, то есть в согласные <span class="pv-w">(yoni)</span>, стихий земли, воды и огня — категорий 36, 35 и 34 — <span class="pv-w">(pṛthivī-ap-tejas)</span>, _(отнесённых к звукам «ka», «kha» и «ga» соответственно, где и являются Твёрдость, Вкус — то есть Блаженство — и Свет в отношении Я-сознания Śiva)_.
 
-<p class="pv-en" lang="en">However <span class="pv-w">(tu)</span>, in accordance with <span class="pv-w">(anusṛtyā)</span> Paśyantī <span class="pv-w">(paśyantī-rūpa)</span>:</p>
+А <span class="pv-w">(tu)</span> сообразно <span class="pv-w">(anusṛtyā)</span> Paśyantī <span class="pv-w">(paśyantī-rūpa)</span>:
 
-<p class="pv-en" lang="en">_[Abhinavagupta describes now the aforesaid first sixteen letters in the Mālinī arrangement <span class="pv-w">(viz. na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga)</span> of the Sanskrit alphabet from the viewpoint of "Parāparā", and in the process he compares them to their respective tattvic positions in the Mātṛkā arrangement of the alphabet, also in "Parāparā".]_</p>
+_[Теперь Абхинавагупта описывает те же первые шестнадцать звуков строя Mālinī <span class="pv-w">(na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga)</span> с точки зрения «Parāparā», попутно сопоставляя их с их таттвическими местами в строе Mātṛkā — тоже в «Parāparā».]_
 
-<p class="pv-en" lang="en">**(1)** _<span class="pv-w">(The letter "na", at the level of "Parā", represents)</span>_ "the power of hearing" <span class="pv-note">— category 17 —</span> <span class="pv-w">(śrotram)</span> _<span class="pv-w">(in the Mātṛkā arrangement, and "Nāda" <span class="pv-note">— as the I-consciousness of Śivatattva —</span> in the Mālinī arrangement. But now the same letter "na" is reflected in "Parāpara" <span class="pv-note">— the Mirror of Consciousness —</span>)</span>_ in the form of <span class="pv-w">(rūpam)</span> "vāk" <span class="pv-note">— the power of speaking, category 22 —</span> <span class="pv-w">(vāk)</span>, consisting of <span class="pv-w">(ātmaka)</span> an "apprehension" or "realization" <span class="pv-w">(grahaṇa)</span>, _<span class="pv-w">(whose letter assigned in the Mātṛkā arrangement is "ṇa". Such an apprehension is symbolic of the I-consciousness in Śivatattva, which)</span>_ expands <span class="pv-note">— lit. expanding —</span> <span class="pv-w">(prasṛtya)</span> right there (tatra eva) in the seeds <span class="pv-w">(bījeṣu)</span> <span class="pv-note">— in this context, by "seeds" it is meant to say the four Amṛta vowels, viz. "ṛ ṝ ḷ ḹ", representative of the phase known as Anāśritaśiva or Śiva devoid of categories —</span>. _(And as these are vowels, no reflection is possible, obviously)_.</p>
+**(1)** _(Звук «na» на уровне «Parā» представляет)_ «силу слуха» — 17-ю категорию — <span class="pv-w">(śrotram)</span> _(в строе Mātṛkā, а в строе Mālinī — «Nāda», Я-сознание Śivatattva. Но теперь тот же «na» отражается в «Parāparā», в Зерцале Сознания,)_ в виде <span class="pv-w">(rūpam)</span> «vāk» — силы речи, 22-й категории — <span class="pv-w">(vāk)</span>, состоящей <span class="pv-w">(ātmaka)</span> из «схватывания», осознания <span class="pv-w">(grahaṇa)</span>, _(и звук её в строе Mātṛkā — «ṇa». Это схватывание знаменует Я-сознание в Śivatattva, которое)_ разворачивается <span class="pv-w">(prasṛtya)</span> там же (tatra eva) в семенах <span class="pv-w">(bījeṣu)</span> — здесь под «семенами» разумеются четыре гласные Amṛta, «ṛ ṝ ḷ ḹ», представляющие ступень Anāśritaśiva, Śiva без категорий. _(А поскольку это гласные, никакого отражения, разумеется, быть не может.)_
 
-<p class="pv-en" lang="en">**(2)** _<span class="pv-w">(The letter "tha" that, at the level of Parā, stands for "the power of tasting" <span class="pv-note">— category 20 —</span> in the Mātṛkā arrangement and the State where Śiva experiences His own "flavor" in the Mālinī arrangement, is now reflected, at the level of Parāparā, as the letter "da" in the Mātṛkā arrangement. And this "da" remains)</span>_ in the stage of "the power of seeing" <span class="pv-note">— category 19 —</span> <span class="pv-w">(cākṣuṣyāṁ bhuvi)</span> _<span class="pv-w">(according to the Mātṛkā arrangement. However, this same stage is indicatory of Self-realization in the Śivatattva)</span>_.</p>
+**(2)** _(Звук «tha», который на уровне Parā означает «силу вкуса» — 20-ю категорию — в строе Mātṛkā и то Состояние, где Śiva переживает Свой «вкус», в строе Mālinī, — теперь, на уровне Parāparā, отражается как звук «da» строя Mātṛkā. И этот «da» пребывает)_ на ступени «силы зрения» — 19-й категории — <span class="pv-w">(cākṣuṣyāṁ bhuvi)</span> _(по строю Mātṛkā. Но эта же ступень указывает на Самоосознание в Śivatattva.)_
 
-<p class="pv-en" lang="en">**(3)** _<span class="pv-w">(The letter "ca" that, at the level of Parā, stands for "odor-as-such" <span class="pv-note">— category 31 —</span> in the Mātṛkā arrangement and the stage where Śiva attains Self-recognition in the Mālinī arrangement, is now reflected, at the level of Parāparā, as the letter "va" in the Mātṛkā arrangement. And this "va" abides)</span>_ in "karaṇa" <span class="pv-note">— Māyā —</span> <span class="pv-w">(karaṇe)</span> as Pure Knowledge <span class="pv-w">(śuddha-vidyā)</span> equal to <span class="pv-w">(sāmānyā)</span> Him <span class="pv-w">(tad)</span> <span class="pv-note">— i.e. "va", though it is representative of "Māyātattva" (category 6) in the Mātṛkā arrangement, in this context it must be understood as abiding in "Māyāśakti", the Lord's Power to produce differences —</span>. _<span class="pv-w">(All the previous explanation was given in accordance with the Mātṛkā arrangement. Nonetheless, in the Śivatattva, it points out the Absolute Freedom of the Lord)</span>_.</p>
+**(3)** _(Звук «ca», который на уровне Parā означает «запах-как-таковой» — 31-ю категорию — в строе Mātṛkā и ступень, где Śiva обретает Самоузнавание, в строе Mālinī, — теперь, на уровне Parāparā, отражается как звук «va» строя Mātṛkā. И этот «va» пребывает)_ в «karaṇa» — Māyā — <span class="pv-w">(karaṇe)</span> как Чистое Знание <span class="pv-w">(śuddha-vidyā)</span>, равное <span class="pv-w">(sāmānyā)</span> Ему <span class="pv-w">(tad)</span>: то есть «va», хотя и представляет «Māyātattva» (6-ю категорию) в строе Mātṛkā, здесь понимается как пребывающий в «Māyāśakti», Силе Господа производить различия. _(Всё сказанное — по строю Mātṛkā. Но в Śivatattva это указывает на Абсолютную Свободу Господа.)_
 
-<p class="pv-en" lang="en">**(4)** _<span class="pv-w">(The letter "dha" that, at the level of Parā, stands for "the power of feeling by touch" <span class="pv-note">— category 18 —</span> in the Mātṛkā arrangement and the stage where Śiva gets in touch with His own Power and gains a recognition of His identity with such a Power in the Mālinī arrangement, is now reflected, at the level of Parāparā, as the letter "ta" in the Mātṛkā arrangement. And this "ta")</span>_ stands <span class="pv-note">— lit. standing —</span> <span class="pv-w">(sthitvā)</span> in "the power of smelling" <span class="pv-note">— category 21 —</span> <span class="pv-w">(ghrāṇe ca)</span>, i.e. in the indriya or karaṇa which is the last of them all <span class="pv-note">— of all of the Jñānendriya-s or Powers of perception —</span> <span class="pv-w">(tad-sarva-antya-karaṇe)</span> _<span class="pv-w">(according to the Mātṛkā arrangement. Anyway, in the Śivatattva, it is representative of His Self-recognition)</span>_.</p>
+**(4)** _(Звук «dha», который на уровне Parā означает «силу осязания» — 18-ю категорию — в строе Mātṛkā и ступень, где Śiva соприкасается со Своей Силой и узнаёт Своё с Нею тождество, в строе Mālinī, — теперь, на уровне Parāparā, отражается как звук «ta» строя Mātṛkā. И этот «ta»)_ стоит <span class="pv-w">(sthitvā)</span> в «силе обоняния» — 21-й категории — <span class="pv-w">(ghrāṇe ca)</span>, то есть в той индрии, что последняя из всех сил восприятия <span class="pv-w">(tad-sarva-antya-karaṇe)</span> _(по строю Mātṛkā. В Śivatattva же это знаменует Его Самоузнавание.)_
 
-<p class="pv-en" lang="en">**(5)** _<span class="pv-w">(At this stage, the Śiva's I-consciousness)</span>_ seizes <span class="pv-note">— lit. seizing —</span> _(the previous state)_ and goes toward _(the next state)_ <span class="pv-note">— lit. going toward —</span> <span class="pv-w">(ākramya)</span> through the seed <span class="pv-note">— vowel —</span> <span class="pv-w">(bījena)</span> whose epithet is "Īśāna" <span class="pv-note">— lit. domination, i.e. the vowel "ī" —</span> <span class="pv-w">(īśāna)</span>. _(As this is a vowel, no reflection is possible)_.</p>
+**(5)** _(На этой ступени Я-сознание Śiva)_ ухватывает _(прежнее состояние)_ и переходит _(к следующему)_ <span class="pv-w">(ākramya)</span> через семя, гласный <span class="pv-w">(bījena)</span>, чей эпитет — «Īśāna», букв. владычество, то есть гласный «ī» <span class="pv-w">(īśāna)</span>. _(Поскольку это гласный, отражения быть не может.)_
 
-<p class="pv-en" lang="en">**(6)** _<span class="pv-w">(The letter "ṇa" that, at the level of Parā, stands for "the power of speaking" <span class="pv-note">— category 22 —</span> in the Mātṛkā arrangement and the stage where Śiva experiences a reflection as "I" in His own speech or "vāk" in the Mālinī arrangement <span class="pv-note">— i.e. there is "svarūpanādadaśā" or "a State of Nāda in His own essential nature" —</span>, is now reflected, at the level of Parāparā, as the letter "na" in the Mātṛkā arrangement. And this "na")</span>_ supports or holds <span class="pv-note">— lit. supporting, holding —</span> <span class="pv-w">(avalambya)</span> the śakti <span class="pv-w">(saktim)</span> _<span class="pv-w">(contained)</span>_ in "the power of hearing" <span class="pv-note">— category 17 —</span> <span class="pv-w">(śrotra)</span> _<span class="pv-w">(according to the Mātṛkā arrangement. In turn, in the Śivatattva, it indicates "aṅgīkṛtanādadaśā" or "a State where Nāda is accepted as existing in Him")</span>_.</p>
+**(6)** _(Звук «ṇa», который на уровне Parā означает «силу речи» — 22-ю категорию — в строе Mātṛkā и ступень, где Śiva отражается как «Я» в собственной речи, «vāk», в строе Mālinī, — то есть «svarūpanādadaśā», «Состояние Nāda в собственной сущностной природе», — теперь, на уровне Parāparā, отражается как звук «na» строя Mātṛkā. И этот «na»)_ держит <span class="pv-w">(avalambya)</span> śakti <span class="pv-w">(saktim)</span>, _(заключённую)_ в «силе слуха» — 17-й категории — <span class="pv-w">(śrotra)</span> _(по строю Mātṛkā. А в Śivatattva это указывает на «aṅgīkṛtanādadaśā», «Состояние, где Nāda принят как сущий в Нём».)_
 
-<p class="pv-en" lang="en">**(7)** _<span class="pv-w">(At this stage, the Śiva's I consciousness proceeds to the next state)</span>_ by means of <span class="pv-w">(yogena)</span> "Unmeṣa" <span class="pv-note">— an epithet of the letter "u" symbolizing introversion —</span> <span class="pv-w">(unmeṣa)</span> _<span class="pv-w">(and)</span>_ "Ūrdhvāśrayaṇa" <span class="pv-note">— lit. "relating to going upward", an epithet of the letter "ū" symbolizing extroversion —</span> <span class="pv-w">(ūrdhva)</span>. _<span class="pv-w">(As these are vowels, there is no reflection then. In turn, the letter "ba" that, at the level of Parā, stood for "the intellect" <span class="pv-note">— category 14 —</span> in the Mātṛkā arrangement and the stage where Śiva experiences a confirmation of His own I-consciousness in the Mālinī arrangement, is now reflected, at the level of Parāparā, as the letter "ṭha" in the Mātṛkā arrangement. And this "ṭha")</span>_ abides <span class="pv-w">(gam)</span> as the seat <span class="pv-w">(yoni)</span> of the indriya <span class="pv-w">(indriya)</span> relating to "joy" <span class="pv-w">(ānanda)</span> <span class="pv-note">— it refers to "Pāyu", "the power of excreting" (category 25), which acts as the seat for the next tattva called "Upastha" or the power of sexual activity and restfulness (category 26) —</span> _<span class="pv-w">(according to the Mātṛkā arrangement)</span>_.</p>
+**(7)** _(На этой ступени Я-сознание Śiva переходит к следующему состоянию)_ через <span class="pv-w">(yogena)</span> «Unmeṣa» — эпитет звука «u», означающий обращённость внутрь — <span class="pv-w">(unmeṣa)</span> _(и)_ «Ūrdhvāśrayaṇa» — букв. «относящееся к движению вверх», эпитет звука «ū», означающий обращённость наружу — <span class="pv-w">(ūrdhva)</span>. _(Поскольку это гласные, отражения нет. А звук «ba», который на уровне Parā означал «разум» — 14-ю категорию — в строе Mātṛkā и ступень, где Śiva переживает утверждение Своего Я-сознания, в строе Mālinī, — теперь, на уровне Parāparā, отражается как звук «ṭha» строя Mātṛkā. И этот «ṭha»)_ пребывает <span class="pv-w">(gam)</span> как седалище <span class="pv-w">(yoni)</span> индрии <span class="pv-w">(indriya)</span>, относящейся к «радости» <span class="pv-w">(ānanda)</span>, — речь о «Pāyu», «силе извержения» (25-я категория), которая служит седалищем для следующей таттвы, «Upastha», силы половой деятельности и покоя (26-я категория), — _(по строю Mātṛkā)_.
 
-<p class="pv-en" lang="en">**(8)** _<span class="pv-w">(The letters "ka", "kha" and "ga" that, at the level of Parā, stand for the "earth, water and fire" elements <span class="pv-note">— categories 36, 35 and 34 —</span> in the Mātṛkā arrangement and the stage where Śiva experiences Firmness, Taste and Light with regard to His own I-consciousness in the Mālinī arrangement, are now reflected, at the level of Parāparā, as the letters "kṣa, ha and sa", respectively, in the Mātṛkā arrangement. And this group of three letters <span class="pv-note">— kṣa, ha and sa —</span>)</span>_ is <span class="pv-w">(bhavati)</span> Śakti consisting of Sadāśiva, Sadāśiva consisting of Īśvara and Īśvara consisting of Śuddhavidyā <span class="pv-note">— also known as Sadvidyā —</span> <span class="pv-w">(sadāśiva-īśvara-śuddhavidyā-mayam)</span> <span class="pv-note">— mixture of categories 2, 3, 4 and 5 —</span> _<span class="pv-w">(according to the Mātṛkā arrangement, in the "sarvāntyarūpatā" <span class="pv-note">— the form that is situated at the end of all —</span> portion of Parāparā)</span>_.</p>
+**(8)** _(Звуки «ka», «kha» и «ga», которые на уровне Parā означают стихии «земли, воды и огня» — категории 36, 35 и 34 — в строе Mātṛkā и ступень, где Śiva переживает Твёрдость, Вкус и Свет в отношении Своего Я-сознания, в строе Mālinī, — теперь, на уровне Parāparā, отражаются как звуки «kṣa, ha, sa» соответственно в строе Mātṛkā. И эта троица — kṣa, ha, sa —)_ есть <span class="pv-w">(bhavati)</span> Śakti, состоящая из Sadāśiva, Sadāśiva, состоящий из Īśvara, и Īśvara, состоящий из Śuddhavidyā, она же Sadvidyā <span class="pv-w">(sadāśiva-īśvara-śuddhavidyā-mayam)</span>, — смешение категорий 2, 3, 4 и 5, — _(по строю Mātṛkā, в доле «sarvāntyarūpatā», облике, стоящем в конце всего, у Parāparā)_.
 
-<p class="pv-en" lang="en">Thus <span class="pv-w">(iti)</span>, the uninterrupted <span class="pv-w">(aparicchinnam)</span> Śivatattva <span class="pv-note">— category 1 —</span> <span class="pv-w">(śiva-tattvam)</span> of infinite <span class="pv-w">(ananta)</span> Power <span class="pv-w">(śakti)</span> is <span class="pv-w">(bhavati)</span> said <span class="pv-w">(uktam)</span> to appear here as moving <span class="pv-w">(gāmitvena... atra)</span> in "sarvāgrarūpatā" <span class="pv-note">— lit. the form at the beginning of all, i.e. when the letter remains in itself as such in Parā —</span>, "sarvamadhyarūpatā" <span class="pv-note">— lit. the form in the middle of all, i.e. when the letter is undergoing transformation in Parāparā —</span> and "sarvāntyarūpatā" <span class="pv-note">— lit. the form at the end of all, i.e. when the letter already underwent transformation in Parāparā and consequently is assigned to a certain tattva or category but now this tattva absorbs within itself the immediately previous tattva, e.g. the abovementioned "Sadāśivamayaśakti" or "Śakti consisting of Sadāśiva", where the category 2 absorbs the category 3 within itself —</span> <span class="pv-w">(sarva-agra-madhya-anta)</span>.</p>
+Итак <span class="pv-w">(iti)</span>, непрерывная <span class="pv-w">(aparicchinnam)</span> Śivatattva — 1-я категория — <span class="pv-w">(śiva-tattvam)</span> бесконечной <span class="pv-w">(ananta)</span> Силы <span class="pv-w">(śakti)</span>, сказано (bhavati... uktam), выступает здесь как движущаяся <span class="pv-w">(gāmitvena... atra)</span> в «sarvāgrarūpatā» — букв. облике в начале всего, то есть когда звук остаётся сам собою в Parā, — в «sarvamadhyarūpatā» — облике посреди всего, когда звук претерпевает превращение в Parāparā, — и в «sarvāntyarūpatā» — облике в конце всего, когда звук уже претерпел превращение в Parāparā и отнесён к определённой таттве, а эта таттва вбирает в себя непосредственно предыдущую: как в названном «Sadāśivamayaśakti», «Śakti, состоящей из Sadāśiva», где 2-я категория вбирает в себя 3-ю <span class="pv-w">(sarva-agra-madhya-anta)</span>.
 
-<p class="pv-en" lang="en">_<span class="pv-w">(Now, the remaining 34 letters of Mālinī <span class="pv-note">— viz. "gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha" —</span> are described)</span>_ successively <span class="pv-w">(krameṇa)</span> in accordance with <span class="pv-w">(anusṛtyā... anusṛtyā)</span> the Aparā aspect of Consciousness <span class="pv-w">(apara-saṁvid)</span> that is here <span class="pv-w">(ihatya)</span> in Mālinī <span class="pv-w">(mālinyām)</span> as well as <span class="pv-w">(ca)</span> the Existence or Being <span class="pv-w">(sattā)</span> which consists of <span class="pv-w">(ātmaka)</span> Paśyantī <span class="pv-w">(paśyantī)</span> <span class="pv-note">— viz. the respective reflections with regard to Parāparā in Mātṛkā —</span>:</p>
+_(Теперь остальные 34 звука Mālinī — «gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha» — описываются)_ по порядку <span class="pv-w">(krameṇa)</span> сообразно <span class="pv-w">(anusṛtyā... anusṛtyā)</span> стороне Aparā Сознания <span class="pv-w">(apara-saṁvid)</span>, которая здесь <span class="pv-w">(ihatya)</span> в Mālinī <span class="pv-w">(mālinyām)</span>, а также <span class="pv-w">(ca)</span> Бытию <span class="pv-w">(sattā)</span>, состоящему <span class="pv-w">(ātmaka)</span> из Paśyantī <span class="pv-w">(paśyantī)</span>, — то есть соответствующим отражениям в отношении Parāparā в Mātṛkā:
 
-<p class="pv-en" lang="en">"Gha" <span class="pv-w">(ghaḥ)</span> _<span class="pv-w">(is)</span>_ "air" <span class="pv-note">— category 33 —</span> <span class="pv-w">(vāyuḥ)</span> _<span class="pv-w">(in the Parāparā aspect of Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Sādākhya" <span class="pv-note">— i.e. Sadāśiva, category 3 —</span> <span class="pv-w">(sādākhyam)</span> _<span class="pv-w">(in the Aparā aspect of Mālinī)</span>_. <span class="pv-note">— From now on I will only mention "in Mātṛkā" and "in Mālinī" duly, omitting the expressions "the Parāparā aspect of" and "the Aparā aspect of" for the sake of making this long description more concise —</span>. "Ṅa" <span class="pv-w">(ṅaḥ)</span> _<span class="pv-w">(is)</span>_ "ether" <span class="pv-note">— category 32 —</span> <span class="pv-w">(nabhas)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Īśvara" <span class="pv-note">— category 4 —</span> <span class="pv-w">(īśvaraḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "I" <span class="pv-w">(i)</span> _<span class="pv-w">(is)</span>_ the Śiva's _(Power of)_ Will <span class="pv-w">(icchā eva śiva-mayī)</span> _<span class="pv-w">(in Mātṛkā and)</span>_ "Śuddhavidyā" <span class="pv-note">— also known as "Sadvidyā", the category 5 —</span> <span class="pv-w">(śuddhavidyā)</span> _<span class="pv-w">(in Mālinī. In turn,)</span>_ the _<span class="pv-w">(absolutely)</span>_ Free <span class="pv-w">(svatantraḥ)</span> I-feeling <span class="pv-w">(aham-bhāvaḥ)</span>, i.e. Anuttara (anuttara eva) or "a" <span class="pv-w">(a)</span> —_<span class="pv-w">(also)</span>_ known as <span class="pv-w">(ākhyaḥ)</span> Śiva <span class="pv-note">— category 1 —</span> <span class="pv-w">(śiva)</span>— _<span class="pv-w">(in Mātṛkā, is)</span>_ "Māyā" <span class="pv-note">— category 6 —</span> <span class="pv-w">(māyā)</span> _<span class="pv-w">(in Mālinī)</span>_. "Va" <span class="pv-w">(vaḥ)</span> _<span class="pv-w">(is)</span>_ "Māyā" <span class="pv-note">— category 6 —</span> <span class="pv-w">(māyā)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Niyati" <span class="pv-note">— category 11 —</span> <span class="pv-w">(niyatiḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Bha" <span class="pv-w">(bhaḥ)</span> _<span class="pv-w">(is)</span>_ "Prakṛti" <span class="pv-note">— category 13 —</span> <span class="pv-w">(prakṛtiḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Kāla" <span class="pv-note">— category 10 —</span> <span class="pv-w">(kālaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ya" <span class="pv-w">(yaḥ)</span> _<span class="pv-w">(is)</span>_ "Niyati" <span class="pv-note">— category 11 —</span> <span class="pv-w">(niyatiḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Rāga" <span class="pv-note">— category 9 —</span> <span class="pv-w">(rāgaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ḍa" <span class="pv-w">(ḍaḥ)</span> _<span class="pv-w">(is)</span>_ "the power of locomotion" <span class="pv-note">— category 24 —</span> <span class="pv-w">(pādaḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Vidyā" <span class="pv-note">— category 8 —</span> <span class="pv-w">(vidyā)</span> _<span class="pv-w">(in Mālinī)</span>_. The sound "ḍha" <span class="pv-w">(ḍha-kāraḥ)</span> _<span class="pv-w">(is)</span>_ "the power of handling" <span class="pv-note">— category 23 —</span> <span class="pv-w">(pāṇiḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Kalā" <span class="pv-note">— category 7 —</span> <span class="pv-w">(kalā)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ṭha" <span class="pv-w">(ṭhaḥ)</span> _<span class="pv-w">(is)</span>_ "the power of excreting" <span class="pv-note">— category 25 —</span> <span class="pv-w">(pāyuḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Puruṣa" or "the individual soul" <span class="pv-note">— category 12 —</span> <span class="pv-w">(pumān)</span> _<span class="pv-w">(in Mālinī)</span>_. "Jha" <span class="pv-w">(jhaḥ)</span> _<span class="pv-w">(is)</span>_ "touch-as-such" <span class="pv-note">— category 28 —</span> <span class="pv-w">(sparśaḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "Prakṛti" or "undifferentiated and unmanifested matter" <span class="pv-note">— category 13 —</span> <span class="pv-w">(prakṛtiḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ña" <span class="pv-w">(ñaḥ)</span> _<span class="pv-w">(is)</span>_ "sound-as-such" <span class="pv-note">— category 27 —</span> <span class="pv-w">(śabdaḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and (ca... ca) "intellect" <span class="pv-note">— category 14 —</span> <span class="pv-w">(dhī-rūpam)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ja" <span class="pv-w">(jaḥ)</span> _<span class="pv-w">(is)</span>_ "color-as-such" <span class="pv-note">— category 29 —</span> <span class="pv-w">(rūpam)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "ego" <span class="pv-note">— category 15 —</span> <span class="pv-w">(ahaṅkṛt)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ra" <span class="pv-w">(raḥ)</span> _<span class="pv-w">(is)</span>_ "Vidyā" <span class="pv-note">— category 8 —</span> <span class="pv-w">(vidyā)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "mind" <span class="pv-note">— category 16 —</span> <span class="pv-w">(manas)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ṭa" <span class="pv-w">(ṭaḥ)</span> _<span class="pv-w">(is)</span>_ "the power of sexual activity and restfulness" <span class="pv-note">— lit. "the indriya relating to joy", category 26 —</span> <span class="pv-w">(ānanda-indriyam)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of hearing" <span class="pv-note">— category 17 —</span> <span class="pv-w">(śrotram)</span> _<span class="pv-w">(in Mālinī)</span>_. "Pa" <span class="pv-w">(paḥ)</span> _<span class="pv-w">(is)</span>_ "mind" <span class="pv-note">— category 16 —</span> <span class="pv-w">(manas)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of feeling by touch" <span class="pv-note">— category 18 —</span> <span class="pv-w">(tvak)</span> _<span class="pv-w">(in Mālinī)</span>_. "Cha" <span class="pv-w">(chaḥ)</span> _<span class="pv-w">(is)</span>_ "flavor-as-such" <span class="pv-note">— category 30 —</span> <span class="pv-w">(rasaḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of seeing" <span class="pv-note">— category 19 —</span> <span class="pv-w">(cakṣus)</span> _<span class="pv-w">(in Mālinī)</span>_. "La" <span class="pv-w">(laḥ)</span> _<span class="pv-w">(is)</span>_ Kalā <span class="pv-note">— category 7 —</span> <span class="pv-w">(kalā)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of tasting" <span class="pv-note">— category 20 —</span> <span class="pv-w">(rasanā)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ā" <span class="pv-w">(ā)</span> _<span class="pv-w">(is)</span>_ the Śiva's Power of Bliss <span class="pv-w">(ānanda-śaktiḥ śaivī)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of smelling" <span class="pv-note">— category 21 —</span> <span class="pv-w">(ghrāṇam)</span> _<span class="pv-w">(in Mālinī)</span>_. "Sa" <span class="pv-w">(saḥ)</span> _<span class="pv-w">(is)</span>_ "Īśvara" <span class="pv-note">— category 4 —</span> <span class="pv-w">(īśvaraḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of speaking" <span class="pv-note">— category 22 —</span> <span class="pv-w">(vāk)</span> _<span class="pv-w">(in Mālinī)</span>_. "Aḥ" <span class="pv-note">— the Visarga —</span> <span class="pv-w">(aḥ)</span> _<span class="pv-w">(is)</span>_ the Emissional Power <span class="pv-w">(visarga-śaktiḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of handling" <span class="pv-note">— category 23 —</span> <span class="pv-w">(pāṇiḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ha" <span class="pv-w">(haḥ)</span> _<span class="pv-w">(is)</span>_ Sadāśiva <span class="pv-note">— category 3 —</span> <span class="pv-w">(sadāśivaḥ)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of locomotion" <span class="pv-note">— category 24 —</span> <span class="pv-w">(pādaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ṣa" <span class="pv-w">(ṣaḥ)</span> _<span class="pv-w">(is)</span>_ "Śuddhavidyā" <span class="pv-note">— also called Sadvidyā, the category 5 —</span> <span class="pv-w">(śuddhavidyā)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of excreting" <span class="pv-note">— category 25 —</span> <span class="pv-w">(pāyuḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Kṣa" <span class="pv-w">(kṣaḥ)</span> _<span class="pv-w">(is)</span>_ "Śakti" <span class="pv-note">— category 2 —</span> as well as "earth" <span class="pv-note">— category 36, when the order of tattva-s is reversed —</span> <span class="pv-w">(śakti-pṛthivī)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "the power of sexual activity and restfulness" <span class="pv-note">— category 26 —</span> <span class="pv-w">(upasthaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ma" <span class="pv-w">(maḥ)</span> _<span class="pv-w">(is)</span>_ "Puruṣa" or "the individual soul" <span class="pv-note">— category 12 —</span> <span class="pv-w">(pumān)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "sound-as-such" <span class="pv-note">— category 27 —</span> <span class="pv-w">(śabdaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Śa" <span class="pv-w">(śaḥ)</span> _<span class="pv-w">(is)</span>_ "Mahāmāyā" <span class="pv-note">— stage located between the tattva-s 5 and 6 —</span> <span class="pv-w">(mahā-māyā)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "touch-as-such" <span class="pv-note">— category 28 —</span> <span class="pv-w">(sparśaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "Aṁ" <span class="pv-note">— Anusvāra —</span> <span class="pv-w">(aṁ)</span> _<span class="pv-w">(is)</span>_ the Śiva's Power <span class="pv-w">(śiva-śaktiḥ)</span> linked to Bindu <span class="pv-w">(baindavī)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "color-as-such" <span class="pv-note">— category 29 —</span> <span class="pv-w">(rūpam)</span> _<span class="pv-w">(in Mālinī)</span>_. "Ta" <span class="pv-w">(taḥ)</span> _<span class="pv-w">(is)</span>_ "the power of smelling" <span class="pv-note">— category 21 —</span> <span class="pv-w">(nāsikā)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "flavor-as-such" <span class="pv-note">— category 30 —</span> <span class="pv-w">(rasaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. "E" <span class="pv-w">(e)</span> _<span class="pv-w">(is)</span>_ the vigorous <span class="pv-w">(sāttvikī)</span> power <span class="pv-w">(śaktiḥ)</span> of Śiva <span class="pv-w">(śiva)</span> <span class="pv-note">— i.e. His Power of Action or Kriyāśakti —</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "odor-as-such" <span class="pv-note">— category 31 —</span> <span class="pv-w">(gandhaḥ)</span> _<span class="pv-w">(in Mālinī)</span>_. It itself <span class="pv-note">— i.e. "e" —</span> <span class="pv-w">(sā eva)</span> _<span class="pv-w">(but)</span>_ in its long form <span class="pv-w">(dīrghā)</span> _<span class="pv-w">(as)</span>_ "ai" <span class="pv-w">(ai)</span> _<span class="pv-w">(is His Power of Action in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> ether <span class="pv-note">— category 32 —</span> <span class="pv-w">(nabhas)</span> _<span class="pv-w">(in Mālinī)</span>_. In the same manner <span class="pv-w">(tathā eva)</span>, "o" _<span class="pv-w">(and)</span>_ "au" (o au) _<span class="pv-w">(are His Power of Action in Mātṛkā and)</span>_ "air" and "fire" <span class="pv-note">— categories 33 and 34 —</span> <span class="pv-w">(vāyu-tejasī)</span> _<span class="pv-w">(in Mālinī respectively)</span>_. "Da" <span class="pv-w">(daḥ)</span> _<span class="pv-w">(is)</span>_ "the power of seeing" <span class="pv-note">— category 19 —</span> <span class="pv-w">(cakṣus)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "water" <span class="pv-note">— category 35 —</span> <span class="pv-w">(āpas)</span> _<span class="pv-w">(in Mālinī)</span>_. "Pha" <span class="pv-w">(phaḥ)</span> _<span class="pv-w">(is)</span>_ "ego" <span class="pv-note">— category 15 —</span> <span class="pv-w">(ahaṅkṛt)</span> _<span class="pv-w">(in Mātṛkā)</span>_ and <span class="pv-w">(ca)</span> "earth" <span class="pv-note">— category 36 —</span> <span class="pv-w">(pṛthivī)</span> _<span class="pv-w">(in Mālinī)</span>_.</p>
+«Gha» <span class="pv-w">(ghaḥ)</span> _(есть)_ «воздух» — 33-я категория — <span class="pv-w">(vāyuḥ)</span> _(в стороне Parāparā у Mātṛkā)_ и <span class="pv-w">(ca)</span> «Sādākhya», то есть Sadāśiva, 3-я категория <span class="pv-w">(sādākhyam)</span> _(в стороне Aparā у Mālinī)_. _(Далее я буду говорить просто «в Mātṛkā» и «в Mālinī», опуская «в стороне Parāparā у» и «в стороне Aparā у», — чтобы это долгое перечисление было короче.)_ «Ṅa» <span class="pv-w">(ṅaḥ)</span> _(есть)_ «эфир» — 32-я — <span class="pv-w">(nabhas)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Īśvara» — 4-я — <span class="pv-w">(īśvaraḥ)</span> _(в Mālinī)_. «I» <span class="pv-w">(i)</span> _(есть)_ Сила Воли Śiva <span class="pv-w">(icchā eva śiva-mayī)</span> _(в Mātṛkā и)_ «Śuddhavidyā», она же «Sadvidyā», 5-я категория <span class="pv-w">(śuddhavidyā)</span> _(в Mālinī)_. _(А)_ Свободное <span class="pv-w">(svatantraḥ)</span> чувство «Я» <span class="pv-w">(aham-bhāvaḥ)</span>, то есть Anuttara (anuttara eva), или «a» <span class="pv-w">(a)</span>, — известное <span class="pv-w">(ākhyaḥ)</span> как Śiva, 1-я категория <span class="pv-w">(śiva)</span>, — _(в Mātṛkā есть)_ «Māyā», 6-я категория <span class="pv-w">(māyā)</span> _(в Mālinī)_. «Va» <span class="pv-w">(vaḥ)</span> _(есть)_ «Māyā» — 6-я — <span class="pv-w">(māyā)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Niyati» — 11-я — <span class="pv-w">(niyatiḥ)</span> _(в Mālinī)_. «Bha» <span class="pv-w">(bhaḥ)</span> _(есть)_ «Prakṛti» — 13-я — <span class="pv-w">(prakṛtiḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Kāla» — 10-я — <span class="pv-w">(kālaḥ)</span> _(в Mālinī)_. «Ya» <span class="pv-w">(yaḥ)</span> _(есть)_ «Niyati» — 11-я — <span class="pv-w">(niyatiḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Rāga» — 9-я — <span class="pv-w">(rāgaḥ)</span> _(в Mālinī)_. «Ḍa» <span class="pv-w">(ḍaḥ)</span> _(есть)_ «сила передвижения» — 24-я — <span class="pv-w">(pādaḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Vidyā» — 8-я — <span class="pv-w">(vidyā)</span> _(в Mālinī)_. Звук «ḍha» <span class="pv-w">(ḍha-kāraḥ)</span> _(есть)_ «сила хватания» — 23-я — <span class="pv-w">(pāṇiḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Kalā» — 7-я — <span class="pv-w">(kalā)</span> _(в Mālinī)_. «Ṭha» <span class="pv-w">(ṭhaḥ)</span> _(есть)_ «сила извержения» — 25-я — <span class="pv-w">(pāyuḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Puruṣa», отдельная душа, — 12-я — <span class="pv-w">(pumān)</span> _(в Mālinī)_. «Jha» <span class="pv-w">(jhaḥ)</span> _(есть)_ «прикосновение-как-таковое» — 28-я — <span class="pv-w">(sparśaḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «Prakṛti», неразличённая и непроявленная материя, — 13-я — <span class="pv-w">(prakṛtiḥ)</span> _(в Mālinī)_. «Ña» <span class="pv-w">(ñaḥ)</span> _(есть)_ «звук-как-таковой» — 27-я — <span class="pv-w">(śabdaḥ)</span> _(в Mātṛkā)_ и (ca... ca) «разум» — 14-я — <span class="pv-w">(dhī-rūpam)</span> _(в Mālinī)_. «Ja» <span class="pv-w">(jaḥ)</span> _(есть)_ «цвет-как-таковой» — 29-я — <span class="pv-w">(rūpam)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «самость» — 15-я — <span class="pv-w">(ahaṅkṛt)</span> _(в Mālinī)_. «Ra» <span class="pv-w">(raḥ)</span> _(есть)_ «Vidyā» — 8-я — <span class="pv-w">(vidyā)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «ум» — 16-я — <span class="pv-w">(manas)</span> _(в Mālinī)_. «Ṭa» <span class="pv-w">(ṭaḥ)</span> _(есть)_ «сила половой деятельности и покоя» — букв. «индрия, относящаяся к радости», 26-я — <span class="pv-w">(ānanda-indriyam)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила слуха» — 17-я — <span class="pv-w">(śrotram)</span> _(в Mālinī)_. «Pa» <span class="pv-w">(paḥ)</span> _(есть)_ «ум» — 16-я — <span class="pv-w">(manas)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила осязания» — 18-я — <span class="pv-w">(tvak)</span> _(в Mālinī)_. «Cha» <span class="pv-w">(chaḥ)</span> _(есть)_ «вкус-как-таковой» — 30-я — <span class="pv-w">(rasaḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила зрения» — 19-я — <span class="pv-w">(cakṣus)</span> _(в Mālinī)_. «La» <span class="pv-w">(laḥ)</span> _(есть)_ Kalā — 7-я — <span class="pv-w">(kalā)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила вкуса» — 20-я — <span class="pv-w">(rasanā)</span> _(в Mālinī)_. «Ā» <span class="pv-w">(ā)</span> _(есть)_ Сила Блаженства Śiva <span class="pv-w">(ānanda-śaktiḥ śaivī)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила обоняния» — 21-я — <span class="pv-w">(ghrāṇam)</span> _(в Mālinī)_. «Sa» <span class="pv-w">(saḥ)</span> _(есть)_ «Īśvara» — 4-я — <span class="pv-w">(īśvaraḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила речи» — 22-я — <span class="pv-w">(vāk)</span> _(в Mālinī)_. «Aḥ», Visarga <span class="pv-w">(aḥ)</span>, _(есть)_ Сила Эмиссии <span class="pv-w">(visarga-śaktiḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила хватания» — 23-я — <span class="pv-w">(pāṇiḥ)</span> _(в Mālinī)_. «Ha» <span class="pv-w">(haḥ)</span> _(есть)_ Sadāśiva — 3-я — <span class="pv-w">(sadāśivaḥ)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила передвижения» — 24-я — <span class="pv-w">(pādaḥ)</span> _(в Mālinī)_. «Ṣa» <span class="pv-w">(ṣaḥ)</span> _(есть)_ «Śuddhavidyā», она же Sadvidyā, 5-я категория <span class="pv-w">(śuddhavidyā)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила извержения» — 25-я — <span class="pv-w">(pāyuḥ)</span> _(в Mālinī)_. «Kṣa» <span class="pv-w">(kṣaḥ)</span> _(есть)_ «Śakti» — 2-я, — а равно «земля» — 36-я, при обратном порядке таттв — <span class="pv-w">(śakti-pṛthivī)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «сила половой деятельности и покоя» — 26-я — <span class="pv-w">(upasthaḥ)</span> _(в Mālinī)_. «Ma» <span class="pv-w">(maḥ)</span> _(есть)_ «Puruṣa», отдельная душа, — 12-я — <span class="pv-w">(pumān)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «звук-как-таковой» — 27-я — <span class="pv-w">(śabdaḥ)</span> _(в Mālinī)_. «Śa» <span class="pv-w">(śaḥ)</span> _(есть)_ «Mahāmāyā» — ступень между таттвами 5 и 6 — <span class="pv-w">(mahā-māyā)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «прикосновение-как-таковое» — 28-я — <span class="pv-w">(sparśaḥ)</span> _(в Mālinī)_. «Aṁ», Anusvāra <span class="pv-w">(aṁ)</span>, _(есть)_ Сила Śiva <span class="pv-w">(śiva-śaktiḥ)</span>, связанная с Bindu <span class="pv-w">(baindavī)</span>, _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «цвет-как-таковой» — 29-я — <span class="pv-w">(rūpam)</span> _(в Mālinī)_. «Ta» <span class="pv-w">(taḥ)</span> _(есть)_ «сила обоняния» — 21-я — <span class="pv-w">(nāsikā)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «вкус-как-таковой» — 30-я — <span class="pv-w">(rasaḥ)</span> _(в Mālinī)_. «E» <span class="pv-w">(e)</span> _(есть)_ мощная <span class="pv-w">(sāttvikī)</span> сила <span class="pv-w">(śaktiḥ)</span> Śiva <span class="pv-w">(śiva)</span>, то есть Его Сила Действия, _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «запах-как-таковой» — 31-я — <span class="pv-w">(gandhaḥ)</span> _(в Mālinī)_. Он же — «e» — <span class="pv-w">(sā eva)</span> в долгом виде <span class="pv-w">(dīrghā)</span>, _(как)_ «ai» <span class="pv-w">(ai)</span>, _(есть Его Сила Действия в Mātṛkā)_ и <span class="pv-w">(ca)</span> эфир — 32-я — <span class="pv-w">(nabhas)</span> _(в Mālinī)_. Точно так же <span class="pv-w">(tathā eva)</span> «o» _(и)_ «au» (o au) _(суть Его Сила Действия в Mātṛkā и)_ «воздух» и «огонь» — 33-я и 34-я — <span class="pv-w">(vāyu-tejasī)</span> _(в Mālinī соответственно)_. «Da» <span class="pv-w">(daḥ)</span> _(есть)_ «сила зрения» — 19-я — <span class="pv-w">(cakṣus)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «вода» — 35-я — <span class="pv-w">(āpas)</span> _(в Mālinī)_. «Pha» <span class="pv-w">(phaḥ)</span> _(есть)_ «самость» — 15-я — <span class="pv-w">(ahaṅkṛt)</span> _(в Mātṛkā)_ и <span class="pv-w">(ca)</span> «земля» — 36-я — <span class="pv-w">(pṛthivī)</span> _(в Mālinī)_.
 
-<p class="pv-en" lang="en">According to what has been stated _<span class="pv-w">(in the previous quote of Mālinīvijayatantra)</span>_ <span class="pv-w">(yathā uktam)</span>, the arrangement <span class="pv-w">(niveśaḥ)</span> of the Body <span class="pv-w">(śarīra)</span> _<span class="pv-w">(of Śakti was described)</span>_ here (atra eva) _<span class="pv-w">(for performing the practices of "nyāsa" <span class="pv-note">— assignment of various parts of the body to different deities while repeating certain sounds, doing certain gesticulations, etc. —</span>)</span>_. In this way (iti evam), _(the principle establishing that)_ "all consists of all" <span class="pv-w">(sarva-sarva-ātmakatvam)</span> is <span class="pv-w">(bhavet)</span> proved true <span class="pv-w">(nirvyūḍham)</span>.</p>
+Согласно сказанному _(в приведённой выше выдержке из Mālinīvijayatantra)_ <span class="pv-w">(yathā uktam)</span>, расположение <span class="pv-w">(niveśaḥ)</span> Тела <span class="pv-w">(śarīra)</span> _(Śakti описано)_ здесь (atra eva) _(для совершения обрядов «nyāsa» — приложения разных частей тела к разным божествам с произнесением определённых звуков, с определёнными жестами и прочим)_. Так (iti evam) и доказывается <span class="pv-w">(bhavet... nirvyūḍham)</span> _(правило, что)_ «всё состоит из всего» <span class="pv-w">(sarva-sarva-ātmakatvam)</span>.
 
-<p class="pv-en" lang="en">The most venerable Parā Herself <span class="pv-note">— i.e. Parāvāk, the Supreme Speech —</span> <span class="pv-w">(parā-bhaṭṭārikā eva hi)</span>, according to the principle <span class="pv-w">(nayena)</span> established <span class="pv-w">(prokta)</span>, by casting <span class="pv-w">(arpayamāṇā)</span> Her <span class="pv-w">(svakam)</span> Reflection <span class="pv-w">(pratibimbam)</span> in Paśyantī <span class="pv-w">(paśyantyām)</span> _<span class="pv-w">(and)</span>_ consequently <span class="pv-w">(tad)</span> attaining <span class="pv-w">(aśnuvānā)</span> in the state <span class="pv-w">(dhāmni)</span> of Madhyamā <span class="pv-w">(madhyamā)</span> —which is established <span class="pv-w">(vyavasthita)</span> in identity with <span class="pv-w">(tādātmya)</span> Herself <span class="pv-w">(sva-ātma)</span>— the condition of "bhinnayoni" <span class="pv-note">— where consonants and vowels are mixed with one another in an irregular order —</span> <span class="pv-w">(bhinna-yonitā)</span>, _<span class="pv-w">(becomes)</span>_ Mālinī <span class="pv-w">(mālinī eva)</span> concerning <span class="pv-w">(bhāginī)</span> dualism <span class="pv-w">(bheda)</span> by a division <span class="pv-w">(bhedena)</span> in the enumeration <span class="pv-w">(parigaṇana)</span> of the various vowels, etc. <span class="pv-w">(kula-puruṣa-ādi)</span> in innumerable ways <span class="pv-w">(asaṅkhyena eva prakāreṇa)</span> because of the infinity <span class="pv-w">(ānantyāt)</span> of the diversity <span class="pv-w">(vaicitryasya)</span> of the mutual <span class="pv-w">(paraspara)</span> mixtures <span class="pv-w">(sambheda)</span> between the various <span class="pv-w">(tad-tad)</span> vowels <span class="pv-w">(bīja)</span> _<span class="pv-w">(and)</span>_ consonants <span class="pv-w">(yoni)</span>.</p>
+Сама досточтимейшая Parā — то есть Parāvāk, Высшая Речь — <span class="pv-w">(parā-bhaṭṭārikā eva hi)</span>, по изложенному <span class="pv-w">(prokta)</span> правилу <span class="pv-w">(nayena)</span>, бросая <span class="pv-w">(arpayamāṇā)</span> Своё <span class="pv-w">(svakam)</span> Отражение <span class="pv-w">(pratibimbam)</span> в Paśyantī <span class="pv-w">(paśyantyām)</span> _(и)_ обретая <span class="pv-w">(tad... aśnuvānā)</span> в состоянии <span class="pv-w">(dhāmni)</span> Madhyamā <span class="pv-w">(madhyamā)</span>, которое утверждено <span class="pv-w">(vyavasthita)</span> в тождестве <span class="pv-w">(tādātmya)</span> с Нею Самой <span class="pv-w">(sva-ātma)</span>, положение «bhinnayoni» — где согласные и гласные перемешаны в неправильном порядке <span class="pv-w">(bhinna-yonitā)</span>, — _(становится)_ Mālinī <span class="pv-w">(mālinī eva)</span>, причастной <span class="pv-w">(bhāginī)</span> двойственности <span class="pv-w">(bheda)</span> по делению <span class="pv-w">(bhedena)</span> при перечислении <span class="pv-w">(parigaṇana)</span> разных гласных и прочего <span class="pv-w">(kula-puruṣa-ādi)</span> бесчисленными способами <span class="pv-w">(asaṅkhyena eva prakāreṇa)</span> — из-за бесконечности <span class="pv-w">(ānantyāt)</span> многообразия <span class="pv-w">(vaicitryasya)</span> взаимных <span class="pv-w">(paraspara)</span> смешений <span class="pv-w">(sambheda)</span> тех или иных <span class="pv-w">(tad-tad)</span> гласных <span class="pv-w">(bīja)</span> _(и)_ согласных <span class="pv-w">(yoni)</span>.
 
-<p class="pv-en" lang="en">As has been said <span class="pv-w">(yathā-uktam)</span>:</p>
+Как сказано <span class="pv-w">(yathā-uktam)</span>:
 
-<p class="pv-en" lang="en">"One should worship <span class="pv-w">(yajet)</span> the goddess <span class="pv-w">(devīm)</span> Mālinī <span class="pv-w">(mālinī tu)</span> whose form or figure <span class="pv-w">(vigrahām)</span> is surrounded <span class="pv-w">(parivārita)</span> by endless <span class="pv-w">(anantaiḥ)</span> vowels <span class="pv-w">(kula-dehaiḥ tu)</span> and <span class="pv-w">(ca)</span> consonants <span class="pv-w">(kula-śaktibhiḥ eva... iti)</span>".</p>
+<p class="pv-tr" markdown="1">«Надлежит чтить <span class="pv-w">(yajet)</span> богиню <span class="pv-w">(devīm)</span> Mālinī <span class="pv-w">(mālinī tu)</span>, чей облик <span class="pv-w">(vigrahām)</span> окружён <span class="pv-w">(parivārita)</span> бесконечными <span class="pv-w">(anantaiḥ)</span> гласными <span class="pv-w">(kula-dehaiḥ tu)</span> и <span class="pv-w">(ca)</span> согласными <span class="pv-w">(kula-śaktibhiḥ eva... iti)</span>».</p>
 
-<p class="pv-en" lang="en">By this method _<span class="pv-w">(based on Mālinī)</span>_ <span class="pv-w">(anena eva ca krameṇa)</span>, the yogī <span class="pv-w">(yogī)</span> who is fully devoted to <span class="pv-w">(paraḥ)</span> the practices <span class="pv-w">(abhyāsa)</span> with reference to external worlds <span class="pv-w">(bahis-bhuvaneṣu)</span>, categories <span class="pv-w">(tattveṣu)</span>, bodies <span class="pv-w">(śārīreṣu)</span> and <span class="pv-w">(ca)</span> cakra-s <span class="pv-note">— centers of power —</span> <span class="pv-w">(cakreṣu)</span> becomes <span class="pv-w">(bhavati)</span> everywhere (sarvatra eva) a possessor <span class="pv-w">(bhāk)</span> of various <span class="pv-w">(tad-tad)</span> "siddhi-s" <span class="pv-note">— supernatural powers —</span> <span class="pv-w">(siddhi)</span> as regards body <span class="pv-w">(dehe)</span> and <span class="pv-w">(ca)</span> vital energy <span class="pv-w">(prāṇe)</span>.</p>
+Этим способом _(опирающимся на Mālinī)_ <span class="pv-w">(anena eva ca krameṇa)</span> йогин <span class="pv-w">(yogī)</span>, всецело преданный <span class="pv-w">(paraḥ)</span> упражнениям <span class="pv-w">(abhyāsa)</span> с внешними мирами <span class="pv-w">(bahis-bhuvaneṣu)</span>, с категориями <span class="pv-w">(tattveṣu)</span>, с телами <span class="pv-w">(śārīreṣu)</span> и <span class="pv-w">(ca)</span> с чакрами — средоточиями силы <span class="pv-w">(cakreṣu)</span>, — становится <span class="pv-w">(bhavati)</span> повсюду (sarvatra eva) обладателем <span class="pv-w">(bhāk)</span> тех или иных <span class="pv-w">(tad-tad)</span> «siddhi», сверхобычных сил <span class="pv-w">(siddhi)</span>, — и в теле <span class="pv-w">(dehe)</span>, и <span class="pv-w">(ca)</span> в жизненной энергии <span class="pv-w">(prāṇe)</span>.
 
-<p class="pv-en" lang="en">Just as <span class="pv-w">(yathā)</span> there are <span class="pv-note">— lit. being produced, existing —</span> <span class="pv-w">(samudbhūya)</span> certain <span class="pv-w">(kāścid eva)</span> plants <span class="pv-w">(auṣadhyaḥ)</span> _<span class="pv-w">(which)</span>_ occasion <span class="pv-w">(vidadhate)</span> a certain <span class="pv-w">(kiñcid eva)</span> effect <span class="pv-w">(kāryam)</span>, in the same way <span class="pv-w">(tathā)</span> there is <span class="pv-note">— lit. being produced, existing —</span> <span class="pv-w">(samudbhūya)</span> a certain <span class="pv-w">(kācideva)</span> contemplation <span class="pv-note">— spiritual practice —</span> <span class="pv-w">(bhāvanā)</span> in the form of <span class="pv-w">(rūpā)</span> mantra <span class="pv-w">(mantra)</span>, nyāsa <span class="pv-w">(nyāsa)</span>, homa <span class="pv-note">— oblation —</span> <span class="pv-w">(homa)</span>, etc. <span class="pv-w">(ādi)</span> _<span class="pv-w">(which)</span>_ produces <span class="pv-w">(vitaret)</span> a certain <span class="pv-w">(kāñcid eva)</span> "siddhi" or "supernatural power" <span class="pv-w">(siddhim)</span>. Even <span class="pv-w">(api)</span> in this case <span class="pv-w">(atra)</span>, _(the success in attaining such a supernatural power is achieved)_ while <span class="pv-w">(yāvat)</span> there is non-transgression <span class="pv-w">(anatikramāt)</span> of the activity <span class="pv-w">(vyāpāra)</span> of the "niyatiśakti" <span class="pv-note">— the power restraining the senses —</span> <span class="pv-w">(niyati)</span>.</p>
+Как <span class="pv-w">(yathā)</span> есть <span class="pv-w">(samudbhūya)</span> некоторые <span class="pv-w">(kāścid eva)</span> травы <span class="pv-w">(auṣadhyaḥ)</span>, _(что)_ дают <span class="pv-w">(vidadhate)</span> определённое <span class="pv-w">(kiñcid eva)</span> действие <span class="pv-w">(kāryam)</span>, — так <span class="pv-w">(tathā)</span> есть <span class="pv-w">(samudbhūya)</span> и некое <span class="pv-w">(kācideva)</span> созерцание, духовное упражнение <span class="pv-w">(bhāvanā)</span>, в виде <span class="pv-w">(rūpā)</span> мантры <span class="pv-w">(mantra)</span>, nyāsa <span class="pv-w">(nyāsa)</span>, homa, возлияния <span class="pv-w">(homa)</span>, и прочего <span class="pv-w">(ādi)</span>, _(что)_ дарует <span class="pv-w">(vitaret)</span> определённую <span class="pv-w">(kāñcid eva)</span> «siddhi», сверхобычную силу <span class="pv-w">(siddhim)</span>. И здесь (api atra) _(успех достигается)_, покуда <span class="pv-w">(yāvat)</span> не преступается <span class="pv-w">(anatikramāt)</span> действие <span class="pv-w">(vyāpāra)</span> «niyatiśakti», силы, обуздывающей чувства <span class="pv-w">(niyati)</span>.
 
-<p class="pv-en" lang="en">For instance <span class="pv-w">(tathāhi)</span>, every <span class="pv-w">(prati)</span> scripture <span class="pv-w">(śāstram)</span> is connected with <span class="pv-w">(puraḥsaram)</span> an arrangement <span class="pv-w">(niveśa)</span> of letters <span class="pv-w">(varṇa)</span> _(being ordered)_ otherwise <span class="pv-w">(anyathā)</span> and (ca... ca) otherwise <span class="pv-w">(anyathā)</span>. _(Such a)_ spreading out <span class="pv-w">(prastārī)</span>, whose form <span class="pv-w">(rūpaḥ)</span> is a collection <span class="pv-w">(samūha)</span> of letters <span class="pv-w">(varṇa)</span> being heaped together <span class="pv-w">(piṇḍita)</span> forming a fixed succession <span class="pv-w">(niyata-paripāṭī)</span> which was arrived at <span class="pv-w">(āyāta)</span> in accordance with <span class="pv-w">(anusāra)</span> the respective <span class="pv-w">(tad-tad)</span> letters <span class="pv-w">(varṇa)</span> by means of the predominance <span class="pv-w">(prādhānyena)</span> of various <span class="pv-w">(tad-tad)</span> venerable <span class="pv-w">(bhaṭṭāraka)</span> letters <span class="pv-w">(varṇa)</span> which are suitable <span class="pv-w">(samucita)</span> according to each of their own <span class="pv-w">(nija-nija)</span> "vijñāna-s" <span class="pv-note">— in this context, it means "the names and structures of the mantra-s" —</span> <span class="pv-w">(vijñāna)</span>, has been _<span class="pv-w">(adequately)</span>_ defined <span class="pv-w">(nirūpitaḥ)</span>.</p>
+А именно <span class="pv-w">(tathāhi)</span>: каждое <span class="pv-w">(prati)</span> писание <span class="pv-w">(śāstram)</span> связано <span class="pv-w">(puraḥsaram)</span> с расположением <span class="pv-w">(niveśa)</span> звуков <span class="pv-w">(varṇa)</span>, _(упорядоченных)_ то так <span class="pv-w">(anyathā)</span>, то (ca... ca) этак <span class="pv-w">(anyathā)</span>. _(Такое)_ развёртывание <span class="pv-w">(prastārī)</span>, чей облик <span class="pv-w">(rūpaḥ)</span> — собрание <span class="pv-w">(samūha)</span> звуков <span class="pv-w">(varṇa)</span>, сложенных вместе <span class="pv-w">(piṇḍita)</span> в установленную череду <span class="pv-w">(niyata-paripāṭī)</span>, полученную <span class="pv-w">(āyāta)</span> сообразно <span class="pv-w">(anusāra)</span> тем или иным <span class="pv-w">(tad-tad)</span> звукам <span class="pv-w">(varṇa)</span> через преобладание <span class="pv-w">(prādhānyena)</span> тех или иных <span class="pv-w">(tad-tad)</span> досточтимых <span class="pv-w">(bhaṭṭāraka)</span> звуков <span class="pv-w">(varṇa)</span>, подобающих <span class="pv-w">(samucita)</span> каждому из своих <span class="pv-w">(nija-nija)</span> «vijñāna» — здесь: имён и строений мантр — <span class="pv-w">(vijñāna)</span>, — _(должным образом)_ определено <span class="pv-w">(nirūpitaḥ)</span>.
 
-<p class="pv-en" lang="en">On that account (tatas eva ca), the selection <span class="pv-w">(uddhāraḥ)</span> of a mantra <span class="pv-w">(mantra)</span> is determined <span class="pv-w">(nirūpitaḥ)</span> in order to show <span class="pv-w">(darśayitum)</span> the One whose Form is Mātṛkā <span class="pv-w">(tām eva mātṛkā-rūpām)</span> <span class="pv-note">— i.e. Parā —</span>, that gives <span class="pv-w">(dāyinīm)</span> vibration and light <span class="pv-w">(sphurattā)</span> to a mantra <span class="pv-w">(mantra)</span>, which is made strong <span class="pv-w">(upabṛṁhita)</span> by the bestowal <span class="pv-w">(dāna)</span> of such a <span class="pv-w">(tathāvidha)</span> power <span class="pv-w">(vīrya)</span>.</p>
+Поэтому (tatas eva ca) и выбор <span class="pv-w">(uddhāraḥ)</span> мантры <span class="pv-w">(mantra)</span> определён <span class="pv-w">(nirūpitaḥ)</span> затем, чтобы явить <span class="pv-w">(darśayitum)</span> Ту, чей Облик — Mātṛkā <span class="pv-w">(tām eva mātṛkā-rūpām)</span>, то есть Parā, — дающую <span class="pv-w">(dāyinīm)</span> трепет и свет <span class="pv-w">(sphurattā)</span> мантре <span class="pv-w">(mantra)</span>, которая укрепляется <span class="pv-w">(upabṛṁhita)</span> дарованием <span class="pv-w">(dāna)</span> такой <span class="pv-w">(tathāvidha)</span> мощи <span class="pv-w">(vīrya)</span>.
 
-<p class="pv-en" lang="en">As has been expressed in the venerable Nityātantra-s <span class="pv-w">(yathā śrī-nityātantreṣu)</span>, the arrangement <span class="pv-w">(niveśaḥ)</span> in the form of the auspicious sucession <span class="pv-w">(śrīmat... krameṇa eva)</span> beginning with <span class="pv-w">(ādi)</span> "na" <span class="pv-w">(na)</span> _<span class="pv-w">(and)</span>_ ending in <span class="pv-w">(anta)</span> "pha" <span class="pv-w">(pha)</span> that takes place <span class="pv-w">(āpatita)</span> in conformitiy with <span class="pv-w">(anusāra)</span> her <span class="pv-note">— with Mālinī —</span> <span class="pv-w">(tad)</span>, comes predominantly from <span class="pv-w">(prādhānyāt)</span> the arrangement <span class="pv-w">(niveśa)</span> whose essence <span class="pv-w">(ātma)</span> is "Paranāda" <span class="pv-note">— i.e. "Parāpaśyantī" —</span> <span class="pv-w">(para-nāda)</span>.</p>
+Как сказано в досточтимых Nityātantra <span class="pv-w">(yathā śrī-nityātantreṣu)</span>, расположение <span class="pv-w">(niveśaḥ)</span> в виде благой череды <span class="pv-w">(śrīmat... krameṇa eva)</span> от <span class="pv-w">(ādi)</span> «na» <span class="pv-w">(na)</span> _(до)_ <span class="pv-w">(anta)</span> «pha» <span class="pv-w">(pha)</span>, полученное <span class="pv-w">(āpatita)</span> сообразно <span class="pv-w">(anusāra)</span> ей — Mālinī — <span class="pv-w">(tad)</span>, идёт преимущественно <span class="pv-w">(prādhānyāt)</span> от расположения <span class="pv-w">(niveśa)</span>, чья суть <span class="pv-w">(ātma)</span> — «Paranāda», то есть «Parāpaśyantī» <span class="pv-w">(para-nāda)</span>.
 
-<p class="pv-en" lang="en">In it <span class="pv-note">— in Mālinī —</span> <span class="pv-w">(atra)</span>, this <span class="pv-w">(eṣaḥ)</span> _<span class="pv-w">(is)</span>_ indeed <span class="pv-w">(eva)</span> the purpose <span class="pv-w">(abhiprāyaḥ)</span> with reference to the arrangement <span class="pv-w">(niveśe)</span> of vowels <span class="pv-w">(kula-puruṣāṇām)</span> and <span class="pv-w">(ca)</span> consonants <span class="pv-w">(kula-śaktīnām)</span>, and <span class="pv-w">(ca)</span> not <span class="pv-w">(na)</span> the advantage <span class="pv-w">(phalam)</span> consisting of merely <span class="pv-w">(mātram eva)</span> the act of concealing <span class="pv-w">(gupti)</span> letter <span class="pv-w">(varṇa)</span>, mantra <span class="pv-w">(mantra)</span>, etc. <span class="pv-w">(ādi)</span>. Accordingly <span class="pv-w">(tathā)</span>, in venerable Vājasaneyatantra <span class="pv-w">(śrī-vājasaneyatantre)</span>, after placing <span class="pv-w">(niveśya)</span> suitably <span class="pv-w">(yathā-ucitam)</span> the letters <span class="pv-w">(varṇān)</span>, it is said <span class="pv-w">(uktam)</span>:</p>
+В ней — в Mālinī — <span class="pv-w">(atra)</span> в этом <span class="pv-w">(eṣaḥ eva)</span> и состоит <span class="pv-w">(abhiprāyaḥ)</span> назначение <span class="pv-w">(niveśe)</span> расположения гласных <span class="pv-w">(kula-puruṣāṇām)</span> и <span class="pv-w">(ca)</span> согласных <span class="pv-w">(kula-śaktīnām)</span>, а не <span class="pv-w">(na)</span> в выгоде <span class="pv-w">(phalam)</span>, состоящей лишь <span class="pv-w">(mātram eva)</span> в сокрытии <span class="pv-w">(gupti)</span> звука <span class="pv-w">(varṇa)</span>, мантры <span class="pv-w">(mantra)</span> и прочего <span class="pv-w">(ādi)</span>. Соответственно <span class="pv-w">(tathā)</span>, в досточтимой Vājasaneyatantra <span class="pv-w">(śrī-vājasaneyatantre)</span>, расставив <span class="pv-w">(niveśya)</span> подобающим образом <span class="pv-w">(yathā-ucitam)</span> звуки <span class="pv-w">(varṇān)</span>, сказано <span class="pv-w">(uktam)</span>:
 
-<p class="pv-en" lang="en">"Thus <span class="pv-w">(iti)</span>, this <span class="pv-w">(etad)</span> _<span class="pv-w">(is)</span>_ the divine <span class="pv-w">(divyam)</span> Mātṛkācakra <span class="pv-w">(mātṛkā-cakra)</span> which is the seat <span class="pv-w">(āspadam)</span> of the Viṣṇu's feet <span class="pv-w">(viṣṇu-pada)</span>. When it is fully known <span class="pv-w">(jñātam... samyak)</span> from the Guru's mouth <span class="pv-w">(guru-mukhāt)</span>, it cuts <span class="pv-w">(nikṛntati)</span> the nooses <span class="pv-note">— bonds —</span> <span class="pv-w">(pāśān)</span> of the limited individual <span class="pv-w">(paśoḥ... iti)</span>".</p>
+<p class="pv-tr" markdown="1">«Итак <span class="pv-w">(iti)</span>, это <span class="pv-w">(etad)</span> _(и есть)_ божественный <span class="pv-w">(divyam)</span> Mātṛkācakra <span class="pv-w">(mātṛkā-cakra)</span>, который есть седалище <span class="pv-w">(āspadam)</span> стоп Viṣṇu <span class="pv-w">(viṣṇu-pada)</span>. Когда он вполне познан <span class="pv-w">(jñātam... samyak)</span> из уст гуру <span class="pv-w">(guru-mukhāt)</span>, он рассекает <span class="pv-w">(nikṛntati)</span> петли — узы — <span class="pv-w">(pāśān)</span> ограниченного существа <span class="pv-w">(paśoḥ... iti)</span>».</p>
 
-<p class="pv-en" lang="en">Likewise <span class="pv-w">(tathā... api)</span>, _(it is established)_ in venerable Trikahṛdaya <span class="pv-w">(śrī-trikahṛdaye)</span>:</p>
+Так же <span class="pv-w">(tathā... api)</span> _(установлено)_ в досточтимой Trikahṛdaya <span class="pv-w">(śrī-trikahṛdaye)</span>:
 
-<p class="pv-en" lang="en">"In the case of the powers <span class="pv-w">(śaktīnām)</span> of the weapons <span class="pv-w">(āyudhānām)</span> as well as (ca... ca) in the case of any other thing whatsoever (anyasya api... kasyacid), _(it is such powers that matter. In the same way, it is not just)_ the arrangement <span class="pv-w">(niveśaḥ tu)</span> which <span class="pv-w">(yaḥ)</span> pertains to the letters <span class="pv-w">(varṇānām)</span> _<span class="pv-w">(but)</span>_ Her <span class="pv-w">(yad)</span> Power <span class="pv-w">(vīryam)</span> situated <span class="pv-w">(gam)</span> there <span class="pv-w">(tatra)</span> in the mantra <span class="pv-w">(mantra)</span> _(that matters)_. By being protected <span class="pv-w">(guptena)</span> with that Power <span class="pv-w">(tena)</span>, they <span class="pv-note">— the mantra-s —</span> <span class="pv-w">(te)</span> are _<span class="pv-w">(really)</span>_ protected <span class="pv-w">(guptāḥ)</span>. The remaining parts <span class="pv-w">(śeṣāḥ)</span> _<span class="pv-w">(are)</span>_ only <span class="pv-w">(kevalāḥ)</span> letters <span class="pv-w">(varṇāḥ)</span> certainly (tu... iti)".</p>
+<p class="pv-tr" markdown="1">«И у сил <span class="pv-w">(śaktīnām)</span> оружия <span class="pv-w">(āyudhānām)</span>, и (ca... ca) у чего бы то ни было иного (anyasya api... kasyacid) _(важны именно эти силы. Так же важно не просто)_ расположение <span class="pv-w">(niveśaḥ tu)</span>, которое <span class="pv-w">(yaḥ)</span> относится к звукам <span class="pv-w">(varṇānām)</span>, _(а)_ Её <span class="pv-w">(yad)</span> Мощь <span class="pv-w">(vīryam)</span>, пребывающая <span class="pv-w">(gam)</span> там <span class="pv-w">(tatra)</span>, в мантре <span class="pv-w">(mantra)</span>. Хранимые <span class="pv-w">(guptena)</span> этой Мощью <span class="pv-w">(tena)</span>, они — мантры — <span class="pv-w">(te)</span> _(и впрямь)_ хранимы <span class="pv-w">(guptāḥ)</span>. Остальное же <span class="pv-w">(śeṣāḥ)</span> — одни лишь <span class="pv-w">(kevalāḥ)</span> звуки <span class="pv-w">(varṇāḥ... tu... iti)</span>».</p>
 
-<p class="pv-en" lang="en">Even when <span class="pv-w">(api)</span> there is _(an obvious)_ difference <span class="pv-w">(anyathā-bhāve)</span> merely <span class="pv-w">(mātra)</span> in the syllables <span class="pv-w">(akṣara)</span> of the mantra-s <span class="pv-w">(mantrāṇām)</span>, _<span class="pv-w">(still)</span>_ there is in their case _<span class="pv-w">(also)</span>_ a difference <span class="pv-w">(teṣām eva... anyathātvam)</span> in the scriptures <span class="pv-w">(śāstreṣu)</span> according to the division <span class="pv-w">(vibhāgena)</span> of _<span class="pv-w">(the upāya-s or means known as)</span>_ "Āṇava", "Śākta", "Śāmbhava", etc. <span class="pv-w">(āṇava-śākta-śāmbhava-ādi)</span>.</p>
+И даже когда <span class="pv-w">(api)</span> есть _(явное)_ различие <span class="pv-w">(anyathā-bhāve)</span> лишь <span class="pv-w">(mātra)</span> в слогах <span class="pv-w">(akṣara)</span> мантр <span class="pv-w">(mantrāṇām)</span>, — есть у них <span class="pv-w">(teṣām eva... anyathātvam)</span> различие и в писаниях <span class="pv-w">(śāstreṣu)</span> по делению <span class="pv-w">(vibhāgena)</span> _(упай, средств)_ на «Āṇava», «Śākta», «Śāmbhava» и прочие <span class="pv-w">(āṇava-śākta-śāmbhava-ādi)</span>.
 
-<p class="pv-en" lang="en">For instance <span class="pv-w">(yathā)</span>, there is a difference <span class="pv-w">(anyathātvam)</span> in the case of the seed letter <span class="pv-w">(bījasya)</span> of Māyā <span class="pv-w">(māyā)</span> <span class="pv-note">— the seed-mantra "Hrīm̐" —</span>, the "Praṇava" <span class="pv-note">— i.e. Om̐ —</span> <span class="pv-w">(praṇavasya)</span> and <span class="pv-w">(ca)</span> the immortal <span class="pv-w">(amṛta)</span> seed letter <span class="pv-w">(bījasya)</span> which includes all _(the tattva-s or categories)_ <span class="pv-w">(sarvasya)</span> <span class="pv-note">— viz. "Sauḥ" —</span> _(such as instructed)_ in the scriptures <span class="pv-w">(śāstreṣu)</span> dealing with Viṣṇu <span class="pv-w">(vaiṣṇava)</span>, Śiva <span class="pv-w">(śaiva)</span>, the left-hand doctrine <span class="pv-w">(vāma)</span>, etc. <span class="pv-w">(ādi)</span>. Or <span class="pv-w">(vā)</span>, for instance <span class="pv-w">(yathā)</span>, _(there is a difference)_ in the case of the most venerable _<span class="pv-w">(mantra)</span>_ endowed with four marks <span class="pv-w">(catuṣkala-bhaṭṭārakasya)</span> <span class="pv-note">— the Praṇava Itself, called Om̐ in the Veda-s —</span> _(such as taught)_ in Kaulottara, etc. <span class="pv-note">— the scriptures dealing with Śakti, where "Praṇava" is "Hrīm̐" —</span> <span class="pv-w">(kaulottara-ādau)</span> and <span class="pv-w">(ca)</span> in the glorious scripture<span class="pv-w">(s)</span> <span class="pv-w">(śrīmat... śāstre)</span> dealing with Ucchuṣma <span class="pv-note">— viz. Bhairava, where "Praṇava" is "Hūm̐" —</span> <span class="pv-w">(ucchuṣma)</span>.</p>
+Например <span class="pv-w">(yathā)</span>, есть различие <span class="pv-w">(anyathātvam)</span> в семенной букве <span class="pv-w">(bījasya)</span> Māyā <span class="pv-w">(māyā)</span> — семенной мантре «Hrīm̐», — в «Praṇava», то есть Om̐ <span class="pv-w">(praṇavasya)</span>, и <span class="pv-w">(ca)</span> в бессмертной <span class="pv-w">(amṛta)</span> семенной букве <span class="pv-w">(bījasya)</span>, включающей все _(таттвы)_ <span class="pv-w">(sarvasya)</span>, — то есть в «Sauḥ», — _(как учат)_ писания <span class="pv-w">(śāstreṣu)</span> вишнуитские <span class="pv-w">(vaiṣṇava)</span>, шиваитские <span class="pv-w">(śaiva)</span>, левой руки <span class="pv-w">(vāma)</span> и прочие <span class="pv-w">(ādi)</span>. Или <span class="pv-w">(vā)</span>, например <span class="pv-w">(yathā)</span>, _(есть различие)_ в досточтимой _(мантре)_ с четырьмя знаками <span class="pv-w">(catuṣkala-bhaṭṭārakasya)</span> — в самой Praṇava, которая в Ведах зовётся Om̐, — _(как учат)_ в Kaulottara и прочих — писаниях о Śakti, где «Praṇava» есть «Hrīm̐» — <span class="pv-w">(kaulottara-ādau)</span> и <span class="pv-w">(ca)</span> в славном писании <span class="pv-w">(śrīmat... śāstre)</span> об Ucchuṣma — то есть о Bhairava, где «Praṇava» есть «Hūm̐» <span class="pv-w">(ucchuṣma)</span>.
 
-<p class="pv-en" lang="en">And <span class="pv-w">(ca)</span> here <span class="pv-w">(atra)</span> is written <span class="pv-w">(likhyate)</span> the means or method <span class="pv-w">(upāyaḥ)</span> for the diligent ones <span class="pv-w">(abhiyuktānām)</span> with regard to the manifestation <span class="pv-w">(prakaṭanāyām)</span> of the numerous <span class="pv-w">(bahu)</span> differences <span class="pv-w">(bheda)</span> of vowels <span class="pv-w">(kulapuruṣa)</span> _<span class="pv-w">(and)</span>_ consonants <span class="pv-w">(kulaśakti)</span>:</p>
+И <span class="pv-w">(ca)</span> здесь <span class="pv-w">(atra)</span> записывается <span class="pv-w">(likhyate)</span> средство <span class="pv-w">(upāyaḥ)</span> для усердных <span class="pv-w">(abhiyuktānām)</span> — к явлению <span class="pv-w">(prakaṭanāyām)</span> многих <span class="pv-w">(bahu)</span> различий <span class="pv-w">(bheda)</span> гласных <span class="pv-w">(kulapuruṣa)</span> _(и)_ согласных <span class="pv-w">(kulaśakti)</span>:
 
-<p class="pv-en" lang="en">"The vowels <span class="pv-w">(pūrve)</span> _(are to be placed)_ before <span class="pv-w">(apare)</span> the consonants <span class="pv-w">(pareṣām)</span> and <span class="pv-w">(ca)</span> the consonants <span class="pv-w">(pare)</span> _(are to be placed)_ after <span class="pv-w">(pṛṣṭhavat eva)</span> _(the vowels)_. Also (api ca), the vowels <span class="pv-w">(pūrve)</span> _(are to be placed)_ one after another <span class="pv-note">— in succession —</span> <span class="pv-w">(yathāpūrvam)</span>. _<span class="pv-w">(This)</span>_ rule <span class="pv-w">(vidhiḥ)</span> is considered as <span class="pv-w">(mataḥ)</span> the one of Mātṛkā <span class="pv-w">(mātṛkāyāḥ)</span> <span class="pv-note">— by which the Mātṛkāmantra-s are formed —</span>. By following this _<span class="pv-w">(same)</span>_ procedure <span class="pv-w">(etena eva anusāreṇa)</span>, _<span class="pv-w">(the Mālinīmantra-s are formed)</span>_ through the mixture of vowels and consonants in an irregular order <span class="pv-w">(bhinna-yoni-sva-rūpataḥ)</span>. This <span class="pv-w">(iyam)</span> Goddess <span class="pv-note">— called Mālinī —</span> <span class="pv-w">(devī)</span> constituted by innumerable <span class="pv-w">(asaṅkhyā)</span> consonants <span class="pv-w">(śākta)</span>, etc. <span class="pv-w">(ādi)</span> _(is known as)_ Parā <span class="pv-w">(parā eva)</span> _<span class="pv-w">(or)</span>_ Uttaramālinī <span class="pv-w">(uttara-mālinī... iti)</span>".</p>
+<p class="pv-tr" markdown="1">«Гласные <span class="pv-w">(pūrve)</span> _(ставятся)_ прежде <span class="pv-w">(apare)</span> согласных <span class="pv-w">(pareṣām)</span>, а <span class="pv-w">(ca)</span> согласные <span class="pv-w">(pare)</span> — после <span class="pv-w">(pṛṣṭhavat eva)</span> _(гласных)_. И (api ca) гласные <span class="pv-w">(pūrve)</span> _(ставятся)_ одна за другой <span class="pv-w">(yathāpūrvam)</span>. _(Это)_ правило <span class="pv-w">(vidhiḥ)</span> считается <span class="pv-w">(mataḥ)</span> правилом Mātṛkā <span class="pv-w">(mātṛkāyāḥ)</span> — по нему складываются Mātṛkāmantra. По этому же <span class="pv-w">(etena eva anusāreṇa)</span> порядку _(складываются Mālinīmantra)_ — через смешение гласных и согласных в неправильном порядке <span class="pv-w">(bhinna-yoni-sva-rūpataḥ)</span>. Эта <span class="pv-w">(iyam)</span> Богиня — зовущаяся Mālinī — <span class="pv-w">(devī)</span>, составленная из бесчисленных <span class="pv-w">(asaṅkhyā)</span> согласных <span class="pv-w">(śākta)</span> и прочего <span class="pv-w">(ādi)</span>, _(известна как)_ Parā <span class="pv-w">(parā eva)</span> _(или)_ Uttaramālinī <span class="pv-w">(uttara-mālinī... iti)</span>».</p>
 
-<p class="pv-en" lang="en">"In the mantra-s <span class="pv-w">(dhāmasu)</span> constituted by consonants devoid of vowel <span class="pv-note">— "halanta" letters —</span> <span class="pv-w">(bheda-saṅkhyeṣu)</span>, placed <span class="pv-w">(viniviṣṭeṣu)</span> one beneath the other (adhas adhas), _(there is)_ only one <span class="pv-w">(ekam)</span> dot <span class="pv-w">(binduḥ)</span> _(on the final letter)_. Additionally <span class="pv-w">(atha-api)</span>, in the others <span class="pv-note">— in the mantra-s where there are vowels —</span> <span class="pv-w">(anyeṣu)</span>, _(the dot is placed on each)_ previous _<span class="pv-w">(letter)</span>_ <span class="pv-w">(prāk)</span>. _(In these mantra-s)_, each of them <span class="pv-w">(ekatas)</span> should be cast <span class="pv-w">(kṣipet)</span> by placing <span class="pv-w">(viniveśya)</span> that dot <span class="pv-w">(tām saṅkhyām)</span> on top of <span class="pv-note">— lit. mounted on —</span> <span class="pv-w">(pṛṣṭha-gām)</span> each of their letters <span class="pv-note">— lit. on themselves —</span> <span class="pv-w">(sva)</span>, on the previous letters as well as on the final one <span class="pv-w">(prāktana-antya-gām)</span>. For this reason <span class="pv-w">(asmāt)</span>, the dot <span class="pv-w">(saṅkhyā)</span> occurs <span class="pv-w">(bhavet)</span> _(in the mantra-s)_ according to the different _(letters in them)_ <span class="pv-w">(anyaiḥ)</span>, viz. those letters which have a vowel <span class="pv-w">(aspṛṣṭaiḥ)</span> _<span class="pv-w">(and)</span>_ those letters which do not have a vowel <span class="pv-w">(iṣṭaiḥ)</span>. _(This is)_ again and again <span class="pv-w">(punar)</span> the order <span class="pv-w">(kramaḥ)</span> _(of the mantra-s. And this is also)_ the rule <span class="pv-w">(vidhiḥ)</span> of the consonants <span class="pv-w">(kula-śaktīnām)</span> _(mixed with the vowels)_ which was mentioned before <span class="pv-w">(yathā-uktaḥ)</span> for proclaiming <span class="pv-w">(vedane)</span> the infinity <span class="pv-w">(ānantya)</span> _(of such mantra-s)_".</p>
+<p class="pv-tr" markdown="1">«В мантрах <span class="pv-w">(dhāmasu)</span>, составленных из согласных без гласного — звуков «halanta» — <span class="pv-w">(bheda-saṅkhyeṣu)</span>, поставленных <span class="pv-w">(viniviṣṭeṣu)</span> одна под другой (adhas adhas), _(ставится)_ одна лишь <span class="pv-w">(ekam)</span> точка <span class="pv-w">(binduḥ)</span> _(на последнем звуке)_. А <span class="pv-w">(atha-api)</span> в других — в мантрах, где есть гласные — <span class="pv-w">(anyeṣu)</span> _(точка ставится над каждым)_ предшествующим _(звуком)_ <span class="pv-w">(prāk)</span>. _(В таких мантрах)_ каждый из них <span class="pv-w">(ekatas)</span> следует бросать <span class="pv-w">(kṣipet)</span>, ставя <span class="pv-w">(viniveśya)</span> эту точку <span class="pv-w">(tām saṅkhyām)</span> поверх <span class="pv-w">(pṛṣṭha-gām)</span> каждого их звука <span class="pv-w">(sva)</span> — и над предшествующими, и над последним <span class="pv-w">(prāktana-antya-gām)</span>. Поэтому <span class="pv-w">(asmāt)</span> точка <span class="pv-w">(saṅkhyā)</span> и является <span class="pv-w">(bhavet)</span> _(в мантрах)_ сообразно разным _(звукам в них)_ <span class="pv-w">(anyaiḥ)</span>: тем, у которых гласный есть <span class="pv-w">(aspṛṣṭaiḥ)</span>, _(и)_ тем, у которых его нет <span class="pv-w">(iṣṭaiḥ)</span>. _(И это)_ снова и снова <span class="pv-w">(punar)</span> порядок <span class="pv-w">(kramaḥ)</span> _(мантр. И это же —)_ названное выше <span class="pv-w">(yathā-uktaḥ)</span> правило <span class="pv-w">(vidhiḥ)</span> согласных <span class="pv-w">(kula-śaktīnām)</span>, _(смешанных с гласными)_, — для возвещения <span class="pv-w">(vedane)</span> бесконечности <span class="pv-w">(ānantya)</span> _(таких мантр)_».</p>
 
-<p class="pv-en" lang="en">Therefore <span class="pv-w">(tad)</span>, according to this rule <span class="pv-w">(etena vidhinā)</span>, the Yogī-s <span class="pv-w">(yoginaḥ)</span> who <span class="pv-w">(ye)</span> _(are immersed in)_ vowels and consonants <span class="pv-w">(kula-puruṣa-śakti)</span>, being Great Lords of Mantra <span class="pv-note">— the experients of Sadāśivatattva, the third category —</span> <span class="pv-w">(mantra-mahā-īśvarāḥ)</span>, are not fit for _(imparting a mantra)_ <span class="pv-w">(nis-adhikārī-bhūtāḥ)</span>. There is no (na eva) deliverance or redemption <span class="pv-w">(uddhāraḥ)</span> by means of mantra <span class="pv-w">(mantra)</span> _(which comes)_ from them <span class="pv-w">(tebhyaḥ)</span>, since it <span class="pv-note">— i.e. the mantra —</span> bears no fruit <span class="pv-w">(tasya niṣphalatvāt)</span>.</p>
+Итак <span class="pv-w">(tad)</span>, по этому правилу <span class="pv-w">(etena vidhinā)</span> йогины <span class="pv-w">(yoginaḥ)</span>, которые <span class="pv-w">(ye)</span> _(погружены в)_ гласные и согласные <span class="pv-w">(kula-puruṣa-śakti)</span>, будучи Великими Владыками Мантры — познающими Sadāśivatattva, 3-й категории — <span class="pv-w">(mantra-mahā-īśvarāḥ)</span>, не годятся _(для передачи мантры)_ <span class="pv-w">(nis-adhikārī-bhūtāḥ)</span>. От них <span class="pv-w">(tebhyaḥ)</span> нет (na eva) избавления <span class="pv-w">(uddhāraḥ)</span> через мантру <span class="pv-w">(mantra)</span>, ибо она бесплодна <span class="pv-w">(tasya niṣphalatvāt)</span>.
 
-<p class="pv-en" lang="en">However <span class="pv-w">(tu)</span>, _(this instruction)_ is not _<span class="pv-w">(valid)</span>_ <span class="pv-w">(na)</span> as far as the "Mantra-s" <span class="pv-note">— the experients of Sadvidyātattva, the fifth category —</span> are concerned <span class="pv-w">(mantrāḥ)</span>. _(Why? Because)_ in their case <span class="pv-w">(teṣām)</span>, on the occasion <span class="pv-w">(avasare)</span> of their <span class="pv-w">(sva)</span> "laya" or "absorption in the Self" <span class="pv-w">(laya)</span>, there is the absence <span class="pv-w">(abhāvaḥ)</span> of the limit <span class="pv-w">(paryantatā)</span> _(known as)_ the "Anāmaya" <span class="pv-note">— lit. free from disease —</span> <span class="pv-w">(an-āmaya)</span> State <span class="pv-w">(pada)</span> <span class="pv-note">— i.e. although they are not limited individuals, they do not reach the Absolute State where they completely lose their own individuality in universality called Lord Śiva —</span>.</p>
+Но <span class="pv-w">(tu)</span> _(это наставление)_ не <span class="pv-w">(na)</span> касается «Mantra» — познающих Sadvidyātattva, 5-й категории <span class="pv-w">(mantrāḥ)</span>. _(Почему? Потому что)_ у них <span class="pv-w">(teṣām)</span> в пору <span class="pv-w">(avasare)</span> их <span class="pv-w">(sva)</span> «laya», поглощённости в Самости <span class="pv-w">(laya)</span>, нет <span class="pv-w">(abhāvaḥ)</span> предела <span class="pv-w">(paryantatā)</span>, _(зовущегося)_ Состоянием <span class="pv-w">(pada)</span> «Anāmaya» — букв. свободным от недуга <span class="pv-w">(an-āmaya)</span>: то есть, не будучи ограниченными существами, они всё же не доходят до Абсолютного Состояния, где своя отдельность окончательно теряется во всеобщности, зовущейся Господом Śiva.
 
-<p class="pv-en" lang="en">As has been said <span class="pv-w">(yathā uktam)</span>:</p>
+Как сказано <span class="pv-w">(yathā uktam)</span>:
 
-<p class="pv-en" lang="en">"_<span class="pv-w">(The sages say that the special Knowledge arisen from Śiva about what is to be abandoned or accepted)</span>_ is enough <span class="pv-w">(alam)</span> in _<span class="pv-w">(this)</span>_ world <span class="pv-w">(jagati)</span> beginning with <span class="pv-w">(ādi)</span> Brahmā <span class="pv-w">(brahma)</span> and ending in <span class="pv-w">(paryante)</span> a tuft of grass <span class="pv-w">(stamba)</span>, which <span class="pv-note">— the world —</span> has merely appeared <span class="pv-w">(jāta-mātre)</span>. Thirty-five million <span class="pv-w">(koṭayaḥ tisraḥ sa-ardhāḥ)</span> Mantra-s <span class="pv-note">— the experients of Sadvidyātattva, the fifth category —</span> <span class="pv-w">(mantrāṇām)</span> appointed <span class="pv-w">(niyojitāḥ)</span> by Śiva <span class="pv-w">(śiva)</span>, after He has bestowed divine Grace <span class="pv-w">(anugṛhya)</span> upon the multitude <span class="pv-w">(saṅghātam)</span> of limited individuals <span class="pv-w">(aṇu)</span>, go <span class="pv-w">(yātāḥ)</span> to the Anāmaya <span class="pv-w">(an-āmayam)</span> State (padam... iti) <span class="pv-note">— i.e. those Mantra-s turn into Mantramaheśvara-s or Great Lords of Mantra —</span>".</p>
+<p class="pv-tr" markdown="1">«_(Мудрецы говорят, что особого Знания, идущего от Śiva, о том, что оставить и что принять,)_ довольно <span class="pv-w">(alam)</span> в _(этом)_ мире <span class="pv-w">(jagati)</span>, от <span class="pv-w">(ādi)</span> Brahmā <span class="pv-w">(brahma)</span> до <span class="pv-w">(paryante)</span> пучка травы <span class="pv-w">(stamba)</span>, — в мире, едва явившемся <span class="pv-w">(jāta-mātre)</span>. Тридцать пять миллионов <span class="pv-w">(koṭayaḥ tisraḥ sa-ardhāḥ)</span> Mantra — познающих Sadvidyātattva, 5-й категории — <span class="pv-w">(mantrāṇām)</span>, поставленных <span class="pv-w">(niyojitāḥ)</span> Śiva <span class="pv-w">(śiva)</span>, одарив милостью <span class="pv-w">(anugṛhya)</span> множество <span class="pv-w">(saṅghātam)</span> ограниченных существ <span class="pv-w">(aṇu)</span>, уходят <span class="pv-w">(yātāḥ)</span> в Состояние <span class="pv-w">(padam)</span> Anāmaya <span class="pv-w">(an-āmayam... iti)</span>» — то есть эти Mantra обращаются в Mantramaheśvara, Великих Владык Мантры.</p>
 
-<p class="pv-en" lang="en">Thus (tad evam), the Consort of the Fortunate One <span class="pv-w">(bhagavatī)</span> _<span class="pv-w">(called)</span>_ the most venerable <span class="pv-w">(bhaṭṭārikā)</span> Parā <span class="pv-w">(parā)</span> who is teeming with <span class="pv-w">(śālinī)</span> a variety <span class="pv-w">(bheda)</span> of states <span class="pv-w">(pada)</span>, _<span class="pv-w">(is)</span>_, in Her main mode <span class="pv-w">(mukhyayā vṛttyā)</span> as "Madhyamā" <span class="pv-note">— viz. Parāparā —</span> <span class="pv-w">(madhyamayā)</span>, the Mālinī <span class="pv-w">(mālinī-rūpā eva)</span> of the Fortunate One <span class="pv-note">— i.e. Lord Śiva —</span> <span class="pv-w">(bhagavat)</span>. _(In this condition, She is)_ infinite <span class="pv-w">(anantā)</span> _<span class="pv-w">(and)</span>_ Her own <span class="pv-w">(sva)</span> essential nature <span class="pv-w">(sva-rūpā)</span> is multiplicity <span class="pv-w">(vaiśvarūpya)</span> which is indicated <span class="pv-w">(pradarśita)</span> after having fully considered everything <span class="pv-w">(parigaṇana)</span> <span class="pv-note">— i.e. this is a very precise statement indeed —</span>. And <span class="pv-w">(ca)</span> right there (tatra api), in Her own Self <span class="pv-w">(sva-ātmani)</span> that is exactly so <span class="pv-w">(tathā eva)</span> <span class="pv-note">— viz. Parāparā —</span>, She, on Her consisting of all, assumes <span class="pv-w">(sarva-ātmakatvena... eti)</span> the state constituted by <span class="pv-w">(ātmakatvam)</span> letter <span class="pv-w">(varṇa)</span>, word <span class="pv-w">(mantra)</span> _<span class="pv-w">(and)</span>_ sentence <span class="pv-w">(pada)</span> due to the preponderance <span class="pv-w">(udrekāt)</span> of the three <span class="pv-w">(traya)</span> portions <span class="pv-w">(aṁśa)</span> <span class="pv-note">— Parā, Parāparā and Aparā within Parāparā herself —</span>.</p>
+Итак (tad evam), Супруга Благословенного <span class="pv-w">(bhagavatī)</span>, _(зовущаяся)_ досточтимейшей <span class="pv-w">(bhaṭṭārikā)</span> Parā <span class="pv-w">(parā)</span>, исполненная <span class="pv-w">(śālinī)</span> разнообразия <span class="pv-w">(bheda)</span> состояний <span class="pv-w">(pada)</span>, — в Своём главном ладу <span class="pv-w">(mukhyayā vṛttyā)</span>, как «Madhyamā», то есть Parāparā <span class="pv-w">(madhyamayā)</span>, — есть Mālinī <span class="pv-w">(mālinī-rūpā eva)</span> Благословенного, Господа Śiva <span class="pv-w">(bhagavat)</span>. _(В этом состоянии Она)_ бесконечна <span class="pv-w">(anantā)</span>, _(и)_ Её собственная <span class="pv-w">(sva)</span> сущностная природа <span class="pv-w">(sva-rūpā)</span> — многообразие <span class="pv-w">(vaiśvarūpya)</span>, которое показано <span class="pv-w">(pradarśita)</span> после полного перечисления всего <span class="pv-w">(parigaṇana)</span>. И <span class="pv-w">(ca)</span> там же (tatra api), в Своей собственной Самости <span class="pv-w">(sva-ātmani)</span>, которая именно такова <span class="pv-w">(tathā eva)</span> — то есть Parāparā, — Она, состоя из всего, принимает <span class="pv-w">(sarva-ātmakatvena... eti)</span> состояние <span class="pv-w">(ātmakatvam)</span>, составленное из звука <span class="pv-w">(varṇa)</span>, мантры <span class="pv-w">(mantra)</span> _(и)_ слова <span class="pv-w">(pada)</span>, — по преобладанию <span class="pv-w">(udrekāt)</span> трёх <span class="pv-w">(traya)</span> долей <span class="pv-w">(aṁśa)</span>: Parā, Parāparā и Aparā внутри самой Parāparā.
 
-<p class="pv-en" lang="en">And <span class="pv-w">(ca)</span> this <span class="pv-note">— the aforesaid three portions —</span> <span class="pv-w">(etad)</span> must be considered <span class="pv-w">(mantavyam)</span> "from the viewpoint <span class="pv-w">(bhāvena)</span> of carrying out <span class="pv-w">(karaṇa)</span> a purification <span class="pv-w">(śodhana... iti)</span>".</p>
+И <span class="pv-w">(ca)</span> это — названные три доли — <span class="pv-w">(etad)</span> следует понимать <span class="pv-w">(mantavyam)</span> «с точки зрения <span class="pv-w">(bhāvena)</span> совершения <span class="pv-w">(karaṇa)</span> очищения <span class="pv-w">(śodhana... iti)</span>».
 
-<p class="pv-en" lang="en">The subtle <span class="pv-w">(sūkṣmāḥ eva)</span> bonds <span class="pv-note">— lit. nooses —</span> <span class="pv-w">(pāśāḥ)</span> shining forth <span class="pv-w">(ullasantaḥ)</span> indeed <span class="pv-w">(hi)</span> in the Paśyantī <span class="pv-w">(paśyantī)</span> portion <span class="pv-w">(aṁśa)</span> are to be purified <span class="pv-w">(śodhyāḥ bhavanti)</span>. _(Why?)_ Because _<span class="pv-w">(those)</span>_ bonds <span class="pv-w">(pāśatvāt)</span> are lying <span class="pv-w">(līnatvam eva)</span> within <span class="pv-w">(antar)</span>.</p>
+Тонкие <span class="pv-w">(sūkṣmāḥ eva)</span> узы — букв. петли — <span class="pv-w">(pāśāḥ)</span>, сияющие <span class="pv-w">(ullasantaḥ)</span> в доле <span class="pv-w">(aṁśa)</span> Paśyantī <span class="pv-w">(paśyantī)</span>, и надлежит очищать <span class="pv-w">(śodhyāḥ bhavanti)</span>. _(Почему?)_ Потому что _(эти)_ узы <span class="pv-w">(pāśatvāt)</span> залегают <span class="pv-w">(līnatvam eva)</span> внутри <span class="pv-w">(antar)</span>.
 
-<p class="pv-en" lang="en">But <span class="pv-w">(tu)</span> in the state <span class="pv-w">(pade)</span> of Madhyamā <span class="pv-w">(madhyamā)</span>, in which there is an expansion <span class="pv-w">(prasare)</span> of Śakti <span class="pv-w">(śākta)</span> consisting of <span class="pv-w">(maya)</span> a blossoming <span class="pv-w">(vijṛmbhā)</span> becoming more and more perceptible <span class="pv-w">(udita-udita)</span>, _<span class="pv-w">(Paśyantī appears)</span>_ as an instrument <span class="pv-w">(karaṇatā eva)</span> of purification <span class="pv-w">(śodhana)</span>. _(How is this process of purification taking place?)_ Just as <span class="pv-w">(iva)</span> when there is removal <span class="pv-w">(apasaraṇe)</span> of the dirt <span class="pv-w">(mala)</span> lying <span class="pv-w">(līna)</span> within <span class="pv-w">(antar)</span> a piece of cloth <span class="pv-w">(paṭa)</span>, so also <span class="pv-w">(tad)</span> _(there is)_ consequently <span class="pv-w">(tad)</span> _(a removal)_ of the external gross dirt <span class="pv-w">(bāhya-sthūla-malasya)</span> <span class="pv-note">— i.e. when Paśyantī is purified, Madhyamā becomes automatically purified, and so on and on —</span>. _(Now, as a result of all that which was described before,)_ the state <span class="pv-w">(padam)</span> of Vaikharī <span class="pv-w">(vaikharī)</span> as existing within <span class="pv-w">(antar-gatam)</span> of Saṁvid or Consciousness <span class="pv-w">(saṁvid)</span> —_(namely,)_ the most venerable <span class="pv-w">(bhaṭṭārikā)</span> Parā <span class="pv-w">(parā)</span>— is being examined <span class="pv-w">(vimṛśyate)</span>.</p>
+А <span class="pv-w">(tu)</span> в состоянии <span class="pv-w">(pade)</span> Madhyamā <span class="pv-w">(madhyamā)</span>, где есть разворачивание <span class="pv-w">(prasare)</span> Śakti <span class="pv-w">(śākta)</span>, состоящее <span class="pv-w">(maya)</span> из расцвета <span class="pv-w">(vijṛmbhā)</span>, делающегося всё заметнее <span class="pv-w">(udita-udita)</span>, _(Paśyantī выступает)_ как орудие <span class="pv-w">(karaṇatā eva)</span> очищения <span class="pv-w">(śodhana)</span>. _(Как идёт это очищение?)_ Как <span class="pv-w">(iva)</span> при удалении <span class="pv-w">(apasaraṇe)</span> грязи <span class="pv-w">(mala)</span>, залегшей <span class="pv-w">(līna)</span> внутри <span class="pv-w">(antar)</span> ткани <span class="pv-w">(paṭa)</span>, _(так)_ и (tad... tad) _(удаляется)_ внешняя грубая грязь <span class="pv-w">(bāhya-sthūla-malasya)</span>: то есть когда очищается Paśyantī, Madhyamā очищается сама собою, и так далее. _(И вот, как итог всего описанного,)_ рассматривается <span class="pv-w">(vimṛśyate)</span> состояние <span class="pv-w">(padam)</span> Vaikharī <span class="pv-w">(vaikharī)</span> как пребывающее внутри <span class="pv-w">(antar-gatam)</span> Saṁvid, Сознания <span class="pv-w">(saṁvid)</span>, _(а именно)_ досточтимейшей <span class="pv-w">(bhaṭṭārikā)</span> Parā <span class="pv-w">(parā)</span>.
 
-<p class="pv-en" lang="en">There is no (na hi) impossibility <span class="pv-w">(asambhavaḥ)</span> of Vaikharī <span class="pv-w">(vaikharyāḥ)</span> _<span class="pv-w">(existing)</span>_ there <span class="pv-note">— in Parā —</span> <span class="pv-w">(tatra)</span> <span class="pv-note">— in sum, it is not impossible that Vaikharī exists in Parā —</span>.</p>
+Невозможности <span class="pv-w">(asambhavaḥ)</span> Vaikharī <span class="pv-w">(vaikharyāḥ)</span> _(быть)_ там — в Parā — <span class="pv-w">(tatra)</span> нет (na hi).
 
-<p class="pv-en" lang="en">For example <span class="pv-w">(tathāhi)</span>: Even though (yadi api) the pronunciation <span class="pv-w">(karaṇāḥ)</span> _<span class="pv-w">(and)</span>_ the organs of utterance <span class="pv-w">(sthāna)</span> in children <span class="pv-w">(bālāḥ)</span> who are two or three years old <span class="pv-w">(dvitraiḥ varṣaiḥ)</span> have become evident <span class="pv-w">(sphuṭī-bhūta... bhavanti)</span>, yet <span class="pv-w">(tathā api)</span> it is a completely accepted fact that <span class="pv-w">(iti tāvat sthitam)</span> _<span class="pv-w">(their)</span>_ proficiency _(with respect to the language)_ <span class="pv-w">(vyutpattiḥ)</span> increases more and more <span class="pv-w">(adhika-adhika-rūpatām eti)</span> day after day <span class="pv-w">(dina-anudinam)</span> _<span class="pv-w">(and)</span>_ month after month <span class="pv-w">(māsa-anumāsa)</span> certainly <span class="pv-w">(eva vā hi)</span>. If <span class="pv-w">(yadi)</span> in that state (tatra... pade) of Madhyamā <span class="pv-w">(madhyamā)</span> there was no <span class="pv-w">(na syāt)</span> appearance <span class="pv-w">(sphuraṇam)</span> of the "letters" <span class="pv-w">(varṇa)</span> portion <span class="pv-w">(aṁśa)</span> according to the division <span class="pv-w">(vibhāga)</span> of pronunciation <span class="pv-w">(karaṇa)</span> _<span class="pv-w">(and)</span>_ organs of utterance <span class="pv-w">(sthāna)</span> which will become evident <span class="pv-w">(sphuṭī-bhaviṣyat)</span> by the expansion <span class="pv-w">(prasara)</span> of such <span class="pv-w">(tathāvidha)</span> _(a state of)_ Vaikharī <span class="pv-w">(vaikharī)</span>, then <span class="pv-w">(tad)</span> there would be no <span class="pv-w">(na... syāt)</span> difference <span class="pv-w">(viśeṣaḥ)</span> with reference to the development _(of language)_ <span class="pv-w">(vyutpattau)</span> in the case of a child <span class="pv-w">(bālakasya)</span> who is one day old <span class="pv-w">(ahar-jātasya)</span>, one month old <span class="pv-w">(māsa-jātasya)</span> or <span class="pv-w">(vā)</span> one year old <span class="pv-w">(saṁvatsara-jātasya)</span>. If it be argued that (iti ced): "Madhyamā herself <span class="pv-w">(madhyamā eva sā)</span> is particularized by <span class="pv-w">(viśiṣyate)</span> proficiency _(as regards the language)_ <span class="pv-w">(vyutpattyā)</span>", the "How?" <span class="pv-note">— i.e. the way in which that is happening —</span> (katham iti) should be discussed and investigated <span class="pv-w">(carcyatām)</span> truly <span class="pv-w">(tāvat)</span>. _(Continuing with the example of the child:)_ By hearing <span class="pv-w">(śṛṇvan eva)</span> the words <span class="pv-w">(tān śabdān)</span> and <span class="pv-w">(ca)</span> seeing <span class="pv-w">(paśyan)</span> objects <span class="pv-w">(arthān)</span> he becomes proficient _(regarding the language)_ <span class="pv-w">(vyutpadyate)</span>. And <span class="pv-w">(ca)</span> he mentally seizes <span class="pv-w">(parāmṛśet)</span> the letters <span class="pv-w">(varṇān)</span> which are being heard <span class="pv-w">(śrūyamāṇān eva)</span>. Also <span class="pv-w">(ca)</span>, all those things that are heard _(by him)_ <span class="pv-w">(śrūyante)</span> belong to the Vaikharī level <span class="pv-w">(vaikharī-mayāḥ)</span>. With regard to those things _(that he is hearing)_ <span class="pv-w">(teṣu ca)</span>, he <span class="pv-w">(asau)</span> _<span class="pv-w">(is)</span>_ exactly <span class="pv-w">(iva)</span> like <span class="pv-w">(vat)</span> someone who is blind from birth <span class="pv-w">(jāti-andha)</span> regarding form_<span class="pv-w">(s)</span>_ <span class="pv-w">(rūpe)</span>.</p>
+А именно <span class="pv-w">(tathāhi)</span>: хотя (yadi api) произношение <span class="pv-w">(karaṇāḥ)</span> _(и)_ органы речи <span class="pv-w">(sthāna)</span> у детей <span class="pv-w">(bālāḥ)</span> двух-трёх лет <span class="pv-w">(dvitraiḥ varṣaiḥ)</span> уже отчётливы <span class="pv-w">(sphuṭī-bhūta... bhavanti)</span>, — всё же <span class="pv-w">(tathā api)</span> общепризнано <span class="pv-w">(iti tāvat sthitam)</span>, что _(их)_ умелость _(в языке)_ <span class="pv-w">(vyutpattiḥ)</span> растёт <span class="pv-w">(adhika-adhika-rūpatām eti)</span> день ото дня <span class="pv-w">(dina-anudinam)</span> _(и)_ месяц от месяца <span class="pv-w">(māsa-anumāsa)</span> — несомненно <span class="pv-w">(eva vā hi)</span>. Если бы <span class="pv-w">(yadi)</span> в этом (tatra... pade) состоянии Madhyamā <span class="pv-w">(madhyamā)</span> не было <span class="pv-w">(na syāt)</span> явления <span class="pv-w">(sphuraṇam)</span> доли <span class="pv-w">(aṁśa)</span> «звуков» <span class="pv-w">(varṇa)</span> по делению <span class="pv-w">(vibhāga)</span> произношения <span class="pv-w">(karaṇa)</span> _(и)_ органов речи <span class="pv-w">(sthāna)</span>, которое станет отчётливым <span class="pv-w">(sphuṭī-bhaviṣyat)</span> при разворачивании <span class="pv-w">(prasara)</span> такого <span class="pv-w">(tathāvidha)</span> _(состояния)_ Vaikharī <span class="pv-w">(vaikharī)</span>, — то <span class="pv-w">(tad)</span> не было бы <span class="pv-w">(na... syāt)</span> разницы <span class="pv-w">(viśeṣaḥ)</span> в развитии _(речи)_ <span class="pv-w">(vyutpattau)</span> у ребёнка <span class="pv-w">(bālakasya)</span> однодневного <span class="pv-w">(ahar-jātasya)</span>, месячного <span class="pv-w">(māsa-jātasya)</span> или <span class="pv-w">(vā)</span> годовалого <span class="pv-w">(saṁvatsara-jātasya)</span>. Если возразят (iti ced): «сама Madhyamā <span class="pv-w">(madhyamā eva sā)</span> и различается <span class="pv-w">(viśiṣyate)</span> умелостью _(в языке)_ <span class="pv-w">(vyutpattyā)</span>», — то «как?», то есть каким образом это происходит (katham iti), надлежит разобрать <span class="pv-w">(carcyatām)</span> — и впрямь <span class="pv-w">(tāvat)</span>. _(Продолжая пример с ребёнком:)_ слыша <span class="pv-w">(śṛṇvan eva)</span> слова <span class="pv-w">(tān śabdān)</span> и <span class="pv-w">(ca)</span> видя <span class="pv-w">(paśyan)</span> предметы <span class="pv-w">(arthān)</span>, он и делается умелым _(в речи)_ <span class="pv-w">(vyutpadyate)</span>. И <span class="pv-w">(ca)</span> он схватывает умом <span class="pv-w">(parāmṛśet)</span> слышимые <span class="pv-w">(śrūyamāṇān eva)</span> звуки <span class="pv-w">(varṇān)</span>. А <span class="pv-w">(ca)</span> всё, что он слышит <span class="pv-w">(śrūyante)</span>, относится к уровню Vaikharī <span class="pv-w">(vaikharī-mayāḥ)</span>. В отношении же этого _(что он слышит)_ <span class="pv-w">(teṣu ca)</span> он <span class="pv-w">(asau)</span> точно <span class="pv-w">(iva)</span> как <span class="pv-w">(vat)</span> слепорождённый <span class="pv-w">(jāti-andha)</span> в отношении облика <span class="pv-w">(rūpe)</span>.
 
-<p class="pv-en" lang="en">Therefore <span class="pv-w">(tasmāt)</span>, Vaikharī <span class="pv-w">(vaikharī)</span> is (asti eva) formed from <span class="pv-w">(mayī)</span> pronunciation <span class="pv-w">(karaṇa)</span>, organs of utterance <span class="pv-w">(sthāna)</span>, etc. <span class="pv-w">(ādi)</span> lying <span class="pv-w">(niviṣṭa)</span> within <span class="pv-w">(antar)</span> Madhyamā <span class="pv-w">(madhyamā)</span>.</p>
+Поэтому <span class="pv-w">(tasmāt)</span> Vaikharī <span class="pv-w">(vaikharī)</span> и есть (asti eva) образованная <span class="pv-w">(mayī)</span> произношением <span class="pv-w">(karaṇa)</span>, органами речи <span class="pv-w">(sthāna)</span> и прочим <span class="pv-w">(ādi)</span>, залегающими <span class="pv-w">(niviṣṭa)</span> внутри <span class="pv-w">(antar)</span> Madhyamā <span class="pv-w">(madhyamā)</span>.
 
-<p class="pv-en" lang="en">_(This is)_ so (evam eva) even <span class="pv-w">(api)</span> in a dumb <span class="pv-w">(mūke)</span>.</p>
+Так же (evam eva) и <span class="pv-w">(api)</span> у немого <span class="pv-w">(mūke)</span>.
 
-<p class="pv-en" lang="en">It was _<span class="pv-w">(already)</span>_ mentioned (iti uktam) the all-containing State <span class="pv-note">— the State that consists of all —</span> <span class="pv-w">(sarva-ātmakatvam ca)</span> of Consciousness <span class="pv-w">(saṁvidaḥ)</span>, i.e. of the Consort of the Fortunate One <span class="pv-w">(bhagavatyāḥ eva)</span>.</p>
+О всесодержащем Состоянии <span class="pv-w">(sarva-ātmakatvam ca)</span> Сознания <span class="pv-w">(saṁvidaḥ)</span>, то есть Супруги Благословенного <span class="pv-w">(bhagavatyāḥ eva)</span>, сказано _(уже)_ (iti uktam).
 
-<p class="pv-en" lang="en">Thus (evam ca), the state (padam eva) of Vaikharī <span class="pv-w">(vaikharī)</span> which has gotten her blossoming <span class="pv-w">(labdha-vijṛmbham)</span> from the state <span class="pv-w">(dhāma)</span> of Madhyamā <span class="pv-w">(madhyamā)</span>, as long as <span class="pv-w">(yāvat)</span> she remains <span class="pv-w">(āste)</span> in her own portion <span class="pv-note">— in her own field of action —</span> <span class="pv-w">(sva-aṁśe)</span>, in the growth <span class="pv-w">(ullāse)</span> of the condition <span class="pv-w">(bhāva)</span> of "vācaka" <span class="pv-note">— the word denoting —</span> <span class="pv-w">(vācaka)</span> _<span class="pv-w">(and)</span>_ "vācya" <span class="pv-note">— the object being denoted by the word —</span> <span class="pv-w">(vācya)</span> being _<span class="pv-w">(perfectly)</span>_ clear and evident <span class="pv-w">(sphuṭa)</span>, in what is an expansion <span class="pv-w">(pathā-ātmani)</span> of mutual <span class="pv-w">(paraspara)</span> diversity <span class="pv-w">(vaicitrya)</span>, _<span class="pv-w">(and)</span>_ having the network of tattva-s or categories within herself <span class="pv-w">(tattva-jālam antaḥkṛtya)</span>, so long <span class="pv-w">(tāvat)</span> _(she is)_ the most venerable <span class="pv-w">(bhaṭṭārikā)</span> Aparā <span class="pv-w">(aparā)</span>.</p>
+Итак (evam ca), состояние (padam eva) Vaikharī <span class="pv-w">(vaikharī)</span>, получившее свой расцвет <span class="pv-w">(labdha-vijṛmbham)</span> из состояния <span class="pv-w">(dhāma)</span> Madhyamā <span class="pv-w">(madhyamā)</span>, — покуда <span class="pv-w">(yāvat)</span> оно пребывает <span class="pv-w">(āste)</span> в своей доле, в своём поле действия <span class="pv-w">(sva-aṁśe)</span>, — при возрастании <span class="pv-w">(ullāse)</span> состояния <span class="pv-w">(bhāva)</span> «vācaka», обозначающего слова <span class="pv-w">(vācaka)</span>, _(и)_ «vācya», обозначаемого предмета <span class="pv-w">(vācya)</span>, _(делающегося вполне)_ отчётливым <span class="pv-w">(sphuṭa)</span>, — в том, что есть разворачивание <span class="pv-w">(pathā-ātmani)</span> взаимного <span class="pv-w">(paraspara)</span> многообразия <span class="pv-w">(vaicitrya)</span>, _(и)_ вместив в себя сеть таттв <span class="pv-w">(tattva-jālam antaḥkṛtya)</span>, — дотоле <span class="pv-w">(tāvat)</span> _(она и есть)_ досточтимейшая <span class="pv-w">(bhaṭṭārikā)</span> Aparā <span class="pv-w">(aparā)</span>.
 
-<p class="pv-en" lang="en">When there is growth <span class="pv-w">(ullāse)</span> of the state of <span class="pv-w">(pada)</span> Madhyamā <span class="pv-w">(madhyamā)</span> that exists <span class="pv-w">(varti)</span> within <span class="pv-w">(antar)</span> That <span class="pv-note">— viz. Parā —</span> <span class="pv-w">(tad)</span>, _(that is)_ Parāparā <span class="pv-w">(parā-aparā)</span>, and <span class="pv-w">(ca)</span> _<span class="pv-w">(it is also Parāparā)</span>_ when there is growth <span class="pv-w">(ullāse)</span> of Paśyantī <span class="pv-w">(paśyantī)</span>. And <span class="pv-w">(ca)</span> in Her own Self <span class="pv-w">(sva-rūpatas)</span>, the Consort of the Fortunate One <span class="pv-w">(bhagavatī)</span> is the Goddess <span class="pv-note">— i.e. Parā or Parāvāk —</span> <span class="pv-w">(devī)</span>.</p>
+Когда есть возрастание <span class="pv-w">(ullāse)</span> состояния <span class="pv-w">(pada)</span> Madhyamā <span class="pv-w">(madhyamā)</span>, пребывающего <span class="pv-w">(varti)</span> внутри <span class="pv-w">(antar)</span> Того — Parā — <span class="pv-w">(tad)</span>, _(это)_ Parāparā <span class="pv-w">(parā-aparā)</span>; и <span class="pv-w">(ca)</span> _(это тоже Parāparā)_, когда есть возрастание <span class="pv-w">(ullāse)</span> Paśyantī <span class="pv-w">(paśyantī)</span>. А <span class="pv-w">(ca)</span> в Своей собственной Самости <span class="pv-w">(sva-rūpatas)</span> Супруга Благословенного <span class="pv-w">(bhagavatī)</span> есть Богиня — то есть Parā, Parāvāk <span class="pv-w">(devī)</span>.
 
-<p class="pv-en" lang="en">_[Now, Abhinavagupta will "finally" explain in detail what the "purifier", "the means of purification" and "that which is to be purified" are:]_</p>
+_[Теперь Абхинавагупта «наконец» подробно объяснит, что такое «очищающий», «средство очищения» и «очищаемое»:]_
 
-<p class="pv-en" lang="en">Thus <span class="pv-w">(iti)</span>, a triple (traidham eva) position <span class="pv-w">(sthitiḥ)</span> abides <span class="pv-w">(avatiṣṭhate)</span> in the state <span class="pv-w">(bhāvena)</span> of the purifier <span class="pv-w">(śodhaka)</span>.</p>
+Итак <span class="pv-w">(iti)</span>, тройное (traidham eva) положение <span class="pv-w">(sthitiḥ)</span> пребывает <span class="pv-w">(avatiṣṭhate)</span> в состоянии <span class="pv-w">(bhāvena)</span> очищающего <span class="pv-w">(śodhaka)</span>.
 
-<p class="pv-en" lang="en">The "purifier" <span class="pv-w">(śodhakaḥ)</span> _<span class="pv-w">(is)</span>_ certainly <span class="pv-w">(hi)</span> the Universal Self <span class="pv-w">(viśva-ātmā)</span> who has an expanded form <span class="pv-w">(vitata-rūpaḥ)</span>. It has _<span class="pv-w">(already)</span>_ been said that (iti uktam) _<span class="pv-w">(His)</span>_ Expansion (vaitatyam ca) is <span class="pv-w">(bhavati)</span> like that (evam eva) <span class="pv-note">— i.e. triple —</span>.</p>
+«Очищающий» <span class="pv-w">(śodhakaḥ)</span> _(есть)_ несомненно <span class="pv-w">(hi)</span> Вселенская Самость <span class="pv-w">(viśva-ātmā)</span>, имеющая развёрнутый облик <span class="pv-w">(vitata-rūpaḥ)</span>. О том, что _(Его)_ Развёрнутость (vaitatyam ca) именно такова (bhavati... evam eva) — то есть тройственна, — сказано _(уже)_ (iti uktam).
 
-<p class="pv-en" lang="en">Concerning <span class="pv-w">(prati)</span> the "means of purification" <span class="pv-w">(śodhanam... tu)</span>, it is the agency <span class="pv-note">— the capacity of doing —</span> <span class="pv-w">(kartṛtvam)</span> that belongs to the Doer alone <span class="pv-w">(kartuḥ eva)</span>, i.e. the Fortunate One <span class="pv-w">(bhagavataḥ)</span> who accepts limitation or contraction <span class="pv-w">(gṛhīta-saṅkocasya)</span> through His own <span class="pv-w">(sva)</span> Absolute Freedom <span class="pv-w">(svātantrya)</span> _<span class="pv-w">(and)</span>_ rests in <span class="pv-w">(viśrāntasya)</span> the Greatness and Glory <span class="pv-w">(mahima)</span> of _<span class="pv-w">(His)</span>_ Śakti or Power <span class="pv-w">(śākta)</span>.</p>
+Что до <span class="pv-w">(prati)</span> «средства очищения» <span class="pv-w">(śodhanam... tu)</span>, — это деятельность, способность делать <span class="pv-w">(kartṛtvam)</span>, принадлежащая одному лишь Деятелю <span class="pv-w">(kartuḥ eva)</span>, то есть Благословенному <span class="pv-w">(bhagavataḥ)</span>, который принимает ограничение <span class="pv-w">(gṛhīta-saṅkocasya)</span> по Своей собственной <span class="pv-w">(sva)</span> Абсолютной Свободе <span class="pv-w">(svātantrya)</span> _(и)_ покоится <span class="pv-w">(viśrāntasya)</span> в Величии <span class="pv-w">(mahima)</span> _(Своей)_ Śakti, Силы <span class="pv-w">(śākta)</span>.
 
-<p class="pv-en" lang="en">The condition of "that which is to be purified" <span class="pv-w">(śodhyatā tu)</span> pertains to "nara" <span class="pv-note">— the limited individual —</span> <span class="pv-w">(nara-ātmanaḥ)</span>, who is a network <span class="pv-w">(jālasya)</span> of bonds <span class="pv-note">— lit. nooses —</span> <span class="pv-w">(pāśa)</span>, whose only nature <span class="pv-w">(eka-rūpasya)</span> is limitation or contraction <span class="pv-w">(saṅkoca)</span>, whose essence <span class="pv-w">(ātmanaḥ)</span> is a dualism <span class="pv-w">(bheda)</span> which is firstly <span class="pv-w">(prathama)</span> sketched out <span class="pv-w">(āsūtrita)</span> in the state <span class="pv-w">(dhāma)</span> of Paśyantī <span class="pv-w">(paśyantī)</span> as being of the nature <span class="pv-w">(rūpa)</span> of the "paśusakti" <span class="pv-note">— "Pratibimbapaśyantī" or "reflected Paśyantī" appearing as the power of the limited beings —</span> <span class="pv-w">(paśu-sakti)</span> displayed <span class="pv-w">(visphārita)</span> by the Power of Knowledge <span class="pv-w">(jñāna-śakti)</span> of Sadāśiva <span class="pv-w">(sadāśiva)</span> consisting of <span class="pv-note">— i.e. the "paśusakti" consists of —</span> <span class="pv-w">(ātmaka)</span> a "kṣobha" or "agitation" <span class="pv-w">(kṣobha)</span> _(derived from)_ the Parāparā deity _<span class="pv-w">(as the "Pati-śakti" or "Bimbapaśyantī" <span class="pv-note">— Paśyantī as the Mirror of Consciousness, the power that has lordship and is devoid of "kṣobha" or "agitation" —</span>)</span>_ <span class="pv-w">(parā-aparā-devatā)</span>, which <span class="pv-note">— viz. Parāparā as Bimbapaśyantī or Pati-śakti —</span> is similar to <span class="pv-w">(tulya-kakṣya)</span> the most venerable <span class="pv-w">(bhaṭṭārikā)</span> Parā <span class="pv-note">— viz. Parāvāk, the Supreme Speech —</span> <span class="pv-w">(parā)</span> that is not different from <span class="pv-w">(avinirbhakta)</span> the glorious <span class="pv-w">(bhaṭṭāraka)</span> Bhairava <span class="pv-w">(bhairava)</span> whose sole form <span class="pv-w">(eka-rūpa)</span> is the triad <span class="pv-w">(trika)</span> which transcends <span class="pv-w">(atikrānta)</span> the thirty-seven _<span class="pv-w">("kalā-s" or "phases")</span>_. This is a established truth <span class="pv-w">(iti nirṇayaḥ)</span>.</p>
+Положение же «очищаемого» <span class="pv-w">(śodhyatā tu)</span> принадлежит «nara», ограниченному существу <span class="pv-w">(nara-ātmanaḥ)</span>, которое есть сеть <span class="pv-w">(jālasya)</span> уз — букв. петель — <span class="pv-w">(pāśa)</span>, чья единственная природа <span class="pv-w">(eka-rūpasya)</span> — ограниченность <span class="pv-w">(saṅkoca)</span>, чья суть <span class="pv-w">(ātmanaḥ)</span> — двойственность <span class="pv-w">(bheda)</span>, впервые <span class="pv-w">(prathama)</span> намеченная <span class="pv-w">(āsūtrita)</span> в состоянии <span class="pv-w">(dhāma)</span> Paśyantī <span class="pv-w">(paśyantī)</span> как имеющая природу <span class="pv-w">(rūpa)</span> «paśuśakti» — «Pratibimbapaśyantī», «отражённой Paśyantī», являющейся как сила ограниченных существ <span class="pv-w">(paśu-sakti)</span>, — развёрнутая <span class="pv-w">(visphārita)</span> Силой Знания <span class="pv-w">(jñāna-śakti)</span> Sadāśiva <span class="pv-w">(sadāśiva)</span> _(и)_ состоящая <span class="pv-w">(ātmaka)</span> из «kṣobha», возмущения <span class="pv-w">(kṣobha)</span>, _(идущего от)_ божества Parāparā _(как «Pati-śakti», или «Bimbapaśyantī» — Paśyantī как Зерцала Сознания, силы, которая владычествует и лишена «kṣobha»)_ <span class="pv-w">(parā-aparā-devatā)</span>, — а эта _(Parāparā как Bimbapaśyantī, или Pati-śakti)_ равнозначна <span class="pv-w">(tulya-kakṣya)</span> досточтимейшей <span class="pv-w">(bhaṭṭārikā)</span> Parā — Parāvāk, Высшей Речи — <span class="pv-w">(parā)</span>, которая не отделена <span class="pv-w">(avinirbhakta)</span> от славного <span class="pv-w">(bhaṭṭāraka)</span> Bhairava <span class="pv-w">(bhairava)</span>, чей единственный облик <span class="pv-w">(eka-rūpa)</span> — триада <span class="pv-w">(trika)</span>, превосходящая <span class="pv-w">(atikrānta)</span> тридцать семь _(«kalā», ступеней)_. Это установленная истина <span class="pv-w">(iti nirṇayaḥ)</span>.
 
-<p class="pv-en" lang="en">As has been mentioned <span class="pv-w">(yathā-uktam)</span> by most adorable Somānanda <span class="pv-w">(śrī-somānanda-pādaiḥ)</span> in _<span class="pv-w">(his)</span>_ Śivadṛṣṭi <span class="pv-w">(śiva-dṛṣṭau)</span>:</p>
+Как сказано <span class="pv-w">(yathā-uktam)</span> досточтимейшим Somānanda <span class="pv-w">(śrī-somānanda-pādaiḥ)</span> в _(его)_ Śivadṛṣṭi <span class="pv-w">(śiva-dṛṣṭau)</span>:
 
-<p class="pv-en" lang="en">"_<span class="pv-w">(Let)</span>_ Śiva <span class="pv-w">(śivaḥ)</span> who has entered into <span class="pv-w">(samāviṣṭaḥ)</span> my <span class="pv-w">(asmad)</span> nature <span class="pv-w">(rūpa)</span> as my own Self <span class="pv-w">(sva-ātmanā)</span> <span class="pv-note">— i.e. He is in unity with my nature, He is myself —</span> make <span class="pv-w">(karotu)</span> a bow <span class="pv-w">(namas)</span>, by _<span class="pv-w">(His)</span>_ Highest Power <span class="pv-note">— viz. Parā —</span> <span class="pv-w">(parayā... śaktyā)</span>, to Himself <span class="pv-w">(ātmane)</span> —who is extended _(as the universe)_ <span class="pv-w">(tata)</span>—, in order to remove the obstacles <span class="pv-w">(nivāraṇe)</span> which are _(nothing but)_ Himself <span class="pv-w">(ātma... iti)</span>!".</p>
+<p class="pv-tr" markdown="1">«_(Да)_ сотворит <span class="pv-w">(karotu)</span> Śiva <span class="pv-w">(śivaḥ)</span>, вошедший <span class="pv-w">(samāviṣṭaḥ)</span> в мою <span class="pv-w">(asmad)</span> природу <span class="pv-w">(rūpa)</span> как моя собственная Самость <span class="pv-w">(sva-ātmanā)</span>, — поклон <span class="pv-w">(namas)</span> Своею Высшею Силою, то есть Parā <span class="pv-w">(parayā... śaktyā)</span>, Себе Самому <span class="pv-w">(ātmane)</span>, Простёртому _(как вселенная)_ <span class="pv-w">(tata)</span>, — ради устранения препятствий <span class="pv-w">(nivāraṇe)</span>, которые суть _(не что иное, как)_ Он Сам <span class="pv-w">(ātma... iti)</span>!»</p>
 
-<p class="pv-en" lang="en">The entire <span class="pv-w">(sarva)</span> totality <span class="pv-w">(kalāpaḥ)</span> of activities <span class="pv-w">(kriyā)</span> <span class="pv-note">— i.e. purifier, means of purification and that which is to be purified —</span> indicates <span class="pv-w">(sūcakaḥ)</span> _<span class="pv-w">(Śiva)</span>_ as being of such a form <span class="pv-w">(evam-rūpatā)</span> in Śivadṛṣṭi <span class="pv-w">(śivadṛṣṭau)</span>.</p>
+Вся <span class="pv-w">(sarva)</span> совокупность <span class="pv-w">(kalāpaḥ)</span> действий <span class="pv-w">(kriyā)</span> — очищающий, средство очищения и очищаемое — и указывает <span class="pv-w">(sūcakaḥ)</span> _(на Śiva)_ как на такового <span class="pv-w">(evam-rūpatā)</span> в Śivadṛṣṭi <span class="pv-w">(śivadṛṣṭau)</span>.
 
-<p class="pv-en" lang="en">Besides (api ca), with reference to that _(very topic)_ <span class="pv-w">(tatra)</span>, even <span class="pv-w">(api)</span> in the case of the purifiers <span class="pv-w">(śodhakānām)</span> of that which has to be purified <span class="pv-w">(śodhya)</span>, the dissolution <span class="pv-w">(vigalanam)</span> _<span class="pv-w">(proceeds)</span>_ in constant succession, higher and higher <span class="pv-note">— the succeeding gets dissolved in the preceding —</span> <span class="pv-w">(uttara-uttaram)</span>:</p>
+Более того (api ca), в этом _(самом)_ <span class="pv-w">(tatra)</span> и <span class="pv-w">(api)</span> у очищающих <span class="pv-w">(śodhakānām)</span> очищаемое <span class="pv-w">(śodhya)</span> растворяется <span class="pv-w">(vigalanam)</span> в непрерывной череде, всё выше и выше <span class="pv-w">(uttara-uttaram)</span>, — последующее растворяется в предшествующем:
 
-<p class="pv-en" lang="en">"Abandon <span class="pv-w">(tyaja)</span> dharma <span class="pv-w">(dharmam)</span> and <span class="pv-w">(ca)</span> adharma <span class="pv-w">(adharmam)</span>, i.e. abandon <span class="pv-w">(tyaja)</span> both <span class="pv-w">(ubhe)</span> truth and falsehood <span class="pv-w">(satya-anṛte)</span>. After abandoning <span class="pv-w">(tyaktvā)</span> both <span class="pv-w">(ubhe)</span> truth and falsehood <span class="pv-w">(satya-anṛte)</span>, abandon <span class="pv-w">(tyaja)</span> that <span class="pv-w">(tad)</span> by which <span class="pv-w">(yena)</span> you abandon (tyajasi... iti)".</p>
+<p class="pv-tr" markdown="1">«Оставь <span class="pv-w">(tyaja)</span> dharma <span class="pv-w">(dharmam)</span> и <span class="pv-w">(ca)</span> adharma <span class="pv-w">(adharmam)</span>, то есть оставь <span class="pv-w">(tyaja)</span> и то и другое <span class="pv-w">(ubhe)</span> — истину и ложь <span class="pv-w">(satya-anṛte)</span>. Оставив <span class="pv-w">(tyaktvā)</span> и истину, и ложь <span class="pv-w">(ubhe satya-anṛte)</span>, оставь <span class="pv-w">(tyaja)</span> и то <span class="pv-w">(tad)</span>, чем <span class="pv-w">(yena)</span> ты оставляешь (tyajasi... iti)».</p>
 
-<p class="pv-en" lang="en">Therefore <span class="pv-w">(tad)</span>, such <span class="pv-w">(etāvatī)</span> _<span class="pv-w">(is)</span>_ this <span class="pv-w">(iyam)</span> glory <span class="pv-w">(dhārā)</span> that <span class="pv-w">(yad)</span> purifier <span class="pv-w">(śodhakam)</span> as well as (api... api) means of purification <span class="pv-w">(śodhanam)</span> are to be purified <span class="pv-w">(śodhyam eva)</span> _<span class="pv-w">(too)</span>_. With reference to the scripture<span class="pv-w">(s)</span> <span class="pv-w">(śāstre)</span> of venerable <span class="pv-w">(śrī)</span> Trika <span class="pv-w">(ṣaṭ-ardha)</span>, this _<span class="pv-w">(shows)</span>_ their eminence and superiority <span class="pv-w">(iti... sva-utkarṣaḥ)</span>. And <span class="pv-w">(ca)</span> also <span class="pv-w">(api)</span> the position <span class="pv-w">(sthitiḥ)</span> of these three <span class="pv-w">(tisṛṇām... āsām)</span> is (bhavati eva) simultaneously <span class="pv-w">(yugapad)</span> _<span class="pv-w">(in Parā)</span>_.</p>
+Итак <span class="pv-w">(tad)</span>, такова <span class="pv-w">(etāvatī)</span> эта <span class="pv-w">(iyam)</span> высота <span class="pv-w">(dhārā)</span>: и (yad... api... api) очищающий <span class="pv-w">(śodhakam)</span>, и средство очищения <span class="pv-w">(śodhanam)</span> сами подлежат очищению <span class="pv-w">(śodhyam eva)</span>. Применительно к писанию <span class="pv-w">(śāstre)</span> досточтимой <span class="pv-w">(śrī)</span> Трики <span class="pv-w">(ṣaṭ-ardha)</span> в этом _(и)_ её превосходство <span class="pv-w">(iti... sva-utkarṣaḥ)</span>. И <span class="pv-w">(ca)</span> положение <span class="pv-w">(sthitiḥ)</span> этих трёх <span class="pv-w">(tisṛṇām... āsām)</span> наступает (bhavati eva) разом <span class="pv-w">(yugapad)</span> _(в Parā)_.
 
-<p class="pv-en" lang="en">_(An individual)_ speaks (vakti hi) something <span class="pv-note">— lit. another —</span> <span class="pv-w">(anyat)</span> _<span class="pv-w">(by means of Vaikharī)</span>_ and <span class="pv-w">(ca)</span> by thinking <span class="pv-w">(vikalpayan)</span> he speaks inarticulately <span class="pv-w">(jalpati)</span> another _<span class="pv-w">(thing)</span>_ <span class="pv-w">(anyat)</span> _<span class="pv-w">(through Madhyamā. In turn, he)</span>_ perceives <span class="pv-w">(paśyati)</span> something else <span class="pv-note">— lit. another —</span> <span class="pv-w">(anyat)</span> which is indeterminate <span class="pv-note">— viz. beyond thoughts —</span> (avikalpam eva) _<span class="pv-w">(by Paśyantī)</span>_. However <span class="pv-w">(tu)</span>, in this respect <span class="pv-w">(atra)</span>, _(it is)_ the Fortunate <span class="pv-w">(bhagavān)</span> Bhairava <span class="pv-w">(bhairavaḥ)</span> alone <span class="pv-w">(eva)</span> who is totally Full <span class="pv-w">(paripūrṇaḥ eva)</span> in such _<span class="pv-w">(a group of three states <span class="pv-note">— Vaikharī, Madhyamā and Paśyantī —</span>)</span>_ <span class="pv-w">(tāvati... iti)</span> _<span class="pv-w">(as Parā. Because,)</span>_ by getting in touch with <span class="pv-w">(pariśīlanena)</span> the traditional teaching <span class="pv-w">(sampradāya-upadeśa)</span> derived from the primordial <span class="pv-w">(ādi)</span> experience <span class="pv-w">(anubhava)</span>, it cannot be denied <span class="pv-w">(anapalāpanīyatvāt)</span> that this <span class="pv-w">(asya)</span> "Substance" <span class="pv-note">— as it were —</span> <span class="pv-w">(arthasya)</span> is identical with <span class="pv-w">(mayasya)</span> one's own <span class="pv-w">(sva)</span> Consciousness <span class="pv-w">(saṁvid)</span>.</p>
+_(Человек)_ говорит (vakti hi) одно <span class="pv-w">(anyat)</span> _(через Vaikharī)_ и <span class="pv-w">(ca)</span>, думая <span class="pv-w">(vikalpayan)</span>, невнятно проговаривает <span class="pv-w">(jalpati)</span> другое <span class="pv-w">(anyat)</span> _(через Madhyamā. А)_ воспринимает <span class="pv-w">(paśyati)</span> третье <span class="pv-w">(anyat)</span>, неопределённое — вне мыслей — (avikalpam eva) _(через Paśyantī)_. Но <span class="pv-w">(tu)</span> здесь <span class="pv-w">(atra)</span> один лишь <span class="pv-w">(eva)</span> Благословенный <span class="pv-w">(bhagavān)</span> Bhairava <span class="pv-w">(bhairavaḥ)</span> вполне Полон <span class="pv-w">(paripūrṇaḥ eva)</span> в такой _(троице состояний — Vaikharī, Madhyamā и Paśyantī)_ <span class="pv-w">(tāvati... iti)</span> _(как Parā. Ибо)_, соприкоснувшись <span class="pv-w">(pariśīlanena)</span> с преданным наставлением <span class="pv-w">(sampradāya-upadeśa)</span>, идущим от первоначального <span class="pv-w">(ādi)</span> опыта <span class="pv-w">(anubhava)</span>, нельзя отрицать <span class="pv-w">(anapalāpanīyatvāt)</span>, что это <span class="pv-w">(asya)</span> «Вещество» <span class="pv-w">(arthasya)</span> тождественно <span class="pv-w">(mayasya)</span> собственному <span class="pv-w">(sva)</span> Сознанию <span class="pv-w">(saṁvid)</span>.
 
-<p class="pv-en" lang="en">Nor is That (na tad) simultaneous <span class="pv-w">(yugapad)</span>, but rather (api tu) there is _<span class="pv-w">(merely)</span>_ a conception <span class="pv-w">(abhimānaḥ)</span> of simultaneity <span class="pv-w">(yaugapadya)</span> "since on Its being that subtle <span class="pv-w">(tathā-saukṣmyāt)</span>, It is not marked <span class="pv-w">(alakṣyam iti)</span>", just like <span class="pv-w">(iva)</span> the piercing of <span class="pv-w">(vyatibhedaḥ)</span> of one hundred <span class="pv-w">(śata)</span> acacia <span class="pv-w">(śirīṣa)</span> flowers <span class="pv-w">(kusuma)</span> _<span class="pv-w">(and)</span>_ buds <span class="pv-w">(pallava)</span> _(looks like)_ "simultaneous" (yugapad iti). If it be argued that (iti ced) _("simultaneous" implies)_ "samānakālam" or "happening at the same time" <span class="pv-w">(samāna-kālam)</span>, what <span class="pv-w">(kā)</span> _<span class="pv-w">(is)</span>_ this <span class="pv-w">(ayam)</span> way of talking <span class="pv-w">(bhāṣā)</span> really <span class="pv-w">(khalu)</span>?</p>
+И не (na tad) одновременно <span class="pv-w">(yugapad)</span> это, а (api tu) есть _(лишь)_ представление <span class="pv-w">(abhimānaḥ)</span> об одновременности <span class="pv-w">(yaugapadya)</span>, — «поскольку по своей тонкости <span class="pv-w">(tathā-saukṣmyāt)</span> оно не отмечается <span class="pv-w">(alakṣyam iti)</span>», — как <span class="pv-w">(iva)</span> прокалывание <span class="pv-w">(vyatibhedaḥ)</span> ста <span class="pv-w">(śata)</span> цветов <span class="pv-w">(kusuma)</span> _(и)_ бутонов <span class="pv-w">(pallava)</span> акации <span class="pv-w">(śirīṣa)</span> _(выглядит)_ «одновременным» (yugapad iti). Если возразят (iti ced), что _(«одновременно» значит)_ «samānakālam», «происходящее в одно и то же время» <span class="pv-w">(samāna-kālam)</span>, — что <span class="pv-w">(kā)</span> это <span class="pv-w">(ayam)</span> за речь <span class="pv-w">(bhāṣā)</span> вообще <span class="pv-w">(khalu)</span>?
 
-<p class="pv-en" lang="en">According to the principle <span class="pv-w">(nayena)</span> expressed _(by myself)_ <span class="pv-w">(prokta)</span>, what <span class="pv-w">(kaḥ)</span> is time <span class="pv-w">(kālaḥ)</span> with regard to the inner Consciousness <span class="pv-w">(antarmukhe saṁvid-ātmani)</span>?</p>
+По изложенному _(мною)_ <span class="pv-w">(prokta)</span> правилу <span class="pv-w">(nayena)</span> — какое <span class="pv-w">(kaḥ)</span> время <span class="pv-w">(kālaḥ)</span> у обращённого внутрь Сознания <span class="pv-w">(antarmukhe saṁvid-ātmani)</span>?
 
-<p class="pv-en" lang="en">If it be argued that (iti ced) it <span class="pv-note">— i.e. time —</span> <span class="pv-w">(saḥ)</span>, though <span class="pv-w">(api)</span> it is situated in <span class="pv-w">(gata)</span> a limited condition <span class="pv-w">(upādhi)</span> as "knowable" <span class="pv-note">— an object —</span> <span class="pv-w">(jñeya)</span>, overpowers <span class="pv-w">(avaskandet)</span> indeterminate Knowledge <span class="pv-note">— i.e. Consciousness —</span> <span class="pv-w">(jñānam)</span> because it is the life <span class="pv-w">(tasya... prāṇatvāt)</span> of the manifestation <span class="pv-w">(ābhāsa)</span> consisting of <span class="pv-w">(maya)</span> the going and coming <span class="pv-w">(gama-āgama)</span> of the vital energy <span class="pv-w">(prāṇa)</span>, etc. <span class="pv-w">(ādi)</span> _(as well as)_ of its absence <span class="pv-note">— i.e. of the absence of the going and coming of the vital energy, etc. —</span> <span class="pv-w">(tad-abhāva)</span>, which are <span class="pv-w">(rūpa)</span> _<span class="pv-w">(also)</span>_ "knowables" <span class="pv-w">(jñeya)</span>, _(that statement is not true since)_ a "knowable" <span class="pv-note">— an object —</span> <span class="pv-w">(jñeyasya)</span> rests on one's own Self <span class="pv-note">— viz. Consciousness —</span> <span class="pv-w">(sva-ātmani)</span> who is full of <span class="pv-w">(maye)</span> Light <span class="pv-w">(bhāsā)</span>. Or <span class="pv-w">(vā)</span> otherwise <span class="pv-w">(anyathā)</span>, what <span class="pv-w">(kaḥ)</span> peculiarity <span class="pv-w">(viśeṣaḥ)</span> of its <span class="pv-note">— i.e. of time —</span> <span class="pv-w">(asya)</span> _(could be)_ expressed <span class="pv-w">(uktaḥ)</span> by means of <span class="pv-w">(mukhena)</span> Knowledge <span class="pv-w">(jñāna)</span>? The rise <span class="pv-w">(samplavaḥ)</span> of the mutual dependence <span class="pv-w">(itaretara-āśraya)</span> _(takes place)_ because of the difference <span class="pv-w">(bhedāt)</span> _(between something)_ and one's own Self <span class="pv-w">(svataḥ)</span> <span class="pv-note">— in short, it takes place due to dualism —</span>.</p>
+Если возразят (iti ced), что оно — время — <span class="pv-w">(saḥ)</span>, хотя <span class="pv-w">(api)</span> и стоит <span class="pv-w">(gata)</span> в ограниченном положении <span class="pv-w">(upādhi)</span> «познаваемого», предмета <span class="pv-w">(jñeya)</span>, одолевает <span class="pv-w">(avaskandet)</span> неопределённое Знание, Сознание <span class="pv-w">(jñānam)</span>, ибо оно есть жизнь <span class="pv-w">(tasya... prāṇatvāt)</span> явления <span class="pv-w">(ābhāsa)</span>, состоящего <span class="pv-w">(maya)</span> из ухода и прихода <span class="pv-w">(gama-āgama)</span> жизненной энергии <span class="pv-w">(prāṇa)</span> и прочего <span class="pv-w">(ādi)</span>, _(а равно)_ из их отсутствия <span class="pv-w">(tad-abhāva)</span>, — которые тоже <span class="pv-w">(rūpa)</span> суть «познаваемые» <span class="pv-w">(jñeya)</span>, — _(то это неверно, ибо)_ «познаваемое», предмет <span class="pv-w">(jñeyasya)</span>, покоится в собственной Самости, то есть в Сознании <span class="pv-w">(sva-ātmani)</span>, полной <span class="pv-w">(maye)</span> Света <span class="pv-w">(bhāsā)</span>. Или <span class="pv-w">(vā)</span> иначе <span class="pv-w">(anyathā)</span>: какая <span class="pv-w">(kaḥ)</span> особенность <span class="pv-w">(viśeṣaḥ)</span> его — времени — <span class="pv-w">(asya)</span> выражается <span class="pv-w">(uktaḥ)</span> через <span class="pv-w">(mukhena)</span> Знание <span class="pv-w">(jñāna)</span>? Взаимная зависимость <span class="pv-w">(itaretara-āśraya)</span> возникает <span class="pv-w">(samplavaḥ)</span> по различию <span class="pv-w">(bhedāt)</span> с собственной Самостью <span class="pv-w">(svataḥ)</span>, — словом, по двойственности.
 
-<p class="pv-en" lang="en">All that <span class="pv-w">(sarvam)</span> can be pronounced <span class="pv-w">(ucyamānam)</span> flies toward <span class="pv-w">(āpatet)</span> the jaws (mukham eva) of indeterminate Knowledge <span class="pv-w">(jñāna)</span>.</p>
+Всё <span class="pv-w">(sarvam)</span>, что ни скажешь <span class="pv-w">(ucyamānam)</span>, летит <span class="pv-w">(āpatet)</span> в самую пасть (mukham eva) неопределённого Знания <span class="pv-w">(jñāna)</span>.
 
-<p class="pv-en" lang="en">Similarly <span class="pv-w">(tathā ca)</span>, that <span class="pv-w">(saḥ)</span> _<span class="pv-w">(very)</span>_ fault <span class="pv-w">(doṣaḥ)</span> <span class="pv-note">— i.e. the mutual dependence —</span> _<span class="pv-w">(appears)</span>_ in saying that <span class="pv-w">(ucyamāne)</span> "the piercing <span class="pv-w">(vyatibhedaḥ)</span> of a lot of hundreds <span class="pv-w">(bahutara... śata)</span> of flowers <span class="pv-w">(kusuma)</span> _<span class="pv-w">(and)</span>_ buds <span class="pv-w">(pallava)</span> _<span class="pv-w">(is)</span>_ also (api ca) _(the piercing of)_ many <span class="pv-w">(anekaḥ iti)</span>". _<span class="pv-w">(And)</span>_ there is no (na asti) operation _(resulting in a "whole atom")_ <span class="pv-w">(karma)</span> by addition <span class="pv-w">(yogāt)</span> of the last <span class="pv-w">(anta)</span> atom <span class="pv-w">(paramāṇu)</span> with _<span class="pv-w">(other)</span>_ atoms <span class="pv-note">— lit. parts, components —</span> <span class="pv-w">(avayava)</span> <span class="pv-note">— as in this context "atom" means "the minutest particle of matter that cannot be further divided", the sense is that an atom, being without any parts, is a "whole in itself" and not the result of the sum of many parts or components —</span>. This is what occurs <span class="pv-w">(iti āpatet)</span>.</p>
+Точно так же <span class="pv-w">(tathā ca)</span> та <span class="pv-w">(saḥ)</span> же <span class="pv-w">(doṣaḥ)</span> ошибка — взаимная зависимость — _(является)_ и когда говорят <span class="pv-w">(ucyamāne)</span>, что «прокалывание <span class="pv-w">(vyatibhedaḥ)</span> многих сотен <span class="pv-w">(bahutara... śata)</span> цветов <span class="pv-w">(kusuma)</span> _(и)_ бутонов <span class="pv-w">(pallava)</span> есть (api ca) _(прокалывание)_ многих <span class="pv-w">(anekaḥ iti)</span>». _(И)_ нет (na asti) такого действия _(дающего «целый атом»)_ <span class="pv-w">(karma)</span> через сложение <span class="pv-w">(yogāt)</span> последнего <span class="pv-w">(anta)</span> атома <span class="pv-w">(paramāṇu)</span> с _(другими)_ атомами — букв. частями <span class="pv-w">(avayava)</span>: здесь «атом» значит «мельчайшую частицу вещества, которую уже нельзя разделить», а смысл в том, что атом, не имея частей, есть «целое в себе», а не итог сложения частей. Вот что выходит <span class="pv-w">(iti āpatet)</span>.
 
-<p class="pv-en" lang="en">And <span class="pv-w">(ca)</span> there is no <span class="pv-w">(na... syāt)</span> congruous connection <span class="pv-w">(anusandhānam)</span> together with <span class="pv-w">(saha)</span> the absence <span class="pv-w">(abhāvena)</span> of indeterminate Knowledge <span class="pv-w">(jñāna)</span>. _(Why?)_ Because there is no experience or perception <span class="pv-w">(anubhava-abhāvāt)</span> of that congruous connection <span class="pv-w">(anusandhāyāḥ... tasyāḥ ca)</span> when there is a breaking <span class="pv-w">(bhede)</span> in memory <span class="pv-w">(smṛti)</span>, since it <span class="pv-note">— i.e. memory —</span> depends on <span class="pv-w">(upajīvitve)</span> experience or perception <span class="pv-w">(anubhava)</span>. After investigating exhaustively _(this matter)_ (vitatya ca), I wrote about it <span class="pv-w">(vicāritaṁ mayā etad)</span> in _<span class="pv-w">(my)</span>_ commentary on <span class="pv-w">(ṭikāyām)</span> Padārthapraveśanirṇaya <span class="pv-w">(padārthapraveśanirṇaya)</span>. So <span class="pv-w">(iti)</span>, what <span class="pv-w">(kim)</span> is here the use of _<span class="pv-w">(this)</span>_ net <span class="pv-w">(iha... jālena)</span> of useless <span class="pv-w">(vṛthā)</span> words <span class="pv-w">(vāk)</span> which ends up being <span class="pv-w">(paryavasāyinā)</span> an obstacle <span class="pv-w">(vighna)</span> for the teaching <span class="pv-w">(upadeśa)</span> of the subject under discussion <span class="pv-w">(prakṛta)</span>?</p>
+И <span class="pv-w">(ca)</span> не будет <span class="pv-w">(na... syāt)</span> складного сопряжения <span class="pv-w">(anusandhānam)</span> при <span class="pv-w">(saha)</span> отсутствии <span class="pv-w">(abhāvena)</span> неопределённого Знания <span class="pv-w">(jñāna)</span>. _(Почему?)_ Потому что этого складного сопряжения <span class="pv-w">(anusandhāyāḥ... tasyāḥ ca)</span> не переживают <span class="pv-w">(anubhava-abhāvāt)</span> при разрыве <span class="pv-w">(bhede)</span> в памяти <span class="pv-w">(smṛti)</span>, — ведь она, память, живёт <span class="pv-w">(upajīvitve)</span> переживанием <span class="pv-w">(anubhava)</span>. Разобрав _(это)_ до конца (vitatya ca), я написал об этом <span class="pv-w">(vicāritaṁ mayā etad)</span> в _(своём)_ комментарии <span class="pv-w">(ṭikāyām)</span> на Padārthapraveśanirṇaya <span class="pv-w">(padārthapraveśanirṇaya)</span>. Итак <span class="pv-w">(iti)</span>, к чему <span class="pv-w">(kim)</span> здесь <span class="pv-w">(iha)</span> эта сеть <span class="pv-w">(jālena)</span> напрасных <span class="pv-w">(vṛthā)</span> слов <span class="pv-w">(vāk)</span>, которая оборачивается <span class="pv-w">(paryavasāyinā)</span> помехой <span class="pv-w">(vighna)</span> наставлению <span class="pv-w">(upadeśa)</span> об обсуждаемом <span class="pv-w">(prakṛta)</span>?
 
-<p class="pv-en" lang="en">Thus <span class="pv-w">(evam)</span>, the Consort of the Fortunate One <span class="pv-w">(bhagavatī)</span> _(in Her aspect as)_ Parā <span class="pv-w">(parā)</span> abides <span class="pv-w">(sthitā)</span> as being <span class="pv-w">(bhāvena)</span> the purifier <span class="pv-w">(śodhaka)</span>.</p>
+Итак <span class="pv-w">(evam)</span>, Супруга Благословенного <span class="pv-w">(bhagavatī)</span> _(в Своём виде)_ Parā <span class="pv-w">(parā)</span> пребывает <span class="pv-w">(sthitā)</span> как <span class="pv-w">(bhāvena)</span> очищающий <span class="pv-w">(śodhaka)</span>.
 
-<p class="pv-en" lang="en">And also (api ca) Parāparā <span class="pv-w">(parā-aparā)</span> _(behaves like a purifier)_ where <span class="pv-w">(yatra)</span> there is an abiding <span class="pv-w">(sthitiḥ)</span> of the glorious <span class="pv-w">(bhagavatīnām)</span> powers <span class="pv-w">(śaktīnām)</span> _(known as)_ Aghorā-s <span class="pv-note">— lit. not fearful —</span>, etc. <span class="pv-w">(aghorā-ādīnām)</span>, by means of <span class="pv-w">(yogāt)</span> which <span class="pv-w">(yad)</span> the skillful <span class="pv-w">(sādhaka)</span> yogi-s <span class="pv-w">(yoginaḥ)</span> that attained the Vijñānākala state <span class="pv-w">(vijñānākala)</span> become endowed with <span class="pv-w">(sampannāḥ)</span> the natures <span class="pv-w">(rūpāḥ)</span> of the Great Lords of Mantra <span class="pv-w">(mantra-mahā-īśa)</span> and so forth <span class="pv-w">(ādi)</span>.</p>
+И (api ca) Parāparā <span class="pv-w">(parā-aparā)</span> _(действует как очищающий)_ там <span class="pv-w">(yatra)</span>, где пребывают <span class="pv-w">(sthitiḥ)</span> славные <span class="pv-w">(bhagavatīnām)</span> силы <span class="pv-w">(śaktīnām)</span>, _(зовущиеся)_ Aghorā — букв. нестрашными — и прочие <span class="pv-w">(aghorā-ādīnām)</span>, — благодаря <span class="pv-w">(yogāt)</span> которым <span class="pv-w">(yad)</span> искусные <span class="pv-w">(sādhaka)</span> йогины <span class="pv-w">(yoginaḥ)</span>, достигшие состояния Vijñānākala <span class="pv-w">(vijñānākala)</span>, обретают <span class="pv-w">(sampannāḥ)</span> природы <span class="pv-w">(rūpāḥ)</span> Великих Владык Мантры <span class="pv-w">(mantra-mahā-īśa)</span> и прочих <span class="pv-w">(ādi)</span>.
 
-<p class="pv-en" lang="en">Through the Grace <span class="pv-w">(anugraheṇa eva)</span> of powers <span class="pv-w">(śakti)</span> _(such as)_ Brāhmī <span class="pv-w">(brāhmī)</span>, etc. <span class="pv-w">(ādi)</span>, the practitioners possessed of inferior skillfulness <span class="pv-w">(sādhaka-āṇavaḥ)</span> turn into <span class="pv-w">(sampannāḥ)</span> Brahmā, Viṣṇu, etc. <span class="pv-w">(brahma-viṣṇu-ādayaḥ)</span>.</p>
+Милостью <span class="pv-w">(anugraheṇa eva)</span> сил <span class="pv-w">(śakti)</span>, _(таких как)_ Brāhmī <span class="pv-w">(brāhmī)</span> и прочие <span class="pv-w">(ādi)</span>, делатели с меньшей искусностью <span class="pv-w">(sādhaka-āṇavaḥ)</span> обращаются <span class="pv-w">(sampannāḥ)</span> в Brahmā, Viṣṇu и прочих <span class="pv-w">(brahma-viṣṇu-ādayaḥ)</span>.
 
-<p class="pv-en" lang="en">The Supreme Lord <span class="pv-w">(parama-īśvaraḥ)</span> indeed <span class="pv-w">(hi)</span>, i.e. most venerable <span class="pv-w">(bhaṭṭārakaḥ)</span> Bhairava <span class="pv-w">(bhairava)</span>, whose beautiful Form <span class="pv-w">(vapus)</span> is Full <span class="pv-w">(paripūrṇa)</span> _<span class="pv-w">(and)</span>_ replete with <span class="pv-w">(nirbhara)</span> the multitude <span class="pv-w">(puñja)</span> of all <span class="pv-w">(samagra)</span> the powers <span class="pv-w">(śakti)</span>, through a penetration <span class="pv-w">(niveśanayā)</span> by His own <span class="pv-w">(nija)</span> Power _(of Absolute Freedom)_ <span class="pv-w">(śakti)</span>, makes <span class="pv-w">(karoti)</span> Brahmā and others <span class="pv-w">(brahma-ādīn)</span> free <span class="pv-w">(svatantrān)</span>. So <span class="pv-w">(iti)</span>, what <span class="pv-w">(kim)</span> else <span class="pv-w">(anyat)</span> _(could one say about this)_?</p>
+Ведь <span class="pv-w">(hi)</span> Высший Господь <span class="pv-w">(parama-īśvaraḥ)</span>, то есть досточтимейший <span class="pv-w">(bhaṭṭārakaḥ)</span> Bhairava <span class="pv-w">(bhairava)</span>, чьё прекрасное Существо <span class="pv-w">(vapus)</span> Полно <span class="pv-w">(paripūrṇa)</span> _(и)_ исполнено <span class="pv-w">(nirbhara)</span> множества <span class="pv-w">(puñja)</span> всех <span class="pv-w">(samagra)</span> сил <span class="pv-w">(śakti)</span>, — проникая <span class="pv-w">(niveśanayā)</span> Своею собственной <span class="pv-w">(nija)</span> Силой _(Абсолютной Свободы)_ <span class="pv-w">(śakti)</span>, делает <span class="pv-w">(karoti)</span> Brahmā и прочих <span class="pv-w">(brahma-ādīn)</span> свободными <span class="pv-w">(svatantrān)</span>. Итак <span class="pv-w">(iti)</span>, что <span class="pv-w">(kim)</span> ещё <span class="pv-w">(anyat)</span> _(тут сказать)_?
 
-<p class="pv-en" lang="en">Thus <span class="pv-w">(evam)</span>, this is another <span class="pv-w">(iti anyaḥ)</span> excellence <span class="pv-w">(utkarṣaḥ)</span> _(of the Trika system,)_ that there is a state of that which is to be purified <span class="pv-w">(śodhyatvam)</span> even <span class="pv-w">(api)</span> in the case of the purifier <span class="pv-w">(śodhakasya)</span>. According to the maxim <span class="pv-w">(sthityā)</span>:</p>
+Итак <span class="pv-w">(evam)</span>, вот ещё одно <span class="pv-w">(iti anyaḥ)</span> превосходство <span class="pv-w">(utkarṣaḥ)</span> _(строя Трики:)_ что состояние очищаемого <span class="pv-w">(śodhyatvam)</span> есть и <span class="pv-w">(api)</span> у очищающего <span class="pv-w">(śodhakasya)</span>. По правилу <span class="pv-w">(sthityā)</span>:
 
-<p class="pv-en" lang="en">"Trika <span class="pv-w">(trikam)</span> _<span class="pv-w">(is)</span>_ more elevated <span class="pv-w">(parataram)</span> than Kula <span class="pv-w">(kulāt... iti)</span>".</p>
+<p class="pv-tr" markdown="1">«Трика <span class="pv-w">(trikam)</span> _(стоит)_ выше <span class="pv-w">(parataram)</span> Kula <span class="pv-w">(kulāt... iti)</span>».</p>
 
-<p class="pv-en" lang="en">On that account (tatas ca), since purifier, means of purification and that which is to be purified are three <span class="pv-w">(śodhya-śodhana-śodhakānām... tri-ātmakatvāt)</span> everywhere (sarvatra eva), Trika <span class="pv-w">(trikam)</span> _<span class="pv-w">(is)</span>_ invariable <span class="pv-w">(anapāyi)</span>. As I myself have said <span class="pv-w">(yathā-uktam mayā eva)</span> in a hymn <span class="pv-w">(stotre)</span>:</p>
+Поэтому (tatas ca), — раз очищаемое, средство очищения и очищающий суть три <span class="pv-w">(śodhya-śodhana-śodhakānām... tri-ātmakatvāt)</span> повсюду (sarvatra eva), — Трика <span class="pv-w">(trikam)</span> неизменна <span class="pv-w">(anapāyi)</span>. Как я сам сказал <span class="pv-w">(yathā-uktam mayā eva)</span> в гимне <span class="pv-w">(stotre)</span>:
 
-<p class="pv-en" lang="en">"Where <span class="pv-w">(yatra)</span> there are <span class="pv-w">(samasti)</span> three aspects <span class="pv-w">(tritayam)</span> of the group of three <span class="pv-w">(trikāṇām... iti)</span>".</p>
+<p class="pv-tr" markdown="1">«Где <span class="pv-w">(yatra)</span> есть <span class="pv-w">(samasti)</span> троица <span class="pv-w">(tritayam)</span> троиц <span class="pv-w">(trikāṇām... iti)</span>».</p>
 
-<p class="pv-en" lang="en">In this way <span class="pv-w">(evam)</span>, there is no endless series of statements <span class="pv-w">(na ca... anavasthā)</span>. _(Why?)_ Because everything of this _<span class="pv-w">(teaching)</span>_ is uniform <span class="pv-w">(sarvasya asya... eka-mayatvāt)</span> with the Highest <span class="pv-w">(para)</span> Consciousness <span class="pv-w">(saṁvid)</span> of the Fortunate One <span class="pv-w">(bhagavat)</span> <span class="pv-note">— i.e. in this teaching everything is in full unity with the Great Bhairava —</span>. It must be considered <span class="pv-w">(mantavyam)</span> in this manner (evam eva):</p>
+Так <span class="pv-w">(evam)</span> и нет <span class="pv-w">(na ca... anavasthā)</span> бесконечной череды утверждений. _(Почему?)_ Потому что всё в этом _(учении)_ единообразно <span class="pv-w">(sarvasya asya... eka-mayatvāt)</span> с Высшим <span class="pv-w">(para)</span> Сознанием <span class="pv-w">(saṁvid)</span> Благословенного <span class="pv-w">(bhagavat)</span>, — то есть в этом учении всё пребывает в полном единстве с Великим Bhairava. Понимать надлежит <span class="pv-w">(mantavyam)</span> именно так (evam eva):
 
-<p class="pv-en" lang="en">"... abandon <span class="pv-w">(tyaja)</span> that <span class="pv-w">(tad)</span> by which <span class="pv-w">(yena)</span> you abandon (tyajasi... iti)".</p>
+<p class="pv-tr" markdown="1">«…оставь <span class="pv-w">(tyaja)</span> и то <span class="pv-w">(tad)</span>, чем <span class="pv-w">(yena)</span> ты оставляешь (tyajasi... iti)».</p>
 
-<p class="pv-en" lang="en">Lastly <span class="pv-w">(antatas)</span>, even <span class="pv-w">(api vā)</span> the purifier <span class="pv-w">(śodhakaḥ)</span> is to be purified <span class="pv-w">(śodhyaḥ eva)</span> since bonds <span class="pv-note">— lit. nooses —</span> appear <span class="pv-w">(pāśa-ātmakatvāt)</span> _(in him)_ when there is an emergence <span class="pv-w">(ucchalattāyām)</span> of the portion <span class="pv-w">(aṁśa)</span> _<span class="pv-w">(called)</span>_ duality <span class="pv-w">(bheda)</span>.</p>
+И наконец <span class="pv-w">(antatas)</span> даже <span class="pv-w">(api vā)</span> очищающий <span class="pv-w">(śodhakaḥ)</span> подлежит очищению <span class="pv-w">(śodhyaḥ eva)</span>, ибо в нём являются узы — букв. петли — <span class="pv-w">(pāśa-ātmakatvāt)</span>, когда проступает <span class="pv-w">(ucchalattāyām)</span> доля <span class="pv-w">(aṁśa)</span>, _(зовущаяся)_ двойственностью <span class="pv-w">(bheda)</span>.
 
-<p class="pv-en" lang="en">And <span class="pv-w">(ca)</span> the means of purification <span class="pv-w">(śodhanam eva)</span> _<span class="pv-w">(is)</span>_ in the true sense of the word <span class="pv-w">(paramārthatas)</span> a Fire <span class="pv-w">(hutavahaḥ eva)</span> which is not different from <span class="pv-w">(abhedi)</span> the Consciousness <span class="pv-w">(saṁvid)</span> of Bhairava <span class="pv-w">(bhairava)</span> that is dexterous <span class="pv-w">(catura)</span> in burning up <span class="pv-w">(ploṣa)</span> all <span class="pv-w">(sarva)</span> the impurities <span class="pv-w">(mala)</span>. When there is an entrance <span class="pv-w">(anupraveśe)</span> of all <span class="pv-note">— viz. purifier, means of purification and that which is to be purified —</span> <span class="pv-w">(sarvasya)</span> _(into Bhairava, there is then)_ a State of Fullness <span class="pv-w">(paripūrṇatā eva)</span>. As <span class="pv-w">(yad)</span> _<span class="pv-w">(Śiva)</span>_ will declare <span class="pv-w">(vakṣyati)</span> _(later on:)_</p>
+И <span class="pv-w">(ca)</span> средство очищения <span class="pv-w">(śodhanam eva)</span> в подлинном смысле слова <span class="pv-w">(paramārthatas)</span> есть Огонь <span class="pv-w">(hutavahaḥ eva)</span>, не отличный <span class="pv-w">(abhedi)</span> от Сознания <span class="pv-w">(saṁvid)</span> Bhairava <span class="pv-w">(bhairava)</span>, искусный <span class="pv-w">(catura)</span> в сжигании <span class="pv-w">(ploṣa)</span> всех <span class="pv-w">(sarva)</span> загрязнений <span class="pv-w">(mala)</span>. Когда всё — очищающий, средство очищения и очищаемое — входит <span class="pv-w">(anupraveśe... sarvasya)</span> _(в Bhairava, наступает)_ Состояние Полноты <span class="pv-w">(paripūrṇatā eva)</span>. Как <span class="pv-w">(yad)</span> _<span class="pv-w">(Śiva)</span>_ скажет <span class="pv-w">(vakṣyati)</span> _(дальше:)_
 
-<p class="pv-en" lang="en">"He who <span class="pv-w">(yaḥ)</span> really <span class="pv-w">(tattvena)</span> knows <span class="pv-w">(vetti)</span> thus <span class="pv-w">(evam)</span>".</p>
+<p class="pv-tr" markdown="1">«Тот, кто <span class="pv-w">(yaḥ)</span> поистине <span class="pv-w">(tattvena)</span> знает <span class="pv-w">(vetti)</span> это <span class="pv-w">(evam)</span>».</p>
 
 <p class="pv-iast">etcetera (iti-ādi).</p>
 
-<p class="pv-en" lang="en">Therefore <span class="pv-w">(tad)</span>, since the deities commencing with the ones of Parāparā, being identical with the Supreme Consciousness, consist of all <span class="pv-w">(para-saṁvid-ekamaya-parāparā-ādi-devatānāṁ sarva-ātmakatvāt)</span>, infinity <span class="pv-w">(ānantyam)</span> of "vācaka-s" <span class="pv-note">— words that denote —</span> <span class="pv-w">(vācaka)</span> _<span class="pv-w">(and)</span>_ "vācya-s" <span class="pv-note">— objects denoted by those words —</span> <span class="pv-w">(vācya)</span> _(such as)_ the ones that are worldly <span class="pv-note">— not sacred —</span> <span class="pv-w">(laukika)</span>, the ones relating to other <span class="pv-w">(antarīya)</span> scriptures <span class="pv-w">(śāstra)</span>, etc. <span class="pv-w">(ādi)</span> has also been abridged <span class="pv-w">(api saṅgṛhītam)</span> through the word<span class="pv-w">(s)</span> _<span class="pv-w">(of this stanza and a half in Mālinīvijayatantra)</span>_ <span class="pv-w">(vacanāt)</span>, which begins <span class="pv-w">(ādi)</span> thus <span class="pv-w">(iti)</span>:</p>
+Итак <span class="pv-w">(tad)</span>, — поскольку божества, начиная с божеств Parāparā, будучи тождественны Высшему Сознанию, состоят из всего <span class="pv-w">(para-saṁvid-ekamaya-parāparā-ādi-devatānāṁ sarva-ātmakatvāt)</span>, — бесконечность <span class="pv-w">(ānantyam)</span> «vācaka», обозначающих слов <span class="pv-w">(vācaka)</span>, _(и)_ «vācya», обозначаемых предметов <span class="pv-w">(vācya)</span>, — мирских <span class="pv-w">(laukika)</span>, относящихся к другим <span class="pv-w">(antarīya)</span> писаниям <span class="pv-w">(śāstra)</span> и прочих <span class="pv-w">(ādi)</span>, — тоже сведена <span class="pv-w">(api saṅgṛhītam)</span> словами _(этой полуторной строфы Mālinīvijayatantra)_ <span class="pv-w">(vacanāt)</span>, начинающимися <span class="pv-w">(ādi)</span> так <span class="pv-w">(iti)</span>:
 
-<p class="pv-en" lang="en">"The very mighty <span class="pv-w">(mahābalāḥ)</span> Yoginī-s <span class="pv-w">(yoginyaḥ)</span> who have become <span class="pv-w">(sambhūtāḥ)</span> the limbs <span class="pv-w">(aṅga)</span> of the Parāparā_<span class="pv-w">(mantra)</span>_ <span class="pv-note">— i.e."Om̐ aghore hrīḥ paramaghore huṁ ghorarūpe haḥ ghoramukhi bhīme bhīṣaṇe vama piba he ruru rara phaṭ huṁ haḥ phaṭ", but only the "Om̐ aghore hrīḥ paramaghore huṁ ghorarūpe haḥ ghoramukhi bhīme bhīṣaṇe vama piba he" portion is relevant here, because the remaining "ruru rara phaṭ huṁ haḥ phaṭ" portion pertains to Śiva —</span> <span class="pv-w">(parā-aparā)</span> are eight <span class="pv-w">(aṣṭau)</span> <span class="pv-note">— viz. Brāhmī, Māheśvarī, Kaumarī, Vaiṣṇavī, Vārāhī, Indrāṇī, Cāmuṇḍā and Yogeśvarī —</span>. _<span class="pv-w">(The sacred words assigned to them in the Parāparāmantra contain)</span>_ in succession <span class="pv-w">(krameṇa tu)</span> five _<span class="pv-w">(letters)</span>_ <span class="pv-note">— i.e. "Om̐ a-gho-re hrīḥ", for Brāhmī —</span> <span class="pv-w">(pañca)</span>, six _<span class="pv-w">(letters)</span>_ <span class="pv-note">— i.e. "pa-ra-ma-gho-re huṁ", for Māheśvarī —</span> <span class="pv-w">(ṣaṭ)</span>, five _<span class="pv-w">(letters)</span>_ <span class="pv-note">— i.e. "gho-ra-rū-pe haḥ", for Kaumarī —</span> <span class="pv-w">(pañca)</span>, four _<span class="pv-w">(letters)</span>_ <span class="pv-note">— i.e. "gho-ra-mu-khi", for Vaiṣṇavī —</span> <span class="pv-w">(catvāri)</span>, _(along with a sequence)_ of two and three <span class="pv-w">(dvi-tri)</span> letters <span class="pv-w">(arṇāḥ)</span> _<span class="pv-w">(occurring)</span>_ twice <span class="pv-w">(dvi)</span> <span class="pv-note">— i.e. "bhī-me", for Vārāhī; "bhī-ṣa-ṇe", for Indrāṇī; "va-ma", for Cāmuṇḍā; and "pi-ba he", for Yogeśvarī, respectively —</span>. _(Besides,)_ they should be known <span class="pv-w">(jñeyāḥ)</span> as _(constituted by the vocative cases containing the sum of)_ seven and eleven letters <span class="pv-w">(sapta-ekādaśa-arṇāḥ)</span> linked to <span class="pv-w">(anvitāḥ)</span> one <span class="pv-w">(eka)</span> _<span class="pv-w">(and)</span>_ one and a half letters <span class="pv-w">(ardha-arṇa)</span> twice <span class="pv-note">— viz. one and a half letters "twice", i.e. three letters —</span> <span class="pv-w">(dvaya)</span> <span class="pv-note">— the final number is 22 letters in all, which refers to the sum of letters belonging to the vocative cases occurring in the abovementioned Parāparāmantra: a-gho-re, pa-ra-ma-gho-re, gho-ra-rū-pe, gho-ra-mu-khi, bhī-me, bhī-ṣa-ṇe and he" —</span>".</p>
+<p class="pv-tr" markdown="1">«Могучих <span class="pv-w">(mahābalāḥ)</span> Йогини <span class="pv-w">(yoginyaḥ)</span>, ставших <span class="pv-w">(sambhūtāḥ)</span> членами <span class="pv-w">(aṅga)</span> _(мантры)_ Parāparā <span class="pv-w">(parā-aparā)</span>, — восемь <span class="pv-w">(aṣṭau)</span>» — то есть Brāhmī, Māheśvarī, Kaumarī, Vaiṣṇavī, Vārāhī, Indrāṇī, Cāmuṇḍā и Yogeśvarī. _(Священные слова, отведённые им в Parāparāmantra, содержат)_ по порядку <span class="pv-w">(krameṇa tu)</span> пять _(звуков)_ — «Om̐ a-gho-re hrīḥ», для Brāhmī — <span class="pv-w">(pañca)</span>, шесть — «pa-ra-ma-gho-re huṁ», для Māheśvarī — <span class="pv-w">(ṣaṭ)</span>, пять — «gho-ra-rū-pe haḥ», для Kaumarī — <span class="pv-w">(pañca)</span>, четыре — «gho-ra-mu-khi», для Vaiṣṇavī — <span class="pv-w">(catvāri)</span>, _(и далее череду)_ из двух и трёх <span class="pv-w">(dvi-tri)</span> звуков <span class="pv-w">(arṇāḥ)</span>, _(повторённую)_ дважды <span class="pv-w">(dvi)</span>: «bhī-me» для Vārāhī, «bhī-ṣa-ṇe» для Indrāṇī, «va-ma» для Cāmuṇḍā и «pi-ba he» для Yogeśvarī соответственно. _(Кроме того)_, их следует знать <span class="pv-w">(jñeyāḥ)</span> как _(составленные из звательных падежей, дающих в сумме)_ семь и одиннадцать звуков <span class="pv-w">(sapta-ekādaśa-arṇāḥ)</span>, связанных <span class="pv-w">(anvitāḥ)</span> с одним <span class="pv-w">(eka)</span> _(и)_ с полутора звуками <span class="pv-w">(ardha-arṇa)</span> дважды <span class="pv-w">(dvaya)</span>, то есть с тремя, — итого 22 звука: это сумма звуков звательных падежей в названной Parāparāmantra: a-gho-re, pa-ra-ma-gho-re, gho-ra-rū-pe, gho-ra-mu-khi, bhī-me, bhī-ṣa-ṇe и he.</p>
 
-<p class="pv-en" lang="en">**A partial explanation for the time being**</p>
+<p class="pv-tr" markdown="1">**Пока — частичное пояснение**</p>
 
-<p class="pv-en" lang="en">Due to the absence of doubts on the part of several readers, according to their comments... not because they have attained the State of Final Liberation and Absolute Supremacy of Knowledge about Mālinī and Mātṛkā, but rather because there cannot be any doubts when nothing is clear for them, hahahahaha! (this is the eternal problem with massive Guru-s like Abhinavagupta, that they are too massive and require similarly massive disciples)... I will compassionately explain what abhinavagupta meant to say in the first part of his "easy" exposition or the great majority of the readers will not be able to understand what he will continue to say in the rest of the scripture. I will do so through several charts. Since I cannot translate all the Sanskrit terms constantly as it would occupy too much space in the upcoming charts, have always at hand both the Tattvic Chart and the Tattva-s & Sanskrit page to keep track of the meanings of the Sanskrit names of the tattva-s.</p>
+Поскольку у ряда читателей, судя по их отзывам, вопросов не возникает — не потому, что они достигли Окончательного Освобождения и Полного Владычества над Знанием о Mālinī и Mātṛkā, а скорее потому, что вопросов не бывает там, где непонятно решительно всё, ха-ха-ха-ха! (вот вечная беда с такими громадами, как Абхинавагупта: они слишком велики и требуют столь же великих учеников), — я из сострадания поясню, что́ Абхинавагупта хотел сказать в первой части своего «лёгкого» изложения, иначе огромное большинство читателей не разберёт и того, что он скажет дальше. Поясню таблицами. Переводить все санскритские названия каждый раз я не могу — таблицы разбухнут, — так что держите под рукой Таблицу таттв и страницу «Таттвы и санскрит», чтобы не терять смысл санскритских имён.
 
-<p class="pv-en" lang="en">What is the relationship between the three aspects of the Goddess <span class="pv-w">(Parā, Parāparā and Aparā)</span> and the speech levels <span class="pv-w">(Parāvāk, Paśyantī, Madhyamā and Vaikharī)</span>? This is the connection:</p>
+Как соотносятся три вида Богини (Parā, Parāparā и Aparā) и уровни речи (Parāvāk, Paśyantī, Madhyamā и Vaikharī)? Вот эта связь:
 
-1. Parā is the same as Parāvāk (the Supreme Speech where you cannot differentiate word --vācaka-- and object denoted by it --vācya--)
-2. Parāparā includes Paśyantī ("lit. the One who sees", because at this level you see the universe as a whole --like watching the earth from the moon, for example--). Here, in Paśyantī, word and object are different from each other but they are NOT separate (i.e. they are in full unity). There is a subtle differentiation then. And Madhyamā dwells here too, in Parāparā. In Madhyamā there are difference and separation but only at a mental level (this marks the breaking of unity)
-3. Aparā contains Vaikharī. Here, the word and the object are fully manifested at a physical level (e.g. the word "tree" and the respective object called "tree"). This is the pinnacle of differentiation (duality)
+1. Parā — то же, что Parāvāk, Высшая Речь, где слово («vācaka») и обозначаемый им предмет («vācya») неразличимы.
+2. Parāparā включает Paśyantī (букв. «Зрящая», ибо на этом уровне вселенная видна как целое — как земля, если смотреть с луны). Здесь, в Paśyantī, слово и предмет уже различны, но НЕ разделены: они в полном единстве. Различение, стало быть, тонкое. И Madhyamā пребывает тоже здесь, в Parāparā. В Madhyamā есть и различие, и разделение, но лишь на уровне ума, — это и есть надлом единства.
+3. Aparā содержит Vaikharī. Здесь слово и предмет вполне проявлены на телесном уровне (скажем, слово «дерево» и сам предмет, зовущийся деревом). Это вершина различённости, то есть двойственности.
 
-<p class="pv-en" lang="en">Just as the first 16 letters in the Mātṛkā arrangement (i.e. the 16 vowels) represent, according to Abhinavagupta, the internal life of Śiva, even so the first 16 letters in the Mālinī arrangement <span class="pv-w">(viz. "na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga")</span> stand for the same internal life of Lord Śiva. This group of the first 16 letters of Mālinī is composed of vowels and consonants. The vowels do not become reflected at all in Bimba (the Mirror of Consciousness) in the case of Mātṛkā, but the consonants do. And in Mālinī, the vowels located within the first 16 letters do not undergo any reflection at all. Anyway, the vowels present in the remaining 34 letters of the Mālinī arrangement, being assigned to different tattva-s at the Aparā level, do become reflected in the Mirror of Consciousness.</p>
+Как первые 16 звуков строя Mātṛkā (то есть 16 гласных) представляют, по Абхинавагупте, внутреннюю жизнь Śiva, — так и первые 16 звуков строя Mālinī <span class="pv-w">(«na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga»)</span> означают ту же внутреннюю жизнь Господа Śiva. Эта первая шестнадцатка Mālinī состоит из гласных и согласных. В Mātṛkā гласные вовсе не отражаются в Bimba, Зерцале Сознания, а согласные отражаются. И в Mālinī гласные, попавшие в первую шестнадцатку, никакого отражения не претерпевают. Зато гласные, стоящие среди остальных 34 звуков строя Mālinī, будучи отнесены к разным таттвам на уровне Aparā, в Зерцале Сознания отражаются.
 
-<p class="pv-en" lang="en">Nonetheless, in the first two levels <span class="pv-w">(Parā and Parāparā)</span>, while the vowels of the group of the first 16 letters <span class="pv-w">(both in Mālinī and Mātṛkā)</span> remain immutable, the consonants go through a transformation due to their "reflection in the Bimba or Mirror of Consciousness". There are three states for the consonants then, within Parā and Parāparā: "Sarvāgrarūpatā, Sarvamadhyarūpatā and Sarvāntyarūpatā". The former is only relating to "Parā", while the last two refer to Parāparā. Why? Because in Parā, the consonants remain as such (with no transformation), but in Parāparā, they are reflected in the Mirror of Consciousness <span class="pv-w">(Bimba)</span> and consequently they undergo transformation. This process of "transformation" is called "Sarvamadhyarūpatā". And when the transformation is finished, that is known as "Sarvāntyarūpatā". While Sarvāgrarūpatā abides in Parāvāk (Supreme Speech), the other two <span class="pv-w">(Sarvamadhyarūpatā and Sarvāntyarūpatā)</span> remain in Paśyantī.</p>
+Однако на первых двух уровнях (Parā и Parāparā) гласные первой шестнадцатки — и в Mālinī, и в Mātṛkā — остаются неизменными, а согласные претерпевают превращение из-за «отражения в Bimba, Зерцале Сознания». Итак, у согласных в пределах Parā и Parāparā есть три состояния: «Sarvāgrarūpatā, Sarvamadhyarūpatā и Sarvāntyarūpatā». Первое относится только к «Parā», два последних — к Parāparā. Почему? Потому что в Parā согласные остаются как есть, без превращения, а в Parāparā они отражаются в Зерцале Сознания <span class="pv-w">(Bimba)</span> и, соответственно, превращение претерпевают. Это самое «превращение» и зовётся «Sarvamadhyarūpatā». А когда превращение завершено, это «Sarvāntyarūpatā». Sarvāgrarūpatā пребывает в Parāvāk, Высшей Речи, а два других (Sarvamadhyarūpatā и Sarvāntyarūpatā) — в Paśyantī.
 
-<p class="pv-en" lang="en">Let us begin then!</p>
+Итак, начнём!
 
-<p class="pv-en" lang="en">**Chart 1<br />
-Letters in the Mālinī arrangement together with their associated tattva-s**</p>
+<p class="pv-tr" markdown="1">**Таблица 1<br />Звуки строя Mālinī вместе с их таттвами**</p>
 
-<table><caption><span class="styledeepred"><b>The order and assignation of the tattva-s have been extracted from venerable Mālinīvijayatantra</b></span></caption>
+<table class="pv-chart"><caption><span class="styledeepred"><b>Порядок таттв и их соответствия взяты из досточтимой Mālinīvijayatantra</b></span></caption>
 	<tbody>
 		<tr class="center middle">
-			<td class="bgyellowcommon cellborder3solid" colspan="5"><b>Śivatattva (category 1) and Śaktitattva (category 2)</b></td>
+			<td class="bgyellowcommon cellborder3solid" colspan="5"><b>Śivatattva (категория 1) и Śaktitattva (категория 2)</b></td>
 		</tr>
 		<tr class="center middle cellborder1solid">
 			<td colspan="5"><span class="unicodesfontcomments">न ऋ ॠ ऌ ॡ थ च ध ई ण उ ऊ ब क ख ग</span> - na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga</td>
 		</tr>
 		<tr class="center middle cellborder1solid">
-			<td colspan="5">The remaining 34 letters (viz. <span class="unicodesfontcomments">घ ङ इ अ व भ य ड ढ ठ झ ञ ज र ट प छ ल आ स अः ह ष क्ष म श अं त ए ऐ ओ औ द फ</span> - gha ṅa i a va bha ya ḍa ḍha ṭha jha &ntilde;a ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha) are distributed as follows:</td>
+			<td colspan="5">Остальные 34 звука (то есть <span class="unicodesfontcomments">घ ङ इ अ व भ य ड ढ ठ झ ञ ज र ट प छ ल आ स अः ह ष क्ष म श अं त ए ऐ ओ औ द फ</span> - gha ṅa i a va bha ya ḍa ḍha ṭha jha &ntilde;a ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha) are distributed as follows:</td>
 		</tr>
 		<tr class="center middle">
-			<td class="bggreen99 cellborder1solid a15">Letter</td>
-			<td class="bggreenverylight cellborder4solid a30">Respective tattva or category</td>
+			<td class="bggreen99 cellborder1solid a15">Звук</td>
+			<td class="bggreenverylight cellborder4solid a30">Соответствующая таттва (категория)</td>
 			<td class="cellborder13 a10">&nbsp;</td>
-			<td class="bggreenverylight cellborder1solid a30">Respective tattva or category</td>
-			<td class="bggreen99 cellborder4solid a15">Letter</td>
+			<td class="bggreenverylight cellborder1solid a30">Соответствующая таттва (категория)</td>
+			<td class="bggreen99 cellborder4solid a15">Звук</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">घ</span> - gha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (category 3)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (категория 3)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (category 36)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (категория 36)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">फ</span> - pha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ङ</span> - ṅa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (category 4)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (категория 4)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (category 35)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (категория 35)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">द</span> - da</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">इ</span> - i</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (category 5)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (категория 5)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (category 34)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (категория 34)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">औ</span> - au</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">अ</span> - a</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (category 6)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (категория 6)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (category 33)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (категория 33)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ओ</span> - o</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">व</span> - va</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">नियति</span> - Niyati (category 11)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">नियति</span> - Niyati (категория 11)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (category 32)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (категория 32)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ऐ</span> - ai</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">काल</span> - Kāla (category 10)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">काल</span> - Kāla (категория 10)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (category 31)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (категория 31)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ए</span> - e</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">य</span> - ya</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">राग</span> - Rāga (category 9)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">राग</span> - Rāga (категория 9)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (category 30)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (категория 30)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">त</span> - ta</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ड</span> - ḍa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (category 8)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (категория 8)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (category 29)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (категория 29)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">अं</span> - aṁ</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ढ</span> - ḍha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">कला</span> - Kalā (category 7)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">कला</span> - Kalā (категория 7)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (category 28)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (категория 28)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">श</span> - śa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ठ</span> - ṭha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (category 12)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (category 27)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">म</span> - ma</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">झ</span> - jha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (category 13)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (категория 13)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (category 26)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (категория 26)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (category 14)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (category 25)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (категория 25)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ष</span> - ṣa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ज</span> - ja</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (category 15)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (категория 15)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (category 24)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (категория 24)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ह</span> - ha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">र</span> - ra</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (category 16)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (категория 16)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (category 23)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (категория 23)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">अः</span> - aḥ</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ट</span> - ṭa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (category 17)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (категория 17)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (category 22)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (категория 22)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">स</span> - sa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">प</span> - pa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (category 18)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (категория 18)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (category 21)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (категория 21)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">आ</span> - ā</td>
 		</tr>
 		<tr class="center middle">
 			<td><span class="unicodesfontgreen">छ</span> - cha</td>
-			<td class="cellborder2solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (category 19)</td>
+			<td class="cellborder2solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (категория 19)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (category 20)</td>
+			<td><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (категория 20)</td>
 			<td class="cellborder2solid"><span class="unicodesfontgreen">ल</span> - la</td>
 		</tr>
 	</tbody></table>
 
-<p class="pv-en" lang="en">**Sarvāgrarūpatā (lit. "the form at the beginning of all", when the letters remain in themselves... specifically the consonants, as the vowels never change at this level) in Parā according to the Mātṛkā arrangement**</p>
+<p class="pv-tr" markdown="1">**Sarvāgrarūpatā (букв. «облик в начале всего», когда звуки остаются сами собою, — а именно согласные, ибо гласные на этом уровне не меняются вовсе) в Parā по строю Mātṛkā**</p>
 
-<p class="pv-en" lang="en">The arrangement of the letters given by Abhinavagupta differs from that one given by his disciple, Kṣemarāja, in his commentary on II.7 of his Śivasūtravimarśinī (whose content has been abridged in the abovementioned Tattva-s & Sanskrit chart) regarding four points:</p>
+Расположение звуков у Абхинавагупты расходится с тем, которое даёт его ученик Kṣemarāja в комментарии на II.7 своей Śivasūtravimarśinī (его содержание сведено в названной таблице «Таттвы и санскрит»), — в четырёх местах:
 
-<p class="pv-en" lang="en">**1)** Abhinavagupta assigned all the vowels to the Śivatattva alone (category 1) in the Mātṛkā arrangement <span class="pv-w">(it is to be noted that Kṣemarāja did not speak about the Mālinī arrangement in his commentary)</span>.</p>
+**1)** Абхинавагупта отнёс все гласные к одной лишь Śivatattva (1-й категории) в строе Mātṛkā (заметим, что о строе Mālinī Kṣemarāja в своём комментарии не говорил).
 
-<p class="pv-en" lang="en">**2)** Abhinavagupta adds a kind of pseudo tattva called Mahāmāyā (between tattva-s 5 and 6), and assigns a letter to her, which distorts the arrangement given by Kṣemarāja.</p>
+**2)** Абхинавагупта добавляет своего рода полу-таттву, зовущуюся Mahāmāyā (между таттвами 5 и 6), и отводит ей звук, что смещает расположение, данное Kṣemarāja.
 
-<p class="pv-en" lang="en">**3)** Abhinavagupta does not arrange the Kañcuka-s (tattva-s 7 to 11) in the traditional way, viz.: "Kalā, Vidyā, Rāga, Kāla and Niyati" but rather he arranges the Kañcuka-s in a very different way for reasons I cannot explain now: Kalā-Kāla, Vidyā and Rāga-Niyati. Therefore, the letters being assigned will vary in his scheme with regard to the Kṣemarāja's scheme.</p>
+**3)** Абхинавагупта располагает Kañcuka (таттвы с 7-й по 11-ю) не привычным порядком — «Kalā, Vidyā, Rāga, Kāla, Niyati», — а совсем иначе, по причинам, которых я сейчас объяснить не могу: Kalā-Kāla, Vidyā и Rāga-Niyati. Поэтому и отводимые звуки в его росписи отличаются от росписи Kṣemarāja.
 
-<p class="pv-en" lang="en">**4)** Abhinavagupta puts the conjunct "kṣa" as the last letter of the alphabet following the Mātṛkā arrangement, and not "ha" as traditionally one can see in the texts. Hence, this is another difference with respect to the scheme outlined by his own disciple, Kṣemarāja.</p>
+**4)** Абхинавагупта ставит лигатуру «kṣa» последним звуком алфавита по строю Mātṛkā, а не «ha», как обычно в текстах. Вот ещё одно расхождение с росписью его же ученика Kṣemarāja.
 
-<p class="pv-en" lang="en">With those four differences fully specified, I proceed to show "the things" in a more didactic way than by means of mere text (as Abhinavagupta did):</p>
+Оговорив эти четыре расхождения, покажу «всё это» нагляднее, чем одним текстом, как сделал Абхинавагупта:
 
-<table><caption><span class="styledeepred"><b>Chart 2<br />
-	Sarvāgrarūpatā in Parā according to the Mātṛkā arrangement</b></span></caption>
+<table class="pv-chart"><caption><span class="styledeepred"><b>Таблица 2<br />
+	Sarvāgrarūpatā в Parā по строю Mātṛkā</b></span></caption>
 	<tbody>
 		<tr class="center middle">
-			<td class="bgyellowcommon cellborder3solid" colspan="5"><b>Śivatattva (category 1)</b></td>
+			<td class="bgyellowcommon cellborder3solid" colspan="5"><b>Śivatattva (категория 1)</b></td>
 		</tr>
 		<tr class="center middle cellborder1solid">
-			<td colspan="5"><span class="unicodesfontcomments">अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ अं अः</span> - a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ (vowels are always immutable)</td>
+			<td colspan="5"><span class="unicodesfontcomments">अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ अं अः</span> - a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ (гласные всегда неизменны)</td>
 		</tr>
 		<tr class="center middle cellborder1solid">
-			<td colspan="5">The remaining 34 letters (viz. <span class="unicodesfontcomments">क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह क्ष</span> - ka kha ga gha ṅa ca cha ja jha &ntilde;a ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa) are distributed, &quot;in reverse order&quot;, as follows:</td>
+			<td colspan="5">Остальные 34 звука (то есть <span class="unicodesfontcomments">क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह क्ष</span> - ka kha ga gha ṅa ca cha ja jha &ntilde;a ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa) are distributed, &quot;in reverse order&quot;, as follows:</td>
 		</tr>
 		<tr class="center middle">
-			<td class="bggreen99 cellborder1solid a15">Consonant in itself</td>
-			<td class="bggreenverylight cellborder4solid a30">Respective tattva or category</td>
+			<td class="bggreen99 cellborder1solid a15">Согласный сам по себе</td>
+			<td class="bggreenverylight cellborder4solid a30">Соответствующая таттва (категория)</td>
 			<td class="cellborder13 a10">&nbsp;</td>
-			<td class="bggreenverylight cellborder1solid a30">Respective tattva or category</td>
-			<td class="bggreen99 cellborder4solid a15">Consonant in itself</td>
+			<td class="bggreenverylight cellborder1solid a30">Соответствующая таттва (категория)</td>
+			<td class="bggreen99 cellborder4solid a15">Согласный сам по себе</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">शक्ति</span> - Śakti (category 2)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">शक्ति</span> - Śakti (категория 2)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (category 36)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (категория 36)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">क</span> - ka</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ह</span> - ha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (category 3)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (категория 3)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (category 35)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (категория 35)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ख</span> - kha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">स</span> - sa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (category 4)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (категория 4)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (category 34)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (категория 34)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ग</span> - ga</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ष</span> - ṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (category 5)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (категория 5)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (category 33)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (категория 33)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">घ</span> - gha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">श</span> - śa</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">महामाया</span> - Mahāmāyā<br />
-			(between categories 5 and 6)</td>
+			(между категориями 5 и 6)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (category 32)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (категория 32)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ङ</span> - ṅa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">व</span> - va</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (category 6)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (категория 6)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (category 31)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (категория 31)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">च</span> - ca</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ल</span> - la</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">कला-काल</span> - Kalā-Kāla<br />
-			(categories 7 and 10)</td>
+			(категории 7 и 10)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (category 30)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (категория 30)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">छ</span> - cha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">र</span> - ra</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (category 8)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (категория 8)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (category 29)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (категория 29)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ज</span> - ja</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">य</span> - ya</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">राग-नियति</span> - Rāga-Niyati<br />
-			(categories 9 and 11)</td>
+			(категории 9 и 11)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (category 28)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (категория 28)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">झ</span> - jha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">म</span> - ma</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (category 12)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (category 27)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (category 13)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (категория 13)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (category 26)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (категория 26)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ट</span> - ṭa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ब</span> - ba</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (category 14)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (category 25)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (категория 25)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ठ</span> - ṭha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">फ</span> - pha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (category 15)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (категория 15)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (category 24)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (категория 24)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ड</span> - ḍa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">प</span> - pa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (category 16)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (категория 16)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (category 23)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (категория 23)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ढ</span> - ḍha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">न</span> - na</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (category 17)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (категория 17)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (category 22)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (категория 22)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ण</span> - ṇa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ध</span> - dha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (category 18)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (категория 18)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (category 21)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (категория 21)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">त</span> - ta</td>
 		</tr>
 		<tr class="center middle">
 			<td><span class="unicodesfontgreen">द</span> - da</td>
-			<td class="cellborder2solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (category 19)</td>
+			<td class="cellborder2solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (категория 19)</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (category 20)</td>
+			<td><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (категория 20)</td>
 			<td class="cellborder2solid"><span class="unicodesfontgreen">थ</span> - tha</td>
 		</tr>
 	</tbody></table>
 
-<p class="pv-en" lang="en">Now I will explain the first 16 letters of the Mālinī arrangement in Parā, which represent the "internal life of Lord Śiva". Additionally, the respective tattva-s relating to them but in the Mātṛkā arrangement are also given such as defined by Abhinavagupta in the first abovementioned 9 points of his study. All in Parā:</p>
+Теперь объясню первые 16 звуков строя Mālinī в Parā, представляющие «внутреннюю жизнь Господа Śiva». Рядом даны и соответствующие им таттвы, но уже в строе Mātṛkā, — так, как определил их Абхинавагупта в первых девяти пунктах своего разбора. Всё — в Parā:
 
-<table><caption><span class="styledeepred"><b>Chart 3<br />
-	The first 16 letters in the Mālinī arrangement representing the internal life of Śiva<br />
-	along with their respective aspects in the Mātṛkā arrangement, all in Parā</b></span></caption>
+<table class="pv-chart"><caption><span class="styledeepred"><b>Таблица 3<br />
+	Первые 16 звуков строя Mālinī, представляющие внутреннюю жизнь Śiva,<br />
+	вместе с их соответствиями в строе Mātṛkā — всё в Parā</b></span></caption>
 	<tbody>
 		<tr class="center middle">
-			<td class="bggreen99 cellborder1solid a15">Letter in Mālinī</td>
-			<td class="bggreenverylight cellborder4solid a40">Experience of Śiva</td>
+			<td class="bggreen99 cellborder1solid a15">Звук в Mālinī</td>
+			<td class="bggreenverylight cellborder4solid a40">Переживание Śiva</td>
 			<td class="cellborder13 a5">&nbsp;</td>
-			<td class="bggreenverylight cellborder1solid a40">Aspect in Mātṛkā</td>
+			<td class="bggreenverylight cellborder1solid a40">Соответствие в Mātṛkā</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">न</span> - na</td>
-			<td class="cellborder4solid">Nāda as I-consciousness</td>
+			<td class="cellborder4solid">Nāda как Я-сознание</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (category 17)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (категория 17)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ऋ</span> - ṛ</td>
 			<td class="cellborder4solid" rowspan="4">Śiva&#39;s I-consciousness attains full vigor and maturity</td>
 			<td class="cellborder13" rowspan="4">&nbsp;</td>
-			<td class="cellborder1solid" rowspan="4"><span class="unicodesfontcomments">शिवतत्त्व</span> - Śivatattva (category 1)</td>
+			<td class="cellborder1solid" rowspan="4"><span class="unicodesfontcomments">शिवतत्त्व</span> - Śivatattva (категория 1)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ॠ</span> - ṝ</td>
@@ -762,37 +759,37 @@ Letters in the Mālinī arrangement together with their associated tattva-s**</p
 			<td class="cellborder1solid"><span class="unicodesfontgreen">थ</span> - tha</td>
 			<td class="cellborder4solid">Śiva experiences His &quot;flavor&quot;, i.e. a realization of His own nature as &quot;I&quot;</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (category 20)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (категория 20)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">च</span> - ca</td>
 			<td class="cellborder4solid">Śiva experiences His &quot;odor&quot;, i.e. He fully recognizes that He is so and not otherwise</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (category 31)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (категория 31)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ध</span> - dha</td>
-			<td class="cellborder4solid">Śiva gets in touch with His own Power</td>
+			<td class="cellborder4solid">Śiva соприкасается со Своей собственной Силой</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (category 18)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (категория 18)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ई</span> - ī</td>
-			<td class="cellborder4solid">Śiva becomes established in the state relating to the Womb of Śakti</td>
+			<td class="cellborder4solid">Śiva утверждается в состоянии, относящемся к Лону Śakti</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शिवतत्त्व</span> - Śivatattva (category 1)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शिवतत्त्व</span> - Śivatattva (категория 1)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ण</span> - ṇa</td>
 			<td class="cellborder4solid">There is a reflection of Śiva as &quot;I&quot; in the Karaṇaśakti --the Lord&#39;s Power to produce differences-- whose essence is &quot;speech&quot;</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (category 22)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (категория 22)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">उ</span> - u</td>
 			<td class="cellborder4solid" rowspan="2">Śiva&#39;s I-consciousness appears in the form of these two vowels indicating introversion and extroversion</td>
 			<td class="cellborder13" rowspan="2">&nbsp;</td>
-			<td class="cellborder1solid" rowspan="2"><span class="unicodesfontcomments">शिवतत्त्व</span> - Śivatattva (category 1)</td>
+			<td class="cellborder1solid" rowspan="2"><span class="unicodesfontcomments">शिवतत्त्व</span> - Śivatattva (категория 1)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ऊ</span> - ū</td>
@@ -801,369 +798,366 @@ Letters in the Mālinī arrangement together with their associated tattva-s**</p
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ब</span> - ba</td>
 			<td class="cellborder4solid">After appearing in that form, Śiva&#39;s I-consciousness rests in the Womb of Śakti whose nature is Buddhi --intellect, category 14-- and there is confirmation of Śiva&#39;s I-consciousness</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (category 14)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">क</span> - ka</td>
-			<td class="cellborder4solid">Śiva experiences Firmness with reference to His I-consciousness</td>
+			<td class="cellborder4solid">Śiva переживает Твёрдость в отношении Своего Я-сознания</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (category 36)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (категория 36)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ख</span> - kha</td>
-			<td class="cellborder4solid">Śiva experiences Taste --viz. Bliss-- with regard to His I-consciousness</td>
+			<td class="cellborder4solid">Śiva переживает Вкус — то есть Блаженство — в отношении Своего Я-сознания</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (category 35)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (категория 35)</td>
 		</tr>
 		<tr class="center middle">
 			<td><span class="unicodesfontgreen">ग</span> - ga</td>
-			<td class="cellborder2solid">Śiva experiences Light with respect to His I-consciousness</td>
+			<td class="cellborder2solid">Śiva переживает Свет в отношении Своего Я-сознания</td>
 			<td class="cellborder13">&nbsp;</td>
-			<td><span class="unicodesfontcomments">अग्नि</span> - Agni (category 34)</td>
+			<td><span class="unicodesfontcomments">अग्नि</span> - Agni (категория 34)</td>
 		</tr>
 	</tbody></table>
 
 <hr class="pv-rule" />
 
-<p class="pv-en" lang="en">The next 8 points which occur in the study of Abhinavagupta have to do again with the "internal life" of Lord Śiva in the first 16 letters of Mālinī but as this is now the Parāparā level, the corresponding "reflected letters" in the Mātṛkā arrangement can be traced in the next two charts both in "Sarvamadhyarūpatā" and "Sarvāntyarūpatā".</p>
+Следующие 8 пунктов разбора Абхинавагупты снова касаются «внутренней жизни» Господа Śiva в первых 16 звуках Mālinī, — но, поскольку речь теперь об уровне Parāparā, соответствующие «отражённые звуки» строя Mātṛkā можно проследить по двум следующим таблицам: и в «Sarvamadhyarūpatā», и в «Sarvāntyarūpatā».
 
-<p class="pv-en" lang="en">**Chart 4<br />
-Sarvamadhyarūpatā (lit. "the form in the middle of all", when the letters undergo transformation... specifically the consonants, as the vowels never change) in Parāparā according to the Mātṛkā arrangement**</p>
+<p class="pv-tr" markdown="1">**Таблица 4<br />Sarvamadhyarūpatā (букв. «облик посреди всего», когда звуки претерпевают превращение, — а именно согласные, ибо гласные не меняются) в Parāparā по строю Mātṛkā**</p>
 
-<table><caption><span class="styledeepred"><b>Sarvamadhyarūpatā in Parāparā according to the Mātṛkā arrangement</b></span></caption>
+<table class="pv-chart"><caption><span class="styledeepred"><b>Sarvamadhyarūpatā в Parāparā по строю Mātṛkā</b></span></caption>
 	<tbody>
 		<tr class="center middle">
-			<td class="bgyellowcommon cellborder3solid" colspan="5"><b>Śivatattva (category 1)</b></td>
+			<td class="bgyellowcommon cellborder3solid" colspan="5"><b>Śivatattva (категория 1)</b></td>
 		</tr>
 		<tr class="center middle cellborder1solid">
 			<td colspan="5"><span class="unicodesfontcomments">अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ अं अः</span> - a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ<br />
-			(vowels never undergo transformation, i.e. they never are reflected in Bimba or the Mirror of Consciousness)</td>
+			(гласные не претерпевают превращения: они никогда не отражаются в Bimba, Зерцале Сознания)</td>
 		</tr>
 		<tr class="center middle">
-			<td class="bggreen99 cellborder1solid a15">Consonant going through<br />
-			transformation</td>
-			<td class="bggreenverylight cellborder4solid a30">Respective tattva or category</td>
-			<td class="cellborder13 a10">Reflecting in Bimba</td>
-			<td class="bggreenverylight cellborder1solid a30">Respective tattva or category</td>
-			<td class="bggreen99 cellborder4solid a15">Consonant going through<br />
-			transformation</td>
+			<td class="bggreen99 cellborder1solid a15">Согласный, проходящий<br />
+			превращение</td>
+			<td class="bggreenverylight cellborder4solid a30">Соответствующая таттва (категория)</td>
+			<td class="cellborder13 a10">Отражается в Bimba</td>
+			<td class="bggreenverylight cellborder1solid a30">Соответствующая таттва (категория)</td>
+			<td class="bggreen99 cellborder4solid a15">Согласный, проходящий<br />
+			превращение</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">शक्ति</span> - Śakti (category 2)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">शक्ति</span> - Śakti (категория 2)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (category 36)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (категория 36)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">क</span> - ka</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ह</span> - ha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (category 3)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (категория 3)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (category 35)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (категория 35)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ख</span> - kha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">स</span> - sa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (category 4)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (категория 4)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (category 34)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (категория 34)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ग</span> - ga</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ष</span> - ṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (category 5)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (категория 5)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (category 33)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (категория 33)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">घ</span> - gha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">श</span> - śa</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">महामाया</span> - Mahāmāyā<br />
-			(between categories 5 and 6)</td>
+			(между категориями 5 и 6)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (category 32)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (категория 32)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ङ</span> - ṅa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">व</span> - va</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (category 6)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (категория 6)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (category 31)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (категория 31)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">च</span> - ca</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ल</span> - la</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">कला-काल</span> - Kalā-Kāla<br />
-			(categories 7 and 10)</td>
+			(категории 7 и 10)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (category 30)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (категория 30)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">छ</span> - cha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">र</span> - ra</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (category 8)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (категория 8)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (category 29)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (категория 29)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ज</span> - ja</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">य</span> - ya</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">राग-नियति</span> - Rāga-Niyati<br />
-			(categories 9 and 11)</td>
+			(категории 9 и 11)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (category 28)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (категория 28)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">झ</span> - jha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">म</span> - ma</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (category 12)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (category 27)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (category 13)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (категория 13)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (category 26)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (категория 26)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ट</span> - ṭa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ब</span> - ba</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (category 14)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (category 25)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (категория 25)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ठ</span> - ṭha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">फ</span> - pha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (category 15)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (категория 15)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (category 24)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (категория 24)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ड</span> - ḍa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">प</span> - pa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (category 16)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (категория 16)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (category 23)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (категория 23)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ढ</span> - ḍha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">न</span> - na</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (category 17)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (категория 17)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (category 22)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (категория 22)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ण</span> - ṇa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ध</span> - dha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (category 18)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (категория 18)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (category 21)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (категория 21)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">त</span> - ta</td>
 		</tr>
 		<tr class="center middle">
 			<td><span class="unicodesfontgreen">द</span> - da</td>
-			<td class="cellborder2solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (category 19)</td>
+			<td class="cellborder2solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (категория 19)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
-			<td><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (category 20)</td>
+			<td><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (категория 20)</td>
 			<td class="cellborder2solid"><span class="unicodesfontgreen">थ</span> - tha</td>
 		</tr>
 	</tbody></table>
 
 <hr class="pv-rule" />
 
-<p class="pv-en" lang="en">**Chart 5<br />
-Sarvāntyarūpatā (lit. "the form at the end of all", when the consonants already underwent transformation and were assigned to a specific tattva, which absorbs the previous tattva within itself) in Parāparā according to the Mātṛkā arrangement**</p>
+<p class="pv-tr" markdown="1">**Таблица 5<br />Sarvāntyarūpatā (букв. «облик в конце всего», когда согласные уже претерпели превращение и отнесены к определённой таттве, которая вбирает в себя предыдущую) в Parāparā по строю Mātṛkā**</p>
 
-<table><caption><span class="styledeepred"><b>Sarvāntyarūpatā in Parāparā according to the Mātṛkā arrangement</b></span></caption>
+<table class="pv-chart"><caption><span class="styledeepred"><b>Sarvāntyarūpatā в Parāparā по строю Mātṛkā</b></span></caption>
 	<tbody>
 		<tr class="center middle">
-			<td class="bgyellowcommon cellborder3solid" colspan="3"><b>Śivatattva (category 1)</b></td>
+			<td class="bgyellowcommon cellborder3solid" colspan="3"><b>Śivatattva (категория 1)</b></td>
 		</tr>
 		<tr class="center middle cellborder1solid">
-			<td colspan="3"><span class="unicodesfontcomments">अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ अं अः</span> - a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ (vowels are always immutable)</td>
+			<td colspan="3"><span class="unicodesfontcomments">अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ अं अः</span> - a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ (гласные всегда неизменны)</td>
 		</tr>
 		<tr class="center middle">
-			<td class="bggreen99 cellborder1solid a15">Consonant assigned to a tattva</td>
-			<td class="bggreenverylight cellborder4solid a85">Respective tattva, which now absorbs the previous tattva within itself</td>
+			<td class="bggreen99 cellborder1solid a15">Согласный, приписанный таттве</td>
+			<td class="bggreenverylight cellborder4solid a85">Соответствующая таттва, которая теперь вбирает в себя предыдущую</td>
 		</tr>
 		<tr class="center middle">
-			<td class="cellborder1solid center middle styledeepred" colspan="2"><b>The circle of tattva-s and their letters comes from the bottom of the list</b></td>
+			<td class="cellborder1solid center middle styledeepred" colspan="2"><b>Круг таттв и их звуков приходит снизу списка</b></td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">क</span> - ka</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">शक्तिमयपृथिवी</span> - Śaktimayapṛthivī (Pṛthivī consisting of Śakti)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">शक्तिमयपृथिवी</span> - Śaktimayapṛthivī (Pṛthivī из Śakti)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ख</span> - kha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पृथिवीमयापस्</span> - Pṛthivīmayāpas (Āpas consisting of Pṛthivī)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पृथिवीमयापस्</span> - Pṛthivīmayāpas (Āpas из Pṛthivī)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ग</span> - ga</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">आपस्मयाग्नि</span> - Āpasmayāgni (Agni consisting of Āpas)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">आपस्मयाग्नि</span> - Āpasmayāgni (Agni из Āpas)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">घ</span> - gha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अग्निमयवायु</span> - Agnimayavāyu (Vāyu consisting of Agni)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अग्निमयवायु</span> - Agnimayavāyu (Vāyu из Agni)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ङ</span> - ṅa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">वायुमयाकाश</span> - Vāyumayākāśa (Ākāśa consisting of Vāyu)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">वायुमयाकाश</span> - Vāyumayākāśa (Ākāśa из Vāyu)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">च</span> - ca</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">आकाशमयगन्ध</span> - Ākāśamayagandha (Gandha consisting of Ākāśa)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">आकाशमयगन्ध</span> - Ākāśamayagandha (Gandha из Ākāśa)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">छ</span> - cha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">गन्धमयरस</span> - Gandhamayarasa (Rasa consisting of Gandha)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">गन्धमयरस</span> - Gandhamayarasa (Rasa из Gandha)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ज</span> - ja</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">रसमयरूप</span> - Rasamayarūpa (Rūpa consisting of Rasa)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">रसमयरूप</span> - Rasamayarūpa (Rūpa из Rasa)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">झ</span> - jha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">रूपमयस्पर्श</span> - Rūpamayasparśa (Sparśa consisting of Rūpa)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">रूपमयस्पर्श</span> - Rūpamayasparśa (Sparśa из Rūpa)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">स्पर्शमयशब्द</span> - Sparśamayaśabda (Śabda consisting of Sparśa)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">स्पर्शमयशब्द</span> - Sparśamayaśabda (Śabda из Sparśa)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ट</span> - ṭa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">शब्दमयोपस्थ</span> - Śabdamayopastha (Upastha consisting of Śabda)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">शब्दमयोपस्थ</span> - Śabdamayopastha (Upastha из Śabda)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ठ</span> - ṭha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">उपस्थमयपायु</span> - Upasthamayapāyu (Pāyu consisting of Upastha)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">उपस्थमयपायु</span> - Upasthamayapāyu (Pāyu из Upastha)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ड</span> - ḍa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पायुमयपाद</span> - Pāyumayapāda (Pāda consisting of Pāyu)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पायुमयपाद</span> - Pāyumayapāda (Pāda из Pāyu)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ढ</span> - ḍha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पादमयपाणि</span> - Pādamayapāṇi (Pāṇi consisting of Pāda)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पादमयपाणि</span> - Pādamayapāṇi (Pāṇi из Pāda)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ण</span> - ṇa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पाणिमयवाक्</span> - Pāṇimayavāk (Vāk consisting of Pāṇi)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पाणिमयवाक्</span> - Pāṇimayavāk (Vāk из Pāṇi)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">त</span> - ta</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">वाक्मयघ्राण</span> - Vākmayaghrāṇa (Ghrāṇa consisting of Vāk)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">वाक्मयघ्राण</span> - Vākmayaghrāṇa (Ghrāṇa из Vāk)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">थ</span> - tha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">घ्राणमयजिह्वा</span> - Ghrāṇamayajihvā (Jihvā consisting of Ghrāṇa)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">घ्राणमयजिह्वा</span> - Ghrāṇamayajihvā (Jihvā из Ghrāṇa)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">द</span> - da</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">जिह्वामयचक्षुस्</span> - Jihvāmayacakṣus (Cakṣus consisting of Jihvā)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">जिह्वामयचक्षुस्</span> - Jihvāmayacakṣus (Cakṣus из Jihvā)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ध</span> - dha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">चक्षुर्मयत्वक्</span> - Cakṣurmayatvak (Tvak consisting of Cakṣus)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">चक्षुर्मयत्वक्</span> - Cakṣurmayatvak (Tvak из Cakṣus)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">न</span> - na</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वग्मयश्रोत्र</span> - Tvagmayaśrotra (Śrotra consisting of Tvak)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वग्मयश्रोत्र</span> - Tvagmayaśrotra (Śrotra из Tvak)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">प</span> - pa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्रमयमनस्</span> - Śrotramayamanas (Manas consisting of Śrotra)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्रमयमनस्</span> - Śrotramayamanas (Manas из Śrotra)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">फ</span> - pha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">मनोमयाहङ्कार</span> - Manomayāhaṅkāra (Ahaṅkāra consisting of Manas)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">मनोमयाहङ्कार</span> - Manomayāhaṅkāra (Ahaṅkāra из Manas)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ब</span> - ba</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कारमयबुद्धि</span> - Ahaṅkāramayabuddhi (Buddhi consisting of Ahaṅkāra)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कारमयबुद्धि</span> - Ahaṅkāramayabuddhi (Buddhi из Ahaṅkāra)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धिमयप्रकृति</span> - Buddhimayaprakṛti (Prakṛti consisting of Buddhi)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धिमयप्रकृति</span> - Buddhimayaprakṛti (Prakṛti из Buddhi)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">म</span> - ma</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृतिमयपुरुष</span> - Prakṛtimayapuruṣa (Puruṣa consisting of Prakṛti)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृतिमयपुरुष</span> - Prakṛtimayapuruṣa (Puruṣa из Prakṛti)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">य</span> - ya</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुषमयराग</span> - Puruṣamayarāga (Rāga --which includes Niyati-- consisting of Puruṣa)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुषमयराग</span> - Puruṣamayarāga (Rāga, включающая Niyati, из Puruṣa)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">र</span> - ra</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">रागमयविद्या</span> - Rāgamayavidyā (Vidyā consisting of Rāga)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">रागमयविद्या</span> - Rāgamayavidyā (Vidyā из Rāga)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ल</span> - la</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्यामयकला</span> - Vidyāmayakalā (Kalā --which includes Kāla-- consisting of Vidyā)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्यामयकला</span> - Vidyāmayakalā (Kalā, включающая Kāla, из Vidyā)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">व</span> - va</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">कलामयमाया</span> - Kalāmayamāyā (Māyā consisting of Kalā)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">कलामयमाया</span> - Kalāmayamāyā (Māyā из Kalā)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">श</span> - śa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">मायामयमहामाया</span> - Māyāmayamahāmāyā (Mahāmāyā consisting of Māyā)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">मायामयमहामाया</span> - Māyāmayamahāmāyā (Mahāmāyā из Māyā)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ष</span> - ṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">महामायामयसद्विद्या</span> - Mahāmāyāmayasadvidyā (Sadvidyā consisting of Mahāmāyā)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">महामायामयसद्विद्या</span> - Mahāmāyāmayasadvidyā (Sadvidyā из Mahāmāyā)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">स</span> - sa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्यामयेश्वर</span> - Sadvidyāmayeśvara (Īśvara consisting of Sadvidyā)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्यामयेश्वर</span> - Sadvidyāmayeśvara (Īśvara из Sadvidyā)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ह</span> - ha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वरमयसदाशिव</span> - Īśvaramayasadāśiva (Sadāśiva consisting of Īśvara)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वरमयसदाशिव</span> - Īśvaramayasadāśiva (Sadāśiva из Īśvara)</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिवमयशक्ति</span> - Sadāśivamayaśakti (Śakti consisting of Sadāśiva)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिवमयशक्ति</span> - Sadāśivamayaśakti (Śakti из Sadāśiva)</td>
 		</tr>
 		<tr class="center middle styledeepred">
-			<td colspan="2"><b>The circle of tattva-s and their letters returns now to the top of the list</b></td>
+			<td colspan="2"><b>Круг таттв и их звуков возвращается теперь к началу списка</b></td>
 		</tr>
 	</tbody></table>
 
-<p class="pv-en" lang="en">Finally:</p>
+И наконец:
 
-<p class="pv-en" lang="en">**Chart 6<br />
-The remaining 34 letters of Mālinī <span class="pv-w">(viz. "gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha")</span> in the Aparā aspect of the Goddess <span class="pv-w">(i.e. in the speech level called Vaikharī)</span> and their respective reflections in Paśyantī <span class="pv-w">(within the Parāparā aspect of the Goddess in the Mātṛkā arrangement)</span>**</p>
+<p class="pv-tr" markdown="1">**Таблица 6<br />Остальные 34 звука Mālinī <span class="pv-w">(«gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha»)</span> в стороне Aparā Богини (то есть на уровне речи, зовущемся Vaikharī) и их отражения в Paśyantī (в стороне Parāparā Богини, по строю Mātṛkā)**</p>
 
-<table><caption><span class="styledeepred"><b>The last 34 letters of Mālinī in Aparā and their corresponding reflections in Paśyantī according to the Mātṛkā arrangement</b></span></caption>
+<table class="pv-chart"><caption><span class="styledeepred"><b>Последние 34 звука Mālinī в Aparā и их отражения в Paśyantī по строю Mātṛkā</b></span></caption>
 	<tbody>
 		<tr class="center middle">
-			<td class="bggreen99 cellborder1solid a15">Mālinī letter</td>
-			<td class="bggreenverylight cellborder4solid a30">Respective tattva (category)</td>
-			<td class="cellborder13 a10">Reflecting in Paśyantī</td>
-			<td class="bggreenverylight cellborder1solid a30">Respective tattva (category) and power (śakti)</td>
-			<td class="bggreen99 cellborder4solid a15">Mātṛkā letter</td>
+			<td class="bggreen99 cellborder1solid a15">Звук Mālinī</td>
+			<td class="bggreenverylight cellborder4solid a30">Соответствующая таттва (категория)</td>
+			<td class="cellborder13 a10">Отражается в Paśyantī</td>
+			<td class="bggreenverylight cellborder1solid a30">Соответствующая таттва (категория) и сила (śakti)</td>
+			<td class="bggreen99 cellborder4solid a15">Звук Mātṛkā</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">घ</span> - gha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (category 3)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (категория 3)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (category 33)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (категория 33)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">घ</span> - gha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ङ</span> - ṅa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (category 4)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (категория 4)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (category 32)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (категория 32)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ङ</span> - ṅa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">इ</span> - i</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (category 5)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (категория 5)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">इच्छाशक्ति</span> - Icchāśakti<br />
 			(Śiva&#39;s Power of Will)</td>
@@ -1171,112 +1165,112 @@ The remaining 34 letters of Mālinī <span class="pv-w">(viz. "gha ṅa i a va b
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">अ</span> - a</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (category 6)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">माया</span> - Māyā (категория 6)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शिव</span> - Śiva (category 1)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शिव</span> - Śiva (категория 1)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">अ</span> - a</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">व</span> - va</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">नियति</span> - Niyati (category 11)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">नियति</span> - Niyati (категория 11)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">माया</span> - Māyā (category 6)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">माया</span> - Māyā (категория 6)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">व</span> - va</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">काल</span> - Kāla (category 10)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">काल</span> - Kāla (категория 10)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (category 13)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (категория 13)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">भ</span> - bha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">य</span> - ya</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">राग</span> - Rāga (category 9)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">राग</span> - Rāga (категория 9)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">नियति</span> - Niyati (category 11)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">नियति</span> - Niyati (категория 11)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">य</span> - ya</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ड</span> - ḍa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (category 8)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (категория 8)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (category 24)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाद</span> - Pāda (категория 24)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ड</span> - ḍa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ढ</span> - ḍha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">कला</span> - Kalā (category 7)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">कला</span> - Kalā (категория 7)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (category 23)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (категория 23)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ढ</span> - ḍha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ठ</span> - ṭha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (category 12)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (category 25)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (категория 25)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ठ</span> - ṭha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">झ</span> - jha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (category 13)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">प्रकृति</span> - Prakṛti (категория 13)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (category 28)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (категория 28)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">झ</span> - jha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (category 14)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (category 27)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ज</span> - ja</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (category 15)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (категория 15)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (category 29)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (категория 29)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ज</span> - ja</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">र</span> - ra</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (category 16)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">मनस्</span> - Manas (категория 16)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (category 8)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">विद्या</span> - Vidyā (категория 8)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">र</span> - ra</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ट</span> - ṭa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (category 17)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">श्रोत्र</span> - Śrotra (категория 17)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (category 26)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (категория 26)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ट</span> - ṭa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">प</span> - pa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (category 18)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">त्वक्</span> - Tvak (категория 18)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">मनस्</span> - Manas (category 16)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">मनस्</span> - Manas (категория 16)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">प</span> - pa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">छ</span> - cha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (category 19)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (категория 19)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (category 30)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">रस</span> - Rasa (категория 30)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">छ</span> - cha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ल</span> - la</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (category 20)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">जिह्वा</span> - Jihvā (категория 20)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">कला</span> - Kalā (category 7)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">कला</span> - Kalā (категория 7)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ल</span> - la</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">आ</span> - ā</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (category 21)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (категория 21)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">आनन्दशक्ति</span> - Ānandaśakti<br />
 			(Śiva&#39;s Power of Bliss)</td>
@@ -1284,58 +1278,58 @@ The remaining 34 letters of Mālinī <span class="pv-w">(viz. "gha ṅa i a va b
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">स</span> - sa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (category 22)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">वाक्</span> - Vāk (категория 22)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (category 4)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">ईश्वर</span> - Īśvara (категория 4)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">स</span> - sa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">अः</span> - aḥ</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (category 23)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पाणि</span> - Pāṇi (категория 23)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">विसर्गशक्ति</span> - Visargaśakti<br />
-			(Emissional Power)</td>
+			(Сила Эмиссии)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">अः</span> - aḥ</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ह</span> - ha</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पाद</span> - Pāda (category 24)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पाद</span> - Pāda (категория 24)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (category 3)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">सदाशिव</span> - Sadāśiva (категория 3)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ह</span> - ha</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ष</span> - ṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (category 25)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (категория 25)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (category 5)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">सद्विद्या</span> - Sadvidyā (категория 5)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ष</span> - ṣa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (category 26)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">उपस्थ</span> - Upastha (категория 26)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">शक्ति</span> - Śakti (category 2)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">शक्ति</span> - Śakti (категория 2)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">म</span> - ma</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (category 27)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (category 12)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">म</span> - ma</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">श</span> - śa</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (category 28)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">स्पर्श</span> - Sparśa (категория 28)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">महामाया</span> - Mahāmāyā<br />
-			(between categories 5 and 6)</td>
+			(между категориями 5 и 6)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">श</span> - śa</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">अं</span> - aṁ</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (category 29)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">रूप</span> - Rūpa (категория 29)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">बैन्दवी शिवशक्तिः</span> - Baindavī śivaśaktiḥ<br />
 			(Śiva&#39;s power linked to Bindu)</td>
@@ -1343,62 +1337,62 @@ The remaining 34 letters of Mālinī <span class="pv-w">(viz. "gha ṅa i a va b
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">त</span> - ta</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">रस</span> - Rasa (category 30)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">रस</span> - Rasa (категория 30)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (category 21)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">घ्राण</span> - Ghrāṇa (категория 21)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">त</span> - ta</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ए</span> - e</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (category 31)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">गन्ध</span> - Gandha (категория 31)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">अस्फुटक्रियाशक्ति</span> - Asphuṭakriyāśakti<br />
-			(indistinct Power of Action)</td>
+			(неотчётливая Сила Действия)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ए</span> - e</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ऐ</span> - ai</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (category 32)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">आकाश</span> - Ākāśa (категория 32)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">स्फुटक्रियाशक्ति</span> - Sphuṭakriyāśakti<br />
-			(distinct Power of Action)</td>
+			(отчётливая Сила Действия)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ऐ</span> - ai</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ओ</span> - o</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (category 33)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">वायु</span> - Vāyu (категория 33)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">स्फुटतरक्रियाशक्ति</span> - Sphuṭatarakriyāśakti<br />
-			(more distinct Power of Action)</td>
+			(более отчётливая Сила Действия)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">ओ</span> - o</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">औ</span> - au</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (category 34)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">अग्नि</span> - Agni (категория 34)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">स्फुटतमक्रियाशक्ति </span>- Sphuṭatamakriyāśakti<br />
-			(most distinct Power of Action)</td>
+			(самая отчётливая Сила Действия)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">औ</span> - au</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">द</span> - da</td>
-			<td class="cellborder4solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (category 35)</td>
+			<td class="cellborder4solid"><span class="unicodesfontcomments">आपस्</span> - Āpas (категория 35)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td class="cellborder1solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (category 19)</td>
+			<td class="cellborder1solid"><span class="unicodesfontcomments">चक्षुस्</span> - Cakṣus (категория 19)</td>
 			<td class="cellborder4solid"><span class="unicodesfontgreen">द</span> - da</td>
 		</tr>
 		<tr class="center middle">
 			<td><span class="unicodesfontgreen">फ</span> - pha</td>
-			<td class="cellborder2solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (category 36)</td>
+			<td class="cellborder2solid"><span class="unicodesfontcomments">पृथिवी</span> - Pṛthivī (категория 36)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
-			<td><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (category 15)</td>
+			<td><span class="unicodesfontcomments">अहङ्कार</span> - Ahaṅkāra (категория 15)</td>
 			<td class="cellborder2solid"><span class="unicodesfontgreen">फ</span> - pha</td>
 		</tr>
 	</tbody></table>
 
-<p class="pv-en" lang="en">With my explanation, the first words of Abhinavagupta in this Part 4 have now become clearer, I guess.</p>
+С этим пояснением первые слова Абхинавагупты в части 4, надеюсь, стали яснее.
 
-<p class="pv-en" lang="en">**To be continued**</p>
+<p class="pv-tr" markdown="1">**Продолжение следует**</p>
 
 <p class="pv-pager">[← Строфы 5–8, часть 3](/ksh/pv/s5-8-3/) · [Строфы 5–8, часть 5 →](/ksh/pv/s5-8-5/)</p>
 

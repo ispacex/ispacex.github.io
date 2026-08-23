@@ -143,3 +143,14 @@ $table-border-color:    var(--table-border-color,$table-border-color);
   .pv-sa { color: #7fbf8f; }
   .pv-sa.pv-src { color: #e08b82; }
 }
+
+// Таблицы соответствий звуков и таттв — единственные во всём Parātrīśikāvivaraṇa.
+// Они широкие, поэтому прокручиваются внутри себя, а не растягивают страницу.
+.pv-chart {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+  font-size: .9em;
+}
+.pv-chart caption { font-weight: 600; padding-bottom: .5em; }
+.pv-chart td { padding: .25em .5em; }
