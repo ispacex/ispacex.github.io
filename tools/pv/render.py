@@ -62,7 +62,7 @@ def cut(span):
     # Запятая и тире, с которых начинается кусок, к подписи не относятся:
     # их место в строке, а не под ней.
     base = span[edge:]
-    edge += len(base) - len(base.lstrip(' \u00a0,;:—–-'))
+    edge += len(base) - len(base.lstrip(' \u00a0,;:—–-_'))
     return span[:edge], span[edge:]
 
 
@@ -73,17 +73,22 @@ def gloss(t):
     указателя поиска: `strip_html` оставляет от подстрочника ровно ту строку,
     что стояла до него.
     """
-    out, pos = [], 0
+    # `bar` — левая граница, за которую основа не заходит: за ней осталась
+    # скобка, которую мы не тронули. Затяни её в основу — и `_(…)_` разорвётся
+    # пополам: курсив открылся снаружи подстрочника, а закрылся внутри.
+    out, pos, bar = [], 0, 0
     for m in GLOSS.finditer(t):
-        if not is_sanskrit(m.group(1)):
-            continue          # русская скобка — часть строки, её не трогаем
+        ws = m.group(0)[:m.group(0).index('(')]
+        op = m.start() + len(ws)
         # `_(Bhairava)_` — не глосс, а вставка Габриэля: он подставляет слово,
         # которое в санскрите стоит местоимением. Подписывать ею нечего.
-        if t[m.start():m.start() + 1] == '_' and t[m.end():m.end() + 1] == '_':
+        insert = t[op - 1:op] == '_' and t[m.end():m.end() + 1] == '_'
+        if insert or not is_sanskrit(m.group(1)):
+            bar = m.end()     # русская скобка — часть строки, её не трогаем
             continue
-        keep, base = cut(t[pos:m.start()])
-        ws = m.group(0)[:m.group(0).index('(')]
-        pos = m.end()
+        keep, base = cut(t[bar:m.start()])
+        keep = t[pos:bar] + keep
+        pos = bar = m.end()
         if not WORD.search(base):
             # Подписывать нечего: два глосса подряд, начало абзаца, конец
             # авторской вставки. Оставляем скобку как была, вместе с пробелом
