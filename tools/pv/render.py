@@ -42,19 +42,23 @@ def markup(t):
 def para(t, cls=None, anchor=None):
     t = markup(t).replace('\n', '<br />\n')
     if cls:
-        return '<p class="%s"%s markdown="1">%s</p>' % (cls, ident(anchor), t)
+        return '<p class="%s"%s markdown="1">%s</p>' % (mark(cls, anchor), ident(anchor), t)
     # Обычный абзац разметки обёртки не имеет, и якорь ему ставится
     # блочным IAL — своего тега, к которому можно приписать id, у него нет.
-    return t + ('\n{: #%s}' % anchor if anchor else '')
+    return t + ('\n{: #%s .pv-anchor}' % anchor if anchor else '')
 
 def ident(anchor):
     return ' id="%s"' % anchor if anchor else ''
 
+def mark(cls, anchor):
+    """Класс якорного абзаца: по нему держится отступ от верха окна."""
+    return cls + ' pv-anchor' if anchor else cls
+
 def sanskrit(t, cls, anchor=None):
-    return '<p class="%s"%s lang="sa">%s</p>' % (cls, ident(anchor), t.replace('\n', '<br />\n'))
+    return '<p class="%s"%s lang="sa">%s</p>' % (mark(cls, anchor), ident(anchor), t.replace('\n', '<br />\n'))
 
 def iast(t, cls, anchor=None):
-    return '<p class="%s"%s>%s</p>' % (cls, ident(anchor), t.replace('\n', '<br />\n'))
+    return '<p class="%s"%s>%s</p>' % (mark(cls, anchor), ident(anchor), t.replace('\n', '<br />\n'))
 
 
 # Страница устроена одинаково: заголовок раздела, затем стена деванагари, за
@@ -168,8 +172,8 @@ def render(pid, slug, name, idx):
             if v is None:
                 # Ещё не переведено: показываем как у источника и помечаем, а не
                 # выдаём английский абзац за русский.
-                body.append('<p class="pv-en"%s lang="en">%s</p>'
-                            % (ident(a), markup(b['t']).replace('\n', '<br />\n')))
+                body.append('<p class="%s"%s lang="en">%s</p>'
+                            % (mark('pv-en', a), ident(a), markup(b['t']).replace('\n', '<br />\n')))
             else:
                 body.append(para(v, 'pv-tr' if b.get('c') else None, a))
         elif k == 'list':

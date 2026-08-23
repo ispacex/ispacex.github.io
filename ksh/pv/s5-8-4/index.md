@@ -30,7 +30,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 5–8 (четвёртая часть комментария) {#s2}
 
-<p class="pv-sa" id="s2-sa" lang="sa">(अ)</p>
+<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">(अ)</p>
 
 <p class="pv-sa" lang="sa">(१) श्रोत्रं नादात्मकभावरूपं योन्यात्म<br />
 (२) अमृताप्यायकारिबीजचतुष्काप्यायभूमौ पतितं बृंहतित्वमवाप्य<br />
@@ -134,7 +134,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <span class="pv-w">(A)</span>
 
-<p class="pv-iast" id="s2-iast">(1) Śrotraṁ nādātmakabhāvarūpaṁ yonyātma<br />
+<p class="pv-iast pv-anchor" id="s2-iast">(1) Śrotraṁ nādātmakabhāvarūpaṁ yonyātma<br />
 (2) Amṛtāpyāyakāribījacatuṣkāpyāyabhūmau patitaṁ bṛṁhatitvamavāpya<br />
 (3) Jhaṭiti grahaṇātmakarasatattvarasanāmayatvaṁ pratipadya<br />
 (4) Dharaṇyākāragandhaviśeṣībhūya<br />
@@ -233,7 +233,7 @@ Jñeyāḥ saptaikādaśārṇā ekārdhārṇadvayānvitāḥ|</p>
 <p class="pv-iast">ityādivacanāllaukikaśāstrāntarīyādivācyavācakānantyamapi saṅgṛhītam|...</p>
 
 _(Чтобы дать отдых утомлённому разуму читателя, поясню сперва два строя санскритского алфавита — Mātṛkā и Mālinī. С этим пояснением легче будет понять то, что Абхинавагупта вот-вот станет излагать. Строй **Mātṛkā** — обычный: гласные стоят отдельно от согласных, и те и другие в особом порядке (согласные — по месту образования: гортанные, нёбные и так далее): **гласные** «a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ», **согласные** «ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa». В строе **Mālinī** гласные и согласные перемешаны и, на первый взгляд, никакому порядку не подчинены: **первые 16 звуков, отнесённые к одним лишь Śiva и Śakti** — «na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga»; **остальные звуки, отнесённые к прочим таттвам** — «gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha». Держите под рукой и простую таблицу соответствия звуков и таттв в строе Mātṛkā — иначе в чаще дальнейших наставлений недолго и заблудиться. Ну, с этим коротким вступлением предмет, надеюсь, будет не так тёмен.)_
-{: #s2-ru}
+{: #s2-ru .pv-anchor}
 
 _[Теперь Абхинавагупта описывает названные первые шестнадцать звуков строя Mālinī (то есть na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga) с точки зрения «Parā», попутно сопоставляя их с их таттвическими местами в строе Mātṛkā — тоже в «Parā».]_
 

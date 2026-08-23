@@ -30,7 +30,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 3–4 (вторая часть комментария) {#s2}
 
-<p class="pv-sa" id="s2-sa" lang="sa">वस्तुतो हि शृणोति पश्यति वक्ति गृह्णाति इत्यादि भगवत्या एव रूपम्। यथोक्तम्</p>
+<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">वस्तुतो हि शृणोति पश्यति वक्ति गृह्णाति इत्यादि भगवत्या एव रूपम्। यथोक्तम्</p>
 
 <p class="pv-sa pv-c" lang="sa">येन रूपं रसं गन्धं स्पर्शशब्दौ च मैथुनम्।<br />
 एतेनैव विजानाति किमत्र परिशिष्यते॥</p>
@@ -66,7 +66,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इति।...</p>
 
-<p class="pv-iast" id="s2-iast">Vastuto hi śṛṇoti paśyati vakti gṛhṇāti ityādi bhagavatyā eva rūpam| Yathoktam</p>
+<p class="pv-iast pv-anchor" id="s2-iast">Vastuto hi śṛṇoti paśyati vakti gṛhṇāti ityādi bhagavatyā eva rūpam| Yathoktam</p>
 
 <p class="pv-iast pv-c">Yena rūpaṁ rasaṁ gandhaṁ sparśaśabdau ca maithunam|<br />
 Etenaiva vijānāti kimatra pariśiṣyate||</p>
@@ -103,7 +103,7 @@ Ato'smi loke vede ca prathitaḥ puruṣottamaḥ||</p>
 iti|…
 
 На деле <span class="pv-w">(vastutas)</span> природа <span class="pv-w">(rūpam)</span> Супруги Благословенного <span class="pv-w">(bhagavatyāḥ eva)</span> такова: «Она слышит <span class="pv-w">(śṛṇoti)</span>, видит <span class="pv-w">(paśyati)</span>, говорит <span class="pv-w">(vakti)</span>, берёт <span class="pv-w">(gṛhṇāti)</span> и так далее <span class="pv-w">(iti-ādi)</span>». Как <span class="pv-w">(yathā)</span> сказано <span class="pv-w">(uktam)</span> Высшим Господом <span class="pv-w">(parama-īśvareṇa)</span> в Веданте <span class="pv-w">(vedānte)</span>:
-{: #s2-ru}
+{: #s2-ru .pv-anchor}
 
 <p class="pv-tr" markdown="1">«Раз <span class="pv-w">(yena)</span> человек познаёт <span class="pv-w">(vijānāti)</span> форму <span class="pv-w">(rūpam)</span>, вкус <span class="pv-w">(rasam)</span>, запах <span class="pv-w">(gandham)</span>, прикосновение и звук <span class="pv-w">(sparśa-śabdau)</span> и <span class="pv-w">(ca)</span> наслаждение соития <span class="pv-w">(maithunam)</span> единственно <span class="pv-w">(eva)</span> Им <span class="pv-w">(etena)</span>, — что _(ещё)_ <span class="pv-w">(kim)</span> остаётся <span class="pv-w">(pariśiṣyate)</span> здесь, в этом мире (atra... iti), _(чего Он не знал бы)_?»</p>
 

@@ -30,7 +30,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 3–4 (третья часть комментария) {#s2}
 
-<p class="pv-sa" id="s2-sa" lang="sa">श्रीमालिनीतन्त्रेऽपि</p>
+<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">श्रीमालिनीतन्त्रेऽपि</p>
 
 <p class="pv-sa pv-c" lang="sa">एवं सर्वाणुसङ्घातमधिष्ठाय यथा स्थिता।<br />
 तथा ते कथिता शम्भोः शक्तिरेकैव शाङ्करी॥</p>
@@ -64,7 +64,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इति। प्रथमपर्यन्तभुवि पराभट्टारिकात्मनि तत्प्रसरात्मनि च परापरादेवतावपुष्यनुत्तरध्रुवपदविजृम्भैव तदाहुर्निजविवृतौ श्रीसोमानन्दपादाः — कथयामीत्युच्चारयाम्युत्कलिकात इति तथाहमेव सर्वस्यान्तश्चिद्रूपेण कथयामीति तदेवास्माभिर्युक्त्युपदेशसंस्कारैर्निर्मलय्य हृदयङ्गमीकृतम्। स्वरूपं चास्य परमेश्वरस्य सद्य इति — य एव च परमेश्वरो भैरवात्माकुलानुत्तरध्रुवधामतया — उक्तस्तदेवेदं सर्वं सत् — कौलिकविधिरूपं नहि प्रकाशविमर्शशुद्धभैरवस्वरूपातिरेकि किञ्चिद् भावानां सत्त्वम्। सत्तासम्बन्धार्थक्रियाकारित्वादीनामपि सत्ताहेतुता पराभिमतानामपि सत्तायोगे तथात्वानुपपत्तेः सत्त्वान्तरार्थक्रियान्तरयोगे चानवस्थापत्तेः पथमत एव तथा विमर्शजीवितप्रकाशमयत्वमेव सत्त्वं तच् च स्वातन्त्र्यविमर्शसाराहम्भावभरितमिति भैरवरूपमेव।...</p>
 
-<p class="pv-iast" id="s2-iast">Śrīmālinītantre'pi</p>
+<p class="pv-iast pv-anchor" id="s2-iast">Śrīmālinītantre'pi</p>
 
 <p class="pv-iast pv-c">Evaṁ sarvāṇusaṅghātamadhiṣṭhāya yathā sthitā|<br />
 Tathā te kathitā śambhoḥ śaktirekaiva śāṅkarī||</p>
@@ -102,7 +102,7 @@ Tasyānāvṛtarūpatvānna nirodho'sti kutracit||</p>
 
 _(Сказано)_ и <span class="pv-w">(api)</span> в досточтимой Mālinīvijayatantra <span class="pv-w">(śrī-mālinītantre)</span>:
 
-<p class="pv-tr" id="s2-ru" markdown="1">«Итак <span class="pv-w">(evam)</span>, как <span class="pv-w">(yathā)</span> Śāṅkarī <span class="pv-w">(śāṅkarī)</span>, единая <span class="pv-w">(ekā eva)</span> Сила <span class="pv-w">(śaktiḥ)</span> Śambhu <span class="pv-w">(śambhoḥ)</span>, пребывает <span class="pv-w">(sthitā)</span>, главенствуя <span class="pv-w">(adhiṣṭhāya)</span> над всем <span class="pv-w">(sarva)</span> сонмом <span class="pv-w">(saṅghātam)</span> aṇu — то есть слов в первом, втором и третьем лице — <span class="pv-w">(aṇu)</span>, так <span class="pv-w">(tathā)</span> Она тебе <span class="pv-w">(te)</span> и описана <span class="pv-w">(kathitā... iti)</span>».</p>
+<p class="pv-tr pv-anchor" id="s2-ru" markdown="1">«Итак <span class="pv-w">(evam)</span>, как <span class="pv-w">(yathā)</span> Śāṅkarī <span class="pv-w">(śāṅkarī)</span>, единая <span class="pv-w">(ekā eva)</span> Сила <span class="pv-w">(śaktiḥ)</span> Śambhu <span class="pv-w">(śambhoḥ)</span>, пребывает <span class="pv-w">(sthitā)</span>, главенствуя <span class="pv-w">(adhiṣṭhāya)</span> над всем <span class="pv-w">(sarva)</span> сонмом <span class="pv-w">(saṅghātam)</span> aṇu — то есть слов в первом, втором и третьем лице — <span class="pv-w">(aṇu)</span>, так <span class="pv-w">(tathā)</span> Она тебе <span class="pv-w">(te)</span> и описана <span class="pv-w">(kathitā... iti)</span>».</p>
 
 И <span class="pv-w">(api)</span> _(то же сказано)_ в досточтимой Tantrasamuccaya <span class="pv-w">(śrī-tantrasamuccaye)</span>:
 

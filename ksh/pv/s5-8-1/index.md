@@ -30,7 +30,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 5–8 (первая часть комментария) {#s2}
 
-<p class="pv-sa" id="s2-sa" lang="sa">तद्यथा</p>
+<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">तद्यथा</p>
 
 <p class="pv-sa pv-src pv-c" lang="sa">अथाद्यास्तिथयः सर्वे स्वरा बिन्द्ववसानगाः।<br />
 तदन्तः कालयोगेन सोमसूर्यौ प्रकीर्तितौ॥५॥</p>
@@ -97,7 +97,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इति। एवं स्वात्मन्येव प्रभास्वरे प्रकाशनेन ध्रियमाणान् भावान् धारयति स्वयमप्रकासीभावेन — जडतास्वभावेदम्भावास्पदताप्रापणेन प्रकाशयति परमेश्वर एव पुनरप्यहम्भावेनैवाच्छादयति। तदियं भगवत्सदाशिवेशदशा शुद्धविद्यामय्येकेन णिचा ध्वनिता तत्रापि च यद् इदन्ताया अहन्तया आच्छादनं तदाच्छादनीयेदन्तोपपत्तावुपपद्यते न च शुद्धपरमेश्वरचिन्मयरूपापेक्षं भिन्नप्रथात्मकमिदन्ताख्यं रूपमुपपद्यते — इत्याच्छादनीयानुपपत्तौ तद्वशेन तदाच्छादकताप्यहम्भावस्य नोपपन्ना इति तथाविधेश्वरबोधानुपपत्तिस्तदनुपपत्तौ च न किञ्चिद् भासेत — कारणाभावादित्युक्तमसकृत्। भासते चेदम्। तद्भासाव्यतिरेकरहितमपि परमेश्वरशक्तित एव बहिः प्रथते — कारणान्तरासम्भवात्। स्वसंविदि च संविद एव सर्वमयत्वप्रथनात्। तदेवं स्वात्मरूपं जगद्भेदेन भासमानं प्रकाशात्मन्येवाहमात्मनि भासते सामानाधिकरण्येन। इतीयतैतावद् अवश्यमेवाक्षिप्तं — यद् ईश्वर एव कस्यापि वेदितुर्भिन्नान् वेद्यान् अहन्तया पश्यति। यश्चासौ कोऽपि वेदयिता सोऽपि भासनात्स्वात्ममय एव — इति स्वात्मनि तथाविधाः शक्तीरधिशेते याभिरसौ तदैव भिन्नवेद्यवेदकीभावमुपाश्नुवीत।...</p>
 
-<p class="pv-iast" id="s2-iast">Tadyathā</p>
+<p class="pv-iast pv-anchor" id="s2-iast">Tadyathā</p>
 
 <p class="pv-iast pv-c">Athādyāstithayaḥ sarve svarā bindvavasānagāḥ|<br />
 Tadantaḥ kālayogena somasūryau prakīrtitau||5||</p>
@@ -166,7 +166,7 @@ Aniruddhecchāprasaraḥ prasaraddṛkkriyaḥ śivaḥ||</p>
 
 <p class="pv-iast">Namely (tad-yathā):</p>
 
-<p class="pv-tr" id="s2-ru" markdown="1">Итак <span class="pv-w">(atha)</span>, пятнадцать <span class="pv-w">(tithayaḥ)</span>, то есть начинающиеся с «a» <span class="pv-w">(a-ādyāḥ)</span>, _(суть)_ все <span class="pv-w">(sarve)</span> гласные <span class="pv-w">(svarāḥ)</span>, оканчивающиеся <span class="pv-w">(avasānagāḥ)</span> точкой — Anusvāra <span class="pv-w">(bindu)</span>. В конце <span class="pv-w">(antaḥ)</span> Того — Anuttara, являющегося как пятнадцать гласных — <span class="pv-w">(tad)</span>, луной и солнцем — Visarga — <span class="pv-w">(soma-sūryau)</span> названы <span class="pv-w">(prakīrtitau)</span> через связь <span class="pv-w">(yogena)</span> с _(тонкой)_ Силой Действия <span class="pv-w">(kāla)</span>||5||</p>
+<p class="pv-tr pv-anchor" id="s2-ru" markdown="1">Итак <span class="pv-w">(atha)</span>, пятнадцать <span class="pv-w">(tithayaḥ)</span>, то есть начинающиеся с «a» <span class="pv-w">(a-ādyāḥ)</span>, _(суть)_ все <span class="pv-w">(sarve)</span> гласные <span class="pv-w">(svarāḥ)</span>, оканчивающиеся <span class="pv-w">(avasānagāḥ)</span> точкой — Anusvāra <span class="pv-w">(bindu)</span>. В конце <span class="pv-w">(antaḥ)</span> Того — Anuttara, являющегося как пятнадцать гласных — <span class="pv-w">(tad)</span>, луной и солнцем — Visarga — <span class="pv-w">(soma-sūryau)</span> названы <span class="pv-w">(prakīrtitau)</span> через связь <span class="pv-w">(yogena)</span> с _(тонкой)_ Силой Действия <span class="pv-w">(kāla)</span>||5||</p>
 
 <p class="pv-tr" markdown="1">О многодобродетельная <span class="pv-w">(su-vrate)</span>, категории <span class="pv-w">(tattvāni)</span>, начиная с <span class="pv-w">(ādīni)</span> Pṛthivī — стихии земли, категории 36 — <span class="pv-w">(pṛthivī)</span> _(и)_ кончая <span class="pv-w">(antāni)</span> Puruṣa — отдельной душой, категорией 12 — <span class="pv-w">(puruṣa)</span>, _(размещены)_ по порядку <span class="pv-w">(kramāt)</span> в пяти varga, рядах <span class="pv-w">(pañcasu... vargeṣu)</span>, начиная с <span class="pv-w">(ādiṣu)</span> «ka» <span class="pv-w">(ka)</span> _(и)_ кончая <span class="pv-w">(anteṣu)</span> звуком <span class="pv-w">(kāra)</span> «ma» <span class="pv-w">(ma)</span>||6||</p>
 

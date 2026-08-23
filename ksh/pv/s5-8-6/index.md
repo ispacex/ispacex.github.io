@@ -30,7 +30,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 5–8 (шестая часть комментария) {#s2}
 
-<p class="pv-sa" id="s2-sa" lang="sa">अन्यदा तु योग्यतयैव तथाव्यपदेशस्ततश्च तत् कुसुममेव त्रिकोणतया योनिरूपं तत्स्फुटीभूतविभक्तग्राह्यादिरूपसोमसूर्याग्निसृष्टिस्थितिसंहृतीडापिङ्गलासुषुम्णाधर्माधर्मशबलादिकोणत्रितया पारमेश्वरी भैरवी भट्टारिका मुद्रा तद्रूपयोन्याधारतया योनिरिति निर्दिष्टा। तथा च श्रीकुब्जिकामते खण्डचक्रविचारेऽमुमेवार्थं प्रधानतयाधिकृत्यादिष्टम्</p>
+<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">अन्यदा तु योग्यतयैव तथाव्यपदेशस्ततश्च तत् कुसुममेव त्रिकोणतया योनिरूपं तत्स्फुटीभूतविभक्तग्राह्यादिरूपसोमसूर्याग्निसृष्टिस्थितिसंहृतीडापिङ्गलासुषुम्णाधर्माधर्मशबलादिकोणत्रितया पारमेश्वरी भैरवी भट्टारिका मुद्रा तद्रूपयोन्याधारतया योनिरिति निर्दिष्टा। तथा च श्रीकुब्जिकामते खण्डचक्रविचारेऽमुमेवार्थं प्रधानतयाधिकृत्यादिष्टम्</p>
 
 <p class="pv-sa pv-c" lang="sa">मायोपरि महामाया त्रिकोणानन्दरूपिणी।</p>
 
@@ -84,7 +84,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">इति। इह तु पञ्चाशद्वर्णा विश्वमपि वा अक्रममेकमेव। क्वचित्तु मतादिशास्त्रेषु विसर्गविश्लेषस्यैवानुत्तरपदसत्तालम्बनेनाष्टादशी कला इत्यभ्युपगमः। तदेद्वमेताः कला एव ह्लादनामात्रचित्तवृत्त्यनुभावकाः स्वरा इत्युक्ताः। स्वरयन्ति शब्दयन्ति सूचयन्ति चित्तं स्वं च स्वरूपात्मानं रान्ति।...</p>
 
-<p class="pv-iast" id="s2-iast">Anyadā tu yogyatayaiva tathāvyapadeśastataśca tat kusumameva trikoṇatayā yonirūpaṁ tatsphuṭībhūtavibhaktagrāhyādirūpasomasūryāgnisṛṣṭisthitisaṁhṛtīḍāpiṅgalāsuṣumṇādharmādharmaśabalādikoṇatritayā pārameśvarī bhairavī bhaṭṭārikā mudrā tadrūpayonyādhāratayā yoniriti nirdiṣṭā| Tathā ca śrīkubjikāmate khaṇḍacakravicāre'mumevārthaṁ pradhānatayādhikṛtyādiṣṭam</p>
+<p class="pv-iast pv-anchor" id="s2-iast">Anyadā tu yogyatayaiva tathāvyapadeśastataśca tat kusumameva trikoṇatayā yonirūpaṁ tatsphuṭībhūtavibhaktagrāhyādirūpasomasūryāgnisṛṣṭisthitisaṁhṛtīḍāpiṅgalāsuṣumṇādharmādharmaśabalādikoṇatritayā pārameśvarī bhairavī bhaṭṭārikā mudrā tadrūpayonyādhāratayā yoniriti nirdiṣṭā| Tathā ca śrīkubjikāmate khaṇḍacakravicāre'mumevārthaṁ pradhānatayādhikṛtyādiṣṭam</p>
 
 <p class="pv-iast pv-c">Māyopari mahāmāyā trikoṇānandarūpiṇī|</p>
 
@@ -139,7 +139,7 @@ Brahmāṇḍādapi nairguṇyaguṇāya sthāṇave namaḥ||</p>
 <p class="pv-iast">iti| Iha tu pañcāśadvarṇā viśvamapi vā akramamekameva| Kvacittu matādiśāstreṣu visargaviśleṣasyaivānuttarapadasattālambanenāṣṭādaśī kalā ityabhyupagamaḥ| Tadedvametāḥ kalā eva hlādanāmātracittavṛttyanubhāvakāḥ svarā ityuktāḥ| Svarayanti śabdayanti sūcayanti cittaṁ svaṁ ca svarūpātmānaṁ rānti|...</p>
 
 Но <span class="pv-w">(tu)</span> в другом случае <span class="pv-w">(anyadā)</span>, поскольку у Неё есть пригодность <span class="pv-w">(yogyatayā eva)</span> _(смешаться с семенем Śiva и породить вселенную, к Ней и прилагается)_ такое наименование <span class="pv-w">(tathā-vyapadeśaḥ)</span> — «yoni», лоно. Поэтому (tatas ca) это <span class="pv-w">(tad)</span> «kusuma» — красное месячное истечение — (kusumam eva), будучи трёхугольным <span class="pv-w">(trikoṇatayā)</span>, и есть yoni, лоно, то есть согласный <span class="pv-w">(yoni-rūpam)</span>. Супруга Bhairava <span class="pv-w">(bhairavī)</span>, Владычица Высшего Господа <span class="pv-w">(pārama-īśvarī)</span>, будучи треугольником <span class="pv-w">(koṇa-tritayā)</span>, _(составленным из)_ _**(1)**_ луны <span class="pv-w">(soma)</span>, солнца <span class="pv-w">(sūrya)</span> и огня <span class="pv-w">(agni)</span>; _**(2)**_ проявления <span class="pv-w">(sṛṣṭi)</span>, удержания <span class="pv-w">(sthiti)</span> и втягивания <span class="pv-w">(saṁhṛti)</span>; _**(3)**_ iḍā <span class="pv-w">(iḍā)</span>, piṅgalā <span class="pv-w">(piṅgalā)</span> и suṣumṇā <span class="pv-w">(suṣumṇā)</span>; _**(4)**_ dharma, праведности <span class="pv-w">(dharma)</span>, adharma, неправедности <span class="pv-w">(adharma)</span>, и śabala, букв. «смешанного», то есть смеси dharma и adharma <span class="pv-w">(śabala)</span>, и прочего <span class="pv-w">(ādi)</span>, — чей облик <span class="pv-w">(rūpa)</span> есть познаваемое <span class="pv-w">(grāhya)</span> и прочее <span class="pv-w">(ādi)</span>, то есть познаваемое, знание-средство знания и познающий, — _(и которые)_ разделены и ясно показаны <span class="pv-w">(sphuṭī-bhūta-vibhakta)</span> этим <span class="pv-w">(tad)</span>, — _(становится)_ досточтимейшей <span class="pv-w">(bhaṭṭārikā)</span> _(шестиугольной)_ «mudrā» <span class="pv-w">(mudrā)</span>, _(когда троичная Богиня встречается с троичным Богом. И Она,)_ будучи опорою и седалищем <span class="pv-w">(yoni-ādhāratayā)</span> этого <span class="pv-w">(tad)</span> облика — шестиугольной «mudrā» — <span class="pv-w">(rūpa)</span>, _(соответственно и)_ обозначена <span class="pv-w">(nirdiṣṭā)</span> как yoni, лоно <span class="pv-w">(yoniḥ iti)</span>.
-{: #s2-ru}
+{: #s2-ru .pv-anchor}
 
 Соответственно <span class="pv-w">(tathā ca)</span>, в досточтимой Kubjikāmata <span class="pv-w">(śrī-kubjikāmate)</span> — _(а именно)_ в _(главе о)_ «khaṇḍacakravicāra» <span class="pv-w">(khaṇḍa-cakra-vicāre)</span>, — обратившись <span class="pv-w">(adhikṛtya)</span> главным образом <span class="pv-w">(pradhānatayā)</span> к этому предмету (amum eva artham), сказано <span class="pv-w">(ādiṣṭam)</span> _(следующее:)_
 

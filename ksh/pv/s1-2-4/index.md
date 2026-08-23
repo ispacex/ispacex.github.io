@@ -32,7 +32,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфа 1 (четвёртая часть комментария) {#s2}
 
-<p class="pv-sa" id="s2-sa" lang="sa">शिवो हि परवाङ्मयमहामन्त्रवीर्यविसृष्टिमयः परमेश्वरीविसृष्ट्या तद्वीर्यघनतात्मकप्रसूननिर्भरया सृष्ट्या युज्यते तथा हि सर्वेषामन्तर्बहिष्करणानां यद्यद् अनुप्रविशति तत्तन् मध्यनाडीभुवि सर्वाङ्गानुप्राणनसारायां प्राणात्मना चेतनरूपेणास्ते यद् ओज इति कथ्यते। तदेव सर्वाङ्गेष्वनुप्राणकतया तदविभक्तवीर्यरूपत्वेन ततोऽपि पुनरपि नयनश्रवणादीन्द्रियद्वारेण बृंहकरूपं रूपशब्दाद्यनुप्रविशद्बृहकत्वादेव तद् वीर्यक्षोभरूपकामानलप्रबोधकं भवति। कथोक्तम्</p>
+<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">शिवो हि परवाङ्मयमहामन्त्रवीर्यविसृष्टिमयः परमेश्वरीविसृष्ट्या तद्वीर्यघनतात्मकप्रसूननिर्भरया सृष्ट्या युज्यते तथा हि सर्वेषामन्तर्बहिष्करणानां यद्यद् अनुप्रविशति तत्तन् मध्यनाडीभुवि सर्वाङ्गानुप्राणनसारायां प्राणात्मना चेतनरूपेणास्ते यद् ओज इति कथ्यते। तदेव सर्वाङ्गेष्वनुप्राणकतया तदविभक्तवीर्यरूपत्वेन ततोऽपि पुनरपि नयनश्रवणादीन्द्रियद्वारेण बृंहकरूपं रूपशब्दाद्यनुप्रविशद्बृहकत्वादेव तद् वीर्यक्षोभरूपकामानलप्रबोधकं भवति। कथोक्तम्</p>
 
 <p class="pv-sa pv-c" lang="sa">आलापाद्गात्रसंस्पर्शात्...॥</p>
 
@@ -79,7 +79,7 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 <p class="pv-sa" lang="sa">तदलममुना त्रिकशास्त्ररहस्योपदेशकथातिप्रस्तावेन। तदिदमनुत्तरं कौलिकसिद्धिदं येन ज्ञातमात्रेण खेचरीसाम्यमुक्तनयेन॥१॥</p>
 
-<p class="pv-iast" id="s2-iast">Śivo hi paravāṅmayamahāmantravīryavisṛṣṭimayaḥ parameśvarīvisṛṣṭyā tadvīryaghanatātmakaprasūnanirbharayā sṛṣṭyā yujyate tathā hi sarveṣāmantarbahiṣkaraṇānāṁ yadyad anupraviśati tattan madhyanāḍībhuvi sarvāṅgānuprāṇanasārāyāṁ prāṇātmanā cetanarūpeṇāste yad oja iti kathyate| Tadeva sarvāṅgeṣvanuprāṇakatayā tadavibhaktavīryarūpatvena tato'pi punarapi nayanaśravaṇādīndriyadvāreṇa bṛṁhakarūpaṁ rūpaśabdādyanupraviśadbṛhakatvādeva tad vīryakṣobharūpakāmānalaprabodhakaṁ bhavati| Kathoktam</p>
+<p class="pv-iast pv-anchor" id="s2-iast">Śivo hi paravāṅmayamahāmantravīryavisṛṣṭimayaḥ parameśvarīvisṛṣṭyā tadvīryaghanatātmakaprasūnanirbharayā sṛṣṭyā yujyate tathā hi sarveṣāmantarbahiṣkaraṇānāṁ yadyad anupraviśati tattan madhyanāḍībhuvi sarvāṅgānuprāṇanasārāyāṁ prāṇātmanā cetanarūpeṇāste yad oja iti kathyate| Tadeva sarvāṅgeṣvanuprāṇakatayā tadavibhaktavīryarūpatvena tato'pi punarapi nayanaśravaṇādīndriyadvāreṇa bṛṁhakarūpaṁ rūpaśabdādyanupraviśadbṛhakatvādeva tad vīryakṣobharūpakāmānalaprabodhakaṁ bhavati| Kathoktam</p>
 
 <p class="pv-iast pv-c">Ālāpādgātrasaṁsparśāt...||</p>
 
@@ -127,7 +127,7 @@ iti|
 <p class="pv-iast">Tadalamamunā trikaśāstrarahasyopadeśakathātiprastāvena| Tadidamanuttaraṁ kaulikasiddhidaṁ yena jñātamātreṇa khecarīsāmyamuktanayena||1||</p>
 
 Śiva <span class="pv-w">(śivaḥ)</span> и впрямь <span class="pv-w">(hi)</span>, исполненный <span class="pv-w">(mayaḥ)</span> разворачивающего творчества — букв. эмиссии, творения и прочего — <span class="pv-w">(visṛṣṭi)</span> мощью <span class="pv-w">(vīrya)</span> Великой Мантры <span class="pv-w">(mahā-mantra)</span>, состоящей <span class="pv-w">(maya)</span> из Высшей <span class="pv-w">(para)</span> Речи <span class="pv-w">(vāk)</span>, то есть из «Aham», «Я», — творя, то есть проявляя <span class="pv-w">(visṛṣṭyā)</span> через Высшую <span class="pv-w">(parama)</span> Владычицу <span class="pv-w">(īśvarī)</span>, то есть Śakti, исполненную <span class="pv-w">(nirbharayā)</span> бутонов <span class="pv-w">(prasūna)</span>, составленных <span class="pv-w">(ātmaka)</span> из плотности <span class="pv-w">(ghanatā)</span> Её <span class="pv-w">(tad)</span> Мощи <span class="pv-w">(vīrya)</span>, — принимается <span class="pv-w">(yujyate)</span> разворачивать проявление <span class="pv-w">(sṛṣṭyā)</span>. А именно <span class="pv-w">(tathā hi)</span>: что бы (yad yad) ни вошло <span class="pv-w">(anupraviśati)</span> в силы восприятия и действия — Jñānendriya и Karmendriya — <span class="pv-w">(antar bahis-karaṇānām)</span> кого бы то ни было <span class="pv-w">(sarveṣām)</span>, всё это (tad tad) пребывает <span class="pv-w">(āste)</span> как одушевлённая жизненная энергия <span class="pv-w">(prāṇa-ātmanā cetana-rūpeṇa)</span> на ступени <span class="pv-w">(bhuvi)</span> срединного <span class="pv-w">(madhya)</span> тонкого канала <span class="pv-w">(nāḍī)</span> — то есть в Suṣumnā, — чья суть <span class="pv-w">(sārāyām)</span> — оживлять <span class="pv-w">(anuprāṇana)</span> всё <span class="pv-w">(sarva)</span> тело <span class="pv-w">(aṅga)</span>. _(И)_ это _(одушевлённая жизненная энергия)_ <span class="pv-w">(yad)</span> зовётся <span class="pv-w">(kathyate)</span> «ojas» — букв. живительная сила (ojas iti).
-{: #s2-ru}
+{: #s2-ru .pv-anchor}
 
 Этот самый _(«ojas»)_ (tad eva) _(расходится)_ по всем членам тела <span class="pv-w">(sarva-aṅgeṣu)</span> как оживляющее начало <span class="pv-w">(anuprāṇakatayā)</span> в виде <span class="pv-w">(rūpatvena)</span> «vīrya», семенной силы <span class="pv-w">(vīrya)</span>, которая от него — от _<span class="pv-w">(ojas)</span>_ — неотделима (avibhakta... tad). С другой стороны (punar api), затем (tatas api) форма, звук и прочее <span class="pv-w">(rūpa-śabda-ādi)</span>, действуя как питание <span class="pv-w">(bṛṁhaka-rūpam)</span>, входят <span class="pv-w">(anupraviśat)</span> через двери <span class="pv-w">(dvāreṇa)</span> «indriya» <span class="pv-w">(indriya)</span> — _(таких как)_ зрение <span class="pv-w">(nayana)</span>, слух <span class="pv-w">(śravaṇa)</span> и прочие <span class="pv-w">(ādi)</span>, — _(и)_ поскольку это питает <span class="pv-w">(bṛhakatvāt eva)</span>, оно <span class="pv-w">(tad)</span> пробуждает (prabodhakam bhavati) огонь страсти <span class="pv-w">(kāma-anala)</span> в виде возмущения <span class="pv-w">(kṣobha-rūpa)</span> этой _<span class="pv-w">(«vīrya»)</span>_ <span class="pv-w">(vīrya)</span>.
 
@@ -207,7 +207,7 @@ iti|
 
 ## Строфа 1½ {#s3}
 
-<p class="pv-sa pv-src pv-c" id="s3-sa" lang="sa">एतद्गुह्यं महागुह्यं कथयस्व मम प्रभो।</p>
+<p class="pv-sa pv-src pv-c pv-anchor" id="s3-sa" lang="sa">एतद्गुह्यं महागुह्यं कथयस्व मम प्रभो।</p>
 
 <p class="pv-sa" lang="sa">गुह्यमप्रकटत्वाद्यतो गुहायां मायायां स्वरूपापरिज्ञानमय्यां स्थितमप्यप्रकटं। अथ च महद् अगुह्यं सर्वस्यैवंविधचमत्कारमयत्वात्। मातृमानमेयमयभेदाविभागशालिनी भगवती शुद्धविद्यैव त्रिकोणा मायायामतिशयप्रतिफलितभेदावग्रहा भवतीति मायापि जगज्जननभूर्विद्यैव वस्तुतस्तद् उक्तेन नयेन सैवम्भूतत्वेनापरिज्ञायमानत्वादभेदमाहात्म्यतिरोहिततत्प्रमात्रादिकोणत्रयत्वान्महागुहेत्युच्यते सैव च वस्तुतः पूजाधाम त्रिशूलं त्रिकार्थे। तदुक्तम्</p>
 
@@ -251,7 +251,7 @@ iti|
 
 <p class="pv-sa" lang="sa">इति। शोभनेन द्वैतकलङ्काङ्कनाकालुष्यलेशशून्येनामेन परमार्थोपदेशाद्वयात्मना ज्ञानेन मानमवबोधो यस्य स्वप्रकाशैकरूपत्वात्। अमतीत्यमा। अमेत्यविद्यमानं मा मानं निषेधश्च नित्योदितत्वात्संहारश्च यत्र नास्ति सा भगवत्यमेत्युच्यते। सा शोभना सततोदिता यत्र। मायायां प्रमाणप्रमेयव्यवहृतौ सा तादृश्यमा यस्येति बहुव्रीह्यन्तरो बहुव्रीहिः। परमेश्वरो हि प्रमाणादिव्यवहारेऽपि परशक्तिमय एव सर्वथा अद्वैतरूपत्वात्। तस्यामन्त्रणमात्मन एव॥१ १/२॥</p>
 
-<p class="pv-iast pv-c" id="s3-iast">Etadguhyaṁ mahāguhyaṁ kathayasva mama prabho|</p>
+<p class="pv-iast pv-c pv-anchor" id="s3-iast">Etadguhyaṁ mahāguhyaṁ kathayasva mama prabho|</p>
 
 <p class="pv-iast">Guhyamaprakaṭatvādyato guhāyāṁ māyāyāṁ svarūpāparijñānamayyāṁ sthitamapyaprakaṭaṁ| Atha ca mahad aguhyaṁ sarvasyaivaṁvidhacamatkāramayatvāt| Mātṛmānameyamayabhedāvibhāgaśālinī bhagavatī śuddhavidyaiva trikoṇā māyāyāmatiśayapratiphalitabhedāvagrahā bhavatīti māyāpi jagajjananabhūrvidyaiva vastutastad uktena nayena saivambhūtatvenāparijñāyamānatvādabhedamāhātmyatirohitatatpramātrādikoṇatrayatvānmahāguhetyucyate saiva ca vastutaḥ pūjādhāma triśūlaṁ trikārthe| Taduktam</p>
 
@@ -295,7 +295,7 @@ Tanna kiñcana mamāsmi sarvamityuddhurāṁ dhuramupeyivānaham||</p>
 
 <p class="pv-iast">iti| Śobhanena dvaitakalaṅkāṅkanākāluṣyaleśaśūnyenāmena paramārthopadeśādvayātmanā jñānena mānamavabodho yasya svaprakāśaikarūpatvāt| Amatītyamā| Ametyavidyamānaṁ mā mānaṁ niṣedhaśca nityoditatvātsaṁhāraśca yatra nāsti sā bhagavatyametyucyate| Sā śobhanā satatoditā yatra| Māyāyāṁ pramāṇaprameyavyavahṛtau sā tādṛśyamā yasyeti bahuvrīhyantaro bahuvrīhiḥ| Parameśvaro hi pramāṇādivyavahāre'pi paraśaktimaya eva sarvathā advaitarūpatvāt| Tasyāmantraṇamātmana eva||1 ½||</p>
 
-<p class="pv-tr" id="s3-ru" markdown="1">О Господь мой (mama prabho)! Поведай <span class="pv-w">(kathayasva)</span> об Этом <span class="pv-w">(etad)</span>, что, _(будучи)_ весьма <span class="pv-w">(mahā)</span> неутаённым <span class="pv-w">(aguhyam)</span>, _(остаётся всё же)_ тайной <span class="pv-w">(guhyam)</span>|</p>
+<p class="pv-tr pv-anchor" id="s3-ru" markdown="1">О Господь мой (mama prabho)! Поведай <span class="pv-w">(kathayasva)</span> об Этом <span class="pv-w">(etad)</span>, что, _(будучи)_ весьма <span class="pv-w">(mahā)</span> неутаённым <span class="pv-w">(aguhyam)</span>, _(остаётся всё же)_ тайной <span class="pv-w">(guhyam)</span>|</p>
 
 _(Это)_ тайна <span class="pv-w">(guhyam)</span> потому, что не явлено <span class="pv-w">(aprakaṭatvāt)</span>. Ибо <span class="pv-w">(yatas)</span>, хотя <span class="pv-w">(api)</span> Оно и пребывает <span class="pv-w">(sthitam)</span> в Пещере <span class="pv-w">(guhāyām)</span>, _(зовущейся)_ Māyā <span class="pv-w">(māyāyām)</span>, которая полна <span class="pv-w">(mayyām)</span> незнания <span class="pv-w">(aparijñāna)</span> собственной сущностной природы <span class="pv-w">(sva-rūpa)</span>, — оно не явлено <span class="pv-w">(aprakaṭam)</span>.
 
@@ -403,7 +403,7 @@ _(Соответственно,)_ обращение <span class="pv-w">(āmantr
 
 ## Строфа 2 {#s4}
 
-<p class="pv-sa" id="s4-sa" lang="sa">इदमेवं सार्धश्लोकनिरूपितानन्तप्रश्नतात्पर्यसङ्ग्रहेणैतदुक्तं भवतीति निर्णेतुं निरूप्यते</p>
+<p class="pv-sa pv-anchor" id="s4-sa" lang="sa">इदमेवं सार्धश्लोकनिरूपितानन्तप्रश्नतात्पर्यसङ्ग्रहेणैतदुक्तं भवतीति निर्णेतुं निरूप्यते</p>
 
 <p class="pv-sa pv-src pv-c" lang="sa">हृदयस्था तु या शक्तिः कौलिकी कुलनायिका।<br />
 तां मे कथय देवेश येन तृप्तिं लभाम्यहम्॥२॥</p>
@@ -428,7 +428,7 @@ _(Соответственно,)_ обращение <span class="pv-w">(āmantr
 
 <p class="pv-sa" lang="sa">॥२॥</p>
 
-<p class="pv-iast" id="s4-iast">Idamevaṁ sārdhaślokanirūpitānantapraśnatātparyasaṅgraheṇaitaduktaṁ bhavatīti nirṇetuṁ nirūpyate</p>
+<p class="pv-iast pv-anchor" id="s4-iast">Idamevaṁ sārdhaślokanirūpitānantapraśnatātparyasaṅgraheṇaitaduktaṁ bhavatīti nirṇetuṁ nirūpyate</p>
 
 <p class="pv-iast pv-c">Hṛdayasthā tu yā śaktiḥ kaulikī kulanāyikā|<br />
 Tāṁ me kathaya deveśa yena tṛptiṁ labhāmyaham||2||</p>
@@ -452,7 +452,7 @@ Pravartante'dhikārāya karaṇānīva dehinām||</p>
 Hṛdayagaganagranthiṁ teṣāṁ vidārayituṁ haṭhādabhinava imāṁ praśnavyākhyāṁ vyadhāttrikatattvagām||</p>
 
 Итак <span class="pv-w">(evam)</span>, теперь <span class="pv-w">(idam)</span>, собирая <span class="pv-w">(saṅgraheṇa)</span> смыслы <span class="pv-w">(tātparya)</span> бесконечных <span class="pv-w">(ananta)</span> вопросов <span class="pv-w">(praśna)</span>, рассмотренных <span class="pv-w">(nirūpita)</span> в полутора строфах <span class="pv-w">(sa-ardha-śloka)</span>, сказано (bhavati... uktam) вот что _(в строфе 2)_ <span class="pv-w">(etad)</span>. Итак <span class="pv-w">(iti)</span>, _(вторая строфа)_ ставится <span class="pv-w">(nirūpyate)</span> к разбору <span class="pv-w">(nirṇetum)</span>:
-{: #s4-ru}
+{: #s4-ru .pv-anchor}
 
 <p class="pv-tr" markdown="1">Сила <span class="pv-w">(śaktiḥ)</span>, которая <span class="pv-w">(yā)</span> пребывает <span class="pv-w">(sthā tu)</span> в Сердце <span class="pv-w">(hṛdaya)</span>, _(есть)_ Kaulikī <span class="pv-w">(kaulikī)</span>, Владычица <span class="pv-w">(nāyikā)</span> kula, целокупности <span class="pv-w">(kula)</span>. Поведай <span class="pv-w">(kathaya)</span> мне <span class="pv-w">(me)</span> о Ней <span class="pv-w">(tām)</span>, о Владыка богов <span class="pv-w">(deva-īśa)</span>, чтобы <span class="pv-w">(yena)</span> я <span class="pv-w">(aham)</span> обрела <span class="pv-w">(labhāmi)</span> полное насыщение <span class="pv-w">(tṛptim)</span>||2||</p>
 
