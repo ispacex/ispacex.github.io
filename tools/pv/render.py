@@ -113,7 +113,8 @@ def render(pid, slug, name, idx):
 
     head = [
         '---\ntitle: "Parātrīśikāvivaraṇa: %s"\n---' % name.lower(),
-        '[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/)',
+        '[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · '
+        '[Эта часть у источника](%s%s)' % (SRC, SRC_URL[pid]),
         '',
         '# %s' % name,
         '',

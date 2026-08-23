@@ -2,7 +2,7 @@
 title: "Parātrīśikāvivaraṇa: строфы 5–8, часть 3"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/)
+[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-5-to-8-part-3/800)
 
 # Строфы 5–8, часть 3
 

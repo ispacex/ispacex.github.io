@@ -2,7 +2,7 @@
 title: "Parātrīśikāvivaraṇa: строфы 1–2, часть 4"
 ---
 
-[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/)
+[КШ](/ksh/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-4/793)
 
 # Строфы 1–2, часть 4
 
