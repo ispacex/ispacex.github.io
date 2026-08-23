@@ -135,7 +135,12 @@ def sanskrit(t, cls, anchor=None):
     return '<p class="%s"%s lang="sa">%s</p>' % (mark(cls, anchor), ident(anchor), t.replace('\n', '<br />\n'))
 
 def iast(t, cls, anchor=None):
-    return '<p class="%s"%s>%s</p>' % (mark(cls, anchor), ident(anchor), t.replace('\n', '<br />\n'))
+    # Разбор изредка относит к транслитерации абзац, который на деле —
+    # пояснение Габриэля с курсивом. Без markdown="1" курсив в нём остаётся
+    # голыми подчёркиваниями прямо на странице.
+    md = ' markdown="1"' if '_' in t else ''
+    return '<p class="%s"%s%s>%s</p>' % (mark(cls, anchor), ident(anchor), md,
+                                         t.replace('\n', '<br />\n'))
 
 
 # Страница устроена одинаково: заголовок раздела, затем стена деванагари, за

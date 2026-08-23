@@ -279,7 +279,7 @@ _(Почему их так зовут?)_ Потому что _(в этих че�
 
 <ruby>Так<rp> (</rp><rt>evam</rt><rp>)</rp></ruby> и о «Раскрытии глаз» — гласном «u» — <span class="pv-w">(unmeṣe)</span> <ruby>следует сказать<rp> (</rp><rt>vācyam</rt><rp>)</rp></ruby> <span class="pv-w">(api)</span>, что: «a» <ruby>или «ā»<rp> (</rp><rt>a ā</rt><rp>)</rp></ruby> _(плюс)_ «u» <ruby>или «ū»<rp> (</rp><rt>u ū</rt><rp>)</rp></ruby> _(равно)_ «o» (o iti).
 
-<p class="pv-iast">_(And)_ "a" or "ā" (a ā) _(plus)_ "o" (o) _(equals)_ "au" (au iti).</p>
+<p class="pv-iast" markdown="1">_(And)_ "a" or "ā" (a ā) _(plus)_ "o" (o) _(equals)_ "au" (au iti).</p>
 
 Хотя (yadi api) <ruby>гласный «u»<rp> (</rp><rt>unmeṣaḥ</rt><rp>)</rp></ruby>, <ruby>чья суть<rp> (</rp><rt>ātmā</rt><rp>)</rp></ruby> — <ruby>Сила Знания<rp> (</rp><rt>jñāna-śakti</rt><rp>)</rp></ruby>, <ruby>одним лишь<rp> (</rp><rt>kevalam</rt><rp>)</rp></ruby> <ruby>разворачиванием<rp> (</rp><rt>prasaran</rt><rp>)</rp></ruby> <ruby>может совершить<rp> (</rp><rt>kuryāt</rt><rp>)</rp></ruby> <ruby>погружение<rp> (</rp><rt>gāhanam</rt><rp>)</rp></ruby> <ruby>в пустоту, то есть в Anāśritaśiva<rp> (</rp><rt>śūnyatā</rt><rp>)</rp></ruby>, — <ruby>всё же<rp> (</rp><rt>tathā api</rt><rp>)</rp></ruby> <ruby>у него<rp> (</rp><rt>asya</rt><rp>)</rp></ruby> _(является)_ <ruby>пустота<rp> (</rp><rt>śūnyatā</rt><rp>)</rp></ruby> _(лишь тогда, когда сперва есть)_ <ruby>вхождение<rp> (</rp><rt>praveśaḥ eva</rt><rp>)</rp></ruby> <ruby>в природу<rp> (</rp><rt>rūpa</rt><rp>)</rp></ruby> <ruby>обоих<rp> (</rp><rt>ubhaya</rt><rp>)</rp></ruby> — Владычества, гласного «ī», <ruby>и Воли, гласного «i»<rp> (</rp><rt>īśana-icchā-ātmaka</rt><rp>)</rp></ruby>.
 
