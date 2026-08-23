@@ -20,24 +20,90 @@ COMMON = load(os.path.join(HERE, 'ru', 'common.json'), {})
 # Санскритское слово в скобках внутри перевода: латиница с диакритикой и без
 # кириллицы. После перевода вокруг него стоит русский текст, поэтому спутать
 # его с обычной скобкой нельзя.
-PAREN = re.compile(r'\(([^()]*?)\)')
+#
+# Пробел перед скобкой забираем вместе с ней: он вернётся внутри <rp>, и
+# снятая с тегов строка совпадёт с прежней знак в знак — на этом держится
+# поисковый указатель.
+GLOSS = re.compile(r'[ \u00a0]*\(([^()]*?)\)')
 CYR = re.compile(r'[А-Яа-яЁё]')
 DIAC = re.compile(r'[āīūṛṝḷḹṭḍṇśṣñṅṁṃḥĀĪŪṚṬḌṆŚṢÑṄṀṂḤ]')
+WORD = re.compile(r'[^\W\d_]', re.U)
+
+# Докуда основа подстрочника тянется влево. За точкой, двоеточием или чертой
+# стоит уже другая фраза; `_` — край авторской вставки `_(…)_`, которая
+# переводом санскритского слова не является; `>` — конец вставленного тега.
+EDGE = re.compile(r'[.;:!?|_>»]')
+
+# Длиннее этого основу не берём. Подпись стоит по середине основы, и основа в
+# пол-абзаца увела бы её от слова, к которому она относится.
+MAX_BASE = 48
+
+
+def is_sanskrit(inner):
+    inner = inner.strip()
+    if not inner or CYR.search(inner):
+        return False
+    # Санскрит узнаётся по диакритике IAST либо по тому, что это одно
+    # латинское слово: «(ca)», «(mahā)», «(tad-ubhaya-yāmala)».
+    return bool(DIAC.search(inner) or re.fullmatch(r"[A-Za-z][A-Za-z'\-]*", inner))
+
+
+def cut(span):
+    """Делит текст перед глоссом на строку и основу подстрочника."""
+    edge = 0
+    for m in EDGE.finditer(span):
+        if span[m.end():].strip():
+            edge = m.end()
+    # Ближайшая граница слова справа: основа начинается со слова целиком.
+    if len(span) - edge > MAX_BASE:
+        j = span.find(' ', len(span) - MAX_BASE)
+        if j != -1:
+            edge = j + 1
+    # Запятая и тире, с которых начинается кусок, к подписи не относятся:
+    # их место в строке, а не под ней.
+    base = span[edge:]
+    edge += len(base) - len(base.lstrip(' \u00a0,;:—–-'))
+    return span[:edge], span[edge:]
+
+
+def gloss(t):
+    """Санскрит — подстрочником над своим словом, а не скобкой в строке.
+
+    `<rp>` держит скобки для тех, кто подстрочник не рисует, и заодно для
+    указателя поиска: `strip_html` оставляет от подстрочника ровно ту строку,
+    что стояла до него.
+    """
+    out, pos = [], 0
+    for m in GLOSS.finditer(t):
+        if not is_sanskrit(m.group(1)):
+            continue          # русская скобка — часть строки, её не трогаем
+        # `_(Bhairava)_` — не глосс, а вставка Габриэля: он подставляет слово,
+        # которое в санскрите стоит местоимением. Подписывать ею нечего.
+        if t[m.start():m.start() + 1] == '_' and t[m.end():m.end() + 1] == '_':
+            continue
+        keep, base = cut(t[pos:m.start()])
+        ws = m.group(0)[:m.group(0).index('(')]
+        pos = m.end()
+        if not WORD.search(base):
+            # Подписывать нечего: два глосса подряд, начало абзаца, конец
+            # авторской вставки. Оставляем скобку как была, вместе с пробелом
+            # перед ней — его забрал разбор, и без него слова слипнутся.
+            out.append(keep + base + ws + '<span class="pv-w">(%s)</span>' % m.group(1))
+            continue
+        out.append(keep)
+        # Пробел уходит внутрь <rp>: со снятыми тегами строка обязана совпасть
+        # с прежней знак в знак, иначе разойдётся поисковый указатель.
+        out.append('<ruby>%s<rp>%s(</rp><rt>%s</rt><rp>)</rp></ruby>'
+                   % (base, ws, m.group(1)))
+    out.append(t[pos:])
+    return ''.join(out)
+
 
 def markup(t):
-    """Внутристрочная разметка: санскрит в скобках и вставки автора."""
-    def paren(m):
-        inner = m.group(1).strip()
-        if not inner or CYR.search(inner):
-            return m.group(0)
-        # Санскрит узнаётся по диакритике IAST либо по тому, что это одно
-        # латинское слово: «(ca)», «(mahā)», «(tad-ubhaya-yāmala)».
-        if not (DIAC.search(inner) or re.fullmatch(r"[A-Za-z][A-Za-z'\-]*", inner)):
-            return m.group(0)
-        return '<span class="pv-w">(' + m.group(1) + ')</span>'
+    """Внутристрочная разметка: санскрит подстрочником и вставки автора."""
     t = re.sub(r'--(.+?)--', lambda m: '<span class="pv-note">— ' + m.group(1) + ' —</span>', t, flags=re.S)
-    t = PAREN.sub(paren, t)
-    return t
+    return gloss(t)
+
 
 def para(t, cls=None, anchor=None):
     t = markup(t).replace('\n', '<br />\n')
