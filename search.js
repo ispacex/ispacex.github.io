@@ -80,12 +80,15 @@
 
 	/* Русский язык склоняет окончания, поэтому «индрии» должно находить
 	   «индрий», а «мантра» — «мантрам». Из каждого слова делаем лесенку
-	   префиксов, от целого слова вниз на четыре буквы, но не короче четырёх.
-	   Берём самый длинный, который действительно встретился, — так подсветка
-	   остаётся точной. */
+	   префиксов и берём самый длинный, который действительно встретился, —
+	   так подсветка остаётся точной.
+
+	   Отрезаем не больше трёх букв: русское окончание длиннее и не бывает
+	   («-ами», «-ому», «-ями»), а щедрее нельзя. Отрежь четыре — и запрос
+	   «шактипата» начнёт находить «шакти», то есть половину раздела. */
 	function terms(q) {
 		return fold(q).split(/\s+/).filter(function (t) { return t.length > 1; }).map(function (t) {
-			var min = t.length <= 4 ? t.length : Math.max(4, t.length - 4);
+			var min = t.length <= 4 ? t.length : Math.max(4, t.length - 3);
 			var v = [];
 			for (var len = t.length; len >= min; len--) v.push(t.slice(0, len));
 			return v;
@@ -174,10 +177,12 @@
 		a.href = page.u;
 		a.textContent = page.t;
 		head.appendChild(a);
-		var sec = document.createElement('span');
-		sec.className = 'ss-sec';
-		sec.textContent = ' — ' + page.s;
-		head.appendChild(sec);
+		if (page.s !== page.t) {
+			var sec = document.createElement('span');
+			sec.className = 'ss-sec';
+			sec.textContent = ' — ' + page.s;
+			head.appendChild(sec);
+		}
 		li.appendChild(head);
 
 		var body = document.createElement('div');
@@ -217,9 +222,35 @@
 		});
 	}
 
+	/* Абзац, стоящий слово в слово на многих страницах, — это обвязка раздела,
+	   а не его содержание: врезка «как читать эти страницы», один и тот же
+	   заголовок оглавления. В выдаче он забивает настоящие попадания, повторяясь
+	   столько раз, на скольких страницах стоит. Считаем повторы и выбрасываем —
+	   так правило не надо чинить каждый раз, когда обвязка меняется.
+
+	   Порог — четыре страницы. Ниже опускать нельзя: два-три одинаковых абзаца
+	   вполне бывают и в настоящем тексте. */
+	var BOILERPLATE = 4;
+
+	function common(data) {
+		var n = {}, out = {};
+		data.forEach(function (p) {
+			var here = {};
+			p.b.forEach(function (x) {
+				if (x.length < 60 || here[x]) return;
+				here[x] = 1;
+				n[x] = (n[x] || 0) + 1;
+			});
+		});
+		Object.keys(n).forEach(function (x) { if (n[x] >= BOILERPLATE) out[x] = 1; });
+		return out;
+	}
+
 	function prepare(data) {
+		var chrome = common(data);
 		return data.map(function (p) {
-			var blocks = p.b.map(clean).filter(function (x) { return x.length > 12; });
+			var blocks = p.b.filter(function (x) { return !chrome[x]; })
+				.map(clean).filter(function (x) { return x.length > 12; });
 			return {
 				u: p.u,
 				t: p.t,
