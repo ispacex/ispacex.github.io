@@ -10,3 +10,8 @@ exclude:
   - vendor/
   - tools/
   - CLAUDE.md
+  # Из общего репозитория поиска сайту нужны только search.js и сборщик
+  # указателя (он сам просится в корень своим permalink).
+  - sitesearch/README.md
+  - sitesearch/FORMAT.md
+  - sitesearch/node/

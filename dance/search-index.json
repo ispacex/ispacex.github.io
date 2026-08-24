@@ -3,26 +3,54 @@ layout: null
 sitemap: false
 ---
 {%- comment -%}
-Индекс для поиска по главам «Натьяшастры». Собирается самим Jekyll при сборке
-сайта, поэтому не может разойтись с текстом и не требует ручного шага.
+Указатель для поиска по строфам «Натьяшастры».
 
-Единица индекса — строка исходника: в этих главах одна строфа занимает ровно
-одну строку, так что попадание сразу указывает на строфу, а не на главу
-целиком. Якорь («#v7») выводит уже клиент — в Liquid нет регулярных выражений,
-а в JavaScript они есть.
+Формат — общий (sitesearch/FORMAT.md), сборщик — свой: единица здесь не абзац,
+а строфа, и это про содержание трактата, а не про механику поиска. В этих
+главах одна строфа занимает ровно одну строку, так что попадание указывает на
+строфу, а не на главу целиком.
+
+Номер строфы — куда более устойчивый якорь, чем порядковый номер абзаца:
+ссылка на 36.7 останется верной, даже если абзацы перевёрстают или переведут
+заново. Строка размечена номером в начале («7/», «9-10/»), и якорь собирается
+из него же — тот самый, который расставляет на странице главы chapter.js.
+Регулярных выражений в Liquid нет, поэтому номер отрезается по «/», а строкой
+он признаётся, только если короткий и начинается с цифры: «/НАУКА О ТЕАТРЕ/»
+даёт пустой огрызок и якоря не получает. Тире в диапазоне («4–7/») приводится
+к дефису: chapter.js расставляет якоря по нему, и ссылка обязана совпасть.
+
+Разметку снимает markdownify, как и у указателя по сайту; там же объяснено,
+зачем после него возвращать пять сущностей и схлопывать пробелы. Здесь от этого
+зависит ещё и якорь: строфы второй главы набраны с отступом из неразрывных
+пробелов, и, не приведи их к обычным, номер строфы перестанет быть номером.
+
+Порядок глав — их номер: у Jekyll восемнадцатая идёт раньше второй, а читателю
+нужен порядок трактата.
 {%- endcomment -%}
 {%- assign chapters = site.pages | where_exp: "p", "p.path contains 'dance/ns-ch'" -%}
-[
-{%- assign first = true -%}
+{"pages":[
+{%- assign firstchapter = true -%}
 {%- for ch in chapters -%}
+{%- assign no = ch.path | split: 'ns-ch' | last | split: '.' | first | plus: 0 -%}
+{%- unless firstchapter %},{% endunless -%}
+{%- assign firstchapter = false -%}
+{"url":{{ ch.url | jsonify }},"title":{{ ch.title | jsonify }},"order":{{ no }},"blocks":[
+{%- assign firstverse = true -%}
 {%- assign lines = ch.content | newline_to_br | split: "<br />" -%}
 {%- for line in lines -%}
-{%- assign text = line | strip_html | strip -%}
+{%- assign text = line | markdownify | strip_html | replace: '&amp;', '&' | replace: '&lt;', '<' | replace: '&gt;', '>' | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '**', '' | replace: '&nbsp;', ' ' | replace: ' ', ' ' | split: ' ' | join: ' ' -%}
 {%- if text.size > 24 -%}
-{%- unless first %},{% endunless -%}
-{%- assign first = false -%}
-{"u":{{ ch.url | jsonify }},"t":{{ ch.title | jsonify }},"x":{{ text | jsonify }}}
+{%- unless firstverse %},{% endunless -%}
+{%- assign firstverse = false -%}
+{%- assign head = text | split: '/' | first | replace: '–', '-' | replace: '—', '-' | replace: ' ', '' -%}
+{%- assign digit = head | slice: 0 -%}
+{%- if head.size > 0 and head.size < 8 and "0123456789" contains digit -%}
+{"text":{{ text | jsonify }},"anchor":{{ head | prepend: 'v' | jsonify }}}
+{%- else -%}
+{{ text | jsonify }}
+{%- endif -%}
 {%- endif -%}
 {%- endfor -%}
+]}
 {%- endfor -%}
-]
+]}
