@@ -442,7 +442,7 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td colspan="5"><span class="unicodesfontcomments">न ऋ ॠ ऌ ॡ थ च ध ई ण उ ऊ ब क ख ग</span> - na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga</td>
 		</tr>
 		<tr class="center middle cellborder1solid">
-			<td colspan="5">Остальные 34 звука (то есть <span class="unicodesfontcomments">घ ङ इ अ व भ य ड ढ ठ झ ञ ज र ट प छ ल आ स अः ह ष क्ष म श अं त ए ऐ ओ औ द फ</span> - gha ṅa i a va bha ya ḍa ḍha ṭha jha &ntilde;a ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha) are distributed as follows:</td>
+			<td colspan="5">Остальные 34 звука (то есть <span class="unicodesfontcomments">घ ङ इ अ व भ य ड ढ ठ झ ञ ज र ट प छ ल आ स अः ह ष क्ष म श अं त ए ऐ ओ औ द फ</span> - gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha) are distributed as follows:</td>
 		</tr>
 		<tr class="center middle">
 			<td class="bggreen99 cellborder1solid a15">Звук</td>
@@ -529,7 +529,7 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td class="cellborder4solid"><span class="unicodesfontgreen">क्ष</span> - kṣa</td>
 		</tr>
 		<tr class="center middle">
-			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
+			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - ña</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 			<td class="cellborder13">&nbsp;</td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">पायु</span> - Pāyu (категория 25)</td>
@@ -596,7 +596,7 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td colspan="5"><span class="unicodesfontcomments">अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ अं अः</span> - a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ (гласные всегда неизменны)</td>
 		</tr>
 		<tr class="center middle cellborder1solid">
-			<td colspan="5">Остальные 34 звука (то есть <span class="unicodesfontcomments">क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह क्ष</span> - ka kha ga gha ṅa ca cha ja jha &ntilde;a ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa) are distributed, &quot;in reverse order&quot;, as follows:</td>
+			<td colspan="5">Остальные 34 звука (то есть <span class="unicodesfontcomments">क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह क्ष</span> - ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa) are distributed, &quot;in reverse order&quot;, as follows:</td>
 		</tr>
 		<tr class="center middle">
 			<td class="bggreen99 cellborder1solid a15">Согласный сам по себе</td>
@@ -676,7 +676,7 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder13">&nbsp;</td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
-			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
+			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - ña</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
@@ -922,7 +922,7 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td class="cellborder4solid"><span class="unicodesfontcomments">पुरुष</span> - Puruṣa (категория 12)</td>
 			<td class="cellborder13"><img alt="Green double arrow" src="../../images/doublearrow_green.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
-			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
+			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - ña</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">भ</span> - bha</td>
@@ -1031,7 +1031,7 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td class="cellborder4solid"><span class="unicodesfontcomments">रूपमयस्पर्श</span> - Rūpamayasparśa (Sparśa из Rūpa)</td>
 		</tr>
 		<tr class="center middle">
-			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
+			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - ña</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">स्पर्शमयशब्द</span> - Sparśamayaśabda (Śabda из Sparśa)</td>
 		</tr>
 		<tr class="center middle">
@@ -1227,11 +1227,11 @@ _(Человек)_ говорит (vakti hi) <ruby>одно<rp> (</rp><rt>anyat<
 			<td class="cellborder4solid"><span class="unicodesfontgreen">झ</span> - jha</td>
 		</tr>
 		<tr class="center middle">
-			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
+			<td class="cellborder1solid"><span class="unicodesfontgreen">ञ</span> - ña</td>
 			<td class="cellborder4solid"><span class="unicodesfontcomments">बुद्धि</span> - Buddhi (категория 14)</td>
 			<td class="cellborder13"><img alt="Green arrow" src="../../images/greenarrow.gif" /></td>
 			<td class="cellborder1solid"><span class="unicodesfontcomments">शब्द</span> - Śabda (категория 27)</td>
-			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - &ntilde;a</td>
+			<td class="cellborder4solid"><span class="unicodesfontgreen">ञ</span> - ña</td>
 		</tr>
 		<tr class="center middle">
 			<td class="cellborder1solid"><span class="unicodesfontgreen">ज</span> - ja</td>
