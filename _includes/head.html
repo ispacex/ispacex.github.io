@@ -1,3 +1,4 @@
+{% if page.noindex %}<meta name="robots" content="noindex, nofollow" />{% endif %}
 {% if page.description %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />
