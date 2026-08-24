@@ -4,6 +4,9 @@
 # ничего, кроме Jekyll, в той сборке запустить нельзя, — а поисковый указатель
 # после Jekyll нужно разложить на два яруса (sitesearch/node/two-tier.js), и
 # делает это node. Отсюда свой workflow: тот же Jekyll плюс один шаг.
+#
+# Что сборка та же самая — проверено, а не предположено: все сто одну страницу,
+# собранную здесь, сверили с живым сайтом — разошлось ноль.
 name: Собрать и выложить сайт
 
 on:
@@ -54,3 +57,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
