@@ -1,0 +1,53 @@
+# Сборка сайта и выкладка на GitHub Pages.
+#
+# Раньше Pages строил сайт сам. Собирает он тем же Jekyll, что и шаг ниже, но
+# ничего, кроме Jekyll, в той сборке запустить нельзя, — а поисковый указатель
+# после Jekyll нужно разложить на два яруса (sitesearch/node/two-tier.js), и
+# делает это node. Отсюда свой workflow: тот же Jekyll плюс один шаг.
+name: Собрать и выложить сайт
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Выкладка одна на всех: пусть очередь ждёт, а не отменяет уже начатое.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Поиск живёт в общем репозитории и подключён сабмодулем.
+          submodules: true
+
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      # Указатель, собранный Jekyll, — это текст сайта целиком, и читателю он
+      # едет целиком. Здесь он превращается в карту слов и куски текста: карта
+      # приезжает одна, куски — только те, что показаны. Считает и режет node,
+      # которого в сборке Pages нет и не бывает.
+      #
+      # Указателя два, и один другого не называет: поиск по сайту и поиск по
+      # строфам «Натьяшастры» — разные единицы текста. Указатель книги Мархая
+      # назван в shards основного и подхватывается сам.
+      - name: Разложить поисковые указатели на два яруса
+        run: |
+          node sitesearch/node/two-tier.js _site /search-index.json --repeats 4
+          node sitesearch/node/two-tier.js _site /dance/search-index.json
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
