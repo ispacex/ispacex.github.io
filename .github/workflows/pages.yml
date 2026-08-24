@@ -45,6 +45,9 @@ jobs:
       # назван в shards основного и подхватывается сам.
       - name: Разложить поисковые указатели на два яруса
         run: |
+          # Jekyll выше работает в контейнере и от другого пользователя, так
+          # что собранный _site принадлежит не нам и писать в него нельзя.
+          sudo chown -R "$(id -u):$(id -g)" _site
           node sitesearch/node/two-tier.js _site /search-index.json --repeats 4
           node sitesearch/node/two-tier.js _site /dance/search-index.json
 
