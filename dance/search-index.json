@@ -20,7 +20,10 @@ sitemap: false
 к дефису: chapter.js расставляет якоря по нему, и ссылка обязана совпасть.
 
 Разметку снимает markdownify, как и у указателя по сайту; там же объяснено,
-зачем после него возвращать пять сущностей и схлопывать пробелы. Здесь от этого
+зачем после него возвращать пять сущностей, схлопывать пробелы и снимать теги
+ещё и до markdownify (коротко: Jekyll отдаёт page.content то исходником, то уже
+собранным HTML, а строка, вырезанная из собранного, — обрывок, который kramdown
+разобрать не может и потому экранирует). Здесь от этого
 зависит ещё и якорь: строфы второй главы набраны с отступом из неразрывных
 пробелов, и, не приведи их к обычным, номер строфы перестанет быть номером.
 
@@ -38,7 +41,7 @@ sitemap: false
 {%- assign firstverse = true -%}
 {%- assign lines = ch.content | newline_to_br | split: "<br />" -%}
 {%- for line in lines -%}
-{%- assign text = line | markdownify | strip_html | replace: '&amp;', '&' | replace: '&lt;', '<' | replace: '&gt;', '>' | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '**', '' | replace: '&nbsp;', ' ' | replace: ' ', ' ' | split: ' ' | join: ' ' -%}
+{%- assign text = line | strip_html | markdownify | strip_html | replace: '&amp;', '&' | replace: '&lt;', '<' | replace: '&gt;', '>' | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '**', '' | replace: '&nbsp;', ' ' | replace: ' ', ' ' | split: ' ' | join: ' ' -%}
 {%- if text.size > 24 -%}
 {%- unless firstverse %},{% endunless -%}
 {%- assign firstverse = false -%}
