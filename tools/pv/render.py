@@ -143,11 +143,100 @@ def iast(t, cls, anchor=None):
                                          t.replace('\n', '<br />\n'))
 
 
-# Страница устроена одинаково: заголовок раздела, затем стена деванагари, за
-# ней та же стена в транслитерации и только потом перевод — по три-четыре
-# десятка абзацев каждая. Читателю, которому нужен перевод, иначе пришлось бы
-# пролистать их все, поэтому у каждого раздела метится начало трёх его частей.
+# Страница устроена одинаково: заголовок раздела, затем стена строф и только
+# потом перевод — по три-четыре десятка абзацев каждая. Читателю, которому
+# нужен перевод, иначе пришлось бы пролистать их все, поэтому у каждого раздела
+# метится начало его частей. Транслитерация своей части больше не имеет: она
+# стоит в тех же абзацах, что и деванагари (см. pairing).
 SA_KINDS = ('deva', 'deva-red')
+
+DEVA = re.compile(r'[\u0900-\u097f]')
+
+
+def lines(t):
+    return [l for l in t.split('\n') if l.strip()]
+
+
+def looks_iast(b):
+    """Похож ли блок на ту же строфу в транслитерации.
+
+    Разбор изредка относит строку транслитерации к обычному тексту — «iti|»,
+    «Taduktam spande», — и стена от этого обрывается на середине. Поэтому вид
+    блока здесь не единственный признак: важнее, что в блоке нет ни кириллицы,
+    ни деванагари и нет скобки. Скобка — верный признак перевода: в переводе
+    Габриэля в скобке стоит санскритское слово при каждом русском, а в самой
+    транслитерации скобок не бывает вовсе.
+    """
+    t = b.get('t')
+    if t is None or b['k'] not in ('iast', 'text'):
+        return False
+    return not CYR.search(t) and not DEVA.search(t) and '(' not in t
+
+
+def pairing(blocks):
+    """Строфа деванагари и та же строфа в транслитерации — рядом, а не стенами.
+
+    Источник даёт их двумя стенами: сперва весь санскрит раздела, потом весь
+    он же в транслитерации. Читать это построчно нельзя — приходится листать
+    туда-сюда. Стены складываются здесь: k-й блок первой к k-му блоку второй.
+
+    Складывается только то, что сошлось: у пары должны совпасть и признак
+    центрирования, и число строк. Первое же расхождение обрывает складывание —
+    дальше стена остаётся стеной. Так страница, где транслитерации нет вовсе
+    (таблицы соответствий), просто остаётся как была, а не съезжает на строку.
+    """
+    pair, eaten, opens, group = {}, set(), {}, {}
+    i = 0
+    while i < len(blocks):
+        if blocks[i]['k'] not in SA_KINDS:
+            i += 1
+            continue
+        j = i
+        while j < len(blocks) and blocks[j]['k'] in SA_KINDS:
+            j += 1
+        n = 0
+        while n < j - i and j + n < len(blocks):
+            sa, ia = blocks[i + n], blocks[j + n]
+            if not looks_iast(ia) or ia.get('c') != sa.get('c'):
+                break
+            if len(lines(ia['t'])) != len(lines(sa['t'])):
+                break
+            n += 1
+        if n:
+            g = 'w%d' % (len(opens) + 1)
+            opens[i] = g
+            for x in range(n):
+                pair[i + x] = j + x
+                group[i + x] = g
+                eaten.add(j + x)
+        i = j + n
+    return pair, eaten, opens, group
+
+
+def stanza(sa, ia, cls, group, anchor=None):
+    """Строфа: строка деванагари, под ней та же строка в транслитерации.
+
+    Всё это один абзац, а не четыре: сборщик указателя режет страницу по
+    пустым строкам, и строфа должна остаться одной находкой, а не рассыпаться
+    на строки. Заодно её теперь находит и запрос в транслитерации.
+    """
+    rows = []
+    for d, t in zip(lines(sa['t']), lines(ia['t'])):
+        rows.append('<span class="%s" lang="sa">%s</span>' % (cls, d))
+        rows.append('<span class="pv-iast">%s</span>' % t)
+    return '<p class="pv-pair%s"%s data-pv="%s">%s</p>' % (
+        ' pv-c' if sa.get('c') else '', ident(anchor), group, '<br />\n'.join(rows))
+
+
+def copybar(group, anchor=None):
+    """Кнопки над стеной: забрать её санскрит или её транслитерацию целиком.
+
+    `nosearch` — чтобы кнопки не попали в поиск отдельной находкой.
+    """
+    return ('<p class="pv-copy nosearch%s"%s>'
+            '<button type="button" data-pv-copy="%s" data-pv-what="pv-sa">Копировать санскрит</button> '
+            '<button type="button" data-pv-copy="%s" data-pv-what="pv-iast">Копировать транслитерацию</button>'
+            '</p>') % (' pv-anchor' if anchor else '', ident(anchor), group, group)
 
 def sections(blocks, ru, common):
     """Разделы страницы и якорные блоки внутри каждого."""
@@ -223,6 +312,12 @@ def render(pid, slug, name, idx):
         return v
 
     secs = sections(blocks, ru, COMMON)
+    pair, eaten, opens, group = pairing(blocks)
+    # Сложенной стене отдельного якоря на транслитерацию не нужно: она стоит
+    # в тех же абзацах, что и деванагари, и ссылка вела бы туда же.
+    for sec in secs:
+        if sec['sa'] in pair:
+            sec['iast'] = None
     at = {}
     titles = {}
     for sec in secs:
@@ -243,6 +338,14 @@ def render(pid, slug, name, idx):
             body.append(('## ' if k == 'h3' else '### ') + titles[i] + (' {#%s}' % a if a else ''))
             if v is None:
                 body[-1] += ' <span class="pv-en">(не переведено)</span>'
+        elif k in SA_KINDS and i in pair:
+            if i in opens:
+                body.append(copybar(opens[i], a))
+                a = None
+            body.append(stanza(b, blocks[pair[i]],
+                               'pv-sa pv-src' if k == 'deva-red' else 'pv-sa', group[i], a))
+        elif i in eaten:
+            continue
         elif k == 'deva':
             body.append(sanskrit(b['t'], 'pv-sa' + (' pv-c' if b.get('c') else ''), a))
         elif k == 'deva-red':
@@ -308,6 +411,9 @@ def render(pid, slug, name, idx):
         ' Pradīpaka: [%s](%s%s). Санскрит (деванагари и IAST) перенесён из источника без изменений.*'
         % (name, SRC, SRC_URL[pid]),
     ]
+
+    if pair:
+        tail.append('<script src="/assets/js/pv-copy.js"></script>')
 
     text = '\n\n'.join(head + body + tail)
     text = re.sub(r'\n{3,}', '\n\n', text)

@@ -11,7 +11,7 @@ title: "Parātrīśikāvivaraṇa: строфы 3–4, часть 4"
 <div class="pv-nav nosearch" markdown="1">
 **На этой странице**<br />
 [Введение](#s1)<br />
-[Строфы 3–4 (четвёртая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+[Строфы 3–4 (четвёртая часть комментария)](#s2) — [санскрит](#s2-sa) · [перевод](#s2-ru)
 </div>
 
 ## Введение {#s1}
@@ -30,115 +30,93 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 3–4 (четвёртая часть комментария) {#s2}
 
-<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">यद्वा सति सद्रूपे यस्यति यत्नं करोति क्रियाशक्तिप्राणत्वात्तत् सद्य इति क्विपि नपुंसकनिर्देशः। सद्यदिति केचिद् गुरवः पठन्ति। तदुक्तं श्रीसिद्धसन्ताने</p>
+<p class="pv-copy nosearch pv-anchor" id="s2-sa"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
-<p class="pv-sa pv-c" lang="sa">प्रकाशमानाभासैव यद्भूतिस्तत्सदेव हि।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">यद्वा सति सद्रूपे यस्यति यत्नं करोति क्रियाशक्तिप्राणत्वात्तत् सद्य इति क्विपि नपुंसकनिर्देशः। सद्यदिति केचिद् गुरवः पठन्ति। तदुक्तं श्रीसिद्धसन्ताने</span><br />
+<span class="pv-iast">Yadvā sati sadrūpe yasyati yatnaṁ karoti kriyāśaktiprāṇatvāttat sadya iti kvipi napuṁsakanirdeśaḥ| Sadyaditi kecid guravaḥ paṭhanti| Taduktaṁ śrīsiddhasantāne</span></p>
 
-<p class="pv-sa" lang="sa">इति। श्रीस्पन्देऽपि</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">प्रकाशमानाभासैव यद्भूतिस्तत्सदेव हि।</span><br />
+<span class="pv-iast">Prakāśamānābhāsaiva yadbhūtistatsadeva hi|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">... तदस्ति परमार्थतः।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। श्रीस्पन्देऽपि</span><br />
+<span class="pv-iast">iti| Śrīspande'pi</span></p>
 
-<p class="pv-sa" lang="sa">इति। श्रीसोमानन्दपादैरपि</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">... तदस्ति परमार्थतः।</span><br />
+<span class="pv-iast">... Tadasti paramārthataḥ|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">यत्सत्तत्परमार्थो हि प्रमार्थो हि परमार्थस्ततः शिवः।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। श्रीसोमानन्दपादैरपि</span><br />
+<span class="pv-iast">iti| Śrīsomānandapādairapi</span></p>
 
-<p class="pv-sa" lang="sa">इति स्वरूपमुक्तम्। तदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">यत्सत्तत्परमार्थो हि प्रमार्थो हि परमार्थस्ततः शिवः।</span><br />
+<span class="pv-iast">Yatsattatparamārtho hi pramārtho hi paramārthastataḥ śivaḥ|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">यः सर्वं...</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति स्वरूपमुक्तम्। तदुक्तम्</span><br />
+<span class="pv-iast">iti svarūpamuktam| Taduktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। अस्यैव क्रियाशक्तिप्रसरं निरूपयति कौलिकसिद्धिदमिति कौलिकं यद् व्याख्यातं तस्य सिद्धिस्तथात्वदार्ढ्यं तद् यतो भवति तत्र हि परमार्थप्रमातरि सकलं कुलाकुलादि तथा भवति यत्र प्रतीयमानं सर्वं तथात्वदार्ढ्यं भजते। तदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">यः सर्वं...</span><br />
+<span class="pv-iast">Yaḥ sarvaṁ...</span></p>
 
-<p class="pv-sa pv-c" lang="sa">... परात्परतरं त्रिकम्।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। अस्यैव क्रियाशक्तिप्रसरं निरूपयति कौलिकसिद्धिदमिति कौलिकं यद् व्याख्यातं तस्य सिद्धिस्तथात्वदार्ढ्यं तद् यतो भवति तत्र हि परमार्थप्रमातरि सकलं कुलाकुलादि तथा भवति यत्र प्रतीयमानं सर्वं तथात्वदार्ढ्यं भजते। तदुक्तम्</span><br />
+<span class="pv-iast">iti| Asyaiva kriyāśaktiprasaraṁ nirūpayati kaulikasiddhidamiti kaulikaṁ yad vyākhyātaṁ tasya siddhistathātvadārḍhyaṁ tad yato bhavati tatra hi paramārthapramātari sakalaṁ kulākulādi tathā bhavati yatra pratīyamānaṁ sarvaṁ tathātvadārḍhyaṁ bhajate| Taduktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। अन्यत्रापि</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">... परात्परतरं त्रिकम्।</span><br />
+<span class="pv-iast">... parātparataraṁ trikam|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">वेदाच्छैवं ततो वामं ततो दक्षं ततः कुलम्।<br />
-ततो मतं ततश्चापि त्रिकं सर्वोत्तमं परम्॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। अन्यत्रापि</span><br />
+<span class="pv-iast">iti| Anyatrāpi</span></p>
 
-<p class="pv-sa" lang="sa">इति। श्रीनिशाचारेऽपि</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">वेदाच्छैवं ततो वामं ततो दक्षं ततः कुलम्।</span><br />
+<span class="pv-iast">Vedācchaivaṁ tato vāmaṁ tato dakṣaṁ tataḥ kulam|</span><br />
+<span class="pv-sa" lang="sa">ततो मतं ततश्चापि त्रिकं सर्वोत्तमं परम्॥</span><br />
+<span class="pv-iast">Tato mataṁ tataścāpi trikaṁ sarvottamaṁ param||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">वाममार्गाभिषिक्तोऽपि दैशिकः परतत्त्ववित्।<br />
-संस्कार्यो भैरवे सोऽपि कुले कौले त्रिकेऽपि सः॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। श्रीनिशाचारेऽपि</span><br />
+<span class="pv-iast">iti| Śrīniśācāre'pi</span></p>
 
-<p class="pv-sa" lang="sa">इति। श्रीसर्वाचारेऽपि</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">वाममार्गाभिषिक्तोऽपि दैशिकः परतत्त्ववित्।</span><br />
+<span class="pv-iast">Vāmamārgābhiṣikto'pi daiśikaḥ paratattvavit|</span><br />
+<span class="pv-sa" lang="sa">संस्कार्यो भैरवे सोऽपि कुले कौले त्रिकेऽपि सः॥</span><br />
+<span class="pv-iast">Saṁskāryo bhairave so'pi kule kaule trike'pi saḥ||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">वाममार्गाभिषिक्तोऽपि दैशिकः परतत्त्ववित्।<br />
-क्रमाद्भैरवतन्त्रेषु पुनः संस्कारमर्हति॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। श्रीसर्वाचारेऽपि</span><br />
+<span class="pv-iast">iti| Śrīsarvācāre'pi</span></p>
 
-<p class="pv-sa" lang="sa">इति। क्रमश्चास्यैष एव यत् सर्वलोकवेदसिद्धान्तवामदक्षिणकुलमतभूमिषु परमार्थप्रमातृभाव इति। यथोक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">वाममार्गाभिषिक्तोऽपि दैशिकः परतत्त्ववित्।</span><br />
+<span class="pv-iast">Vāmamārgābhiṣikto'pi daiśikaḥ paratattvavit|</span><br />
+<span class="pv-sa" lang="sa">क्रमाद्भैरवतन्त्रेषु पुनः संस्कारमर्हति॥</span><br />
+<span class="pv-iast">Kramādbhairavatantreṣu punaḥ saṁskāramarhati||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">यश्च सर्वमयो नित्यं तस्मै सर्वात्मने नमः।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। क्रमश्चास्यैष एव यत् सर्वलोकवेदसिद्धान्तवामदक्षिणकुलमतभूमिषु परमार्थप्रमातृभाव इति। यथोक्तम्</span><br />
+<span class="pv-iast">iti| Kramaścāsyaiṣa eva yat sarvalokavedasiddhāntavāmadakṣiṇakulamatabhūmiṣu paramārthapramātṛbhāva iti| Yathoktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। तदेवानुत्तरमेतत्सर्वं गर्भीकृत्योक्तं निजविवृतौ सोमानन्दपादैः किंबहुना सर्वमेवानुत्तरमनुत्तरत्वादिति। अयं तात्पर्यार्थः —</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">यश्च सर्वमयो नित्यं तस्मै सर्वात्मने नमः।</span><br />
+<span class="pv-iast">Yaśca sarvamayo nityaṁ tasmai sarvātmane namaḥ|</span></p>
 
-<p class="pv-sa" lang="sa">इतीदृग् व्याख्यानं त्यक्त्वा यद् अन्यैर्व्याख्यातं तत्प्रदर्शनं दूषणम्। यद्यपि पदवाक्यसंस्कारविहीनैः सह व्रीडावहा गोष्ठी कृता भवति तथापि सचेतसोऽनुत्तरमवबोधयितुं तद् एकवारं तावल्लिख्यते — अनुत्तरमित्यादिना सार्धेन श्लोकेन शिवविषयः प्रश्नः। हृदयस्थेत्यादिना श्लोकेन शक्तिविषयः। तथा शृणु देवीत्यत्र प्रतिवचनग्रन्थ उत्तरस्याप्यनुत्तरमिति तत्रार्थ उत्तरं च शृण्वनुत्तरं चेति। अत्र यद्येषा त्रिकार्थाभिप्रायेण व्याख्या तन् नरविषयतृतीयप्रश्नप्रसङ्गः। अथ तु यामलाभिप्रायेण तत्रापि न द्वे वस्तुनी शिवशक्त्यात्मके यामलमुच्यते येन पृथक् प्रश्नविषयतोपपत्तिरथशब्दार्थश्च न सङ्गच्छते — स हि सजातीयनिश्चयानन्तर्यवृत्तिरुत्तरस्वरूपावधारणमन्तरेण चानुत्तरविषयस्यैकप्रश्नस्यानुपपत्तिः। तथाहि केषुचिद् वृद्धपुस्तकेष्वीदृक् श्लोकान्तरं दृश्यते</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। तदेवानुत्तरमेतत्सर्वं गर्भीकृत्योक्तं निजविवृतौ सोमानन्दपादैः किंबहुना सर्वमेवानुत्तरमनुत्तरत्वादिति। अयं तात्पर्यार्थः —</span><br />
+<span class="pv-iast">iti| Tadevānuttarametatsarvaṁ garbhīkṛtyoktaṁ nijavivṛtau somānandapādaiḥ kiṁbahunā sarvamevānuttaramanuttaratvāditi| Ayaṁ tātparyārthaḥ —</span></p>
 
-<p class="pv-sa pv-c" lang="sa">श्रुतं देव महाज्ञानं त्रिकाख्यं परमेश्वर।<br />
-उत्तरं च तथा ज्ञानं त्वत्प्रसादावधारितं॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इतीदृग् व्याख्यानं त्यक्त्वा यद् अन्यैर्व्याख्यातं तत्प्रदर्शनं दूषणम्। यद्यपि पदवाक्यसंस्कारविहीनैः सह व्रीडावहा गोष्ठी कृता भवति तथापि सचेतसोऽनुत्तरमवबोधयितुं तद् एकवारं तावल्लिख्यते — अनुत्तरमित्यादिना सार्धेन श्लोकेन शिवविषयः प्रश्नः। हृदयस्थेत्यादिना श्लोकेन शक्तिविषयः। तथा शृणु देवीत्यत्र प्रतिवचनग्रन्थ उत्तरस्याप्यनुत्तरमिति तत्रार्थ उत्तरं च शृण्वनुत्तरं चेति। अत्र यद्येषा त्रिकार्थाभिप्रायेण व्याख्या तन् नरविषयतृतीयप्रश्नप्रसङ्गः। अथ तु यामलाभिप्रायेण तत्रापि न द्वे वस्तुनी शिवशक्त्यात्मके यामलमुच्यते येन पृथक् प्रश्नविषयतोपपत्तिरथशब्दार्थश्च न सङ्गच्छते — स हि सजातीयनिश्चयानन्तर्यवृत्तिरुत्तरस्वरूपावधारणमन्तरेण चानुत्तरविषयस्यैकप्रश्नस्यानुपपत्तिः। तथाहि केषुचिद् वृद्धपुस्तकेष्वीदृक् श्लोकान्तरं दृश्यते</span><br />
+<span class="pv-iast">Itīdṛg vyākhyānaṁ tyaktvā yad anyairvyākhyātaṁ tatpradarśanaṁ dūṣaṇam| Yadyapi padavākyasaṁskāravihīnaiḥ saha vrīḍāvahā goṣṭhī kṛtā bhavati tathāpi sacetaso'nuttaramavabodhayituṁ tad ekavāraṁ tāvallikhyate — Anuttaramityādinā sārdhena ślokena śivaviṣayaḥ praśnaḥ| Hṛdayasthetyādinā ślokena śaktiviṣayaḥ| Tathā śṛṇu devītyatra prativacanagrantha uttarasyāpyanuttaramiti tatrārtha uttaraṁ ca śṛṇvanuttaraṁ ceti| Atra yadyeṣā trikārthābhiprāyeṇa vyākhyā tan naraviṣayatṛtīyapraśnaprasaṅgaḥ| Atha tu yāmalābhiprāyeṇa tatrāpi na dve vastunī śivaśaktyātmake yāmalamucyate yena pṛthak praśnaviṣayatopapattirathaśabdārthaśca na saṅgacchate — Sa hi sajātīyaniścayānantaryavṛttiruttarasvarūpāvadhāraṇamantareṇa cānuttaraviṣayasyaikapraśnasyānupapattiḥ| Tathāhi keṣucid vṛddhapustakeṣvīdṛk ślokāntaraṁ dṛśyate</span></p>
 
-<p class="pv-sa" lang="sa">इति। तस्मात् श्रीसोमानन्दपादनिरूपितव्याख्यानुसारेणैव यद् गुरवः समादिक्षन् तदेव सर्वस्य करोति शिवम्।</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">श्रुतं देव महाज्ञानं त्रिकाख्यं परमेश्वर।</span><br />
+<span class="pv-iast">Śrutaṁ deva mahājñānaṁ trikākhyaṁ parameśvara|</span><br />
+<span class="pv-sa" lang="sa">उत्तरं च तथा ज्ञानं त्वत्प्रसादावधारितं॥</span><br />
+<span class="pv-iast">Uttaraṁ ca tathā jñānaṁ tvatprasādāvadhāritaṁ||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">इत्यसंस्कृतदुर्व्याख्यातामसोन्मूलनव्रतः।<br />
-षडर्धशासनापूतहृदम्बुजविकासकः॥<br />
-संस्त्यानानन्तपाशौघविलापनलसद्रुचिः।<br />
-दीप्तोऽभिनवगुप्तेन व्याख्याभानुः प्रकाशितः॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। तस्मात् श्रीसोमानन्दपादनिरूपितव्याख्यानुसारेणैव यद् गुरवः समादिक्षन् तदेव सर्वस्य करोति शिवम्।</span><br />
+<span class="pv-iast">iti| Tasmāt śrīsomānandapādanirūpitavyākhyānusāreṇaiva yad guravaḥ samādikṣan tadeva sarvasya karoti śivam|</span></p>
 
-<p class="pv-sa" lang="sa">एवं यतोऽयं कौलिको विधिः प्रभवति यत्र च प्रतिष्ठापदवीं भजते यन्मयं चेदं कौलिकं तदेवानुत्त्तरमित्युक्तम्। तत्र कस्तावत् कौलिको विधिः कथं चास्य प्रसरोऽनुत्तरात् कथं चात्रैवास्य प्रतिष्ठा कथं चानुत्तरैकरूपत्वं यच्चोक्तं — उत्तरस्याप्यनुत्तरमिति तत् सर्वं युक्त्यागमस्वसंवेदननिष्कर्षणतत्त्वावबोधावाप्तविमर्शनिपुणान् शिष्यान् प्रति वितत्य निर्णिनीषुर्भगवान् प्रस्तौति ग्रन्थान्तरमेतावद्दृढोपदेशनिर्दलितभेदाभिमानविकल्पानल्पसंस्काराणं तु सर्वमेतावतैव अनुत्तरं कथमित्यादिसार्धश्लोकयुगलनिगमितेन प्रश्नेन शृणु देवि इत्यादिना सार्धश्लोकनिर्णीतेन चोत्तरेणानुत्तरपदप्राप्तिवशाविष्टजीवन्मुक्तभावानां कृतकृत्यता। अतस्तावन्मात्र एव दृढप्रतिपत्तिपवित्रीकृतैर्विश्रमणीयम् — इत्युद्भुजाः फूत्कुर्मः। तदनुत्तरपरभैरवपदविमलदर्पणान्तर्निविष्टकौलिकपदप्रविविक्तये ग्रन्थान्तरमवतरतीत्युक्तम्॥४॥</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">इत्यसंस्कृतदुर्व्याख्यातामसोन्मूलनव्रतः।</span><br />
+<span class="pv-iast">Ityasaṁskṛtadurvyākhyātāmasonmūlanavrataḥ|</span><br />
+<span class="pv-sa" lang="sa">षडर्धशासनापूतहृदम्बुजविकासकः॥</span><br />
+<span class="pv-iast">Ṣaḍardhaśāsanāpūtahṛdambujavikāsakaḥ||</span><br />
+<span class="pv-sa" lang="sa">संस्त्यानानन्तपाशौघविलापनलसद्रुचिः।</span><br />
+<span class="pv-iast">Saṁstyānānantapāśaughavilāpanalasadruciḥ|</span><br />
+<span class="pv-sa" lang="sa">दीप्तोऽभिनवगुप्तेन व्याख्याभानुः प्रकाशितः॥</span><br />
+<span class="pv-iast">Dīpto'bhinavaguptena vyākhyābhānuḥ prakāśitaḥ||</span></p>
 
-<p class="pv-iast pv-anchor" id="s2-iast">Yadvā sati sadrūpe yasyati yatnaṁ karoti kriyāśaktiprāṇatvāttat sadya iti kvipi napuṁsakanirdeśaḥ| Sadyaditi kecid guravaḥ paṭhanti| Taduktaṁ śrīsiddhasantāne</p>
-
-<p class="pv-iast pv-c">Prakāśamānābhāsaiva yadbhūtistatsadeva hi|</p>
-
-<p class="pv-iast">iti| Śrīspande'pi</p>
-
-<p class="pv-iast pv-c">... Tadasti paramārthataḥ|</p>
-
-<p class="pv-iast">iti| Śrīsomānandapādairapi</p>
-
-<p class="pv-iast pv-c">Yatsattatparamārtho hi pramārtho hi paramārthastataḥ śivaḥ|</p>
-
-<p class="pv-iast">iti svarūpamuktam| Taduktam</p>
-
-<p class="pv-iast pv-c">Yaḥ sarvaṁ...</p>
-
-<p class="pv-iast">iti| Asyaiva kriyāśaktiprasaraṁ nirūpayati kaulikasiddhidamiti kaulikaṁ yad vyākhyātaṁ tasya siddhistathātvadārḍhyaṁ tad yato bhavati tatra hi paramārthapramātari sakalaṁ kulākulādi tathā bhavati yatra pratīyamānaṁ sarvaṁ tathātvadārḍhyaṁ bhajate| Taduktam</p>
-
-<p class="pv-iast pv-c">... parātparataraṁ trikam|</p>
-
-<p class="pv-iast">iti| Anyatrāpi</p>
-
-<p class="pv-iast pv-c">Vedācchaivaṁ tato vāmaṁ tato dakṣaṁ tataḥ kulam|<br />
-Tato mataṁ tataścāpi trikaṁ sarvottamaṁ param||</p>
-
-<p class="pv-iast">iti| Śrīniśācāre'pi</p>
-
-<p class="pv-iast pv-c">Vāmamārgābhiṣikto'pi daiśikaḥ paratattvavit|<br />
-Saṁskāryo bhairave so'pi kule kaule trike'pi saḥ||</p>
-
-<p class="pv-iast">iti| Śrīsarvācāre'pi</p>
-
-<p class="pv-iast pv-c">Vāmamārgābhiṣikto'pi daiśikaḥ paratattvavit|<br />
-Kramādbhairavatantreṣu punaḥ saṁskāramarhati||</p>
-
-<p class="pv-iast">iti| Kramaścāsyaiṣa eva yat sarvalokavedasiddhāntavāmadakṣiṇakulamatabhūmiṣu paramārthapramātṛbhāva iti| Yathoktam</p>
-
-<p class="pv-iast pv-c">Yaśca sarvamayo nityaṁ tasmai sarvātmane namaḥ|</p>
-
-<p class="pv-iast">iti| Tadevānuttarametatsarvaṁ garbhīkṛtyoktaṁ nijavivṛtau somānandapādaiḥ kiṁbahunā sarvamevānuttaramanuttaratvāditi| Ayaṁ tātparyārthaḥ —</p>
-
-<p class="pv-iast">Itīdṛg vyākhyānaṁ tyaktvā yad anyairvyākhyātaṁ tatpradarśanaṁ dūṣaṇam| Yadyapi padavākyasaṁskāravihīnaiḥ saha vrīḍāvahā goṣṭhī kṛtā bhavati tathāpi sacetaso'nuttaramavabodhayituṁ tad ekavāraṁ tāvallikhyate — Anuttaramityādinā sārdhena ślokena śivaviṣayaḥ praśnaḥ| Hṛdayasthetyādinā ślokena śaktiviṣayaḥ| Tathā śṛṇu devītyatra prativacanagrantha uttarasyāpyanuttaramiti tatrārtha uttaraṁ ca śṛṇvanuttaraṁ ceti| Atra yadyeṣā trikārthābhiprāyeṇa vyākhyā tan naraviṣayatṛtīyapraśnaprasaṅgaḥ| Atha tu yāmalābhiprāyeṇa tatrāpi na dve vastunī śivaśaktyātmake yāmalamucyate yena pṛthak praśnaviṣayatopapattirathaśabdārthaśca na saṅgacchate — Sa hi sajātīyaniścayānantaryavṛttiruttarasvarūpāvadhāraṇamantareṇa cānuttaraviṣayasyaikapraśnasyānupapattiḥ| Tathāhi keṣucid vṛddhapustakeṣvīdṛk ślokāntaraṁ dṛśyate</p>
-
-<p class="pv-iast pv-c">Śrutaṁ deva mahājñānaṁ trikākhyaṁ parameśvara|<br />
-Uttaraṁ ca tathā jñānaṁ tvatprasādāvadhāritaṁ||</p>
-
-<p class="pv-iast">iti| Tasmāt śrīsomānandapādanirūpitavyākhyānusāreṇaiva yad guravaḥ samādikṣan tadeva sarvasya karoti śivam|</p>
-
-<p class="pv-iast pv-c">Ityasaṁskṛtadurvyākhyātāmasonmūlanavrataḥ|<br />
-Ṣaḍardhaśāsanāpūtahṛdambujavikāsakaḥ||<br />
-Saṁstyānānantapāśaughavilāpanalasadruciḥ|<br />
-Dīpto'bhinavaguptena vyākhyābhānuḥ prakāśitaḥ||</p>
-
-<p class="pv-iast">Evaṁ yato'yaṁ kauliko vidhiḥ prabhavati yatra ca pratiṣṭhāpadavīṁ bhajate yanmayaṁ cedaṁ kaulikaṁ tadevānutttaramityuktam| Tatra kastāvat kauliko vidhiḥ kathaṁ cāsya prasaro'nuttarāt kathaṁ cātraivāsya pratiṣṭhā kathaṁ cānuttaraikarūpatvaṁ yaccoktaṁ — Uttarasyāpyanuttaramiti tat sarvaṁ yuktyāgamasvasaṁvedananiṣkarṣaṇatattvāvabodhāvāptavimarśanipuṇān śiṣyān prati vitatya nirṇinīṣurbhagavān prastauti granthāntarametāvaddṛḍhopadeśanirdalitabhedābhimānavikalpānalpasaṁskārāṇaṁ tu sarvametāvataiva anuttaraṁ kathamityādisārdhaślokayugalanigamitena praśnena śṛṇu devi ityādinā sārdhaślokanirṇītena cottareṇānuttarapadaprāptivaśāviṣṭajīvanmuktabhāvānāṁ kṛtakṛtyatā| Atastāvanmātra eva dṛḍhapratipattipavitrīkṛtairviśramaṇīyam — Ityudbhujāḥ phūtkurmaḥ| Tadanuttaraparabhairavapadavimaladarpaṇāntarniviṣṭakaulikapadapraviviktaye granthāntaramavataratītyuktam||4||</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">एवं यतोऽयं कौलिको विधिः प्रभवति यत्र च प्रतिष्ठापदवीं भजते यन्मयं चेदं कौलिकं तदेवानुत्त्तरमित्युक्तम्। तत्र कस्तावत् कौलिको विधिः कथं चास्य प्रसरोऽनुत्तरात् कथं चात्रैवास्य प्रतिष्ठा कथं चानुत्तरैकरूपत्वं यच्चोक्तं — उत्तरस्याप्यनुत्तरमिति तत् सर्वं युक्त्यागमस्वसंवेदननिष्कर्षणतत्त्वावबोधावाप्तविमर्शनिपुणान् शिष्यान् प्रति वितत्य निर्णिनीषुर्भगवान् प्रस्तौति ग्रन्थान्तरमेतावद्दृढोपदेशनिर्दलितभेदाभिमानविकल्पानल्पसंस्काराणं तु सर्वमेतावतैव अनुत्तरं कथमित्यादिसार्धश्लोकयुगलनिगमितेन प्रश्नेन शृणु देवि इत्यादिना सार्धश्लोकनिर्णीतेन चोत्तरेणानुत्तरपदप्राप्तिवशाविष्टजीवन्मुक्तभावानां कृतकृत्यता। अतस्तावन्मात्र एव दृढप्रतिपत्तिपवित्रीकृतैर्विश्रमणीयम् — इत्युद्भुजाः फूत्कुर्मः। तदनुत्तरपरभैरवपदविमलदर्पणान्तर्निविष्टकौलिकपदप्रविविक्तये ग्रन्थान्तरमवतरतीत्युक्तम्॥४॥</span><br />
+<span class="pv-iast">Evaṁ yato'yaṁ kauliko vidhiḥ prabhavati yatra ca pratiṣṭhāpadavīṁ bhajate yanmayaṁ cedaṁ kaulikaṁ tadevānutttaramityuktam| Tatra kastāvat kauliko vidhiḥ kathaṁ cāsya prasaro'nuttarāt kathaṁ cātraivāsya pratiṣṭhā kathaṁ cānuttaraikarūpatvaṁ yaccoktaṁ — Uttarasyāpyanuttaramiti tat sarvaṁ yuktyāgamasvasaṁvedananiṣkarṣaṇatattvāvabodhāvāptavimarśanipuṇān śiṣyān prati vitatya nirṇinīṣurbhagavān prastauti granthāntarametāvaddṛḍhopadeśanirdalitabhedābhimānavikalpānalpasaṁskārāṇaṁ tu sarvametāvataiva anuttaraṁ kathamityādisārdhaślokayugalanigamitena praśnena śṛṇu devi ityādinā sārdhaślokanirṇītena cottareṇānuttarapadaprāptivaśāviṣṭajīvanmuktabhāvānāṁ kṛtakṛtyatā| Atastāvanmātra eva dṛḍhapratipattipavitrīkṛtairviśramaṇīyam — Ityudbhujāḥ phūtkurmaḥ| Tadanuttaraparabhairavapadavimaladarpaṇāntarniviṣṭakaulikapadapraviviktaye granthāntaramavataratītyuktam||4||</span></p>
 
 <hr class="pv-rule" />
 
@@ -226,3 +204,5 @@ _[Так Абхинавагупта закрывает раздел «Bimba», �
 ---
 
 *Перевод на русский сделан для этого сайта по английскому изложению Габриэля Pradīpaka: [Строфы 3–4, часть 4](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-4/797). Санскрит (деванагари и IAST) перенесён из источника без изменений.*
+
+<script src="/assets/js/pv-copy.js"></script>

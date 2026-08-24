@@ -11,9 +11,9 @@ title: "Parātrīśikāvivaraṇa: строфы 1–2, часть 4"
 <div class="pv-nav nosearch" markdown="1">
 **На этой странице**<br />
 [Введение](#s1)<br />
-[Строфа 1 (четвёртая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)<br />
-[Строфа 1½](#s3) — [санскрит](#s3-sa) · [транслитерация](#s3-iast) · [перевод](#s3-ru)<br />
-[Строфа 2](#s4) — [санскрит](#s4-sa) · [транслитерация](#s4-iast) · [перевод](#s4-ru)
+[Строфа 1 (четвёртая часть комментария)](#s2) — [санскрит](#s2-sa) · [перевод](#s2-ru)<br />
+[Строфа 1½](#s3) — [санскрит](#s3-sa) · [перевод](#s3-ru)<br />
+[Строфа 2](#s4) — [санскрит](#s4-sa) · [перевод](#s4-ru)
 </div>
 
 ## Введение {#s1}
@@ -32,99 +32,79 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфа 1 (четвёртая часть комментария) {#s2}
 
-<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">शिवो हि परवाङ्मयमहामन्त्रवीर्यविसृष्टिमयः परमेश्वरीविसृष्ट्या तद्वीर्यघनतात्मकप्रसूननिर्भरया सृष्ट्या युज्यते तथा हि सर्वेषामन्तर्बहिष्करणानां यद्यद् अनुप्रविशति तत्तन् मध्यनाडीभुवि सर्वाङ्गानुप्राणनसारायां प्राणात्मना चेतनरूपेणास्ते यद् ओज इति कथ्यते। तदेव सर्वाङ्गेष्वनुप्राणकतया तदविभक्तवीर्यरूपत्वेन ततोऽपि पुनरपि नयनश्रवणादीन्द्रियद्वारेण बृंहकरूपं रूपशब्दाद्यनुप्रविशद्बृहकत्वादेव तद् वीर्यक्षोभरूपकामानलप्रबोधकं भवति। कथोक्तम्</p>
+<p class="pv-copy nosearch pv-anchor" id="s2-sa"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
-<p class="pv-sa pv-c" lang="sa">आलापाद्गात्रसंस्पर्शात्...॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">शिवो हि परवाङ्मयमहामन्त्रवीर्यविसृष्टिमयः परमेश्वरीविसृष्ट्या तद्वीर्यघनतात्मकप्रसूननिर्भरया सृष्ट्या युज्यते तथा हि सर्वेषामन्तर्बहिष्करणानां यद्यद् अनुप्रविशति तत्तन् मध्यनाडीभुवि सर्वाङ्गानुप्राणनसारायां प्राणात्मना चेतनरूपेणास्ते यद् ओज इति कथ्यते। तदेव सर्वाङ्गेष्वनुप्राणकतया तदविभक्तवीर्यरूपत्वेन ततोऽपि पुनरपि नयनश्रवणादीन्द्रियद्वारेण बृंहकरूपं रूपशब्दाद्यनुप्रविशद्बृहकत्वादेव तद् वीर्यक्षोभरूपकामानलप्रबोधकं भवति। कथोक्तम्</span><br />
+<span class="pv-iast">Śivo hi paravāṅmayamahāmantravīryavisṛṣṭimayaḥ parameśvarīvisṛṣṭyā tadvīryaghanatātmakaprasūnanirbharayā sṛṣṭyā yujyate tathā hi sarveṣāmantarbahiṣkaraṇānāṁ yadyad anupraviśati tattan madhyanāḍībhuvi sarvāṅgānuprāṇanasārāyāṁ prāṇātmanā cetanarūpeṇāste yad oja iti kathyate| Tadeva sarvāṅgeṣvanuprāṇakatayā tadavibhaktavīryarūpatvena tato'pi punarapi nayanaśravaṇādīndriyadvāreṇa bṛṁhakarūpaṁ rūpaśabdādyanupraviśadbṛhakatvādeva tad vīryakṣobharūpakāmānalaprabodhakaṁ bhavati| Kathoktam</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि। एकेनैव च रूपाद्यन्यतमेनोद्रिक्तप्राक्तनबलोपबृंहितस्य सर्वविषयकरणीयोक्तक्षोभकरणसमर्थत्वं सर्वस्य सर्वस्य सर्वसर्वात्मकत्वात्। स्मरणविकल्पादिनापि सर्वमयनोगतानन्तशब्दादिबृंहणवशाज्जायत एव क्षोभः परिपुष्टसर्वमयमहावीर्यमेव पुष्टिसृष्टिकारि न त्वपूर्णं नापि क्षीणं समुचितशैशववार्धकयोरिव। वीर्यविक्षोभे च वीर्यस्य स्वमयत्वेनाभिन्नस्याप्यदेशकालकलितस्पन्दमयमहाविमर्शरूपमेव परिपूर्णभैरवसंविदात्मकं स्वातन्त्र्यमानन्दशक्तिमयं सुखप्रसवभूः। नयनयोरपि हि रूपं तद्वीर्यक्षोभात्मकमहाविसर्गविश्लेषणयुक्त्यैव सुखदायि भवति। श्रवणयोश्च मधुरगीतादि। अन्यत्रापीन्द्रियेऽन्यत् केवलं परिपूर्णसृष्टितां न अश्नुते स्वात्मन्येवोच्छलनात्। तथा च तद्वीर्यानुपबृंहितानामविद्यमानतथाविधवीर्यविक्षोभात्मकमदनानन्दानां पाषाणानामिव रमणीयतरतरुणीरूपमपि नितम्बिनीवदनघूर्णमानकाकलीकलगीतमपि न पूर्णानन्दपर्यवसायि यथा यथा च न बृंहकं भवति तथा तथा परिमितचमत्कारपर्यवसानम्। सर्वतो ह्यचमत्कारे जडतैवाधिकचमत्कारावेश एव वीर्यक्षोभात्मा सहृदयता उच्यते। यस्यैवैतद्भोगासङ्गाभ्यासनिवेशितानन्तबृंहकवीर्यबृंहितं हृदयं तस्यैव सातिशयचमत्क्रिया। दुःखेऽप्येष एव चमत्कारोऽन्तर्व्यवस्थितं हि यत्तद् दयितासुतसुखादि वीर्यात्मकं तदेव भावनासदृशदृगाक्रन्दादिबोधेन क्षोभात्मकं विकासमापन्नं पुनर्न भविष्यतीति नैरपेक्ष्यवशसविशेषचमत्क्रियात्म दुःखसतत्त्वम्। तदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">आलापाद्गात्रसंस्पर्शात्...॥</span><br />
+<span class="pv-iast">Ālāpādgātrasaṁsparśāt...||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">दुःखेऽपि प्रविकासेन...।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इत्यादि। एकेनैव च रूपाद्यन्यतमेनोद्रिक्तप्राक्तनबलोपबृंहितस्य सर्वविषयकरणीयोक्तक्षोभकरणसमर्थत्वं सर्वस्य सर्वस्य सर्वसर्वात्मकत्वात्। स्मरणविकल्पादिनापि सर्वमयनोगतानन्तशब्दादिबृंहणवशाज्जायत एव क्षोभः परिपुष्टसर्वमयमहावीर्यमेव पुष्टिसृष्टिकारि न त्वपूर्णं नापि क्षीणं समुचितशैशववार्धकयोरिव। वीर्यविक्षोभे च वीर्यस्य स्वमयत्वेनाभिन्नस्याप्यदेशकालकलितस्पन्दमयमहाविमर्शरूपमेव परिपूर्णभैरवसंविदात्मकं स्वातन्त्र्यमानन्दशक्तिमयं सुखप्रसवभूः। नयनयोरपि हि रूपं तद्वीर्यक्षोभात्मकमहाविसर्गविश्लेषणयुक्त्यैव सुखदायि भवति। श्रवणयोश्च मधुरगीतादि। अन्यत्रापीन्द्रियेऽन्यत् केवलं परिपूर्णसृष्टितां न अश्नुते स्वात्मन्येवोच्छलनात्। तथा च तद्वीर्यानुपबृंहितानामविद्यमानतथाविधवीर्यविक्षोभात्मकमदनानन्दानां पाषाणानामिव रमणीयतरतरुणीरूपमपि नितम्बिनीवदनघूर्णमानकाकलीकलगीतमपि न पूर्णानन्दपर्यवसायि यथा यथा च न बृंहकं भवति तथा तथा परिमितचमत्कारपर्यवसानम्। सर्वतो ह्यचमत्कारे जडतैवाधिकचमत्कारावेश एव वीर्यक्षोभात्मा सहृदयता उच्यते। यस्यैवैतद्भोगासङ्गाभ्यासनिवेशितानन्तबृंहकवीर्यबृंहितं हृदयं तस्यैव सातिशयचमत्क्रिया। दुःखेऽप्येष एव चमत्कारोऽन्तर्व्यवस्थितं हि यत्तद् दयितासुतसुखादि वीर्यात्मकं तदेव भावनासदृशदृगाक्रन्दादिबोधेन क्षोभात्मकं विकासमापन्नं पुनर्न भविष्यतीति नैरपेक्ष्यवशसविशेषचमत्क्रियात्म दुःखसतत्त्वम्। तदुक्तम्</span><br />
+<span class="pv-iast">ityādi| Ekenaiva ca rūpādyanyatamenodriktaprāktanabalopabṛṁhitasya sarvaviṣayakaraṇīyoktakṣobhakaraṇasamarthatvaṁ sarvasya sarvasya sarvasarvātmakatvāt| Smaraṇavikalpādināpi sarvamayanogatānantaśabdādibṛṁhaṇavaśājjāyata eva kṣobhaḥ paripuṣṭasarvamayamahāvīryameva puṣṭisṛṣṭikāri na tvapūrṇaṁ nāpi kṣīṇaṁ samucitaśaiśavavārdhakayoriva| Vīryavikṣobhe ca vīryasya svamayatvenābhinnasyāpyadeśakālakalitaspandamayamahāvimarśarūpameva paripūrṇabhairavasaṁvidātmakaṁ svātantryamānandaśaktimayaṁ sukhaprasavabhūḥ| Nayanayorapi hi rūpaṁ tadvīryakṣobhātmakamahāvisargaviśleṣaṇayuktyaiva sukhadāyi bhavati| Śravaṇayośca madhuragītādi| Anyatrāpīndriye'nyat kevalaṁ paripūrṇasṛṣṭitāṁ na aśnute svātmanyevocchalanāt| Tathā ca tadvīryānupabṛṁhitānāmavidyamānatathāvidhavīryavikṣobhātmakamadanānandānāṁ pāṣāṇānāmiva ramaṇīyatarataruṇīrūpamapi nitambinīvadanaghūrṇamānakākalīkalagītamapi na pūrṇānandaparyavasāyi yathā yathā ca na bṛṁhakaṁ bhavati tathā tathā parimitacamatkāraparyavasānam| Sarvato hyacamatkāre jaḍataivādhikacamatkārāveśa eva vīryakṣobhātmā sahṛdayatā ucyate| Yasyaivaitadbhogāsaṅgābhyāsaniveśitānantabṛṁhakavīryabṛṁhitaṁ hṛdayaṁ tasyaiva sātiśayacamatkriyā| Duḥkhe'pyeṣa eva camatkāro'ntarvyavasthitaṁ hi yattad dayitāsutasukhādi vīryātmakaṁ tadeva bhāvanāsadṛśadṛgākrandādibodhena kṣobhātmakaṁ vikāsamāpannaṁ punarna bhaviṣyatīti nairapekṣyavaśasaviśeṣacamatkriyātma duḥkhasatattvam| Taduktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। यदा सकलेन्द्रियनाडीभूतमरुदादिपरिपूरणे तु महामध्यमसौषुम्नपदानुप्रवेशे निजशक्तिक्षोभतादात्म्यं प्रतिपद्यते तदा सर्वतो द्वैतगलने परिपूर्णस्वशक्तिभरविमर्शाहन्तामयचमत्कारानुप्रवेशे — परिपूर्णसृष्ट्यानन्दरूपरुद्रयामलयोगानुप्रवेशेन तन्महामन्त्रवीर्यविसर्गविश्लेषणात्मना ध्रुवपदात्मकनिस्तरङ्गाकुलभैरवभावाभिव्यक्तिः। तथाहि तन्मध्यनाडीरूपस्योभयलिङ्गात्मनोऽपि तद्वीर्योत्साहबललब्धावष्ट्म्भस्य कम्पकाले सकलवीर्यक्षोभोज्जिगमिषात्मकमन्तःस्पर्शसुखं स्वसंवित्साक्षिकमेव। न चैतत्कल्पितशरीरनिष्ठतयैव केवलं तदभिज्ञानोपदेशद्वारेणेयति महामन्त्रवीर्यविसर्गविश्लेषणावाप्तध्रुवपदे परब्रह्ममयशिवशक्तिसङ्घट्टानन्दस्वातन्त्र्यसृष्टिपराभट्टारिकारूपेऽनुप्रवेशः। तद्वक्ष्यते</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">दुःखेऽपि प्रविकासेन...।</span><br />
+<span class="pv-iast">Duḥkhe'pi pravikāsena...|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">ततः सृष्टिं यजेत्...।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। यदा सकलेन्द्रियनाडीभूतमरुदादिपरिपूरणे तु महामध्यमसौषुम्नपदानुप्रवेशे निजशक्तिक्षोभतादात्म्यं प्रतिपद्यते तदा सर्वतो द्वैतगलने परिपूर्णस्वशक्तिभरविमर्शाहन्तामयचमत्कारानुप्रवेशे — परिपूर्णसृष्ट्यानन्दरूपरुद्रयामलयोगानुप्रवेशेन तन्महामन्त्रवीर्यविसर्गविश्लेषणात्मना ध्रुवपदात्मकनिस्तरङ्गाकुलभैरवभावाभिव्यक्तिः। तथाहि तन्मध्यनाडीरूपस्योभयलिङ्गात्मनोऽपि तद्वीर्योत्साहबललब्धावष्ट्म्भस्य कम्पकाले सकलवीर्यक्षोभोज्जिगमिषात्मकमन्तःस्पर्शसुखं स्वसंवित्साक्षिकमेव। न चैतत्कल्पितशरीरनिष्ठतयैव केवलं तदभिज्ञानोपदेशद्वारेणेयति महामन्त्रवीर्यविसर्गविश्लेषणावाप्तध्रुवपदे परब्रह्ममयशिवशक्तिसङ्घट्टानन्दस्वातन्त्र्यसृष्टिपराभट्टारिकारूपेऽनुप्रवेशः। तद्वक्ष्यते</span><br />
+<span class="pv-iast">iti| Yadā sakalendriyanāḍībhūtamarudādiparipūraṇe tu mahāmadhyamasauṣumnapadānupraveśe nijaśaktikṣobhatādātmyaṁ pratipadyate tadā sarvato dvaitagalane paripūrṇasvaśaktibharavimarśāhantāmayacamatkārānupraveśe — Paripūrṇasṛṣṭyānandarūparudrayāmalayogānupraveśena tanmahāmantravīryavisargaviśleṣaṇātmanā dhruvapadātmakanistaraṅgākulabhairavabhāvābhivyaktiḥ| Tathāhi tanmadhyanāḍīrūpasyobhayaliṅgātmano'pi tadvīryotsāhabalalabdhāvaṣṭmbhasya kampakāle sakalavīryakṣobhojjigamiṣātmakamantaḥsparśasukhaṁ svasaṁvitsākṣikameva| Na caitatkalpitaśarīraniṣṭhatayaiva kevalaṁ tadabhijñānopadeśadvāreṇeyati mahāmantravīryavisargaviśleṣaṇāvāptadhruvapade parabrahmamayaśivaśaktisaṅghaṭṭānandasvātantryasṛṣṭiparābhaṭṭārikārūpe'nupraveśaḥ| Tadvakṣyate</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि। तथा</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">ततः सृष्टिं यजेत्...।</span><br />
+<span class="pv-iast">Tataḥ sṛṣṭiṁ yajet...|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">यथा न्यग्रोधबीजस्थः...।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इत्यादि। तथा</span><br />
+<span class="pv-iast">ityādi| Tathā</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि। तथा</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">यथा न्यग्रोधबीजस्थः...।</span><br />
+<span class="pv-iast">Yathā nyagrodhabījasthaḥ...|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">... इत्येतद्रुद्रयामलम्॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इत्यादि। तथा</span><br />
+<span class="pv-iast">ityādi| Tathā</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि। अन्यत्राप्युक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">... इत्येतद्रुद्रयामलम्॥</span><br />
+<span class="pv-iast">... ityetadrudrayāmalam||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">लेहनामन्थनाकोटैः स्त्रीमुखस्य भरात्स्मृतेः।<br />
-शक्त्यभावेऽपि देवेशि भवेदानन्दसम्प्लवः॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इत्यादि। अन्यत्राप्युक्तम्</span><br />
+<span class="pv-iast">ityādi| Anyatrāpyuktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। भरात्स्मर्यमाणो हि संस्पर्शः तत्स्पर्शक्षेत्रे च मध्यमाकृतिमपरात्मकशक्तिनालिकाप्रतिबिम्बितः तन्मुख्यशाक्तस्पर्शाभावेऽपि तदन्तर्वृत्तिशाक्तस्पर्शात्मकवीर्यक्षोभकारी भवतीत्यभिप्रायेण। तथा</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">लेहनामन्थनाकोटैः स्त्रीमुखस्य भरात्स्मृतेः।</span><br />
+<span class="pv-iast">Lehanāmanthanākoṭaiḥ strīmukhasya bharātsmṛteḥ|</span><br />
+<span class="pv-sa" lang="sa">शक्त्यभावेऽपि देवेशि भवेदानन्दसम्प्लवः॥</span><br />
+<span class="pv-iast">Śaktyabhāve'pi deveśi bhavedānandasamplavaḥ||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">शक्तिसङ्गमसङ्क्षोभशक्त्यावेशावसानिकम्।<br />
-यत्सुखं ब्रह्मतत्त्वस्य तत्सुखं स्वाक्यमुच्यते॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। भरात्स्मर्यमाणो हि संस्पर्शः तत्स्पर्शक्षेत्रे च मध्यमाकृतिमपरात्मकशक्तिनालिकाप्रतिबिम्बितः तन्मुख्यशाक्तस्पर्शाभावेऽपि तदन्तर्वृत्तिशाक्तस्पर्शात्मकवीर्यक्षोभकारी भवतीत्यभिप्रायेण। तथा</span><br />
+<span class="pv-iast">iti| Bharātsmaryamāṇo hi saṁsparśaḥ tatsparśakṣetre ca madhyamākṛtimaparātmakaśaktinālikāpratibimbitaḥ tanmukhyaśāktasparśābhāve'pi tadantarvṛttiśāktasparśātmakavīryakṣobhakārī bhavatītyabhiprāyeṇa| Tathā</span></p>
 
-<p class="pv-sa" lang="sa">इति।</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">शक्तिसङ्गमसङ्क्षोभशक्त्यावेशावसानिकम्।</span><br />
+<span class="pv-iast">Śaktisaṅgamasaṅkṣobhaśaktyāveśāvasānikam|</span><br />
+<span class="pv-sa" lang="sa">यत्सुखं ब्रह्मतत्त्वस्य तत्सुखं स्वाक्यमुच्यते॥</span><br />
+<span class="pv-iast">Yatsukhaṁ brahmatattvasya tatsukhaṁ svākyamucyate||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">... स्नेहात्कौलिकमादिशेत्।</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति।</span><br />
+<span class="pv-iast">iti|</span></p>
 
-<p class="pv-sa" lang="sa">इति च। महावीरेण भगवता व्यासेनापि</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">... स्नेहात्कौलिकमादिशेत्।</span><br />
+<span class="pv-iast">... snehātkaulikamādiśet|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्।<br />
-सम्भवः सर्वभूतानां ततो भवति भारत॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति च। महावीरेण भगवता व्यासेनापि</span><br />
+<span class="pv-iast">iti ca| Mahāvīreṇa bhagavatā vyāsenāpi</span></p>
 
-<p class="pv-sa" lang="sa">इति गीतम्। सोमानन्दपादैरपि निजविवृतौ</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्।</span><br />
+<span class="pv-iast">Mama yonirmahadbrahma tasmin garbhaṁ dadhāmyaham|</span><br />
+<span class="pv-sa" lang="sa">सम्भवः सर्वभूतानां ततो भवति भारत॥</span><br />
+<span class="pv-iast">Sambhavaḥ sarvabhūtānāṁ tato bhavati bhārata||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">भगवत्या रतस्थायाः प्रश्न इति परैकमयत्वेऽपि तन्मयमहदन्तरालाभिप्रायेण</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति गीतम्। सोमानन्दपादैरपि निजविवृतौ</span><br />
+<span class="pv-iast">iti gītam| Somānandapādairapi nijavivṛtau</span></p>
 
-<p class="pv-sa" lang="sa">इति।</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">भगवत्या रतस्थायाः प्रश्न इति परैकमयत्वेऽपि तन्मयमहदन्तरालाभिप्रायेण</span><br />
+<span class="pv-iast">Bhagavatyā ratasthāyāḥ praśna iti paraikamayatve'pi tanmayamahadantarālābhiprāyeṇa</span></p>
 
-<p class="pv-sa" lang="sa">तदलममुना त्रिकशास्त्ररहस्योपदेशकथातिप्रस्तावेन। तदिदमनुत्तरं कौलिकसिद्धिदं येन ज्ञातमात्रेण खेचरीसाम्यमुक्तनयेन॥१॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति।</span><br />
+<span class="pv-iast">iti|</span></p>
 
-<p class="pv-iast pv-anchor" id="s2-iast">Śivo hi paravāṅmayamahāmantravīryavisṛṣṭimayaḥ parameśvarīvisṛṣṭyā tadvīryaghanatātmakaprasūnanirbharayā sṛṣṭyā yujyate tathā hi sarveṣāmantarbahiṣkaraṇānāṁ yadyad anupraviśati tattan madhyanāḍībhuvi sarvāṅgānuprāṇanasārāyāṁ prāṇātmanā cetanarūpeṇāste yad oja iti kathyate| Tadeva sarvāṅgeṣvanuprāṇakatayā tadavibhaktavīryarūpatvena tato'pi punarapi nayanaśravaṇādīndriyadvāreṇa bṛṁhakarūpaṁ rūpaśabdādyanupraviśadbṛhakatvādeva tad vīryakṣobharūpakāmānalaprabodhakaṁ bhavati| Kathoktam</p>
-
-<p class="pv-iast pv-c">Ālāpādgātrasaṁsparśāt...||</p>
-
-<p class="pv-iast">ityādi| Ekenaiva ca rūpādyanyatamenodriktaprāktanabalopabṛṁhitasya sarvaviṣayakaraṇīyoktakṣobhakaraṇasamarthatvaṁ sarvasya sarvasya sarvasarvātmakatvāt| Smaraṇavikalpādināpi sarvamayanogatānantaśabdādibṛṁhaṇavaśājjāyata eva kṣobhaḥ paripuṣṭasarvamayamahāvīryameva puṣṭisṛṣṭikāri na tvapūrṇaṁ nāpi kṣīṇaṁ samucitaśaiśavavārdhakayoriva| Vīryavikṣobhe ca vīryasya svamayatvenābhinnasyāpyadeśakālakalitaspandamayamahāvimarśarūpameva paripūrṇabhairavasaṁvidātmakaṁ svātantryamānandaśaktimayaṁ sukhaprasavabhūḥ| Nayanayorapi hi rūpaṁ tadvīryakṣobhātmakamahāvisargaviśleṣaṇayuktyaiva sukhadāyi bhavati| Śravaṇayośca madhuragītādi| Anyatrāpīndriye'nyat kevalaṁ paripūrṇasṛṣṭitāṁ na aśnute svātmanyevocchalanāt| Tathā ca tadvīryānupabṛṁhitānāmavidyamānatathāvidhavīryavikṣobhātmakamadanānandānāṁ pāṣāṇānāmiva ramaṇīyatarataruṇīrūpamapi nitambinīvadanaghūrṇamānakākalīkalagītamapi na pūrṇānandaparyavasāyi yathā yathā ca na bṛṁhakaṁ bhavati tathā tathā parimitacamatkāraparyavasānam| Sarvato hyacamatkāre jaḍataivādhikacamatkārāveśa eva vīryakṣobhātmā sahṛdayatā ucyate| Yasyaivaitadbhogāsaṅgābhyāsaniveśitānantabṛṁhakavīryabṛṁhitaṁ hṛdayaṁ tasyaiva sātiśayacamatkriyā| Duḥkhe'pyeṣa eva camatkāro'ntarvyavasthitaṁ hi yattad dayitāsutasukhādi vīryātmakaṁ tadeva bhāvanāsadṛśadṛgākrandādibodhena kṣobhātmakaṁ vikāsamāpannaṁ punarna bhaviṣyatīti nairapekṣyavaśasaviśeṣacamatkriyātma duḥkhasatattvam| Taduktam</p>
-
-<p class="pv-iast pv-c">Duḥkhe'pi pravikāsena...|</p>
-
-<p class="pv-iast">iti| Yadā sakalendriyanāḍībhūtamarudādiparipūraṇe tu mahāmadhyamasauṣumnapadānupraveśe nijaśaktikṣobhatādātmyaṁ pratipadyate tadā sarvato dvaitagalane paripūrṇasvaśaktibharavimarśāhantāmayacamatkārānupraveśe — Paripūrṇasṛṣṭyānandarūparudrayāmalayogānupraveśena tanmahāmantravīryavisargaviśleṣaṇātmanā dhruvapadātmakanistaraṅgākulabhairavabhāvābhivyaktiḥ| Tathāhi tanmadhyanāḍīrūpasyobhayaliṅgātmano'pi tadvīryotsāhabalalabdhāvaṣṭmbhasya kampakāle sakalavīryakṣobhojjigamiṣātmakamantaḥsparśasukhaṁ svasaṁvitsākṣikameva| Na caitatkalpitaśarīraniṣṭhatayaiva kevalaṁ tadabhijñānopadeśadvāreṇeyati mahāmantravīryavisargaviśleṣaṇāvāptadhruvapade parabrahmamayaśivaśaktisaṅghaṭṭānandasvātantryasṛṣṭiparābhaṭṭārikārūpe'nupraveśaḥ| Tadvakṣyate</p>
-
-<p class="pv-iast pv-c">Tataḥ sṛṣṭiṁ yajet...|</p>
-
-<p class="pv-iast">ityādi| Tathā</p>
-
-<p class="pv-iast pv-c">Yathā nyagrodhabījasthaḥ...|</p>
-
-<p class="pv-iast">ityādi| Tathā</p>
-
-<p class="pv-iast pv-c">... ityetadrudrayāmalam||</p>
-
-<p class="pv-iast">ityādi| Anyatrāpyuktam</p>
-
-<p class="pv-iast pv-c">Lehanāmanthanākoṭaiḥ strīmukhasya bharātsmṛteḥ|<br />
-Śaktyabhāve'pi deveśi bhavedānandasamplavaḥ||</p>
-
-<p class="pv-iast">iti| Bharātsmaryamāṇo hi saṁsparśaḥ tatsparśakṣetre ca madhyamākṛtimaparātmakaśaktinālikāpratibimbitaḥ tanmukhyaśāktasparśābhāve'pi tadantarvṛttiśāktasparśātmakavīryakṣobhakārī bhavatītyabhiprāyeṇa| Tathā</p>
-
-<p class="pv-iast pv-c">Śaktisaṅgamasaṅkṣobhaśaktyāveśāvasānikam|<br />
-Yatsukhaṁ brahmatattvasya tatsukhaṁ svākyamucyate||</p>
-
-iti|
-
-<p class="pv-iast pv-c">... snehātkaulikamādiśet|</p>
-
-<p class="pv-iast">iti ca| Mahāvīreṇa bhagavatā vyāsenāpi</p>
-
-<p class="pv-iast pv-c">Mama yonirmahadbrahma tasmin garbhaṁ dadhāmyaham|<br />
-Sambhavaḥ sarvabhūtānāṁ tato bhavati bhārata||</p>
-
-<p class="pv-iast">iti gītam| Somānandapādairapi nijavivṛtau</p>
-
-<p class="pv-iast pv-c">Bhagavatyā ratasthāyāḥ praśna iti paraikamayatve'pi tanmayamahadantarālābhiprāyeṇa</p>
-
-iti|
-
-<p class="pv-iast">Tadalamamunā trikaśāstrarahasyopadeśakathātiprastāvena| Tadidamanuttaraṁ kaulikasiddhidaṁ yena jñātamātreṇa khecarīsāmyamuktanayena||1||</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">तदलममुना त्रिकशास्त्ररहस्योपदेशकथातिप्रस्तावेन। तदिदमनुत्तरं कौलिकसिद्धिदं येन ज्ञातमात्रेण खेचरीसाम्यमुक्तनयेन॥१॥</span><br />
+<span class="pv-iast">Tadalamamunā trikaśāstrarahasyopadeśakathātiprastāvena| Tadidamanuttaraṁ kaulikasiddhidaṁ yena jñātamātreṇa khecarīsāmyamuktanayena||1||</span></p>
 
 <ruby>Śiva<rp> (</rp><rt>śivaḥ</rt><rp>)</rp></ruby> <ruby>и впрямь<rp> (</rp><rt>hi</rt><rp>)</rp></ruby>, <ruby>исполненный<rp> (</rp><rt>mayaḥ</rt><rp>)</rp></ruby> разворачивающего творчества — букв. <ruby>эмиссии, творения и прочего —<rp> (</rp><rt>visṛṣṭi</rt><rp>)</rp></ruby> <ruby>мощью<rp> (</rp><rt>vīrya</rt><rp>)</rp></ruby> <ruby>Великой Мантры<rp> (</rp><rt>mahā-mantra</rt><rp>)</rp></ruby>, <ruby>состоящей<rp> (</rp><rt>maya</rt><rp>)</rp></ruby> <ruby>из Высшей<rp> (</rp><rt>para</rt><rp>)</rp></ruby> <ruby>Речи<rp> (</rp><rt>vāk</rt><rp>)</rp></ruby>, то есть из «Aham», «Я», — <ruby>творя, то есть проявляя<rp> (</rp><rt>visṛṣṭyā</rt><rp>)</rp></ruby> <ruby>через Высшую<rp> (</rp><rt>parama</rt><rp>)</rp></ruby> <ruby>Владычицу<rp> (</rp><rt>īśvarī</rt><rp>)</rp></ruby>, <ruby>то есть Śakti, исполненную<rp> (</rp><rt>nirbharayā</rt><rp>)</rp></ruby> <ruby>бутонов<rp> (</rp><rt>prasūna</rt><rp>)</rp></ruby>, <ruby>составленных<rp> (</rp><rt>ātmaka</rt><rp>)</rp></ruby> <ruby>из плотности<rp> (</rp><rt>ghanatā</rt><rp>)</rp></ruby> <ruby>Её<rp> (</rp><rt>tad</rt><rp>)</rp></ruby> <ruby>Мощи<rp> (</rp><rt>vīrya</rt><rp>)</rp></ruby>, — <ruby>принимается<rp> (</rp><rt>yujyate</rt><rp>)</rp></ruby> <ruby>разворачивать проявление<rp> (</rp><rt>sṛṣṭyā</rt><rp>)</rp></ruby>. <ruby>А именно<rp> (</rp><rt>tathā hi</rt><rp>)</rp></ruby>: что бы (yad yad) <ruby>ни вошло<rp> (</rp><rt>anupraviśati</rt><rp>)</rp></ruby> в силы восприятия <ruby>и действия — Jñānendriya и Karmendriya —<rp> (</rp><rt>antar bahis-karaṇānām</rt><rp>)</rp></ruby> <ruby>кого бы то ни было<rp> (</rp><rt>sarveṣām</rt><rp>)</rp></ruby>, всё это (tad tad) <ruby>пребывает<rp> (</rp><rt>āste</rt><rp>)</rp></ruby> <ruby>как одушевлённая жизненная энергия<rp> (</rp><rt>prāṇa-ātmanā cetana-rūpeṇa</rt><rp>)</rp></ruby> <ruby>на ступени<rp> (</rp><rt>bhuvi</rt><rp>)</rp></ruby> <ruby>срединного<rp> (</rp><rt>madhya</rt><rp>)</rp></ruby> <ruby>тонкого канала<rp> (</rp><rt>nāḍī</rt><rp>)</rp></ruby> — <ruby>то есть в Suṣumnā, — чья суть<rp> (</rp><rt>sārāyām</rt><rp>)</rp></ruby> — <ruby>оживлять<rp> (</rp><rt>anuprāṇana</rt><rp>)</rp></ruby> <ruby>всё<rp> (</rp><rt>sarva</rt><rp>)</rp></ruby> <ruby>тело<rp> (</rp><rt>aṅga</rt><rp>)</rp></ruby>. _(И)_ это _(одушевлённая жизненная энергия)_ <span class="pv-w">(yad)</span> <ruby>зовётся<rp> (</rp><rt>kathyate</rt><rp>)</rp></ruby> «ojas» — букв. живительная сила (ojas iti).
 {: #s2-ru .pv-anchor}
@@ -207,93 +187,75 @@ iti|
 
 ## Строфа 1½ {#s3}
 
-<p class="pv-sa pv-src pv-c pv-anchor" id="s3-sa" lang="sa">एतद्गुह्यं महागुह्यं कथयस्व मम प्रभो।</p>
+<p class="pv-copy nosearch pv-anchor" id="s3-sa"><button type="button" data-pv-copy="w2" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w2" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
-<p class="pv-sa" lang="sa">गुह्यमप्रकटत्वाद्यतो गुहायां मायायां स्वरूपापरिज्ञानमय्यां स्थितमप्यप्रकटं। अथ च महद् अगुह्यं सर्वस्यैवंविधचमत्कारमयत्वात्। मातृमानमेयमयभेदाविभागशालिनी भगवती शुद्धविद्यैव त्रिकोणा मायायामतिशयप्रतिफलितभेदावग्रहा भवतीति मायापि जगज्जननभूर्विद्यैव वस्तुतस्तद् उक्तेन नयेन सैवम्भूतत्वेनापरिज्ञायमानत्वादभेदमाहात्म्यतिरोहिततत्प्रमात्रादिकोणत्रयत्वान्महागुहेत्युच्यते सैव च वस्तुतः पूजाधाम त्रिशूलं त्रिकार्थे। तदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa pv-src" lang="sa">एतद्गुह्यं महागुह्यं कथयस्व मम प्रभो।</span><br />
+<span class="pv-iast">Etadguhyaṁ mahāguhyaṁ kathayasva mama prabho|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">सा त्रिकोणा महाविद्या त्रिका सर्वरसास्पदम्।<br />
-विसर्गपदमेवैष तस्मात्सम्पूजयेत्त्रिकम्॥</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">गुह्यमप्रकटत्वाद्यतो गुहायां मायायां स्वरूपापरिज्ञानमय्यां स्थितमप्यप्रकटं। अथ च महद् अगुह्यं सर्वस्यैवंविधचमत्कारमयत्वात्। मातृमानमेयमयभेदाविभागशालिनी भगवती शुद्धविद्यैव त्रिकोणा मायायामतिशयप्रतिफलितभेदावग्रहा भवतीति मायापि जगज्जननभूर्विद्यैव वस्तुतस्तद् उक्तेन नयेन सैवम्भूतत्वेनापरिज्ञायमानत्वादभेदमाहात्म्यतिरोहिततत्प्रमात्रादिकोणत्रयत्वान्महागुहेत्युच्यते सैव च वस्तुतः पूजाधाम त्रिशूलं त्रिकार्थे। तदुक्तम्</span><br />
+<span class="pv-iast">Guhyamaprakaṭatvādyato guhāyāṁ māyāyāṁ svarūpāparijñānamayyāṁ sthitamapyaprakaṭaṁ| Atha ca mahad aguhyaṁ sarvasyaivaṁvidhacamatkāramayatvāt| Mātṛmānameyamayabhedāvibhāgaśālinī bhagavatī śuddhavidyaiva trikoṇā māyāyāmatiśayapratiphalitabhedāvagrahā bhavatīti māyāpi jagajjananabhūrvidyaiva vastutastad uktena nayena saivambhūtatvenāparijñāyamānatvādabhedamāhātmyatirohitatatpramātrādikoṇatrayatvānmahāguhetyucyate saiva ca vastutaḥ pūjādhāma triśūlaṁ trikārthe| Taduktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। तथा</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">सा त्रिकोणा महाविद्या त्रिका सर्वरसास्पदम्।</span><br />
+<span class="pv-iast">Sā trikoṇā mahāvidyā trikā sarvarasāspadam|</span><br />
+<span class="pv-sa" lang="sa">विसर्गपदमेवैष तस्मात्सम्पूजयेत्त्रिकम्॥</span><br />
+<span class="pv-iast">Visargapadamevaiṣa tasmātsampūjayettrikam||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">उदेत्येकः समालोकः प्रमाणार्थप्रमातृगः।</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। तथा</span><br />
+<span class="pv-iast">iti| Tathā</span></p>
 
-<p class="pv-sa" lang="sa">इति। ततश्चेदृश्यां महागुहायां शुद्धविद्याहृदयमय्यां महासृष्टिरूपायां जगज्जन्मभूमौ स्वचमत्काररूपेण भवति यन् महअ इति तद् एतद् गुह्यम्। एतेन हि यद् इदमविच्छिन्नभैरवभासा विमर्शरूपं स्वातन्त्र्यं भावेभ्यः स्वरूपप्रत्युपसंहारक्रमेणात्मविमर्शविश्रान्तिरूपत्वं प्रकाशस्य हि स्वाभाविकाकृत्रिमपरवाङ्मन्त्रवीर्यचमत्कारात्म अहमिति। यथोक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">उदेत्येकः समालोकः प्रमाणार्थप्रमातृगः।</span><br />
+<span class="pv-iast">Udetyekaḥ samālokaḥ pramāṇārthapramātṛgaḥ|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">प्रकाशस्यात्मविश्रान्तिरहंभावो हि कीर्तितः।</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। ततश्चेदृश्यां महागुहायां शुद्धविद्याहृदयमय्यां महासृष्टिरूपायां जगज्जन्मभूमौ स्वचमत्काररूपेण भवति यन् महअ इति तद् एतद् गुह्यम्। एतेन हि यद् इदमविच्छिन्नभैरवभासा विमर्शरूपं स्वातन्त्र्यं भावेभ्यः स्वरूपप्रत्युपसंहारक्रमेणात्मविमर्शविश्रान्तिरूपत्वं प्रकाशस्य हि स्वाभाविकाकृत्रिमपरवाङ्मन्त्रवीर्यचमत्कारात्म अहमिति। यथोक्तम्</span><br />
+<span class="pv-iast">iti| Tataścedṛśyāṁ mahāguhāyāṁ śuddhavidyāhṛdayamayyāṁ mahāsṛṣṭirūpāyāṁ jagajjanmabhūmau svacamatkārarūpeṇa bhavati yan mahaa iti tad etad guhyam| Etena hi yad idamavicchinnabhairavabhāsā vimarśarūpaṁ svātantryaṁ bhāvebhyaḥ svarūpapratyupasaṁhārakrameṇātmavimarśaviśrāntirūpatvaṁ prakāśasya hi svābhāvikākṛtrimaparavāṅmantravīryacamatkārātma ahamiti| Yathoktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। तदेव गुह्यमतिरहस्यम्। तथाहि — सृष्टिक्रमेण यथा अविकृतानुत्तरध्रुवरूपविश्रान्तो भैरवभट्टारकः सकलकलाजालजीवनभूतः सर्वस्यादिसिद्धोऽकलात्मकः स एव प्रसरात्मना रूपेण विसर्गरूपतामश्नुवानो विसर्गस्यैव कुण्डलिन्यात्मकहशक्तिमयत्वात् पुनरपि तच्छाक्तप्रसराभेदवेदकरूपबिन्द्वात्मना नररूपेण प्रसरति। तथा पुनरपि तन्मूलत्रिशूलप्राणपरशक्तित्रयोपसंहारे तद्विसर्गविश्लेषणया मूलध्रुवपदानुत्तरप्रवेशः सर्वदा स्फुटयिष्यते चैतद् अविदूरमेव। महे — परमानन्दरूपे पूर्वोक्ते यदिदमुक्तनयेन अ इति रूपं तदेव गुह्यमेतदेव च महागुह्यम् — जगज्जननधाम। तथा उभयसमापत्त्या आनन्देनागुह्यं सर्वचमत्कारमयम्। स्व आत्मन्नेव हे प्रभो एवंविधवैचित्र्यकारितया प्रभवनशील आमन्त्रणमेतत्। तच्च आमन्त्र्यस्यामन्त्रकं प्रति तादात्म्यमाभिमुख्यं प्रातिपदिकार्थादधिकार्थदायि। यथोक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">प्रकाशस्यात्मविश्रान्तिरहंभावो हि कीर्तितः।</span><br />
+<span class="pv-iast">Prakāśasyātmaviśrāntirahaṁbhāvo hi kīrtitaḥ|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">सम्बोधनाधिकः प्रातिपदिकार्थः।</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। तदेव गुह्यमतिरहस्यम्। तथाहि — सृष्टिक्रमेण यथा अविकृतानुत्तरध्रुवरूपविश्रान्तो भैरवभट्टारकः सकलकलाजालजीवनभूतः सर्वस्यादिसिद्धोऽकलात्मकः स एव प्रसरात्मना रूपेण विसर्गरूपतामश्नुवानो विसर्गस्यैव कुण्डलिन्यात्मकहशक्तिमयत्वात् पुनरपि तच्छाक्तप्रसराभेदवेदकरूपबिन्द्वात्मना नररूपेण प्रसरति। तथा पुनरपि तन्मूलत्रिशूलप्राणपरशक्तित्रयोपसंहारे तद्विसर्गविश्लेषणया मूलध्रुवपदानुत्तरप्रवेशः सर्वदा स्फुटयिष्यते चैतद् अविदूरमेव। महे — परमानन्दरूपे पूर्वोक्ते यदिदमुक्तनयेन अ इति रूपं तदेव गुह्यमेतदेव च महागुह्यम् — जगज्जननधाम। तथा उभयसमापत्त्या आनन्देनागुह्यं सर्वचमत्कारमयम्। स्व आत्मन्नेव हे प्रभो एवंविधवैचित्र्यकारितया प्रभवनशील आमन्त्रणमेतत्। तच्च आमन्त्र्यस्यामन्त्रकं प्रति तादात्म्यमाभिमुख्यं प्रातिपदिकार्थादधिकार्थदायि। यथोक्तम्</span><br />
+<span class="pv-iast">iti| Tadeva guhyamatirahasyam| Tathāhi — Sṛṣṭikrameṇa yathā avikṛtānuttaradhruvarūpaviśrānto bhairavabhaṭṭārakaḥ sakalakalājālajīvanabhūtaḥ sarvasyādisiddho'kalātmakaḥ sa eva prasarātmanā rūpeṇa visargarūpatāmaśnuvāno visargasyaiva kuṇḍalinyātmakahaśaktimayatvāt punarapi tacchāktaprasarābhedavedakarūpabindvātmanā nararūpeṇa prasarati| Tathā punarapi tanmūlatriśūlaprāṇaparaśaktitrayopasaṁhāre tadvisargaviśleṣaṇayā mūladhruvapadānuttarapraveśaḥ sarvadā sphuṭayiṣyate caitad avidūrameva| Mahe — Paramānandarūpe pūrvokte yadidamuktanayena a iti rūpaṁ tadeva guhyametadeva ca mahāguhyam — Jagajjananadhāma| Tathā ubhayasamāpattyā ānandenāguhyaṁ sarvacamatkāramayam| Sva ātmanneva he prabho evaṁvidhavaicitryakāritayā prabhavanaśīla āmantraṇametat| Tacca āmantryasyāmantrakaṁ prati tādātmyamābhimukhyaṁ prātipadikārthādadhikārthadāyi| Yathoktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। निर्णीतं चेतन् मयैव श्रीपूर्वपञ्चिकायाम्। एतत् कथय — परावाग्रूपतया अविभक्तं स्थितमपि पश्यन्त्यादिभुवि वाक्यप्रबन्धक्रमासूत्रणेन योजय। यथोक्तं प्राक्</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">सम्बोधनाधिकः प्रातिपदिकार्थः।</span><br />
+<span class="pv-iast">Sambodhanādhikaḥ prātipadikārthaḥ|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">गुरुशिष्यपदे स्थित्वा स्वयं देवः सदाशिवः।</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। निर्णीतं चेतन् मयैव श्रीपूर्वपञ्चिकायाम्। एतत् कथय — परावाग्रूपतया अविभक्तं स्थितमपि पश्यन्त्यादिभुवि वाक्यप्रबन्धक्रमासूत्रणेन योजय। यथोक्तं प्राक्</span><br />
+<span class="pv-iast">iti| Nirṇītaṁ cetan mayaiva śrīpūrvapañcikāyām| Etat kathaya — Parāvāgrūpatayā avibhaktaṁ sthitamapi paśyantyādibhuvi vākyaprabandhakramāsūtraṇena yojaya| Yathoktaṁ prāk</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि। पराभट्टारिकायाश्च पश्यन्त्यादितादात्म्यं निर्णीतं प्रागेव। तथा ममेत्यस्य प्रत्यगात्मसम्बन्धित्वस्येदम्भावस्य यद् गुह्यं मह अ इत्युक्तमहमिति। तथा हि ममेदं भासत इति यद् भासनं तस्य विमर्शः पुनरप्यहम्भावैकसारः स पुनर् अहम्भावो भावप्रत्युपसंहरणमुखेनेति मह अ इत्येतद्रूप एव यथोक्तं प्राक्। यदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">गुरुशिष्यपदे स्थित्वा स्वयं देवः सदाशिवः।</span><br />
+<span class="pv-iast">Guruśiṣyapade sthitvā svayaṁ devaḥ sadāśivaḥ|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">इदमित्यस्य विच्छिन्नविमर्शस्य कृतार्थता।<br />
-या स्वस्वरूपे विश्रान्तिर्विमर्शः सोऽहमित्ययम्॥</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इत्यादि। पराभट्टारिकायाश्च पश्यन्त्यादितादात्म्यं निर्णीतं प्रागेव। तथा ममेत्यस्य प्रत्यगात्मसम्बन्धित्वस्येदम्भावस्य यद् गुह्यं मह अ इत्युक्तमहमिति। तथा हि ममेदं भासत इति यद् भासनं तस्य विमर्शः पुनरप्यहम्भावैकसारः स पुनर् अहम्भावो भावप्रत्युपसंहरणमुखेनेति मह अ इत्येतद्रूप एव यथोक्तं प्राक्। यदुक्तम्</span><br />
+<span class="pv-iast">ityādi| Parābhaṭṭārikāyāśca paśyantyāditādātmyaṁ nirṇītaṁ prāgeva| Tathā mametyasya pratyagātmasambandhitvasyedambhāvasya yad guhyaṁ maha a ityuktamahamiti| Tathā hi mamedaṁ bhāsata iti yad bhāsanaṁ tasya vimarśaḥ punarapyahambhāvaikasāraḥ sa punar ahambhāvo bhāvapratyupasaṁharaṇamukheneti maha a ityetadrūpa eva yathoktaṁ prāk| Yaduktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। अन्यत्रापि</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">इदमित्यस्य विच्छिन्नविमर्शस्य कृतार्थता।</span><br />
+<span class="pv-iast">Idamityasya vicchinnavimarśasya kṛtārthatā|</span><br />
+<span class="pv-sa" lang="sa">या स्वस्वरूपे विश्रान्तिर्विमर्शः सोऽहमित्ययम्॥</span><br />
+<span class="pv-iast">Yā svasvarūpe viśrāntirvimarśaḥ so'hamityayam||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">घटोऽयमित्यध्यवसा नामरूपातिरेकिणी।<br />
-परेशशक्तिरात्मेव भासते न त्विदन्तया॥</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। अन्यत्रापि</span><br />
+<span class="pv-iast">iti| Anyatrāpi</span></p>
 
-<p class="pv-sa" lang="sa">इति। तदुक्तं श्रीसोमानन्दपादैर्निजविवृतौ</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">घटोऽयमित्यध्यवसा नामरूपातिरेकिणी।</span><br />
+<span class="pv-iast">Ghaṭo'yamityadhyavasā nāmarūpātirekiṇī|</span><br />
+<span class="pv-sa" lang="sa">परेशशक्तिरात्मेव भासते न त्विदन्तया॥</span><br />
+<span class="pv-iast">Pareśaśaktirātmeva bhāsate na tvidantayā||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">अ बीजं शुद्धशिवरूपम्</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। तदुक्तं श्रीसोमानन्दपादैर्निजविवृतौ</span><br />
+<span class="pv-iast">iti| Taduktaṁ śrīsomānandapādairnijavivṛtau</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि। तदेवास्माभिर्विपञ्चितमिति। तथा स्वमम — सुष्ठ्वविद्यमानं ममेति यस्याहन्ताभरैकरूपत्वाद्विश्वं न किञ्चिद्यस्य व्यतिरिक्तनिर्देशप्राणषष्ठ्यर्थयोगि विश्वं न भवति। शास्त्रान्तरदीक्षितानां विज्ञानाकलानां प्रलयकेवलिनां च यद्यपि ममेति व्यतिरिक्तं नास्ति तथापि भेदयोग्यतावसाना स्यादेव प्रबोधसमये तद्विकासादहम्भावरूधिस्तदपाकृत्यै सुष्ठुशब्दार्थे सुः। यदुक्तं मयैव स्तोत्रे</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">अ बीजं शुद्धशिवरूपम्</span><br />
+<span class="pv-iast">A bījaṁ śuddhaśivarūpam</span></p>
 
-<p class="pv-sa pv-c" lang="sa">यन्न किञ्चन ममेति दीनतां प्राप्नुवन्ति जडजन्तवोऽनिशम्।<br />
-तन्न किञ्चन ममास्मि सर्वमित्युद्धुरां धुरमुपेयिवानहम्॥</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इत्यादि। तदेवास्माभिर्विपञ्चितमिति। तथा स्वमम — सुष्ठ्वविद्यमानं ममेति यस्याहन्ताभरैकरूपत्वाद्विश्वं न किञ्चिद्यस्य व्यतिरिक्तनिर्देशप्राणषष्ठ्यर्थयोगि विश्वं न भवति। शास्त्रान्तरदीक्षितानां विज्ञानाकलानां प्रलयकेवलिनां च यद्यपि ममेति व्यतिरिक्तं नास्ति तथापि भेदयोग्यतावसाना स्यादेव प्रबोधसमये तद्विकासादहम्भावरूधिस्तदपाकृत्यै सुष्ठुशब्दार्थे सुः। यदुक्तं मयैव स्तोत्रे</span><br />
+<span class="pv-iast">ityādi| Tadevāsmābhirvipañcitamiti| Tathā svamama — Suṣṭhvavidyamānaṁ mameti yasyāhantābharaikarūpatvādviśvaṁ na kiñcidyasya vyatiriktanirdeśaprāṇaṣaṣṭhyarthayogi viśvaṁ na bhavati| Śāstrāntaradīkṣitānāṁ vijñānākalānāṁ pralayakevalināṁ ca yadyapi mameti vyatiriktaṁ nāsti tathāpi bhedayogyatāvasānā syādeva prabodhasamaye tadvikāsādahambhāvarūdhistadapākṛtyai suṣṭhuśabdārthe suḥ| Yaduktaṁ mayaiva stotre</span></p>
 
-<p class="pv-sa" lang="sa">इति। शोभनेन द्वैतकलङ्काङ्कनाकालुष्यलेशशून्येनामेन परमार्थोपदेशाद्वयात्मना ज्ञानेन मानमवबोधो यस्य स्वप्रकाशैकरूपत्वात्। अमतीत्यमा। अमेत्यविद्यमानं मा मानं निषेधश्च नित्योदितत्वात्संहारश्च यत्र नास्ति सा भगवत्यमेत्युच्यते। सा शोभना सततोदिता यत्र। मायायां प्रमाणप्रमेयव्यवहृतौ सा तादृश्यमा यस्येति बहुव्रीह्यन्तरो बहुव्रीहिः। परमेश्वरो हि प्रमाणादिव्यवहारेऽपि परशक्तिमय एव सर्वथा अद्वैतरूपत्वात्। तस्यामन्त्रणमात्मन एव॥१ १/२॥</p>
+<p class="pv-pair pv-c" data-pv="w2"><span class="pv-sa" lang="sa">यन्न किञ्चन ममेति दीनतां प्राप्नुवन्ति जडजन्तवोऽनिशम्।</span><br />
+<span class="pv-iast">Yanna kiñcana mameti dīnatāṁ prāpnuvanti jaḍajantavo'niśam|</span><br />
+<span class="pv-sa" lang="sa">तन्न किञ्चन ममास्मि सर्वमित्युद्धुरां धुरमुपेयिवानहम्॥</span><br />
+<span class="pv-iast">Tanna kiñcana mamāsmi sarvamityuddhurāṁ dhuramupeyivānaham||</span></p>
 
-<p class="pv-iast pv-c pv-anchor" id="s3-iast">Etadguhyaṁ mahāguhyaṁ kathayasva mama prabho|</p>
-
-<p class="pv-iast">Guhyamaprakaṭatvādyato guhāyāṁ māyāyāṁ svarūpāparijñānamayyāṁ sthitamapyaprakaṭaṁ| Atha ca mahad aguhyaṁ sarvasyaivaṁvidhacamatkāramayatvāt| Mātṛmānameyamayabhedāvibhāgaśālinī bhagavatī śuddhavidyaiva trikoṇā māyāyāmatiśayapratiphalitabhedāvagrahā bhavatīti māyāpi jagajjananabhūrvidyaiva vastutastad uktena nayena saivambhūtatvenāparijñāyamānatvādabhedamāhātmyatirohitatatpramātrādikoṇatrayatvānmahāguhetyucyate saiva ca vastutaḥ pūjādhāma triśūlaṁ trikārthe| Taduktam</p>
-
-<p class="pv-iast pv-c">Sā trikoṇā mahāvidyā trikā sarvarasāspadam|<br />
-Visargapadamevaiṣa tasmātsampūjayettrikam||</p>
-
-<p class="pv-iast">iti| Tathā</p>
-
-<p class="pv-iast pv-c">Udetyekaḥ samālokaḥ pramāṇārthapramātṛgaḥ|</p>
-
-<p class="pv-iast">iti| Tataścedṛśyāṁ mahāguhāyāṁ śuddhavidyāhṛdayamayyāṁ mahāsṛṣṭirūpāyāṁ jagajjanmabhūmau svacamatkārarūpeṇa bhavati yan mahaa iti tad etad guhyam| Etena hi yad idamavicchinnabhairavabhāsā vimarśarūpaṁ svātantryaṁ bhāvebhyaḥ svarūpapratyupasaṁhārakrameṇātmavimarśaviśrāntirūpatvaṁ prakāśasya hi svābhāvikākṛtrimaparavāṅmantravīryacamatkārātma ahamiti| Yathoktam</p>
-
-<p class="pv-iast pv-c">Prakāśasyātmaviśrāntirahaṁbhāvo hi kīrtitaḥ|</p>
-
-<p class="pv-iast">iti| Tadeva guhyamatirahasyam| Tathāhi — Sṛṣṭikrameṇa yathā avikṛtānuttaradhruvarūpaviśrānto bhairavabhaṭṭārakaḥ sakalakalājālajīvanabhūtaḥ sarvasyādisiddho'kalātmakaḥ sa eva prasarātmanā rūpeṇa visargarūpatāmaśnuvāno visargasyaiva kuṇḍalinyātmakahaśaktimayatvāt punarapi tacchāktaprasarābhedavedakarūpabindvātmanā nararūpeṇa prasarati| Tathā punarapi tanmūlatriśūlaprāṇaparaśaktitrayopasaṁhāre tadvisargaviśleṣaṇayā mūladhruvapadānuttarapraveśaḥ sarvadā sphuṭayiṣyate caitad avidūrameva| Mahe — Paramānandarūpe pūrvokte yadidamuktanayena a iti rūpaṁ tadeva guhyametadeva ca mahāguhyam — Jagajjananadhāma| Tathā ubhayasamāpattyā ānandenāguhyaṁ sarvacamatkāramayam| Sva ātmanneva he prabho evaṁvidhavaicitryakāritayā prabhavanaśīla āmantraṇametat| Tacca āmantryasyāmantrakaṁ prati tādātmyamābhimukhyaṁ prātipadikārthādadhikārthadāyi| Yathoktam</p>
-
-<p class="pv-iast pv-c">Sambodhanādhikaḥ prātipadikārthaḥ|</p>
-
-<p class="pv-iast">iti| Nirṇītaṁ cetan mayaiva śrīpūrvapañcikāyām| Etat kathaya — Parāvāgrūpatayā avibhaktaṁ sthitamapi paśyantyādibhuvi vākyaprabandhakramāsūtraṇena yojaya| Yathoktaṁ prāk</p>
-
-<p class="pv-iast pv-c">Guruśiṣyapade sthitvā svayaṁ devaḥ sadāśivaḥ|</p>
-
-<p class="pv-iast">ityādi| Parābhaṭṭārikāyāśca paśyantyāditādātmyaṁ nirṇītaṁ prāgeva| Tathā mametyasya pratyagātmasambandhitvasyedambhāvasya yad guhyaṁ maha a ityuktamahamiti| Tathā hi mamedaṁ bhāsata iti yad bhāsanaṁ tasya vimarśaḥ punarapyahambhāvaikasāraḥ sa punar ahambhāvo bhāvapratyupasaṁharaṇamukheneti maha a ityetadrūpa eva yathoktaṁ prāk| Yaduktam</p>
-
-<p class="pv-iast pv-c">Idamityasya vicchinnavimarśasya kṛtārthatā|<br />
-Yā svasvarūpe viśrāntirvimarśaḥ so'hamityayam||</p>
-
-<p class="pv-iast">iti| Anyatrāpi</p>
-
-<p class="pv-iast pv-c">Ghaṭo'yamityadhyavasā nāmarūpātirekiṇī|<br />
-Pareśaśaktirātmeva bhāsate na tvidantayā||</p>
-
-<p class="pv-iast">iti| Taduktaṁ śrīsomānandapādairnijavivṛtau</p>
-
-<p class="pv-iast pv-c">A bījaṁ śuddhaśivarūpam</p>
-
-<p class="pv-iast">ityādi| Tadevāsmābhirvipañcitamiti| Tathā svamama — Suṣṭhvavidyamānaṁ mameti yasyāhantābharaikarūpatvādviśvaṁ na kiñcidyasya vyatiriktanirdeśaprāṇaṣaṣṭhyarthayogi viśvaṁ na bhavati| Śāstrāntaradīkṣitānāṁ vijñānākalānāṁ pralayakevalināṁ ca yadyapi mameti vyatiriktaṁ nāsti tathāpi bhedayogyatāvasānā syādeva prabodhasamaye tadvikāsādahambhāvarūdhistadapākṛtyai suṣṭhuśabdārthe suḥ| Yaduktaṁ mayaiva stotre</p>
-
-<p class="pv-iast pv-c">Yanna kiñcana mameti dīnatāṁ prāpnuvanti jaḍajantavo'niśam|<br />
-Tanna kiñcana mamāsmi sarvamityuddhurāṁ dhuramupeyivānaham||</p>
-
-<p class="pv-iast">iti| Śobhanena dvaitakalaṅkāṅkanākāluṣyaleśaśūnyenāmena paramārthopadeśādvayātmanā jñānena mānamavabodho yasya svaprakāśaikarūpatvāt| Amatītyamā| Ametyavidyamānaṁ mā mānaṁ niṣedhaśca nityoditatvātsaṁhāraśca yatra nāsti sā bhagavatyametyucyate| Sā śobhanā satatoditā yatra| Māyāyāṁ pramāṇaprameyavyavahṛtau sā tādṛśyamā yasyeti bahuvrīhyantaro bahuvrīhiḥ| Parameśvaro hi pramāṇādivyavahāre'pi paraśaktimaya eva sarvathā advaitarūpatvāt| Tasyāmantraṇamātmana eva||1 ½||</p>
+<p class="pv-pair" data-pv="w2"><span class="pv-sa" lang="sa">इति। शोभनेन द्वैतकलङ्काङ्कनाकालुष्यलेशशून्येनामेन परमार्थोपदेशाद्वयात्मना ज्ञानेन मानमवबोधो यस्य स्वप्रकाशैकरूपत्वात्। अमतीत्यमा। अमेत्यविद्यमानं मा मानं निषेधश्च नित्योदितत्वात्संहारश्च यत्र नास्ति सा भगवत्यमेत्युच्यते। सा शोभना सततोदिता यत्र। मायायां प्रमाणप्रमेयव्यवहृतौ सा तादृश्यमा यस्येति बहुव्रीह्यन्तरो बहुव्रीहिः। परमेश्वरो हि प्रमाणादिव्यवहारेऽपि परशक्तिमय एव सर्वथा अद्वैतरूपत्वात्। तस्यामन्त्रणमात्मन एव॥१ १/२॥</span><br />
+<span class="pv-iast">iti| Śobhanena dvaitakalaṅkāṅkanākāluṣyaleśaśūnyenāmena paramārthopadeśādvayātmanā jñānena mānamavabodho yasya svaprakāśaikarūpatvāt| Amatītyamā| Ametyavidyamānaṁ mā mānaṁ niṣedhaśca nityoditatvātsaṁhāraśca yatra nāsti sā bhagavatyametyucyate| Sā śobhanā satatoditā yatra| Māyāyāṁ pramāṇaprameyavyavahṛtau sā tādṛśyamā yasyeti bahuvrīhyantaro bahuvrīhiḥ| Parameśvaro hi pramāṇādivyavahāre'pi paraśaktimaya eva sarvathā advaitarūpatvāt| Tasyāmantraṇamātmana eva||1 ½||</span></p>
 
 <p class="pv-tr pv-anchor" id="s3-ru" markdown="1">О Господь мой (mama prabho)! <ruby>Поведай<rp> (</rp><rt>kathayasva</rt><rp>)</rp></ruby> <ruby>об Этом<rp> (</rp><rt>etad</rt><rp>)</rp></ruby>, что, _(будучи)_ <ruby>весьма<rp> (</rp><rt>mahā</rt><rp>)</rp></ruby> <ruby>неутаённым<rp> (</rp><rt>aguhyam</rt><rp>)</rp></ruby>, _(остаётся всё же)_ <ruby>тайной<rp> (</rp><rt>guhyam</rt><rp>)</rp></ruby>|</p>
 
@@ -403,53 +365,45 @@ _(Соответственно,)_ <ruby>обращение<rp> (</rp><rt>āmantr
 
 ## Строфа 2 {#s4}
 
-<p class="pv-sa pv-anchor" id="s4-sa" lang="sa">इदमेवं सार्धश्लोकनिरूपितानन्तप्रश्नतात्पर्यसङ्ग्रहेणैतदुक्तं भवतीति निर्णेतुं निरूप्यते</p>
+<p class="pv-copy nosearch pv-anchor" id="s4-sa"><button type="button" data-pv-copy="w3" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w3" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
-<p class="pv-sa pv-src pv-c" lang="sa">हृदयस्था तु या शक्तिः कौलिकी कुलनायिका।<br />
-तां मे कथय देवेश येन तृप्तिं लभाम्यहम्॥२॥</p>
+<p class="pv-pair" data-pv="w3"><span class="pv-sa" lang="sa">इदमेवं सार्धश्लोकनिरूपितानन्तप्रश्नतात्पर्यसङ्ग्रहेणैतदुक्तं भवतीति निर्णेतुं निरूप्यते</span><br />
+<span class="pv-iast">Idamevaṁ sārdhaślokanirūpitānantapraśnatātparyasaṅgraheṇaitaduktaṁ bhavatīti nirṇetuṁ nirūpyate</span></p>
 
-<p class="pv-sa" lang="sa">सर्वस्य नीलसुखादेर्देहप्राणबुद्ध्यादेश्च परं प्रतिष्ठास्थानं संविदात्म हृत् तस्यैव निजस्वातन्त्र्यकल्पितभेदा अया — विचित्राणि घटादिज्ञानानि तत्स्था येयं स्फुरणमयी शक्तिः कुलस्य नायिका शरीरप्राणसुखादेः स्फुरत्तादायिनी ब्राह्म्यादिदेवताचक्रस्य वीर्यभूता निखिलाक्षनाडीचक्रस्य मध्यमध्यमरूपा जननस्थानकर्णिकालिङ्गात्मा अस्ति। तत्रैव च कुले भवा अकुलरूपा कौलिकी। यद्वा कुले भवमकुलात्म कौलं तद् यस्यामन्तस्तादात्म्येनास्ति सा कौलिकी कुलं ह्यकुलप्रकाशरूढमेव तथा भवति। यदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w3"><span class="pv-sa pv-src" lang="sa">हृदयस्था तु या शक्तिः कौलिकी कुलनायिका।</span><br />
+<span class="pv-iast">Hṛdayasthā tu yā śaktiḥ kaulikī kulanāyikā|</span><br />
+<span class="pv-sa pv-src" lang="sa">तां मे कथय देवेश येन तृप्तिं लभाम्यहम्॥२॥</span><br />
+<span class="pv-iast">Tāṁ me kathaya deveśa yena tṛptiṁ labhāmyaham||2||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">अपि त्वात्मबलस्पर्शात्।</p>
+<p class="pv-pair" data-pv="w3"><span class="pv-sa" lang="sa">सर्वस्य नीलसुखादेर्देहप्राणबुद्ध्यादेश्च परं प्रतिष्ठास्थानं संविदात्म हृत् तस्यैव निजस्वातन्त्र्यकल्पितभेदा अया — विचित्राणि घटादिज्ञानानि तत्स्था येयं स्फुरणमयी शक्तिः कुलस्य नायिका शरीरप्राणसुखादेः स्फुरत्तादायिनी ब्राह्म्यादिदेवताचक्रस्य वीर्यभूता निखिलाक्षनाडीचक्रस्य मध्यमध्यमरूपा जननस्थानकर्णिकालिङ्गात्मा अस्ति। तत्रैव च कुले भवा अकुलरूपा कौलिकी। यद्वा कुले भवमकुलात्म कौलं तद् यस्यामन्तस्तादात्म्येनास्ति सा कौलिकी कुलं ह्यकुलप्रकाशरूढमेव तथा भवति। यदुक्तम्</span><br />
+<span class="pv-iast">Sarvasya nīlasukhāderdehaprāṇabuddhyādeśca paraṁ pratiṣṭhāsthānaṁ saṁvidātma hṛt tasyaiva nijasvātantryakalpitabhedā ayā — Vicitrāṇi ghaṭādijñānāni tatsthā yeyaṁ sphuraṇamayī śaktiḥ kulasya nāyikā śarīraprāṇasukhādeḥ sphurattādāyinī brāhmyādidevatācakrasya vīryabhūtā nikhilākṣanāḍīcakrasya madhyamadhyamarūpā jananasthānakarṇikāliṅgātmā asti| Tatraiva ca kule bhavā akularūpā kaulikī| Yadvā kule bhavamakulātma kaulaṁ tad yasyāmantastādātmyenāsti sā kaulikī kulaṁ hyakulaprakāśarūḍhameva tathā bhavati| Yaduktam</span></p>
 
-<p class="pv-sa" lang="sa">इति। तथा</p>
+<p class="pv-pair pv-c" data-pv="w3"><span class="pv-sa" lang="sa">अपि त्वात्मबलस्पर्शात्।</span><br />
+<span class="pv-iast">Api tvātmabalasparśāt|</span></p>
 
-<p class="pv-sa pv-c" lang="sa">तदाक्रम्य बलं मन्त्राः सर्वज्ञबलशालिनः।<br />
-प्रवर्तन्तेऽधिकाराय करणानीव देहिनाम्॥</p>
+<p class="pv-pair" data-pv="w3"><span class="pv-sa" lang="sa">इति। तथा</span><br />
+<span class="pv-iast">iti| Tathā</span></p>
 
-<p class="pv-sa" lang="sa">इति। देवानां ब्रह्मविष्णुरुद्रादीनामीशस्यामन्त्रणम्। तन्मे कथयेत्यपि पठन्ति श्रीसोमानन्दपादा व्याचक्षते च तत् तस्मादिति। यद्वा तत् कथय येन तृप्तिं परमानन्दमयीं लभे परमाद्वयनिर्वृतिस्वातन्त्र्यरसा भवामीति समन्वयः। व्रजामीत्यपि पाठः। अहमित्यनेन सर्वप्रमातृजीवनरूपमेव सततं परामृश्यते तच्चैवमभिहितस्वरूपोपदेशेन प्रत्यभिज्ञाय निजमीश्वररुपं परिपूर्णभावात्मिकां तृप्तिं विन्दतीति प्राक् प्रकटितमेव। तदुक्तं सोमानन्दपादैः स्वविवृतौ</p>
+<p class="pv-pair pv-c" data-pv="w3"><span class="pv-sa" lang="sa">तदाक्रम्य बलं मन्त्राः सर्वज्ञबलशालिनः।</span><br />
+<span class="pv-iast">Tadākramya balaṁ mantrāḥ sarvajñabalaśālinaḥ|</span><br />
+<span class="pv-sa" lang="sa">प्रवर्तन्तेऽधिकाराय करणानीव देहिनाम्॥</span><br />
+<span class="pv-iast">Pravartante'dhikārāya karaṇānīva dehinām||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">हृद्ययो गमनं ज्ञानम्</p>
+<p class="pv-pair" data-pv="w3"><span class="pv-sa" lang="sa">इति। देवानां ब्रह्मविष्णुरुद्रादीनामीशस्यामन्त्रणम्। तन्मे कथयेत्यपि पठन्ति श्रीसोमानन्दपादा व्याचक्षते च तत् तस्मादिति। यद्वा तत् कथय येन तृप्तिं परमानन्दमयीं लभे परमाद्वयनिर्वृतिस्वातन्त्र्यरसा भवामीति समन्वयः। व्रजामीत्यपि पाठः। अहमित्यनेन सर्वप्रमातृजीवनरूपमेव सततं परामृश्यते तच्चैवमभिहितस्वरूपोपदेशेन प्रत्यभिज्ञाय निजमीश्वररुपं परिपूर्णभावात्मिकां तृप्तिं विन्दतीति प्राक् प्रकटितमेव। तदुक्तं सोमानन्दपादैः स्वविवृतौ</span><br />
+<span class="pv-iast">iti| Devānāṁ brahmaviṣṇurudrādīnāmīśasyāmantraṇam| Tanme kathayetyapi paṭhanti śrīsomānandapādā vyācakṣate ca tat tasmāditi| Yadvā tat kathaya yena tṛptiṁ paramānandamayīṁ labhe paramādvayanirvṛtisvātantryarasā bhavāmīti samanvayaḥ| Vrajāmītyapi pāṭhaḥ| Ahamityanena sarvapramātṛjīvanarūpameva satataṁ parāmṛśyate taccaivamabhihitasvarūpopadeśena pratyabhijñāya nijamīśvararupaṁ paripūrṇabhāvātmikāṁ tṛptiṁ vindatīti prāk prakaṭitameva| Taduktaṁ somānandapādaiḥ svavivṛtau</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि।</p>
+<p class="pv-pair pv-c" data-pv="w3"><span class="pv-sa" lang="sa">हृद्ययो गमनं ज्ञानम्</span><br />
+<span class="pv-iast">Hṛdyayo gamanaṁ jñānam</span></p>
 
-<p class="pv-sa pv-c" lang="sa">इति शिवरसं पातुं येषां पिपासति मानसं सततमशिवध्वंसे सक्तं शिवेन निवेशितम्।<br />
-हृदयगगनग्रन्थिं तेषां विदारयितुं हठादभिनव इमां प्रश्नव्याख्यां व्यधात्त्रिकतत्त्वगाम्</p>
+<p class="pv-pair" data-pv="w3"><span class="pv-sa" lang="sa">इत्यादि।</span><br />
+<span class="pv-iast">ityādi|</span></p>
+
+<p class="pv-pair pv-c" data-pv="w3"><span class="pv-sa" lang="sa">इति शिवरसं पातुं येषां पिपासति मानसं सततमशिवध्वंसे सक्तं शिवेन निवेशितम्।</span><br />
+<span class="pv-iast">Iti śivarasaṁ pātuṁ yeṣāṁ pipāsati mānasaṁ satatamaśivadhvaṁse saktaṁ śivena niveśitam|</span><br />
+<span class="pv-sa" lang="sa">हृदयगगनग्रन्थिं तेषां विदारयितुं हठादभिनव इमां प्रश्नव्याख्यां व्यधात्त्रिकतत्त्वगाम्</span><br />
+<span class="pv-iast">Hṛdayagaganagranthiṁ teṣāṁ vidārayituṁ haṭhādabhinava imāṁ praśnavyākhyāṁ vyadhāttrikatattvagām||</span></p>
 
 <p class="pv-sa" lang="sa">॥२॥</p>
-
-<p class="pv-iast pv-anchor" id="s4-iast">Idamevaṁ sārdhaślokanirūpitānantapraśnatātparyasaṅgraheṇaitaduktaṁ bhavatīti nirṇetuṁ nirūpyate</p>
-
-<p class="pv-iast pv-c">Hṛdayasthā tu yā śaktiḥ kaulikī kulanāyikā|<br />
-Tāṁ me kathaya deveśa yena tṛptiṁ labhāmyaham||2||</p>
-
-<p class="pv-iast">Sarvasya nīlasukhāderdehaprāṇabuddhyādeśca paraṁ pratiṣṭhāsthānaṁ saṁvidātma hṛt tasyaiva nijasvātantryakalpitabhedā ayā — Vicitrāṇi ghaṭādijñānāni tatsthā yeyaṁ sphuraṇamayī śaktiḥ kulasya nāyikā śarīraprāṇasukhādeḥ sphurattādāyinī brāhmyādidevatācakrasya vīryabhūtā nikhilākṣanāḍīcakrasya madhyamadhyamarūpā jananasthānakarṇikāliṅgātmā asti| Tatraiva ca kule bhavā akularūpā kaulikī| Yadvā kule bhavamakulātma kaulaṁ tad yasyāmantastādātmyenāsti sā kaulikī kulaṁ hyakulaprakāśarūḍhameva tathā bhavati| Yaduktam</p>
-
-<p class="pv-iast pv-c">Api tvātmabalasparśāt|</p>
-
-<p class="pv-iast">iti| Tathā</p>
-
-<p class="pv-iast pv-c">Tadākramya balaṁ mantrāḥ sarvajñabalaśālinaḥ|<br />
-Pravartante'dhikārāya karaṇānīva dehinām||</p>
-
-<p class="pv-iast">iti| Devānāṁ brahmaviṣṇurudrādīnāmīśasyāmantraṇam| Tanme kathayetyapi paṭhanti śrīsomānandapādā vyācakṣate ca tat tasmāditi| Yadvā tat kathaya yena tṛptiṁ paramānandamayīṁ labhe paramādvayanirvṛtisvātantryarasā bhavāmīti samanvayaḥ| Vrajāmītyapi pāṭhaḥ| Ahamityanena sarvapramātṛjīvanarūpameva satataṁ parāmṛśyate taccaivamabhihitasvarūpopadeśena pratyabhijñāya nijamīśvararupaṁ paripūrṇabhāvātmikāṁ tṛptiṁ vindatīti prāk prakaṭitameva| Taduktaṁ somānandapādaiḥ svavivṛtau</p>
-
-<p class="pv-iast pv-c">Hṛdyayo gamanaṁ jñānam</p>
-
-<p class="pv-iast">ityādi|</p>
-
-<p class="pv-iast pv-c">Iti śivarasaṁ pātuṁ yeṣāṁ pipāsati mānasaṁ satatamaśivadhvaṁse saktaṁ śivena niveśitam|<br />
-Hṛdayagaganagranthiṁ teṣāṁ vidārayituṁ haṭhādabhinava imāṁ praśnavyākhyāṁ vyadhāttrikatattvagām||</p>
 
 <ruby>Итак<rp> (</rp><rt>evam</rt><rp>)</rp></ruby>, <ruby>теперь<rp> (</rp><rt>idam</rt><rp>)</rp></ruby>, <ruby>собирая<rp> (</rp><rt>saṅgraheṇa</rt><rp>)</rp></ruby> <ruby>смыслы<rp> (</rp><rt>tātparya</rt><rp>)</rp></ruby> <ruby>бесконечных<rp> (</rp><rt>ananta</rt><rp>)</rp></ruby> <ruby>вопросов<rp> (</rp><rt>praśna</rt><rp>)</rp></ruby>, <ruby>рассмотренных<rp> (</rp><rt>nirūpita</rt><rp>)</rp></ruby> <ruby>в полутора строфах<rp> (</rp><rt>sa-ardha-śloka</rt><rp>)</rp></ruby>, сказано (bhavati... uktam) вот что _(в строфе 2)_ <span class="pv-w">(etad)</span>. <ruby>Итак<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>, _(вторая строфа)_ <ruby>ставится<rp> (</rp><rt>nirūpyate</rt><rp>)</rp></ruby> <ruby>к разбору<rp> (</rp><rt>nirṇetum</rt><rp>)</rp></ruby>:
 {: #s4-ru .pv-anchor}
@@ -493,3 +447,5 @@ _(Теперь Абхинавагупта пишет строфу в заклю�
 ---
 
 *Перевод на русский сделан для этого сайта по английскому изложению Габриэля Pradīpaka: [Строфы 1–2, часть 4](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-1-to-2-part-4/793). Санскрит (деванагари и IAST) перенесён из источника без изменений.*
+
+<script src="/assets/js/pv-copy.js"></script>

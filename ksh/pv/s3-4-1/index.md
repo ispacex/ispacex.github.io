@@ -11,7 +11,7 @@ title: "Parātrīśikāvivaraṇa: строфы 3–4, часть 1"
 <div class="pv-nav nosearch" markdown="1">
 **На этой странице**<br />
 [Введение](#s1)<br />
-[Строфы 3–4 (первая часть комментария)](#s2) — [санскрит](#s2-sa) · [транслитерация](#s2-iast) · [перевод](#s2-ru)
+[Строфы 3–4 (первая часть комментария)](#s2) — [санскрит](#s2-sa) · [перевод](#s2-ru)
 </div>
 
 ## Введение {#s1}
@@ -30,95 +30,84 @@ Parātrīśikāvivaraṇa продолжается. Абхинавагупта �
 
 ## Строфы 3–4 (первая часть комментария) {#s2}
 
-<p class="pv-sa pv-anchor" id="s2-sa" lang="sa">तदत्र प्रश्नसर्वस्वे</p>
+<p class="pv-copy nosearch pv-anchor" id="s2-sa"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
-<p class="pv-sa pv-src pv-c" lang="sa">श्रीभैरव उवाच</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">तदत्र प्रश्नसर्वस्वे</span><br />
+<span class="pv-iast">Tadatra praśnasarvasve</span></p>
 
-<p class="pv-sa" lang="sa">व्याख्यातं प्रागेवैतत् किं पुनरुक्ततापादनेन भैरवो भरणात्मको महामन्त्ररवात्मकश्च केवलमत्र शक्तिमत्प्राधान्यं संहाररूपेण महअ इत्येवं रूपमित्युक्तं प्राक् स्फुटीभविष्यति चाग्रत एव। तद् इयान् अत्र तात्पर्यार्थः</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">श्रीभैरव उवाच</span><br />
+<span class="pv-iast">Śrībhairava uvāca</span></p>
 
-<p class="pv-sa pv-c" lang="sa">परा भगवती संवित्प्रसरन्ती स्वरूपतः।<br />
-परेच्छाशक्तिरित्युक्ता भैरवस्याविभेदिनी॥<br />
-तस्याः प्रसरधर्मित्वं ज्ञानशक्त्यादिरूपता।<br />
-परापरापरारूपपश्यन्त्यादिवपुर्भृतिः॥<br />
-तदेवं प्रसराकारस्वरूपपरिमर्शनम्।<br />
-प्रश्न इत्युच्यते देवी तन्मयप्रश्नकारिणी॥<br />
-तस्य प्रसररूपस्य परामर्शनमेव यत्।<br />
-तदेव परमं प्रोक्तं तत्प्रश्नोत्तररूपकम्॥<br />
-तदेवापरसंवित्तेरारभ्यान्तस्तरां पुनः।<br />
-परसंविद्घनानन्दसंहारकरणं मुहुः॥<br />
-अन्तर्भावितनिःशेषप्रसरं भैरवं वपुः।<br />
-प्रतिवक्तृस्वरूपेण सर्वदैव विजृम्भते॥<br />
-एतौ प्रसरसंहारावकालकलितौ यतः।<br />
-तदेकरूपमेवेदं तत्त्वं प्रश्नोत्तरात्मकम्॥<br />
-तदेवं परसम्बन्धमनुत्तरतयान्वितम्।<br />
-षडर्धसारसर्वस्वं गुरवः प्राङ्न्यरूपयन्॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">व्याख्यातं प्रागेवैतत् किं पुनरुक्ततापादनेन भैरवो भरणात्मको महामन्त्ररवात्मकश्च केवलमत्र शक्तिमत्प्राधान्यं संहाररूपेण महअ इत्येवं रूपमित्युक्तं प्राक् स्फुटीभविष्यति चाग्रत एव। तद् इयान् अत्र तात्पर्यार्थः</span><br />
+<span class="pv-iast">Vyākhyātaṁ prāgevaitat kiṁ punaruktatāpādanena bhairavo bharaṇātmako mahāmantraravātmakaśca kevalamatra śaktimatprādhānyaṁ saṁhārarūpeṇa mahaa ityevaṁ rūpamityuktaṁ prāk sphuṭībhaviṣyati cāgrata eva| Tad iyān atra tātparyārthaḥ</span></p>
 
-<p class="pv-sa pv-src pv-c" lang="sa">शृणु देवि महाभाग उत्तरस्याप्यनुत्तरम्॥३॥</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">परा भगवती संवित्प्रसरन्ती स्वरूपतः।</span><br />
+<span class="pv-iast">Parā bhagavatī saṁvitprasarantī svarūpataḥ|</span><br />
+<span class="pv-sa" lang="sa">परेच्छाशक्तिरित्युक्ता भैरवस्याविभेदिनी॥</span><br />
+<span class="pv-iast">Parecchāśaktirityuktā bhairavasyāvibhedinī||</span><br />
+<span class="pv-sa" lang="sa">तस्याः प्रसरधर्मित्वं ज्ञानशक्त्यादिरूपता।</span><br />
+<span class="pv-iast">Tasyāḥ prasaradharmitvaṁ jñānaśaktyādirūpatā|</span><br />
+<span class="pv-sa" lang="sa">परापरापरारूपपश्यन्त्यादिवपुर्भृतिः॥</span><br />
+<span class="pv-iast">Parāparāparārūpapaśyantyādivapurbhṛtiḥ||</span><br />
+<span class="pv-sa" lang="sa">तदेवं प्रसराकारस्वरूपपरिमर्शनम्।</span><br />
+<span class="pv-iast">Tadevaṁ prasarākārasvarūpaparimarśanam|</span><br />
+<span class="pv-sa" lang="sa">प्रश्न इत्युच्यते देवी तन्मयप्रश्नकारिणी॥</span><br />
+<span class="pv-iast">Praśna ityucyate devī tanmayapraśnakāriṇī||</span><br />
+<span class="pv-sa" lang="sa">तस्य प्रसररूपस्य परामर्शनमेव यत्।</span><br />
+<span class="pv-iast">Tasya prasararūpasya parāmarśanameva yat|</span><br />
+<span class="pv-sa" lang="sa">तदेव परमं प्रोक्तं तत्प्रश्नोत्तररूपकम्॥</span><br />
+<span class="pv-iast">Tadeva paramaṁ proktaṁ tatpraśnottararūpakam||</span><br />
+<span class="pv-sa" lang="sa">तदेवापरसंवित्तेरारभ्यान्तस्तरां पुनः।</span><br />
+<span class="pv-iast">Tadevāparasaṁvitterārabhyāntastarāṁ punaḥ|</span><br />
+<span class="pv-sa" lang="sa">परसंविद्घनानन्दसंहारकरणं मुहुः॥</span><br />
+<span class="pv-iast">Parasaṁvidghanānandasaṁhārakaraṇaṁ muhuḥ||</span><br />
+<span class="pv-sa" lang="sa">अन्तर्भावितनिःशेषप्रसरं भैरवं वपुः।</span><br />
+<span class="pv-iast">Antarbhāvitaniḥśeṣaprasaraṁ bhairavaṁ vapuḥ|</span><br />
+<span class="pv-sa" lang="sa">प्रतिवक्तृस्वरूपेण सर्वदैव विजृम्भते॥</span><br />
+<span class="pv-iast">Prativaktṛsvarūpeṇa sarvadaiva vijṛmbhate||</span><br />
+<span class="pv-sa" lang="sa">एतौ प्रसरसंहारावकालकलितौ यतः।</span><br />
+<span class="pv-iast">Etau prasarasaṁhārāvakālakalitau yataḥ|</span><br />
+<span class="pv-sa" lang="sa">तदेकरूपमेवेदं तत्त्वं प्रश्नोत्तरात्मकम्॥</span><br />
+<span class="pv-iast">Tadekarūpamevedaṁ tattvaṁ praśnottarātmakam||</span><br />
+<span class="pv-sa" lang="sa">तदेवं परसम्बन्धमनुत्तरतयान्वितम्।</span><br />
+<span class="pv-iast">Tadevaṁ parasambandhamanuttaratayānvitam|</span><br />
+<span class="pv-sa" lang="sa">षडर्धसारसर्वस्वं गुरवः प्राङ्न्यरूपयन्॥</span><br />
+<span class="pv-iast">Ṣaḍardhasārasarvasvaṁ guravaḥ prāṅnyarūpayan||</span></p>
 
-<p class="pv-sa pv-src pv-c" lang="sa">कौलिकोऽयं विधिर्देवि मम हृद्व्योम्न्यवस्थितः।<br />
-कथयामि सुरेशानि सद्यः कौलिकसिद्धिदम्॥४॥</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">शृणु देवि महाभाग उत्तरस्याप्यनुत्तरम्॥३॥</span><br />
+<span class="pv-iast">Śṛṇu devi mahābhāga uttarasyāpyanuttaram||3||</span></p>
 
-<p class="pv-sa" lang="sa">देवि इति प्राग्वत्। महान् भागो यस्या या भज्यमाना उक्तवक्ष्यमाणोपदेशानुशीलनेन सेव्यमाना पारमेश्वर्याख्यमहाबलदा भवतीति। महत् — परममहद्रूपतया प्रसिद्धोऽनाश्रितशिवरूपः स यस्या भागोंऽशः पारमेश्वरी हि शक्तिरनन्तषट्त्रिंशदादितत्त्वगर्भिणी। महान् — बुद्ध्यादिस्तत्त्वविशेषो भागो विभागकलापेक्षि रूपं यस्याः पारमेश्वरी हि संविदेकघनशक्तिः स्वस्वातन्त्र्योपकल्पितभिन्नज्ञेयकार्यप्रतिष्ठापदत्वे बुद्धिरित्युच्यते। यदुक्तं श्रीसोमानन्दपादैः</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">कौलिकोऽयं विधिर्देवि मम हृद्व्योम्न्यवस्थितः।</span><br />
+<span class="pv-iast">Kauliko'yaṁ vidhirdevi mama hṛdvyomnyavasthitaḥ|</span><br />
+<span class="pv-sa pv-src" lang="sa">कथयामि सुरेशानि सद्यः कौलिकसिद्धिदम्॥४॥</span><br />
+<span class="pv-iast">Kathayāmi sureśāni sadyaḥ kaulikasiddhidam||4||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">... अपरस्थितौ<br />
-सा बुद्धिर्यत्पुनः सूक्ष्मं सर्वदिक्कमवस्थितम्।<br />
-ज्ञानं बोधमयं तस्य शिवस्य सहजं सदा॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">देवि इति प्राग्वत्। महान् भागो यस्या या भज्यमाना उक्तवक्ष्यमाणोपदेशानुशीलनेन सेव्यमाना पारमेश्वर्याख्यमहाबलदा भवतीति। महत् — परममहद्रूपतया प्रसिद्धोऽनाश्रितशिवरूपः स यस्या भागोंऽशः पारमेश्वरी हि शक्तिरनन्तषट्त्रिंशदादितत्त्वगर्भिणी। महान् — बुद्ध्यादिस्तत्त्वविशेषो भागो विभागकलापेक्षि रूपं यस्याः पारमेश्वरी हि संविदेकघनशक्तिः स्वस्वातन्त्र्योपकल्पितभिन्नज्ञेयकार्यप्रतिष्ठापदत्वे बुद्धिरित्युच्यते। यदुक्तं श्रीसोमानन्दपादैः</span><br />
+<span class="pv-iast">Devi iti prāgvat| Mahān bhāgo yasyā yā bhajyamānā uktavakṣyamāṇopadeśānuśīlanena sevyamānā pārameśvaryākhyamahābaladā bhavatīti| Mahat — Paramamahadrūpatayā prasiddho'nāśritaśivarūpaḥ sa yasyāḥ bhāgo'ṁśaḥ pārameśvarī hi śaktiranantaṣaṭtriṁśadāditattvagarbhiṇī| Mahān — Buddhyādistattvaviśeṣo bhāgo vibhāgakalāpekṣi rūpaṁ yasyāḥ pārameśvarī hi saṁvidekaghanaśaktiḥ svasvātantryopakalpitabhinnajñeyakāryapratiṣṭhāpadatve buddhirityucyate| Yaduktaṁ śrīsomānandapādaiḥ</span></p>
 
-<p class="pv-sa" lang="sa">इति। भागो भेदः स यत्रास्तीति मत्वर्थीयाकारप्रत्ययान्तेन भागशब्देन विभक्तं रूपमुच्यते। विभक्ते च वपुषि परिच्छेदोऽन्योन्यव्यवच्छेदेनैव भवतीति प्रसादात्मकविषयनिश्चयो बुद्धावुपजायमानोऽपररम्यारम्यादिविश्ववर्तिनो भावान् अस्पृशन्नेव प्रत्युत तान् व्यवच्छिन्दन् उपजायत इति। सुखवृत्तिबुद्धेर्धर्मैश्वर्यादिरूपत्वात्सत्त्वात्मको गुणनिःष्यन्द इति गीयते। यदि तु तत्राप्यन्तस्तमामनुप्रविश्यते तत् तद्द्वारेणैव तन्मूलवर्तिनि परमानन्दधाम्नि भवेदेव सततमुदयः। महस्य सर्वतोऽखण्डितपरिपूर्णनिरर्गलनिरपेक्षस्वातन्त्र्यजगदानन्दमयस्य आ — ईषद् भागाः सुखलक्षणा अंशा यतः। यद्यत्किल सुखं तन् महानन्दनिर्वृतिपरमधाम्नि विसर्गशक्तावनुप्रवेशात्तथाऽचेत्यमानतया कियद्रूपतां प्राप्तम्। तदुक्तं भट्टनारायणेन</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">... अपरस्थितौ</span><br />
+<span class="pv-iast">... aparasthitau</span><br />
+<span class="pv-sa" lang="sa">सा बुद्धिर्यत्पुनः सूक्ष्मं सर्वदिक्कमवस्थितम्।</span><br />
+<span class="pv-iast">sā buddhiryatpunaḥ sūkṣmaṁ sarvadikkamavasthitam|</span><br />
+<span class="pv-sa" lang="sa">ज्ञानं बोधमयं तस्य शिवस्य सहजं सदा॥</span><br />
+<span class="pv-iast">Jñānaṁ bodhamayaṁ tasya śivasya sahajaṁ sadā||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">त्रैलोक्येऽप्यत्र यो यावानानन्दः कश्चिदीक्ष्यते।<br />
-स बिन्दुर्यस्य तं वन्दे देवमानन्दसागरम्॥</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। भागो भेदः स यत्रास्तीति मत्वर्थीयाकारप्रत्ययान्तेन भागशब्देन विभक्तं रूपमुच्यते। विभक्ते च वपुषि परिच्छेदोऽन्योन्यव्यवच्छेदेनैव भवतीति प्रसादात्मकविषयनिश्चयो बुद्धावुपजायमानोऽपररम्यारम्यादिविश्ववर्तिनो भावान् अस्पृशन्नेव प्रत्युत तान् व्यवच्छिन्दन् उपजायत इति। सुखवृत्तिबुद्धेर्धर्मैश्वर्यादिरूपत्वात्सत्त्वात्मको गुणनिःष्यन्द इति गीयते। यदि तु तत्राप्यन्तस्तमामनुप्रविश्यते तत् तद्द्वारेणैव तन्मूलवर्तिनि परमानन्दधाम्नि भवेदेव सततमुदयः। महस्य सर्वतोऽखण्डितपरिपूर्णनिरर्गलनिरपेक्षस्वातन्त्र्यजगदानन्दमयस्य आ — ईषद् भागाः सुखलक्षणा अंशा यतः। यद्यत्किल सुखं तन् महानन्दनिर्वृतिपरमधाम्नि विसर्गशक्तावनुप्रवेशात्तथाऽचेत्यमानतया कियद्रूपतां प्राप्तम्। तदुक्तं भट्टनारायणेन</span><br />
+<span class="pv-iast">iti| Bhāgo bhedaḥ sa yatrāstīti matvarthīyākārapratyayāntena bhāgaśabdena vibhaktaṁ rūpamucyate| Vibhakte ca vapuṣi paricchedo'nyonyavyavacchedenaiva bhavatīti prasādātmakaviṣayaniścayo buddhāvupajāyamāno'pararamyāramyādiviśvavartino bhāvān aspṛśanneva pratyuta tān vyavacchindan upajāyata iti| Sukhavṛttibuddherdharmaiśvaryādirūpatvātsattvātmako guṇaniḥṣyanda iti gīyate| Yadi tu tatrāpyantastamāmanupraviśyate tat taddvāreṇaiva tanmūlavartini paramānandadhāmni bhavedeva satatamudayaḥ| Mahasya sarvato'khaṇḍitaparipūrṇanirargalanirapekṣasvātantryajagadānandamayasya ā — Īṣad bhāgāḥ sukhalakṣaṇā aṁśā yataḥ| Yadyatkila sukhaṁ tan mahānandanirvṛtiparamadhāmni visargaśaktāvanupraveśāttathā'cetyamānatayā kiyadrūpatāṁ prāptam| Taduktaṁ bhaṭṭanārāyaṇena</span></p>
 
-<p class="pv-sa" lang="sa">इति। प्राण्नयेन यदुक्तं महअ इति रूपं तदेव भजनीयं यस्याः। परमेश्वरस्य हि स्वचमत्कारबृंहितं यद् अहमिति तदेव शाक्तं वपुस्तदेव च पराभट्टारिकारूपमित्युच्यते। अत एव सैव च परमेश्वरी सर्वं शृणोति — श्रवणाख्यया सत्तया तिष्ठन्ती तस्याः श्रवणसम्पुटस्फुटक्रमिकस्वस्पन्दमयवर्णराशिनिष्ठमैकात्म्यापादनरूपसङ्कलनानुसन्धानाख्यं स्वातन्त्र्यम्। तेन हि विना कलकललीनशब्दविशेषं शृण्वन्नपि — न शृणोमीति व्यवहरति प्रमाता। कलकलमात्रविषयमेव तु सङ्कलनमिति तत्रैव श्रुतमिति व्यवहारः। वस्तुतस्तु स कलकलध्वनिः श्रोत्राकाशेऽनुप्रविशन् न वर्णान् अनुप्रवेशयन् तथा भवेत्तद्वर्णातिरिक्तस्य कलकलस्यैव भावात्। तद्वर्णविशेषविवक्षायां च कलकलस्य च कारणाभावादेवानुत्पत्तिः स्यात् — तद्विवक्षोत्पन्नस्फुटवर्णमयशब्दकार्यत्वे सजातीयशब्दोत्पत्त्या अनुपपत्तेः कलकलस्य। सर्वथा त एव वर्णास्तेन स्फुटरूपेण सङ्कलनामगच्छन्तः कलकलशब्दवाच्याः। तत्सङ्कलनावधानोद्युक्तस्य भवेदेव कियन्मात्रस्फुटोपलम्भ इति सङ्कलनमेवात्रोपयोगि। सङ्कलनं च भगवती सैव परा परमेश्वरी करोति। यदुक्तम्</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">त्रैलोक्येऽप्यत्र यो यावानानन्दः कश्चिदीक्ष्यते।</span><br />
+<span class="pv-iast">Trailokye'pyatra yo yāvānānandaḥ kaścidīkṣyate|</span><br />
+<span class="pv-sa" lang="sa">स बिन्दुर्यस्य तं वन्दे देवमानन्दसागरम्॥</span><br />
+<span class="pv-iast">Sa binduryasya taṁ vande devamānandasāgaram||</span></p>
 
-<p class="pv-sa pv-c" lang="sa">तदाक्रम्य बलं मन्त्राः</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इति। प्राण्नयेन यदुक्तं महअ इति रूपं तदेव भजनीयं यस्याः। परमेश्वरस्य हि स्वचमत्कारबृंहितं यद् अहमिति तदेव शाक्तं वपुस्तदेव च पराभट्टारिकारूपमित्युच्यते। अत एव सैव च परमेश्वरी सर्वं शृणोति — श्रवणाख्यया सत्तया तिष्ठन्ती तस्याः श्रवणसम्पुटस्फुटक्रमिकस्वस्पन्दमयवर्णराशिनिष्ठमैकात्म्यापादनरूपसङ्कलनानुसन्धानाख्यं स्वातन्त्र्यम्। तेन हि विना कलकललीनशब्दविशेषं शृण्वन्नपि — न शृणोमीति व्यवहरति प्रमाता। कलकलमात्रविषयमेव तु सङ्कलनमिति तत्रैव श्रुतमिति व्यवहारः। वस्तुतस्तु स कलकलध्वनिः श्रोत्राकाशेऽनुप्रविशन् न वर्णान् अनुप्रवेशयन् तथा भवेत्तद्वर्णातिरिक्तस्य कलकलस्यैव भावात्। तद्वर्णविशेषविवक्षायां च कलकलस्य च कारणाभावादेवानुत्पत्तिः स्यात् — तद्विवक्षोत्पन्नस्फुटवर्णमयशब्दकार्यत्वे सजातीयशब्दोत्पत्त्या अनुपपत्तेः कलकलस्य। सर्वथा त एव वर्णास्तेन स्फुटरूपेण सङ्कलनामगच्छन्तः कलकलशब्दवाच्याः। तत्सङ्कलनावधानोद्युक्तस्य भवेदेव कियन्मात्रस्फुटोपलम्भ इति सङ्कलनमेवात्रोपयोगि। सङ्कलनं च भगवती सैव परा परमेश्वरी करोति। यदुक्तम्</span><br />
+<span class="pv-iast">iti| Prāṇnayena yaduktaṁ mahaa iti rūpaṁ tadeva bhajanīyaṁ yasyāḥ| Parameśvarasya hi svacamatkārabṛṁhitaṁ yad ahamiti tadeva śāktaṁ vapustadeva ca parābhaṭṭārikārūpamityucyate| Ata eva saiva ca parameśvarī sarvaṁ śṛṇoti — Śravaṇākhyayā sattayā tiṣṭhantī tasyāḥ śravaṇasampuṭasphuṭakramikasvaspandamayavarṇarāśiniṣṭhamaikātmyāpādanarūpasaṅkalanānusandhānākhyaṁ svātantryam| Tena hi vinā kalakalalīnaśabdaviśeṣaṁ śṛṇvannapi — Na śṛṇomīti vyavaharati pramātā| Kalakalamātraviṣayameva tu saṅkalanamiti tatraiva śrutamiti vyavahāraḥ| Vastutastu sa kalakaladhvaniḥ śrotrākāśe'nupraviśan na varṇān anupraveśayan tathā bhavettadvarṇātiriktasya kalakalasyaiva bhāvāt| Tadvarṇaviśeṣavivakṣāyāṁ ca kalakalasya ca kāraṇābhāvādevānutpattiḥ syāt — Tadvivakṣotpannasphuṭavarṇamayaśabdakāryatve sajātīyaśabdotpattyā anupapatteḥ kalakalasya| Sarvathā ta eva varṇāstena sphuṭarūpeṇa saṅkalanāmagacchantaḥ kalakalaśabdavācyāḥ| Tatsaṅkalanāvadhānodyuktasya bhavedeva kiyanmātrasphuṭopalambha iti saṅkalanamevātropayogi| Saṅkalanaṁ ca bhagavatī saiva parā parameśvarī karoti| Yaduktam</span></p>
 
-<p class="pv-sa" lang="sa">इत्यादि।...</p>
+<p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa" lang="sa">तदाक्रम्य बलं मन्त्राः</span><br />
+<span class="pv-iast">Tadākramya balaṁ mantrāḥ</span></p>
 
-<p class="pv-iast pv-anchor" id="s2-iast">Tadatra praśnasarvasve</p>
-
-<p class="pv-iast pv-c">Śrībhairava uvāca</p>
-
-<p class="pv-iast">Vyākhyātaṁ prāgevaitat kiṁ punaruktatāpādanena bhairavo bharaṇātmako mahāmantraravātmakaśca kevalamatra śaktimatprādhānyaṁ saṁhārarūpeṇa mahaa ityevaṁ rūpamityuktaṁ prāk sphuṭībhaviṣyati cāgrata eva| Tad iyān atra tātparyārthaḥ</p>
-
-<p class="pv-iast pv-c">Parā bhagavatī saṁvitprasarantī svarūpataḥ|<br />
-Parecchāśaktirityuktā bhairavasyāvibhedinī||<br />
-Tasyāḥ prasaradharmitvaṁ jñānaśaktyādirūpatā|<br />
-Parāparāparārūpapaśyantyādivapurbhṛtiḥ||<br />
-Tadevaṁ prasarākārasvarūpaparimarśanam|<br />
-Praśna ityucyate devī tanmayapraśnakāriṇī||<br />
-Tasya prasararūpasya parāmarśanameva yat|<br />
-Tadeva paramaṁ proktaṁ tatpraśnottararūpakam||<br />
-Tadevāparasaṁvitterārabhyāntastarāṁ punaḥ|<br />
-Parasaṁvidghanānandasaṁhārakaraṇaṁ muhuḥ||<br />
-Antarbhāvitaniḥśeṣaprasaraṁ bhairavaṁ vapuḥ|<br />
-Prativaktṛsvarūpeṇa sarvadaiva vijṛmbhate||<br />
-Etau prasarasaṁhārāvakālakalitau yataḥ|<br />
-Tadekarūpamevedaṁ tattvaṁ praśnottarātmakam||<br />
-Tadevaṁ parasambandhamanuttaratayānvitam|<br />
-Ṣaḍardhasārasarvasvaṁ guravaḥ prāṅnyarūpayan||</p>
-
-<p class="pv-iast pv-c">Śṛṇu devi mahābhāga uttarasyāpyanuttaram||3||</p>
-
-<p class="pv-iast pv-c">Kauliko'yaṁ vidhirdevi mama hṛdvyomnyavasthitaḥ|<br />
-Kathayāmi sureśāni sadyaḥ kaulikasiddhidam||4||</p>
-
-<p class="pv-iast">Devi iti prāgvat| Mahān bhāgo yasyā yā bhajyamānā uktavakṣyamāṇopadeśānuśīlanena sevyamānā pārameśvaryākhyamahābaladā bhavatīti| Mahat — Paramamahadrūpatayā prasiddho'nāśritaśivarūpaḥ sa yasyāḥ bhāgo'ṁśaḥ pārameśvarī hi śaktiranantaṣaṭtriṁśadāditattvagarbhiṇī| Mahān — Buddhyādistattvaviśeṣo bhāgo vibhāgakalāpekṣi rūpaṁ yasyāḥ pārameśvarī hi saṁvidekaghanaśaktiḥ svasvātantryopakalpitabhinnajñeyakāryapratiṣṭhāpadatve buddhirityucyate| Yaduktaṁ śrīsomānandapādaiḥ</p>
-
-<p class="pv-iast pv-c">... aparasthitau<br />
-sā buddhiryatpunaḥ sūkṣmaṁ sarvadikkamavasthitam|<br />
-Jñānaṁ bodhamayaṁ tasya śivasya sahajaṁ sadā||</p>
-
-<p class="pv-iast">iti| Bhāgo bhedaḥ sa yatrāstīti matvarthīyākārapratyayāntena bhāgaśabdena vibhaktaṁ rūpamucyate| Vibhakte ca vapuṣi paricchedo'nyonyavyavacchedenaiva bhavatīti prasādātmakaviṣayaniścayo buddhāvupajāyamāno'pararamyāramyādiviśvavartino bhāvān aspṛśanneva pratyuta tān vyavacchindan upajāyata iti| Sukhavṛttibuddherdharmaiśvaryādirūpatvātsattvātmako guṇaniḥṣyanda iti gīyate| Yadi tu tatrāpyantastamāmanupraviśyate tat taddvāreṇaiva tanmūlavartini paramānandadhāmni bhavedeva satatamudayaḥ| Mahasya sarvato'khaṇḍitaparipūrṇanirargalanirapekṣasvātantryajagadānandamayasya ā — Īṣad bhāgāḥ sukhalakṣaṇā aṁśā yataḥ| Yadyatkila sukhaṁ tan mahānandanirvṛtiparamadhāmni visargaśaktāvanupraveśāttathā'cetyamānatayā kiyadrūpatāṁ prāptam| Taduktaṁ bhaṭṭanārāyaṇena</p>
-
-<p class="pv-iast pv-c">Trailokye'pyatra yo yāvānānandaḥ kaścidīkṣyate|<br />
-Sa binduryasya taṁ vande devamānandasāgaram||</p>
-
-<p class="pv-iast">iti| Prāṇnayena yaduktaṁ mahaa iti rūpaṁ tadeva bhajanīyaṁ yasyāḥ| Parameśvarasya hi svacamatkārabṛṁhitaṁ yad ahamiti tadeva śāktaṁ vapustadeva ca parābhaṭṭārikārūpamityucyate| Ata eva saiva ca parameśvarī sarvaṁ śṛṇoti — Śravaṇākhyayā sattayā tiṣṭhantī tasyāḥ śravaṇasampuṭasphuṭakramikasvaspandamayavarṇarāśiniṣṭhamaikātmyāpādanarūpasaṅkalanānusandhānākhyaṁ svātantryam| Tena hi vinā kalakalalīnaśabdaviśeṣaṁ śṛṇvannapi — Na śṛṇomīti vyavaharati pramātā| Kalakalamātraviṣayameva tu saṅkalanamiti tatraiva śrutamiti vyavahāraḥ| Vastutastu sa kalakaladhvaniḥ śrotrākāśe'nupraviśan na varṇān anupraveśayan tathā bhavettadvarṇātiriktasya kalakalasyaiva bhāvāt| Tadvarṇaviśeṣavivakṣāyāṁ ca kalakalasya ca kāraṇābhāvādevānutpattiḥ syāt — Tadvivakṣotpannasphuṭavarṇamayaśabdakāryatve sajātīyaśabdotpattyā anupapatteḥ kalakalasya| Sarvathā ta eva varṇāstena sphuṭarūpeṇa saṅkalanāmagacchantaḥ kalakalaśabdavācyāḥ| Tatsaṅkalanāvadhānodyuktasya bhavedeva kiyanmātrasphuṭopalambha iti saṅkalanamevātropayogi| Saṅkalanaṁ ca bhagavatī saiva parā parameśvarī karoti| Yaduktam</p>
-
-<p class="pv-iast pv-c">Tadākramya balaṁ mantrāḥ</p>
-
-<p class="pv-iast">ityādi|...</p>
+<p class="pv-pair" data-pv="w1"><span class="pv-sa" lang="sa">इत्यादि।...</span><br />
+<span class="pv-iast">ityādi|...</span></p>
 
 <ruby>Итак<rp> (</rp><rt>tad</rt><rp>)</rp></ruby>, <ruby>здесь<rp> (</rp><rt>atra</rt><rp>)</rp></ruby>, <ruby>применительно ко всему вопросу целиком<rp> (</rp><rt>praśna-sarvasve</rt><rp>)</rp></ruby>:
 
@@ -196,3 +185,5 @@ _(Когда)_ эти самые (te eva) <ruby>звуки<rp> (</rp><rt>varṇ�
 ---
 
 *Перевод на русский сделан для этого сайта по английскому изложению Габриэля Pradīpaka: [Строфы 3–4, часть 1](https://www.sanskrit-trikashaivism.com/ru/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-ru-stanzas-3-to-4-part-1/794). Санскрит (деванагари и IAST) перенесён из источника без изменений.*
+
+<script src="/assets/js/pv-copy.js"></script>
