@@ -61,3 +61,8 @@ The `ship/` directory hosts the digitized book "Теория плавания п
 2. Commit and push to `main` — GitHub Pages auto-deploys
 
 S3 credentials are in `~/git/misc/books/markhai/.credentials` (gitignored).
+
+## Git Conventions
+
+**Write commit messages in English** — subject line and body alike, even though the
+site content is Russian. Existing Russian commits stay as they are; new ones are English.
