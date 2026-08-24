@@ -18,7 +18,10 @@ noindex: true
 <style>
 /* Тема подключается удалённо и точки расширения не имеет — страница одевает
    отчёт сама, как это делает страница поиска. */
-#report .index{margin:2em 0 0}
+#report .index{margin:2em 0 0;scroll-margin-top:1em}
+#report .toc{margin:1.4em 0 0}
+#report .toc ul{margin:.3em 0 0;padding-left:1.2em}
+#report .toc li{margin:.1em 0;font-size:.95em}
 #report h2{font-size:1.1em;margin:1.6em 0 .4em}
 #report h3{font-size:.95em;margin:1.4em 0 .3em;opacity:.8}
 #report h4{font-size:.9em;margin:1.1em 0 .2em}
