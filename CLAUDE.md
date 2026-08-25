@@ -18,7 +18,18 @@ bundle exec jekyll serve
 
 No Gemfile is tracked — the site relies on GitHub Pages' built-in Jekyll with the `dracula/gh-pages` remote theme configured in `_config.yml`.
 
-Deployment is automatic: push to `main` triggers a GitHub Pages build.
+```bash
+# Build locally in Docker to check pages and measure the search index
+./tools/build-local.sh     # result in _sitecheck/, both index tiers included
+```
+
+The remote theme's gem is absent in the container, so the local build excludes
+`assets/css/style.scss` — that changes how a page looks, not its markup or what
+lands in the search index.
+
+Deployment is automatic: push to `main` triggers the workflow in
+`.github/workflows/pages.yml` — the same Jekyll GitHub Pages runs, plus one node
+step that splits the search indexes into two tiers.
 
 ## Architecture
 

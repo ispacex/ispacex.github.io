@@ -42,7 +42,7 @@ IAST — это **только санскрит**: ни перевода, ни �
 | [Paramārthasāra](https://www.sanskrit-trikashaivism.com/en/node/616) | 130 043 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/616) |
 | [Mālinīvijayottaratantra](https://www.sanskrit-trikashaivism.com/en/node/828) | 129 297 | полное | **нет** |
 | [Parātrīśikāvivaraṇa](https://www.sanskrit-trikashaivism.com/en/node/540) | 114 093 | неполное | **нет** — [перевели сами](/ksh/pv/) |
-| [Tantrasāra](https://www.sanskrit-trikashaivism.com/en/node/919) | 100 181 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/919) |
+| [Tantrasāra](https://www.sanskrit-trikashaivism.com/en/node/919) | 100 181 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/919) — полностью, все 22 главы; [перенесено сюда](/ksh/tantrasara/) |
 | [Spandanirṇaya](https://www.sanskrit-trikashaivism.com/en/node/566) | 82 448 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/566) |
 | [Śivasūtravimarśinī](https://www.sanskrit-trikashaivism.com/en/node/547) | 71 289 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/547) |
 | [Śivastotrāvalī](https://www.sanskrit-trikashaivism.com/en/node/1005) | 49 857 | полное | **нет** |
@@ -102,7 +102,9 @@ IAST — это **только санскрит**: ни перевода, ни �
 ним; перевода там нет и не будет, от каждой главы стоит ссылка к источнику.
 
 **Tantrasāra** — «Суть тантр»: сам Абхинавагупта сжал «Тантралоку» до двадцати двух глав
-прозой. Тот же материал, но обозримый.
+прозой. Тот же материал, но обозримый. Русский перевод Габриэля Pradīpaka полон, и он
+**[перенесён сюда целиком](/ksh/tantrasara/)** — ради поиска: текст, оставленный по
+ссылке, в указатель по сайту не попадает.
 
 **Parātrīśikāvivaraṇa** — разъяснение на «Паратришику», последнюю часть «Рудраямалы».
 Считается самым трудным текстом традиции. **[Переведён на русский для этого сайта](/ksh/pv/)** —
@@ -137,7 +139,9 @@ IAST — это **только санскрит**: ни перевода, ни �
 ## Что из этого переводим
 
 По-русски у Габриэля Pradīpaka уже есть двенадцать писаний из двадцати, и переводить
-их заново незачем — ссылки в таблице ведут прямо туда.
+их заново незачем — ссылки в таблице ведут прямо туда. Одно из них,
+**[Тантрасара](/ksh/tantrasara/)**, перенесено сюда целиком: не ради перевода, которого
+там и не требовалось, а ради поиска.
 
 Браться есть за что в четырёх местах, и они разной трудности:
 

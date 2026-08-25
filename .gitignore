@@ -1,3 +1,5 @@
 tools/trika/src/
 .jekyll-cache/
 _site/
+_sitecheck/
+_config-local.yml
