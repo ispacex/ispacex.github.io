@@ -14,8 +14,9 @@ search: false
 
 <p class="pv-pager nosearch" markdown="1">[← Глава 28 — Bahubhitparvapavitrādi nimittajam](/ksh/ta/ch28/) · [Глава 30 — Mantraughaḥ →](/ksh/ta/ch30/)</p>
 
-<p class="ta-st" id="v29.1"><a class="ta-num" href="#v29.1">29.1</a> <span class="pv-iast">Atha śrītantrāloka ekonatriṁśamāhnikam|<br />
-Atha samucitādhikāriṇa uddiśya rahasya ucyate'tra vidhiḥ|<br />
+<p class="ta-open pv-iast">Atha śrītantrāloka ekonatriṁśamāhnikam|</p>
+
+<p class="ta-st" id="v29.1"><a class="ta-num" href="#v29.1">29.1</a> <span class="pv-iast">Atha samucitādhikāriṇa uddiśya rahasya ucyate'tra vidhiḥ|<br />
 Atha sarvāpyupāseyaṁ kulaprakriyayocyate||29.1||</span></p>
 
 <p class="ta-st" id="v29.2"><a class="ta-num" href="#v29.2">29.2</a> <span class="pv-iast">Tathā dhārādhirūḍheṣu guruśiṣyeṣu yocitā|<br />

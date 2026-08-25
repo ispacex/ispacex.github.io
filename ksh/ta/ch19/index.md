@@ -14,8 +14,9 @@ search: false
 
 <p class="pv-pager nosearch" markdown="1">[← Глава 18 — Sūkṣmā dīkṣā](/ksh/ta/ch18/) · [Глава 20 — Tulādīkṣā →](/ksh/ta/ch20/)</p>
 
-<p class="ta-st" id="v19.1"><a class="ta-num" href="#v19.1">19.1</a> <span class="pv-iast">Atha śrītantrāloka ekānnaviṁśamāhnikam|<br />
-Atha sadyaḥsamutkrāntipradā dīkṣā nirūpyate|<br />
+<p class="ta-open pv-iast">Atha śrītantrāloka ekānnaviṁśamāhnikam|</p>
+
+<p class="ta-st" id="v19.1"><a class="ta-num" href="#v19.1">19.1</a> <span class="pv-iast">Atha sadyaḥsamutkrāntipradā dīkṣā nirūpyate|<br />
 Tatkṣaṇāccopabhogādvā dehapāte śivaṁ vrajet|<br />
 Ityuktyā mālinīśāstre sūcitāsau maheśinā||19.1||</span></p>
 

@@ -14,8 +14,9 @@ search: false
 
 <p class="pv-pager nosearch" markdown="1">[← Глава 20 — Tulādīkṣā](/ksh/ta/ch20/) · [Глава 22 — Liṅgoddhāraḥ →](/ksh/ta/ch22/)</p>
 
-<p class="ta-st" id="v21.1"><a class="ta-num" href="#v21.1">21.1</a> <span class="pv-iast">Atha śrītantrāloka ekaviṁśatitamamāhnikam|<br />
-Parokṣasaṁsthitasyātha dīkṣākarma nigadyate||21.1||</span></p>
+<p class="ta-open pv-iast">Atha śrītantrāloka ekaviṁśatitamamāhnikam|</p>
+
+<p class="ta-st" id="v21.1"><a class="ta-num" href="#v21.1">21.1</a> <span class="pv-iast">Parokṣasaṁsthitasyātha dīkṣākarma nigadyate||21.1||</span></p>
 
 <p class="ta-st" id="v21.2"><a class="ta-num" href="#v21.2">21.2</a> <span class="pv-iast">Bhuktimuktiprasiddhyarthaṁ nīyate sadguruṁ prati|<br />
 Ityasminmālinīvākye pratiḥ sāmmukhyavācakaḥ||21.2||</span></p>

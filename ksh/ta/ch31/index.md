@@ -14,8 +14,9 @@ search: false
 
 <p class="pv-pager nosearch" markdown="1">[← Глава 30 — Mantraughaḥ](/ksh/ta/ch30/) · [Глава 32 — Mudrikāvidhiḥ →](/ksh/ta/ch32/)</p>
 
-<p class="ta-st" id="v31.1"><a class="ta-num" href="#v31.1">31.1</a> <span class="pv-iast">Atha śrītantrāloka ekatriṁśamāhnikam|<br />
-Atha maṇḍalasadbhāvaḥ saṅkṣepeṇābhidhīyate|<br />
+<p class="ta-open pv-iast">Atha śrītantrāloka ekatriṁśamāhnikam|</p>
+
+<p class="ta-st" id="v31.1"><a class="ta-num" href="#v31.1">31.1</a> <span class="pv-iast">Atha maṇḍalasadbhāvaḥ saṅkṣepeṇābhidhīyate|<br />
 Sādhayitvā diśaṁ pūrvāṁ sūtramāsphālayetsamam||31.1||</span></p>
 
 <p class="ta-st" id="v31.2"><a class="ta-num" href="#v31.2">31.2</a> <span class="pv-iast">Tadardhayitvā madhyaprākpratīcīṣvaṅkayetpunaḥ|<br />

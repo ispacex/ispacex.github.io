@@ -1,23 +1,31 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""«Тантралока» из собрания IAST — в страницы Jekyll под /ksh/ta/.
+"""«Тантралока» — в страницы Jekyll под /ksh/ta/.
 
-Кладёт на сайт **только санскрит** в транслитерации: 37 глав, 5849 строф. Ни
-перевода, ни комментария — переводы у источника принадлежат Габриэлю Pradīpaka,
-и дублировать их мы не станем (VS-13). Смысл этих страниц один: найти строфу.
-От каждой главы стоит ссылка туда, где её читают с переводом.
+Санскрит берётся из файла собрания IAST: 37 глав, 5849 строф. Русский перевод —
+со страниц источника, где его сделал **Габриэль Pradīpaka**; переведены главы
+1–16, и вместе с переводом оттуда переносится деванагари. Главы 17–37 по-русски
+у источника не выложены и стоят здесь одной транслитерацией, со ссылкой на
+английский перевод.
+
+Ни строки перевода здесь не сделано нами: это перенос, а не перевод. От каждой
+главы стоит ссылка на неё же у источника.
 
     python3 tools/trika/build-ta.py            # собрать ksh/ta/
     python3 tools/trika/build-ta.py --check    # только сверить, ничего не писать
 
-Источник — файл собрания `Tantrāloka.rtf` (см. /ksh/scriptures/). Он лежит вне
-репозитория; путь задаётся --src, по умолчанию берётся из ~/Downloads.
+Собрание лежит вне репозитория; путь задаётся --src, по умолчанию берётся из
+~/Downloads. Русские страницы источника кладёт в tools/trika/src/ скрипт
+ta-ru-scan.py, разбирает — ta-ru.py.
 
-Разметка страницы повторяет /ksh/pv/ (класс `pv-iast`), и не только ради вида:
-указатель поиска собирает Jekyll, а он режет содержимое на абзацы по пустой
-строке. Поэтому строфа — ровно один абзац исходника, и попадание указывает на
-строфу, а не на главу в триста строф. Якорь берётся из номера в конце строфы;
-собирает указатель `ksh/ta/search-index.json`.
+Единица страницы — строфа: указатель поиска собирает Jekyll, а он режет
+содержимое на абзацы по пустой строке, и попадание должно указывать на строфу,
+а не на главу в триста строф. Якорь у абзаца — его `id`, и по нему же
+`ksh/ta/search-index.json` ведёт из выдачи.
+
+Перевод стоит не при каждой строфе, а при **группе**: сколько строф источник
+свёл в один абзац, к стольким и относится его перевод (см. ta-ru.py). Чаще
+всего в группе одна строфа.
 """
 import argparse
 import os
@@ -25,8 +33,28 @@ import re
 import subprocess
 import sys
 
+import importlib.util
+import unicodedata
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
+
+
+def _load(name, path):
+    spec = importlib.util.spec_from_file_location(name, path)
+    mod = importlib.util.module_from_spec(spec)
+    sys.modules[name] = mod
+    spec.loader.exec_module(mod)
+    return mod
+
+
+# Имя файла с дефисом обычным import не берётся, а переименовывать его незачем:
+# в tools/trika/ все скрипты названы через дефис.
+ta_ru = _load('ta_ru', os.path.join(HERE, 'ta-ru.py'))
+
+sys.path.insert(0, os.path.dirname(HERE))
+from common.page import markup
+from common.check import verify
 OUT = os.path.join(ROOT, 'ksh', 'ta')
 SRC = os.path.expanduser(
     '~/Downloads/Trika_Scriptures_IAST_transliteration/Tantrāloka/Tantrāloka.rtf')
@@ -38,7 +66,12 @@ NUM = re.compile(r'\|\|(\d+)\.(\d+)\|\|[\s\]]*$')
 # числительное стоит то отдельным словом, то приросшим к предыдущему через
 # авагра́ху: «śrītantrāloke'ṣṭāviṁśamāhnikam». Поэтому между началом и концом
 # строки — что угодно, лишь бы недлинное.
-OPENING = re.compile(r'^Atha śrītantrāloke.{0,40}māhnikam\|$')
+#
+# Кончается «tantrāloka» то на «e», то на «a»: перед словом на «e» сандхи
+# оставляет «a» — «Atha śrītantrāloka ekādaśamāhnikam|». Требуй «e» — и пять
+# глав (11, 19, 21, 29, 31) останутся без открывающей строки, а она прирастёт
+# к их первой строфе.
+OPENING = re.compile(r'^Atha śrītantrālok[ae]\b.{0,40}māhnikam\|$')
 CLOSING = re.compile(r'\|\|\s*$')
 
 # Глава → страницы источника. Русский перевод у Габриэля доведён до 16-й главы
@@ -101,6 +134,105 @@ def parse(text):
     return chapters
 
 
+# Любой номер строфы — «||1||» у источника, «||1.1||» в собрании.
+ANYNUM = re.compile(r'\|\|[\d.\s-]+\|\|')
+
+
+def flat(t):
+    """Транслитерация без номеров, пробелов и разнобоя в апострофах."""
+    t = unicodedata.normalize('NFC', ANYNUM.sub('', t))
+    t = re.sub(r'[\s\u00a0\[\]]+', '', t)
+    return t.replace('\u2019', "'").replace('\u2018', "'").lower()
+
+
+def merge(chapters, groups):
+    """Кладёт перевод к строфам и возвращает, что при этом не сошлось.
+
+    Сверка здесь не формальность, а единственное доказательство, что перевод
+    лёг на свою строфу: собрание и страницы источника — разные файлы, и
+    совпасть построчно они могут только если группа стоит там, где мы её
+    поставили.
+
+    Заодно эта же сверка вытаскивает вводную строку, которую собрание приклеило
+    к первой строфе. У 3-й и 16-й глав перед первой строфой стоит ещё одна
+    строка на «Atha…», у источника — отдельным абзацем со своим переводом; в
+    собрании она попала в строфу 1, потому что номера не несёт. Что именно
+    приклеилось, видно из расхождения: лишнее — ровно тот кусок, которого нет у
+    источника.
+    """
+    bad = []
+    by_no = {ch['no']: ch for ch in chapters}
+    for no, page in sorted(groups.items()):
+        ch, gs = by_no[no], page['groups']
+        ch['pre'] = {flat(' '.join(p['iast'])): p['ru'] for p in page['pre']}
+        at = {s: lines for _, s, lines in ch['stanzas']}
+        for g in gs:
+            want = ' '.join(' '.join(at.get(n, [])) for n in g['nums'])
+            if flat(want) != flat(' '.join(g['iast'])):
+                extra = peel(ch, g, at)
+                if extra is None:
+                    bad.append('глава %d, строфы %s: собрание и источник расходятся'
+                               % (no, g['nums'][:4]))
+                    continue
+            deva = relines(g, at)
+            for n in g['nums']:
+                d = deva.get(n, [])
+                if d and len(d) != len(at.get(n, [])):
+                    odd.append('%d.%d: строк деванагари %d, транслитерации %d'
+                               % (no, n, len(d), len(at.get(n, []))))
+                ch.setdefault('deva', {})[n] = d
+            ch.setdefault('tr', []).append(g)
+    return bad
+
+
+def relines(g, at):
+    """Строки деванагари — по строфам так же, как строки транслитерации.
+
+    Номер стоит в конце строфы, и по нему деванагари группы режется на строфы.
+    Но издания изредка ставят его на полстроки раньше или позже, чем собрание:
+    в 9-й главе строка «नियतिर्नास्ति वैरिञ्चे…» у источника попадает под номер 45,
+    а в собрании она открывает 46-ю. Строк при этом столько же — значит,
+    расходится только место номера, и делить надо по собранию: деванагари
+    стоит на странице **над** своей транслитерацией, и разъехаться им нельзя.
+
+    Где строк не поровну (собрание изредка сводит обе половины строфы в одну
+    строку), деление остаётся как есть: там расходится сам текст, а не номер.
+    """
+    total_d = sum(len(g['deva'].get(n, [])) for n in g['nums'])
+    total_i = sum(len(at.get(n, [])) for n in g['nums'])
+    if total_d != total_i or not total_d:
+        return g['deva']
+    flatd = [l for n in g['nums'] for l in g['deva'].get(n, [])]
+    out, i = {}, 0
+    for n in g['nums']:
+        k = len(at.get(n, []))
+        out[n] = flatd[i:i + k]
+        i += k
+    return out
+
+
+# Места, где строк деванагари и транслитерации не поровну: там расходятся сами
+# издания, и починить это перестановкой строк нельзя.
+odd = []
+
+
+def peel(ch, g, at):
+    """Отделяет вводную строку, приклеенную собранием к первой строфе."""
+    if g['nums'][:1] != [1]:
+        return None
+    lines = at[1]
+    for k in range(1, len(lines)):
+        rest = lines[k:] + [' '.join(at.get(n, [])) for n in g['nums'][1:]]
+        if flat(' '.join(rest)) == flat(' '.join(g['iast'])):
+            ch['extra'] = lines[:k]
+            at[1] = lines[k:]
+            for i, (c, s, ls) in enumerate(ch['stanzas']):
+                if s == 1:
+                    ch['stanzas'][i] = (c, s, lines[k:])
+            return lines[:k]
+    return None
+
+
 def check(chapters):
     """Разбор сошёлся с собранием — или не собирать вовсе."""
     bad = []
@@ -131,22 +263,70 @@ def esc(line):
     return line.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
 
-def stanza_html(c, s, lines):
+def wall(lines, cls, lang=''):
+    return '<span class="%s"%s>%s</span>' % (cls, lang, '<br />\n'.join(esc(l) for l in lines))
+
+
+def stanza_html(c, s, iast, deva):
     """Строфа — один абзац исходника, чтобы указатель поиска взял её целиком.
 
     Номер стоит ссылкой на самого себя: это и якорь, и способ сослаться на
     строфу. Класса `nosearch` на нём нет намеренно — он выбрасывает из
     указателя весь абзац, а выбросить надо было бы одно число.
+
+    Деванагари есть только у глав 1–16: оно переносится вместе с переводом со
+    страниц источника. У собрания, откуда взята транслитерация, деванагари нет
+    вовсе.
     """
-    body = '<br />\n'.join(esc(l) for l in lines)
+    body = []
+    if deva:
+        body.append(wall(deva, 'pv-sa', ' lang="sa"'))
+    body.append(wall(iast, 'pv-iast'))
     return ('<p class="ta-st" id="v%d.%d"><a class="ta-num" href="#v%d.%d">%d.%d</a> '
-            '<span class="pv-iast">%s</span></p>' % (c, s, c, s, c, s, body))
+            '%s</p>' % (c, s, c, s, c, s, '<br />\n'.join(body)))
+
+
+def label(c, nums):
+    """Подпись перевода: «2.1» при одной строфе, «1.116–121» при группе."""
+    if len(nums) == 1:
+        return '%d.%d' % (c, nums[0])
+    return '%d.%d–%d' % (c, nums[0], nums[-1])
+
+
+def tr_html(c, nums, paras):
+    """Перевод группы строф — отдельными абзацами, с подстрочником.
+
+    Абзац перевода — своя находка в поиске, со своим якорем: запрос по-русски
+    должен приводить к переводу, а не к началу главы. Якорь у первого абзаца
+    группы — `t<глава>.<первая строфа>`; ссылка на него стоит подписью слева,
+    там же, где у строфы её номер.
+
+    Санскритское слово идёт подстрочником над своим русским, как на /ksh/pv/ и
+    /ksh/tantrasara/: скобка через каждое второе слово рвала фразу.
+    """
+    out = []
+    for i, t in enumerate(paras):
+        # Якорь есть у каждого абзаца, а не только у первого: находка в поиске
+        # должна вести к тому абзацу, где нашлось. Продолжения группы номера
+        # не повторяют — иначе выйдет, будто это перевод другой строфы.
+        ident = 't%d.%d' % (c, nums[0]) if i == 0 else 't%d.%d-%d' % (c, nums[0], i + 1)
+        mark = ('<a class="ta-num" href="#%s">%s</a>' % (ident, label(c, nums))
+                if i == 0 else '<a class="ta-num ta-cont" href="#%s">·</a>' % ident)
+        # Тело абзаца — в своём <span>, и это не украшение: номер и текст стоят
+        # двумя колонками сетки, а сетка раскладывает по ячейкам **каждого**
+        # своего ребёнка. Без обёртки каждый подстрочник стал бы ячейкой, и
+        # абзац рассыпался бы на слова.
+        out.append('<p class="ta-tr" id="%s" markdown="1">%s<span class="ta-body">%s</span></p>'
+                   % (ident, mark, markup(t).replace('\n', '<br />\n')))
+    return out
 
 
 def chapter_page(ch, prev, nxt):
-    ru = ch['no'] <= RUSSIAN_THROUGH
+    ru = bool(ch.get('tr'))
     src = NODE % ('ru' if ru else 'en', SOURCE[ch['no']])
-    where = ('перевод главы у источника' if ru
+    what = ('деванагари, транслитерация IAST и русский перевод' if ru
+            else 'только санскрит в транслитерации IAST')
+    where = ('эта глава у источника' if ru
              else 'английский перевод у источника — русского там нет')
 
     out = ['---',
@@ -162,9 +342,8 @@ def chapter_page(ch, prev, nxt):
     out.append('')
     out.append('# Глава %d — %s' % (ch['no'], ch['name']))
     out.append('')
-    out.append('<p class="ta-meta nosearch" markdown="1">%d %s · только санскрит '
-               'в транслитерации IAST · [%s](%s)</p>'
-               % (len(ch['stanzas']), stanzas_word(len(ch['stanzas'])), where, src))
+    out.append('<p class="ta-meta nosearch" markdown="1">%d %s · %s · [%s](%s)</p>'
+               % (len(ch['stanzas']), stanzas_word(len(ch['stanzas'])), what, where, src))
     out.append('')
 
     pager = []
@@ -176,12 +355,28 @@ def chapter_page(ch, prev, nxt):
     out.append('<p class="pv-pager nosearch" markdown="1">%s</p>' % ' · '.join(pager))
     out.append('')
 
-    if ch['opening']:
-        out.append('<p class="ta-open pv-iast">%s</p>' % esc(ch['opening']))
+    for line in [ch['opening']] + ch.get('extra', []):
+        if not line:
+            continue
+        out.append('<p class="ta-open pv-iast">%s</p>' % esc(line))
         out.append('')
-    for c, s, lines in ch['stanzas']:
-        out.append(stanza_html(c, s, lines))
-        out.append('')
+        for t in ch.get('pre', {}).get(flat(line), []):
+            out.append('<p class="ta-tr ta-open-tr" markdown="1">'
+                       '<span class="ta-num"></span><span class="ta-body">%s</span></p>'
+                       % markup(t).replace('\n', '<br />\n'))
+            out.append('')
+
+    deva = ch.get('deva', {})
+    at = {s: lines for _, s, lines in ch['stanzas']}
+    groups = ch.get('tr') or [{'nums': [s], 'ru': []} for _, s, _ in ch['stanzas']]
+    for g in groups:
+        for n in g['nums']:
+            out.append(stanza_html(ch['no'], n, at[n], deva.get(n)))
+            out.append('')
+        for line in tr_html(ch['no'], g['nums'], g['ru']):
+            out.append(line)
+            out.append('')
+
     if ch['closing']:
         out.append('<p class="ta-open pv-iast">%s</p>' % esc(ch['closing']))
         out.append('')
@@ -195,13 +390,17 @@ def index_page(chapters):
     total = sum(len(ch['stanzas']) for ch in chapters)
     rows = []
     for ch in chapters:
-        ru = ch['no'] <= RUSSIAN_THROUGH
+        ru = bool(ch.get('tr'))
         src = NODE % ('ru' if ru else 'en', SOURCE[ch['no']])
-        rows.append('| [%d](/ksh/ta/ch%d/) | [%s](/ksh/ta/ch%d/) | %d | [%s](%s) |'
+        rows.append('| [%d](/ksh/ta/ch%d/) | [%s](/ksh/ta/ch%d/) | %d | %s | [%s](%s) |'
                     % (ch['no'], ch['no'], ch['name'], ch['no'], len(ch['stanzas']),
+                       'деванагари, IAST, русский' if ru else 'IAST',
                        'русский' if ru else 'английский', src))
 
+    done = sum(len(ch['stanzas']) for ch in chapters if ch.get('tr'))
     page = PAGE.replace('@ROWS@', '\n'.join(rows))
+    page = page.replace('@RU@', '{:,}'.format(done).replace(',', ' '))
+    page = page.replace('@RUCH@', str(sum(1 for ch in chapters if ch.get('tr'))))
     return page.replace('@TOTAL@', '{:,}'.format(total).replace(',', ' '))
 
 
@@ -217,14 +416,16 @@ title: "Тантралока: санскрит целиком, с поиском
 обширный труд традиции: **37 глав, @TOTAL@ строф**, больше половины всего
 [собрания писаний](/ksh/scriptures/) по объёму.
 
-Здесь лежит **только санскрит** в транслитерации IAST — ни перевода, ни
-комментария. Это местная копия ради одного: чтобы строфу можно было найти по
-любому слову и сослаться на неё по номеру. Читать с переводом — у источника, и
-от каждой главы туда ведёт ссылка.
+Это местная копия — ради того, чтобы строфу можно было найти по любому слову и
+сослаться на неё по номеру. Первые **@RUCH@ глав (@RU@ строф)** лежат здесь
+целиком: деванагари, транслитерация и русский перевод при каждой строфе.
+Остальные — одной транслитерацией.
 
-Перевод — [Габриэля Pradīpaka](https://www.sanskrit-trikashaivism.com/), и
-дублировать его мы не станем. По-русски у него готовы **главы 1–16**, и работа
-продолжается; главы 17–37 читаются пока только по-английски.
+Перевод и весь санскритский аппарат принадлежат **[Габриэлю
+Pradīpaka](https://www.sanskrit-trikashaivism.com/)** и перенесены с его сайта
+без изменений: ни строки перевода здесь не сделано нами. По-русски у него
+готовы главы 1–16, и работа продолжается — главы 17–37 читаются пока только
+по-английски, и от каждой из них стоит ссылка туда.
 
 ## Найти строфу
 
@@ -234,24 +435,46 @@ title: "Тантралока: санскрит целиком, с поиском
 
 <ul id="results"></ul>
 
-<p class="ta-hint nosearch"><em>Ищет по всем @TOTAL@ строфам; находка ведёт прямо
-к строфе, а не в начало главы. Диакритика необязательна: «srngara» найдёт
-śṛṅgāra, «matrka» — mātṛkā. Несколько слов — найдутся строфы, где есть все они.
-Эти же строфы находит и <a href="/search/">поиск по сайту</a>, вместе со всем
-остальным.</em></p>
+<p class="ta-hint nosearch"><em>Ищет по всем @TOTAL@ строфам и по переводу первых
+@RUCH@ глав; находка ведёт прямо к строфе или к её переводу, а не в начало главы.
+Искать можно и по-русски, и в транслитерации, и деванагари. Диакритика
+необязательна: «srngara» найдёт śṛṅgāra, «matrka» — mātṛkā. Несколько слов —
+найдутся абзацы, где есть все они. То же самое находит и <a href="/search/">поиск
+по сайту</a>, вместе со всем остальным.</em></p>
 
 ## Главы
 
-| № | Глава | Строф | У источника |
-|---:|---|---:|---|
+| № | Глава | Строф | Что здесь | У источника |
+|---:|---|---:|---|---|
 @ROWS@
+
+## Как читать эти страницы
+
+У глав 1–16 при каждой строфе стоит <span class="pv-sa">деванагари</span>, под
+ним *та же строфа в транслитерации IAST*, а следом — перевод. В переводе
+санскритское слово стоит <ruby>подстрочником<rp> (</rp><rt>saṁskṛta</rt><rp>)</rp></ruby>
+над своим русским, а не скобкой в строке: скобка через каждое второе слово рвала
+фразу. Скобки при этом никуда не делись — они видны при копировании и в поиске.
+
+Перевод стоит не при каждой строфе, а при **группе**: сколько строф источник
+свёл в один абзац, к стольким и относится его перевод. Чаще всего в группе одна
+строфа, и тогда номер перевода совпадает с номером строфы над ним; у группы
+номер показан диапазоном — «1.116–121».
 
 ## Откуда это
 
-Текст взят из собрания `Trika_Scriptures_IAST_transliteration` — оно снято с
-«IAST only»-версий сайта [sanskrit-trikashaivism.com](https://www.sanskrit-trikashaivism.com/en/node/696)
-и содержит один санскрит. Что в этом собрании есть и чего нет по-русски —
-на странице [«Писания Трики»](/ksh/scriptures/).
+Транслитерация взята из собрания `Trika_Scriptures_IAST_transliteration` — оно
+снято с «IAST only»-версий сайта
+[sanskrit-trikashaivism.com](https://www.sanskrit-trikashaivism.com/en/node/696)
+и содержит один санскрит. Деванагари и русский перевод перенесены со страниц
+того же сайта без изменений; их автор — **Габриэль Pradīpaka**. Что в собрании
+есть и чего нет по-русски — на странице [«Писания Трики»](/ksh/scriptures/).
+
+В санскрит внесена одна правка, и она из тех, что видны только при сверке: у
+15-й главы 444-я строфа подписана у источника «441», хотя 441-я стоит двумя
+группами выше. Номер взят по месту. Всё остальное сошлось с собранием знак в
+знак — 1403 группы из 1405, а две оставшиеся расходятся тем, что в собрании
+вводная строка 3-й и 16-й глав приклеена к первой строфе; здесь она отделена.
 
 Страницы собраны `tools/trika/build-ta.py` и правятся не руками, а им.
 
@@ -269,11 +492,15 @@ title: "Тантралока: санскрит целиком, с поиском
 <script src="/sitesearch/search.js"></script>
 <script>
 /* Тот же движок, что и у поиска по сайту, только указатель один — строфы
-   «Тантралоки». Раздел в выдаче не повторяем: он тут у всех один. */
+   «Тантралоки». Раздел в выдаче не повторяем: он тут у всех один.
+
+   defer — карта слов весит под мегабайт: 5849 строф санскрита плюс перевод
+   первых шестнадцати глав. Тому, кто зашёл посмотреть оглавление, везти её
+   незачем; она поедет с первым же запросом. */
 SiteSearch.mount({
     input: 'q', status: 'status', results: 'results',
     showSection: false,
-    sources: [{ url: '/ksh/ta/search-index.json' }],
+    sources: [{ url: '/ksh/ta/search-index.json', defer: true }],
 });
 </script>
 """
@@ -301,9 +528,25 @@ def main():
 
     chapters = parse(read(args.src))
     bad = check(chapters)
+    bad += merge(chapters, ta_ru.collect())
     if bad:
         for b in bad:
             print('разбор разошёлся:', b, file=sys.stderr)
+        return 1
+    for ch, said, want in ta_ru.OFF:
+        print('глава %d: номер под строфой «%s», по месту «%s» — взято по месту'
+              % (ch, said, want))
+    for x in odd:
+        print('строк не поровну (издания расходятся): %s' % x)
+    for ch in chapters:
+        if ch.get('extra'):
+            print('глава %d: вводная строка отделена от первой строфы: %s'
+                  % (ch['no'], ch['extra'][0][:60]))
+
+    # Подстрочник не должен менять текста абзаца: указатель поиска собирает
+    # Jekyll, снимая теги, и строка обязана совпасть с прежней знак в знак.
+    if verify((('глава %d' % ch['no'], label(ch['no'], g['nums']), t)
+               for ch in chapters for g in ch.get('tr', []) for t in g['ru'])):
         return 1
 
     changed = []
@@ -315,12 +558,15 @@ def main():
               args.check, changed)
 
     total = sum(len(ch['stanzas']) for ch in chapters)
+    ru = sum(len(ch['stanzas']) for ch in chapters if ch.get('tr'))
     if args.check:
         for c in changed:
             print('разошлось:', c)
-        print('глав %d, строф %d; расхождений %d' % (len(chapters), total, len(changed)))
+        print('глав %d, строф %d (с переводом %d); расхождений %d'
+              % (len(chapters), total, ru, len(changed)))
         return 1 if changed else 0
-    print('глав %d, строф %d — собрано в ksh/ta/' % (len(chapters), total))
+    print('глав %d, строф %d (с переводом %d) — собрано в ksh/ta/'
+          % (len(chapters), total, ru))
     return 0
 
 

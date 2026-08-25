@@ -14,7 +14,6 @@ import re
 from . import page
 
 TAG = re.compile(r'<[^>]*>')
-NOTE = re.compile(r'--(.+?)--', re.S)
 
 
 def plain(t):
@@ -32,7 +31,7 @@ def verify(items):
         out = page.markup(v)
         ruby += out.count('<ruby>')
         paren += out.count('pv-w')
-        want = plain(NOTE.sub(lambda m: '— ' + m.group(1) + ' —', v))
+        want = plain(page.notes(v, '— ', ' —'))
         if plain(out) != want:
             bad += 1
             i = next((i for i, (a, b) in enumerate(zip(plain(out), want)) if a != b), 0)
