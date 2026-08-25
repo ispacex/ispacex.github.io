@@ -202,3 +202,50 @@ h2[id] {
 }
 .pv-chart caption { font-weight: 600; padding-bottom: .5em; }
 .pv-chart td { padding: .25em .5em; }
+
+// Тантралока (/ksh/ta/) — санскрит без перевода: 5849 строф, и читатель почти
+// всегда приходит к одной из них по ссылке или из поиска. Поэтому номер стоит
+// слева отдельной колонкой, а не тонет в конце строфы: по нему видно, где ты.
+.ta-st {
+  display: grid;
+  grid-template-columns: 4.2em 1fr;
+  gap: .2em 0;
+  margin: 1.1em 0;
+  line-height: 1.8;
+  scroll-margin-top: 1.2em;
+}
+.ta-num {
+  font-size: .85em;
+  opacity: .55;
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+}
+.ta-num:hover,
+.ta-num:focus-visible { opacity: 1; }
+
+// Строфа, на которую только что пришли по ссылке: иначе среди трёхсот
+// одинаковых абзацев её приходится искать глазом.
+.ta-st:target .pv-iast { opacity: 1; }
+.ta-st:target {
+  background: rgba(255, 220, 120, .12);
+  border-radius: 4px;
+  padding: .2em .4em;
+  margin-left: -.4em;
+}
+
+// На узком экране колонка съедает половину ширины — номер уходит над строфой.
+@media (max-width: 560px) {
+  .ta-st { grid-template-columns: 1fr; }
+}
+
+// Открывающая строка главы и колофон: те же слова, что и в строфах, но номера
+// у них нет и в счёт строф они не идут.
+.ta-open {
+  margin: 1.4em 0;
+  opacity: .7;
+}
+.ta-meta,
+.ta-hint {
+  font-size: .9em;
+  opacity: .8;
+}
