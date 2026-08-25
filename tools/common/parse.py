@@ -11,12 +11,82 @@
   alignmentcentered            — либо IAST, либо перевод: решает письменность
   stylered / stylegreen        — санскритское слово в скобках внутри перевода
 """
-import re, json, sys, html as H
+import re, json, sys, html as H, unicodedata as U
 
 ENT = {'nbsp':' ','amp':'&','lt':'<','gt':'>','quot':'"','apos':"'",'ntilde':'ñ'}
 
 def unesc(s):
     return H.unescape(s)
+
+# Кириллица и латиница делят десяток начертаний: «А» и «A» на экране одно и то
+# же, а для поиска — разные строки, и слово с подменённой буквой не находится
+# никаким запросом. У источника такие подмены есть — след распознавания.
+# Строчных «к»/«k», «т»/«t», «м»/«m» в списке нет: они похожи, но не совпадают,
+# и каждая держит свою сторону — оттого «Наtака» правилу и не по зубам.
+TWINS = 'АAВBЕEКKМMНHОOРPСCТTУYХXаaеeоoрpсcуyхx'
+CYR_TWIN = {TWINS[i]: TWINS[i + 1] for i in range(0, len(TWINS), 2)}
+LAT_TWIN = {TWINS[i + 1]: TWINS[i] for i in range(0, len(TWINS), 2)}
+
+
+def twin(table, c):
+    """Двойник буквы, вместе со знаком над ней, если он есть.
+
+    Русское ударение набирают латинской «ó» — своей такой буквы в кодировке
+    нет, а на экране разницы никакой: «щóка». Знак при этом осмысленный, и
+    снимать его нельзя; меняется только буква под ним, «о» на «о» с ударением
+    отдельным знаком. Оттого двойник ищется по основе, а не по всей букве.
+    """
+    base, marks = c[0], ''
+    if c not in table:
+        d = U.normalize('NFD', c)
+        base, marks = d[0], d[1:]
+    if base not in table:
+        return None
+    return U.normalize('NFC', table[base] + marks)
+
+
+CYR = re.compile(r'[А-Яа-яЁё]')
+LAT = re.compile(r'[A-Za-z\u00c0-\u024f\u1e00-\u1eff]')
+WORD = re.compile(r'[^\W\d_]+', re.UNICODE)
+
+
+# Опечатки источника, которые правило решить не может: буква тут ни при чём,
+# сломана скобка. У 13.312 Габриэля пояснение набрано как «(yatasон» — скобка
+# не закрыта, и «он» из следующего слова затянуто внутрь. Без закрывающей
+# скобки конвейер не видит в этом санскритского пояснения и печатает всё это
+# русским текстом.
+ERRATA = (
+    ('(yatasон он', '(yatas) он'),
+)
+
+
+def unmix(s):
+    """Слово из двух письменностей сводит к одной — по букве без двойника.
+
+    Решает не большинство, а буква, у которой в другой письменности двойника
+    нет вовсе: она и говорит, на каком языке слово набрано, а двойники в нём
+    подтягиваются к ней. В «Уogī» это «g» — слово латинское, и «У» становится
+    «Y»; в «свастикe» — «в», «т» и «и», слово русское, и «e» становится «е».
+
+    Держат обе стороны разом — правило молчит: в «ашrame» стоят и «ш», и «m»,
+    и одной подменённой буквой такое не объяснить. Молчит оно и когда не
+    держит никто: «Веpа» из одних двойников и набирается, и латиницей читается
+    не хуже. Оба раза это разбирает человек, а таблица тут соврала бы уверенно.
+    """
+    def one(m):
+        w = m.group(0)
+        if not (CYR.search(w) and LAT.search(w)):
+            return w
+        held_cyr = any(CYR.match(c) and twin(CYR_TWIN, c) is None for c in w)
+        held_lat = any(LAT.match(c) and twin(LAT_TWIN, c) is None for c in w)
+        if held_cyr == held_lat:
+            return w
+        table = LAT_TWIN if held_cyr else CYR_TWIN
+        return ''.join(twin(table, c) or c for c in w)
+    for wrong, right in ERRATA:
+        s = s.replace(wrong, right)
+    return WORD.sub(one, s)
+
 
 def unnest(s, tags):
     """Убирает вложенные теги того же вида, оставляя внешнюю пару.
@@ -70,10 +140,9 @@ def strip_tags_keep(s):
     s = re.sub(r'[ \t\xa0]+', ' ', s)
     s = re.sub(r' *\n *', '\n', s)
     s = re.sub(r'\n{2,}', '\n', s)   # <br /> и перевод строки за ним — один разрыв
-    return s.strip()
+    return unmix(s.strip())
 
 DEVA = re.compile(r'[ऀ-ॿ]')
-CYR  = re.compile(r'[А-Яа-яЁё]')
 # Буквы, которые встречаются только в IAST-транслитерации.
 DIAC = re.compile(r'[āīūṛṝḷḹṭḍṇśṣñṅṁṃḥĀĪŪṚṬḌṆŚṢÑṄṀṂḤ]')
 ENGWORD = re.compile(r'\b(the|of|is|and|to|in|that|this|which|not|by|with|from|as|it|its|be|are|was|for|on|his|her|their|because|when|so|also|but|there|here|has|have|all|one|who|what|such|even|only|now|then|i|you|we|they|he|she)\b', re.I)
