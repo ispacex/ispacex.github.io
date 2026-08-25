@@ -21,6 +21,7 @@ No Gemfile is tracked — the site relies on GitHub Pages' built-in Jekyll with 
 ```bash
 # Build locally in Docker to check pages and measure the search index
 ./tools/build-local.sh     # result in _sitecheck/, both index tiers included
+node tools/check-search.js # search: one term per word, whichever script it is written in
 ```
 
 The remote theme's gem is absent in the container, so the local build excludes
