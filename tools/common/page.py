@@ -79,17 +79,26 @@ def cut(span):
     return span[:edge], span[edge:]
 
 
-def gloss(t):
+def gloss(t, link=None):
     """Санскрит — подстрочником над своим словом, а не скобкой в строке.
 
     `<rp>` держит скобки для тех, кто подстрочник не рисует, и заодно для
     указателя поиска: `strip_html` оставляет от подстрочника ровно ту строку,
     что стояла до него.
+
+    `link` — как санскритское слово находит статью словаря. Ссылка ложится
+    внутрь `<rt>`, вокруг самого слова: со снятыми тегами строка обязана
+    совпасть с прежней знак в знак, а тег текста не меняет.
     """
     # `bar` — левая граница, за которую основа не заходит: за ней осталась
     # скобка, которую мы не тронули. Затяни её в основу — и `_(…)_` разорвётся
     # пополам: курсив открылся снаружи подстрочника, а закрылся внутри.
     out, pos, bar = [], 0, 0
+
+    def word(w):
+        href = link(w) if link else None
+        return '<a href="%s" class="pv-gl">%s</a>' % (href, w) if href else w
+
     for m in GLOSS.finditer(t):
         ws = m.group(0)[:m.group(0).index('(')]
         op = m.start() + len(ws)
@@ -112,18 +121,18 @@ def gloss(t):
             # Подписывать нечего: два глосса подряд, начало абзаца, конец
             # авторской вставки. Оставляем скобку как была, вместе с пробелом
             # перед ней — его забрал разбор, и без него слова слипнутся.
-            out.append(keep + base + ws + '<span class="pv-w">(%s)</span>' % m.group(1))
+            out.append(keep + base + ws + '<span class="pv-w">(%s)</span>' % word(m.group(1)))
             continue
         out.append(keep)
         # Пробел уходит внутрь <rp>: со снятыми тегами строка обязана совпасть
         # с прежней знак в знак, иначе разойдётся поисковый указатель.
         out.append('<ruby>%s<rp>%s(</rp><rt>%s</rt><rp>)</rp></ruby>'
-                   % (base, ws, m.group(1)))
+                   % (base, ws, word(m.group(1))))
     out.append(t[pos:])
     return ''.join(out)
 
 
-def markup(t):
+def markup(t, link=None):
     """Внутристрочная разметка: санскрит подстрочником и вставки автора.
 
     Уточнение Габриэля стоит в двойных дефисах: `--букв. …--`. Изредка у него
@@ -132,7 +141,7 @@ def markup(t):
     то, что не открывалось, а `</span>` уедет в поисковый указатель. Поэтому
     при нечётном числе дефисы остаются текстом — ровно так, как у источника.
     """
-    return gloss(notes(t))
+    return gloss(notes(t), link)
 
 
 def notes(t, open='<span class="pv-note">— ', close=' —</span>'):
@@ -158,8 +167,14 @@ def bold(t):
                   t, flags=re.S)
 
 
-def para(t, cls=None, anchor=None):
-    t = markup(t).replace('\n', '<br />\n')
+def para(t, cls=None, anchor=None, link=None, mark_id=None):
+    t = markup(t, link).replace('\n', '<br />\n')
+    if mark_id:
+        # Якорь словаря — пустой <span> в начале абзаца, а не id самого абзаца:
+        # id у элемента может быть только один, а начало перевода раздела уже
+        # помечено своим. Внутрь абзаца таких меток встанет сколько угодно, и
+        # ни одна не мешает другой.
+        t = '<span id="%s" class="pv-mark"></span>%s' % (mark_id, t)
     if cls:
         return '<p class="%s"%s markdown="1">%s</p>' % (mark(cls, anchor), ident(anchor), t)
     # Обычный абзац разметки обёртки не имеет, и якорь ему ставится
@@ -413,6 +428,27 @@ class Book:
     def nav(self, secs, titles):
         return nav(secs, titles)
 
+    # --- словарь терминов ---
+
+    def link(self, word):
+        """Адрес статьи словаря для санскритского слова, или None.
+
+        Словарь есть не у всякого писания, поэтому по умолчанию — никакой.
+        """
+        return None
+
+    def anchors(self, pid):
+        """Якоря словаря на этой странице: {номер блока: id}.
+
+        Ставятся туда, куда словарь ссылается словами «здесь это и
+        разбирается». Как именно они ложатся в абзац — см. `para`.
+        """
+        return {}
+
+    def crumbs(self):
+        """Что дописать в хлебные крошки после названия писания."""
+        return ''
+
     def heading(self, tag, title, anchor):
         """Заголовок раздела внутри страницы. Пустая строка — раздела не будет."""
         return ('## ' if tag == 'h3' else '### ') + title + (' {#%s}' % anchor if anchor else '')
@@ -448,6 +484,7 @@ def render(book, pid, slug, name, idx):
             if sec[key] is not None:
                 at[sec[key]] = '%s-%s' % (sec['id'], key)
         at.setdefault(sec['head'], sec['id'])
+    marks = book.anchors(pid)
 
     body = []
     for i, b in enumerate(blocks):
@@ -486,7 +523,8 @@ def render(book, pid, slug, name, idx):
                 body.append('<p class="%s"%s lang="en">%s</p>'
                             % (mark('pv-en', a), ident(a), markup(b['t']).replace('\n', '<br />\n')))
             else:
-                body.append(para(v, 'pv-tr' if b.get('c') else None, a))
+                body.append(para(v, 'pv-tr' if b.get('c') else None, a,
+                                 book.link, marks.get(i)))
         elif k == 'list':
             items = [book.item(pid, i, j, x) or x for j, x in enumerate(b['items'])]
             if any(book.item(pid, i, j, x) is None for j, x in enumerate(b['items'])):
@@ -509,9 +547,9 @@ def render(book, pid, slug, name, idx):
 
     head = [
         '---\ntitle: "%s"\n---' % book.page_title(name),
-        '<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [%s](%s) · '
+        '<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [%s](%s)%s · '
         '[Поиск по сайту](/search/) · [Эта часть у источника](%s)</p>'
-        % (book.name, book.home(), book.at_source(pid)),
+        % (book.name, book.home(), book.crumbs(), book.at_source(pid)),
         '',
         '# %s' % name,
         '',

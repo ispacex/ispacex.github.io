@@ -13,8 +13,11 @@ import json, os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 
+import words
 from common.page import Book
 from parts import PARTS, SRC, SRC_URL
+
+GLOSSARY = '/ksh/pv/glossary/'
 
 
 def load(path, default):
@@ -32,6 +35,10 @@ class PV(Book):
         Book.__init__(self, here)
         self.common = load(os.path.join(here, 'ru', 'common.json'), {})
         self.ru = {}
+        # Словарь и его якоря считаются один раз на всю сборку: обход перевода
+        # ради каждой из четырнадцати страниц был бы четырнадцатью обходами.
+        self.words = words.index()
+        self.marks = words.anchors()
 
     def _ru(self, pid):
         if pid not in self.ru:
@@ -49,6 +56,22 @@ class PV(Book):
 
     def table(self, pid, i, html):
         return self._ru(pid).get(str(i))
+
+    def link(self, word):
+        """Санскритское слово в подстрочнике — ссылка на статью словаря.
+
+        Слово стоит в падеже, и статью ему подбирает `words.find`. Чего в
+        словаре нет — остаётся простым текстом: сотня статей на без малого
+        шесть тысяч помет, и большая их часть — служебные слова.
+        """
+        term = words.find(word, self.words)
+        return GLOSSARY + '#t-' + words.slug(term.iast) if term else None
+
+    def anchors(self, pid):
+        return self.marks.get(pid, {})
+
+    def crumbs(self):
+        return ' · [Словарь терминов](%s)' % GLOSSARY
 
     def footer(self, pid, name):
         return ('*Перевод на русский сделан для этого сайта по английскому изложению Габриэля'

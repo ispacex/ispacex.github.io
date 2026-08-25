@@ -15,9 +15,10 @@
  *
  *   1. запись латиницей, запись латиницей без диакритики и запись кириллицей
  *      дают одну и ту же выдачу;
- *   2. свёртка сводит воедино все 54 записи `data-alias` из dance/glossary.md —
- *      там кириллическое написание проставлено рядом с IAST вручную, и это
- *      готовая таблица правильных ответов;
+ *   2. свёртка сводит воедино все записи `data-alias` из словарей сайта —
+ *      «Натьяшастры» и Parātrīśikāvivaraṇa: там кириллическое написание
+ *      проставлено рядом с IAST вручную, и это готовая таблица правильных
+ *      ответов;
  *   3. подсветка попадает в текст: запрос кириллицей, а подсвечивать надо то,
  *      что написано в абзаце, — латиницей и с диакритикой;
  *   4. опечатка не даёт пустоты: движок ищет по ближайшему слову и называет
@@ -229,17 +230,37 @@ async function typos() {
 	return bad;
 }
 
+/* Словари сайта: в каждой строке кириллическое написание проставлено рядом с
+   IAST вручную, и это готовая таблица правильных ответов для свёртки. Первым в
+   `data-alias` стоит то написание, которое свёртка обязана свести с IAST; за
+   ним идут прочие, по которым ищут на самой странице словаря.
+
+   Дефис из сравнения выкидывается: в Parātrīśikāvivaraṇa есть составные
+   термины — `parā-aparā`, `mahā-mantra`, — а кириллицей их пишут слитно. Это
+   не расхождение свёртки, а разное членение одного слова. */
+const GLOSSARIES = [
+	['Натьяшастры', path.join(HERE, 'dance', 'glossary.md')],
+	['Parātrīśikāvivaraṇa', path.join(HERE, 'ksh', 'pv', 'glossary', 'index.md')],
+];
+
 function aliases() {
-	const md = fs.readFileSync(path.join(HERE, 'dance', 'glossary.md'), 'utf8');
-	const rows = [...md.matchAll(/<tr data-alias="([^"]*)">.*?<td class="skt"[^>]*>([^<]*)<\/td>/g)];
+	let bad = 0;
+	for (const [name, file] of GLOSSARIES) bad += aliasesOf(name, file);
+	return bad;
+}
+
+function aliasesOf(name, file) {
+	const md = fs.readFileSync(file, 'utf8');
+	const rows = [...md.matchAll(/<tr [^>]*data-alias="([^"]*)">.*?<td class="skt"[^>]*>([^<]*)<\/td>/g)];
+	const flat = (s) => SiteSearch.fold(s).replace(/-/g, '');
 	let ok = 0;
 	const bad = [];
 	for (const [, alias, iast] of rows) {
-		const want = SiteSearch.fold(iast);
+		const want = flat(iast);
 		const cyr = alias.split(/\s+/)[0];
-		if (SiteSearch.fold(cyr) === want) ok++; else bad.push([iast, want, cyr, SiteSearch.fold(cyr)]);
+		if (flat(cyr) === want) ok++; else bad.push([iast, want, cyr, flat(cyr)]);
 	}
-	console.log('\nСловарь «Натьяшастры»: сошлось ' + ok + ' из ' + rows.length);
+	console.log('\nСловарь ' + name + ': сошлось ' + ok + ' из ' + rows.length);
 	for (const [i, w, c, g] of bad) console.log('   ✗ ' + i + ' → ' + w + '   ≠   ' + c + ' → ' + g);
 	return bad.length;
 }

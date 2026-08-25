@@ -20,7 +20,7 @@ title: "Натьяшастра: словарь терминов"
 <p><label for="gl-filter">Фильтр:</label>
 <input type="search" id="gl-filter" placeholder="начните вводить термин, например «раса» или «hasta»" /></p>
 
-<p id="gl-voice">Голос:
+<p id="gl-voice" data-audio="/dance/audio/" data-store="ns-voice">Голос:
 <label><input type="radio" name="gl-voice" value="parler" checked /> Parler</label>
 <label><input type="radio" name="gl-voice" value="lekha" /> системный</label></p>
 
@@ -126,5 +126,5 @@ title: "Натьяшастра: словарь терминов"
 </table>
 </div>
 
-<script src="/dance/glossary.js"></script>
+<script src="/assets/js/glossary.js"></script>
 <script src="/dance/chapter.js"></script>

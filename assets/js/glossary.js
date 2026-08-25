@@ -1,5 +1,11 @@
 /* Словарь терминов: фильтр по строкам и озвучка санскритских слов.
  *
+ * Скрипт общий на все словари сайта — «Натьяшастры» и Parātrīśikāvivaraṇa, —
+ * а различаются они двумя вещами, и обе стоят на самой странице, при выборе
+ * голоса: `data-audio` — откуда брать mp3, `data-store` — под каким именем
+ * помнить выбранный голос. Разные имена нужны, чтобы голос, выбранный в одном
+ * словаре, не менялся от захода в другой.
+ *
  * Комплектов озвучки два, и читают они по-разному: «системный» — macOS-голос
  * hi_IN, применяющий правило хинди и проглатывающий конечное краткое «а»
  * (saṅgha → «сангх»); Parler — ai4bharat/indic-parler-tts, обученный в том
@@ -14,9 +20,13 @@
 (function () {
 	'use strict';
 
-	var AUDIO_BASE = '/dance/audio/';
+	var picker = document.getElementById('gl-voice');
+	/* Нет папки с озвучкой — кнопка сразу идёт в синтез: играть чужие файлы
+	   потому только, что путь по умолчанию куда-то ведёт, хуже, чем не играть
+	   ничего. */
+	var AUDIO_BASE = picker && picker.getAttribute('data-audio');
 	var VOICES = { parler: 'parler/', lekha: '' };
-	var STORE = 'ns-voice';
+	var STORE = (picker && picker.getAttribute('data-store')) || 'gl-voice';
 
 	function chosen() {
 		var v = null;
@@ -73,6 +83,9 @@
 			'table.gl td.skt{white-space:nowrap;font-style:italic}',
 			/* Деванагари при том же кегле выглядит мельче латиницы. */
 			'table.gl td.deva{white-space:nowrap;font-size:1.15em;line-height:1.4}',
+			/* Столбец «где в тексте» — служебный: он не должен спорить с
+			   толкованием ни размером, ни переносами. */
+			'table.gl td.where{white-space:nowrap;font-size:.9em}',
 			'button.tts{background:none;border:1px solid rgba(128,128,128,.5);border-radius:999px;',
 			'color:inherit;cursor:pointer;font-size:.8em;line-height:1;padding:.15em .4em;',
 			'margin-left:.35em;opacity:.5}',
@@ -97,6 +110,7 @@
 	function filter() {
 		var input = document.getElementById('gl-filter');
 		if (!input) return;
+		var tables = [].slice.call(document.querySelectorAll('table.gl'));
 		var rows = [].filter.call(document.querySelectorAll('table.gl tr'), function (tr) {
 			return !tr.querySelector('th');
 		});
@@ -105,6 +119,18 @@
 			rows.forEach(function (tr) {
 				var hay = fold(tr.textContent + ' ' + (tr.getAttribute('data-alias') || ''));
 				tr.style.display = !q || hay.indexOf(q) !== -1 ? '' : 'none';
+			});
+			/* Раздел, из которого не осталось ни строки, убирается вместе со
+			   своим заголовком: иначе от отфильтрованного словаря на экране
+			   остаются одни названия разделов и шапки пустых таблиц. */
+			tables.forEach(function (table) {
+				var any = [].some.call(table.rows, function (tr) {
+					return !tr.querySelector('th') && tr.style.display !== 'none';
+				});
+				var wrap = table.parentNode;
+				wrap.style.display = any ? '' : 'none';
+				var head = wrap.previousElementSibling;
+				if (head && head.tagName === 'H2') head.style.display = any ? '' : 'none';
 			});
 		});
 	}
@@ -141,7 +167,7 @@
 				}
 
 				(function tryAt(i) {
-					if (i >= order.length) return say();
+					if (!AUDIO_BASE || i >= order.length) return say();
 					new Audio(AUDIO_BASE + order[i] + slug + '.mp3')
 						.play().catch(function () { tryAt(i + 1); });
 				})(0);
@@ -151,7 +177,6 @@
 	}
 
 	function voicePicker() {
-		var picker = document.getElementById('gl-voice');
 		if (!picker) return;
 		var start = chosen();
 		[].forEach.call(picker.querySelectorAll('input[name="gl-voice"]'), function (r) {
