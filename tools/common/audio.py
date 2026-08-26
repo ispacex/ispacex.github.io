@@ -25,12 +25,30 @@
 Расплата одна, и её надо назвать: на странице стоит `śiva`, а голос говорит
 `śivaḥ` — с лёгким придыханием на конце. Это сказано и в оговорке над таблицей.
 
+## Почему часть файлов не синтезируется, а берётся у соседа
+
+Словари раздела говорят об одном и том же и делят между собою десятки слов:
+`tattva`, `śakti`, `mala` стоят в трёх из них. Написание на деванагари у них
+одно, правило озвучки одно — значит и звук вышел бы тот же самый, байт в байт
+(проверено: 37 общих файлов у /ksh/sv/ и /ksh/ta/ совпадают целиком).
+
+Поэтому `borrow` называет уже озвученные словари, и оттуда файл копируется, а
+не наговаривается заново. Сличается при этом не имя файла, а само написание на
+деванагари: ключ выводится со снятой диакритикой, и совпасть он может у разных
+слов. Разошлось написание — слово наговаривается своё.
+
+Один и тот же звук ложится тогда в две папки. В репозитории это ничего не
+стоит: git хранит одинаковые файлы одним объектом.
+
 Нужен macOS (голос Lekha, hi_IN) и ffmpeg. Уже готовые файлы не
 перезаписываются, так что после новой статьи скрипт можно прогнать целиком.
+`--force` переснимает готовое, но занятое у соседа так и остаётся занятым:
+переснимать нечего, звук там ровно тот же.
 """
 import argparse
 import os
 import re
+import shutil
 import subprocess
 import sys
 
@@ -60,7 +78,23 @@ def synth(deva, dst):
     return os.path.getsize(dst)
 
 
-def main(page, out):
+def lent(borrow):
+    """Уже озвученное у соседей: {(ключ, деванагари): путь к файлу}.
+
+    Ключ и написание вместе, а не один ключ: диакритика при выводе ключа
+    снимается, и `kalā` с `kāla` дали бы один и тот же. Совпасть должно
+    написание — оно и есть то, что голос читает.
+    """
+    out = {}
+    for page, folder in borrow:
+        for key, deva in ROW.findall(open(page, encoding='utf-8').read()):
+            path = os.path.join(folder, key + '.mp3')
+            if os.path.exists(path):
+                out.setdefault((key, deva), path)
+    return out
+
+
+def main(page, out, borrow=()):
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--force', action='store_true', help='переснять уже готовые')
     args = ap.parse_args()
@@ -69,16 +103,21 @@ def main(page, out):
     if not rows:
         sys.exit('в %s не нашлось ни одной статьи — словарь собран?' % page)
     os.makedirs(out, exist_ok=True)
+    have = lent(borrow)
 
-    made = kept = size = 0
+    made = kept = took = size = 0
     for key, deva in rows:
         dst = os.path.join(out, key + '.mp3')
         if os.path.exists(dst) and not args.force:
             kept += 1
-            size += os.path.getsize(dst)
-            continue
-        size += synth(deva, dst)
-        made += 1
-    print('озвучено: %d, уже было: %d, всего %d КБ, висарга дописана %d раз'
-          % (made, kept, round(size / 1024),
+        elif (key, deva) in have:
+            shutil.copyfile(have[(key, deva)], dst)
+            took += 1
+        else:
+            synth(deva, dst)
+            made += 1
+        size += os.path.getsize(dst)
+    print('озвучено: %d, занято у соседей: %d, уже было: %d, всего %d КБ, '
+          'висарга дописана %d раз'
+          % (made, took, kept, round(size / 1024),
              sum(1 for _k, d in rows if CONSONANT.search(d))))

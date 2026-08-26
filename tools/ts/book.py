@@ -10,7 +10,7 @@
 чего заведена: если у источника какой-то абзац остался по-английски, он и
 здесь будет стоять по-английски и в рамке, а не выдаваться за русский.
 """
-import os, re, sys
+import json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
@@ -18,6 +18,8 @@ sys.path.insert(0, HERE)
 
 from common.page import Book, plural
 from parts import PARTS, SRC, SRC_URL
+
+GLOSSARY = '/ksh/tantrasara/glossary/'
 
 CYR = re.compile(r'[А-Яа-яЁё]')
 
@@ -64,6 +66,27 @@ def recolour(bs):
     return bs
 
 
+def blocks(pid, here=HERE):
+    """Блоки главы: глава, а не глава со «Вступлением» перед ней.
+
+    У источника каждой из двадцати двух глав предпослано одно и то же
+    вступление переводчика: первая строка называет номер главы, остальные
+    четыре абзаца слово в слово одинаковы. Двадцать два раза класть их в
+    поисковый указатель незачем — вступление стоит один раз на
+    /ksh/tantrasara/, откуда оно и взято.
+
+    Режем по второму заголовку: первый — «Вступление», второй — «Глава N».
+
+    Функцией модуля, а не только методом: по этим же номерам блоков считает
+    словарь (`words.py`), и считать он обязан ровно то, что попадёт на
+    страницу. Разойдись обрезка — и якорь встал бы не в тот абзац.
+    """
+    path = os.path.join(here, 'blocks', '%s.json' % pid)
+    bs = json.load(open(path, encoding='utf-8'))['blocks']
+    heads = [i for i, b in enumerate(bs) if b['k'] in ('h3', 'h4')]
+    return recolour(dedup_title(bs[heads[1]:] if len(heads) > 1 else bs))
+
+
 class TS(Book):
     key = 'tantrasara'
     name = 'Tantrasāra'
@@ -74,6 +97,25 @@ class TS(Book):
 
     def __init__(self, here=HERE):
         Book.__init__(self, here)
+        # Внутри, а не наверху модуля: `words` читает блоки главы этим же
+        # файлом, и встречный `import` наверху замкнул бы круг.
+        import words
+        self.words = words.index()
+        self.marks = words.anchors()
+
+    def link(self, word):
+        """Санскритское слово в подстрочнике — ссылка на статью словаря.
+
+        Слово стоит в падеже, и статью ему подбирает `words.find`. Чего в
+        словаре нет — остаётся простым текстом: сто сорок четыре статьи на
+        восемь с половиной тысяч помет, и большая их часть — служебные слова.
+        """
+        import words
+        term = words.find(word, self.words)
+        return GLOSSARY + '#t-' + words.keyof(term) if term else None
+
+    def anchors(self, pid):
+        return self.marks.get(pid, {})
 
     def page_title(self, name):
         # Названия глав — санскритские, и строчными их писать нельзя:
@@ -81,19 +123,7 @@ class TS(Book):
         return '%s: %s' % (self.name, name)
 
     def blocks(self, pid):
-        """Страница главы — это глава, а не глава со «Вступлением» перед ней.
-
-        У источника каждой из двадцати двух глав предпослано одно и то же
-        вступление переводчика: первая строка называет номер главы, остальные
-        четыре абзаца слово в слово одинаковы. Двадцать два раза класть их в
-        поисковый указатель незачем — вступление стоит один раз на
-        /ksh/tantrasara/, откуда оно и взято.
-
-        Режем по второму заголовку: первый — «Вступление», второй — «Глава N».
-        """
-        bs = Book.blocks(self, pid)
-        heads = [i for i, b in enumerate(bs) if b['k'] in ('h3', 'h4')]
-        return recolour(dedup_title(bs[heads[1]:] if len(heads) > 1 else bs))
+        return blocks(pid, self.here)
 
     def load(self, pid):
         # Кириллица в блоке — и есть признак перевода: у источника он уже
@@ -108,6 +138,9 @@ class TS(Book):
 
     def table(self, pid, i, html):
         return '<table>%s</table>' % html
+
+    def crumbs(self):
+        return ' · [Словарь терминов](%s)' % GLOSSARY
 
     def heading(self, tag, title, anchor):
         """Заголовка раздела на странице главы нет.
