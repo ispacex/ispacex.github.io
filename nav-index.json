@@ -58,6 +58,13 @@ talam», «# Monet». Ищется он и в разметке, и в готов
 {%- assign sec = conf.sections[seg] -%}
 {%- assign sectitle = sec.title | default: conf.default.title -%}
 {%- assign secorder = sec.order | default: conf.default.order | default: 99 -%}
+{%- comment -%}
+Раздела в перечне нет — страница падает в «Институт». Это не раздел, а мешок
+для неприписанных, и палитре надо об этом сказать: иначе самая мелкая страница
+в мешке становится «дверью» в него, и набравший «институт» попадает туда, куда
+сегодня случилось лечь корню. Признак читает `prepare` в sitesearch/palette.js;
+имя раздела при этом остаётся искомым — выбран не был состав, а не имя.
+{%- endcomment -%}
 {%- assign name = p.title -%}
 {%- unless name -%}
 {%- assign lines = p.content | strip | newline_to_br | split: '<br />' -%}
@@ -73,6 +80,6 @@ talam», «# Monet». Ищется он и в разметке, и в готов
 {%- unless name -%}{%- assign name = p.url | remove_first: '/' | replace: '/', ' / ' | strip -%}{%- endunless -%}
 {%- unless first %},{% endunless -%}
 {%- assign first = false -%}
-{"url":{{ p.url | jsonify }},"title":{{ name | jsonify }},"section":{{ sectitle | jsonify }},"order":{{ secorder }},"lang":{{ lang | jsonify }}}
+{"url":{{ p.url | jsonify }},"title":{{ name | jsonify }},"section":{{ sectitle | jsonify }},"order":{{ secorder }},"lang":{{ lang | jsonify }}{% unless sec %},"fallback":true{% endunless %}}
 {%- endfor -%}
 ]}

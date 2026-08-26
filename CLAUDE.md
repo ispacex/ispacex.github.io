@@ -22,12 +22,22 @@ No Gemfile is tracked — the site relies on GitHub Pages' built-in Jekyll with 
 # Build locally in Docker to check pages and measure the search index
 ./tools/build-local.sh     # result in _sitecheck/, both index tiers included
 node tools/check-search.js # search: one term per word in either script, and a typo gets an answer
+node tools/check-palette.js # ⌘K palette: the index is whole, jumps land, and a query the names miss reaches the text
 python3 tools/check-scripts.py # text: no word mixes two alphabets (needs no build)
 ```
 
 The remote theme's gem is absent in the container, so the local build excludes
 `assets/css/style.scss` — that changes how a page looks, not its markup or what
-lands in the search index.
+lands in the search index. The ⌘K button's place in the header is one of the
+rules that live in that file, so a local build hangs it in the corner of the
+window instead; check it in the browser by pasting those rules in, not by
+looking at the local build and concluding it moved.
+
+The search engine and the ⌘K palette come from the `sitesearch` submodule
+(`sitesearch/search.js`, `sitesearch/palette.js`), attached with a script tag
+and `data-` attributes — see its README. Nothing of either is copied into this
+site: a copy diverges silently, and the checks that would catch it live there,
+next to both files.
 
 Deployment is automatic: push to `main` triggers the workflow in
 `.github/workflows/pages.yml` — the same Jekyll GitHub Pages runs, plus one node

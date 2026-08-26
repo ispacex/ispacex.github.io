@@ -6,10 +6,9 @@
  *
  * Движок — настоящий, тот самый sitesearch/search.js, который поедет читателю;
  * пересказывать его правила здесь нельзя, иначе проверялся бы пересказ. Ему
- * нужен браузер, и браузера тут нет, поэтому ниже стоит подставка: ровно те
- * несколько вещей из DOM, которых движок касается, и fetch, читающий указатели
- * с диска. Всё остальное — его собственный код, включая двухъярусный указатель
- * с догрузкой кусков.
+ * нужен браузер, и браузера тут нет: подставка — в tools/browser.js, общая с
+ * проверкой палитры. Всё остальное — его собственный код, включая двухъярусный
+ * указатель с догрузкой кусков.
  *
  * Проверяется пять вещей:
  *
@@ -34,57 +33,12 @@ const HERE = path.dirname(__dirname);
 const SITE = process.argv[2] || path.join(HERE, '_sitecheck');
 
 // --- подставка вместо браузера ----------------------------------------------
+//
+// Она общая с проверкой палитры (tools/browser.js): движок один, и браузера
+// ему не хватает одинаково.
 
-class El {
-	constructor(tag) {
-		this.tagName = tag;
-		this.children = [];
-		this.parentNode = null;
-		this._text = '';
-	}
-	appendChild(c) {
-		if (c && c.fragment) { c.children.forEach((x) => this.appendChild(x)); return c; }
-		c.parentNode = this;
-		this.children.push(c);
-		return c;
-	}
-	insertBefore(c) { return this.appendChild(c); }
-	addEventListener(type, fn) { (this.on || (this.on = {}))[type] = fn; }
-	fire(type) { if (this.on && this.on[type]) this.on[type](); }
-	set textContent(v) { this._text = v; this.children = []; }
-	get textContent() {
-		return this.children.length ? this.children.map((c) => c.textContent).join('') : this._text;
-	}
-	// Текст с пометками, чтобы видеть глазами, что подсвечено.
-	get marked() {
-		if (!this.children.length) return this.tagName === 'mark' ? '[' + this._text + ']' : this._text;
-		return this.children.map((c) => c.marked).join('');
-	}
-	// Куда ведёт находка: у абзаца ссылка стоит в строке «где», у страницы —
-	// в самой выдержке.
-	get link() {
-		if (this.href) return this.href;
-		for (const c of this.children) { const l = c.link; if (l) return l; }
-		return null;
-	}
-}
-
-const nodes = {};
-global.document = {
-	getElementById: (id) => nodes[id] || (nodes[id] = new El('div')),
-	createElement: (tag) => new El(tag),
-	createTextNode: (t) => { const e = new El('#text'); e.textContent = t; return e; },
-	createDocumentFragment: () => { const e = new El('#fragment'); e.fragment = true; return e; },
-};
-global.location = { pathname: '/search/', search: '' };
-global.history = { replaceState() {} };
-
-// Указатели лежат на диске; движок просит их по адресу сайта.
-global.fetch = (url) => {
-	const file = path.join(SITE, url.replace(/^\//, ''));
-	if (!fs.existsSync(file)) return Promise.resolve({ ok: false, status: 404 });
-	return Promise.resolve({ ok: true, status: 200, json: () => Promise.resolve(JSON.parse(fs.readFileSync(file, 'utf8'))) });
-};
+const { El, install } = require('./browser.js');
+const { nodes } = install(SITE, 'ru');
 
 const SiteSearch = require(path.join(HERE, 'sitesearch', 'search.js'));
 
