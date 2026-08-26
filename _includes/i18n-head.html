@@ -1,0 +1,20 @@
+{%- comment -%}
+Языковые связи страницы для поисковиков.
+
+Английская страница знает свой русский оригинал сама — он лежит у неё во front
+matter (`ru:`), его туда кладёт `tools/translate.py`. Русская о своём двойнике
+знать не может: она написана раньше и о переводе не подозревает. Поэтому список
+переведённого собирается тем же скриптом в `_data/i18n.yml`.
+
+`x-default` указывает на русскую: она оригинал, и читателю, чей язык нам
+неизвестен, показывать надо её.
+{%- endcomment -%}
+{%- if page.ru -%}
+<link rel="alternate" hreflang="ru" href="{{ page.ru | absolute_url }}" />
+<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}" />
+<link rel="alternate" hreflang="x-default" href="{{ page.ru | absolute_url }}" />
+{%- elsif site.data.i18n.en contains page.url -%}
+<link rel="alternate" hreflang="ru" href="{{ page.url | absolute_url }}" />
+<link rel="alternate" hreflang="en" href="{{ page.url | prepend: '/en' | absolute_url }}" />
+<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}" />
+{%- endif -%}

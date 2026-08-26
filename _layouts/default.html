@@ -36,8 +36,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-{%- comment -%} Отличие 1: свой head — счётчик и запрет индексации служебных страниц. {%- endcomment -%}
+{%- comment -%} Отличие 1: свой head — счётчик, запрет индексации, языки. {%- endcomment -%}
 {% include head.html %}
+{% include i18n-head.html %}
   </head>
 
   <body class="{{ page.colorspace }}">
@@ -72,6 +73,7 @@
           {% endif %}
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
+{% include i18n-switch.html %}
           <hr>
         </div>
 

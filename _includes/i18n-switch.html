@@ -1,0 +1,12 @@
+{%- comment -%}
+Переключатель языка. Стоит в шапке, рисуется разметкой, а не скриптом: без JS
+он тоже должен работать, и до первой отрисовки не должен прыгать.
+
+Показывается только там, где переключать есть на что. Страница без двойника
+молчит — ссылка на несуществующий перевод хуже её отсутствия.
+{%- endcomment -%}
+{%- if page.ru -%}
+<p class="pv-lang nosearch"><a href="{{ page.ru }}" hreflang="ru" lang="ru">Русский</a> · <strong>English</strong></p>
+{%- elsif site.data.i18n.en contains page.url -%}
+<p class="pv-lang nosearch"><strong>Русский</strong> · <a href="{{ page.url | prepend: '/en' }}" hreflang="en" lang="en">English</a></p>
+{%- endif -%}

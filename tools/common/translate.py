@@ -92,6 +92,10 @@ PROMPT = (
     '- Markers like ⟦0⟧ are placeholders for things you must not touch. Copy '
     'each of them through exactly once, in the same order, unchanged.\n'
     '- Keep Markdown structure: headings, list markers, emphasis, blank lines.\n'
+    '- Never add a parenthesis that is not in the source. Do not gloss, do not '
+    'explain a term in brackets, do not expand an abbreviation. On this site a '
+    'parenthesis is machinery, not punctuation: it is read as a Sanskrit '
+    'annotation and printed above the neighbouring word.\n'
     '- Do not add, remove, explain or comment. Return only the translation.'
 )
 
@@ -172,8 +176,17 @@ class Cache:
         self.dirty = False
 
 
-def ask(masked, lang, tries=3):
-    """Один запрос к модели. Возвращает перевод или бросает."""
+def ask(masked, lang, tries=6):
+    """Один запрос к модели. Возвращает перевод или бросает.
+
+    Ловится `OSError`, а не только `URLError`: на двенадцати потоках сервер
+    рвёт соединение, и `ConnectionResetError` мимо узкого перехвата прошёл —
+    прогон упал на середине. Кеш при этом уцелел весь, и продолжить стоило
+    ноль: за это он и лежит на диске.
+
+    Пауза растёт: сброшенное соединение чаще всего значит «слишком часто», и
+    повторить тут же — попросить того же самого второй раз.
+    """
     body = json.dumps({
         'model': MODEL,
         'temperature': 0,
@@ -192,9 +205,9 @@ def ask(masked, lang, tries=3):
             with urllib.request.urlopen(req, timeout=180) as r:
                 out = json.load(r)
             return out['choices'][0]['message']['content'].strip()
-        except (urllib.error.URLError, KeyError, TimeoutError) as e:
+        except (OSError, KeyError, TimeoutError, json.JSONDecodeError) as e:
             last = e
-            time.sleep(2 * (n + 1))
+            time.sleep(min(30, 2 ** n))
     raise RuntimeError('DeepSeek не ответил: %s' % last)
 
 
@@ -208,7 +221,13 @@ def translate(text, lang, cache, stats=None):
     # Нечего переводить: остались одни метки и знаки препинания.
     if not re.search(r'[^\W\d_]', SLOT_RE.sub('', masked), re.U):
         return text
-    fp = fingerprint(masked, lang)
+    # Ключ берётся у кеша, а не у переданного языка. Разница не косметическая:
+    # `lang` — это то, как язык назван модели («English»), а `cache.lang` — то,
+    # как он назван файлу («en»). Пока ключ считали по первому здесь и по
+    # второму в предварительной закупке, всё покупалось дважды, и сказать об
+    # этом могла только цифра `bought`, которая после закупки обязана быть
+    # нулём. Теперь источник ключа один — сам кеш.
+    fp = fingerprint(masked, cache.lang)
     got = cache.get(fp)
     if got is None:
         got = ask(masked, lang)
