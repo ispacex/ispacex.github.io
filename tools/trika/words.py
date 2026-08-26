@@ -37,7 +37,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 
 from common.terms import (PLACES, count, find, hits, index as _index, keyof,  # noqa: F401
-                          slug, stem, t, targets, terms as _terms)
+                          markup, slug, stem, t, targets, terms as _terms)
 
 # Порядок статей внутри раздела — не алфавитный, а смысловой: соседние понятия
 # стоят рядом, чтобы статья читалась вместе с парной к ней.

@@ -40,7 +40,7 @@ sys.path.insert(0, os.path.join(HERE, '..'))
 sys.path.insert(0, HERE)
 
 from common.terms import (PLACES, count, find, hits, index as _index, keyof,  # noqa: F401
-                          slug, stem, t, targets, terms as _terms)
+                          markup, slug, stem, t, targets, terms as _terms)
 from parts import PARTS
 
 GLOSSARY = '/ksh/ph/glossary/'

@@ -91,7 +91,7 @@ def row(term, place, names):
             '<td class="where">%s</td></tr>'
             % (words.keyof(term), term.alias or term.ru.lower(),
                term.ru, words.keyof(term), tts, term.iast,
-               term.deva, term.gloss, where(place, names)))
+               term.deva, words.markup(term.gloss), where(place, names)))
 
 
 def main():
