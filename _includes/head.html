@@ -1,16 +1,22 @@
+{%- comment -%}
+Что доклеивается к `<head>` темы. Включается из `_layouts/default.html` —
+своего, а не темы: у макета темы точек расширения нет вовсе, и этот файл до
+появления того макета не подключался никогда.
+
+Тегов Open Graph здесь больше нет: их выдаёт `{% seo %}` из jekyll-seo-tag,
+который тема зовёт строкой выше, и вторая пара тех же тегов на странице —
+это не подстраховка, а два разных ответа на один вопрос.
+{%- endcomment -%}
 {% if page.noindex %}<meta name="robots" content="noindex, nofollow" />{% endif %}
-{% if page.description %}
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:description" content="{{ page.description }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ page.url | absolute_url }}" />
-{% endif %}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z1L94CNEJN"></script>
+{%- comment -%}
+Счётчик — gtag.js, потому что идентификатор в `_config.yml` от GA4 («G-…»).
+Старый analytics.js, который ставила тема, такой идентификатор не понимает: он
+ждёт «UA-…». Оттого счётчик и не считал.
+{%- endcomment -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'G-Z1L94CNEJN');
+  gtag('config', '{{ site.google_analytics }}');
 </script>

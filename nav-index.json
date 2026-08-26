@@ -1,0 +1,65 @@
+---
+layout: null
+sitemap: false
+permalink: /nav-index.json
+---
+{%- comment -%}
+Указатель для палитры перехода (⌘K): название страницы, её адрес и раздел.
+
+Зачем свой, когда есть `/search-index.json`. Тот — карта слов всего сайта, 766
+КБ: возить её на каждой странице ради «перейти в раздел» нельзя. Здесь только
+названия — полторы сотни строк, единицы килобайт, и палитра открывается, ничего
+не дожидаясь.
+
+Собирает его Jekyll, пока собирает сайт, — как и поисковый указатель. Значит
+он не может разойтись со страницами и не требует отдельного шага: ни npm, ни
+действия, ни памяти о том, что надо пересобрать.
+
+**`search: false` тут не годится как признак «не показывать».** Им помечены
+главы «Тантралоки»: их текст лежит в отдельном указателе, и в общий он попал бы
+дважды. Но перейти в главу 9 читатель хочет ровно так же, как в любую другую
+страницу. Поэтому исключается другое — `nav: false` у страницы и `noindex` у
+служебных.
+
+Название берётся из `title`, а где его нет — из первого заголовка страницы.
+Таких страниц два десятка, и заголовок у них есть почти всегда: «## Natya
+talam», «# Monet». Ищется он и в разметке, и в готовом HTML: Jekyll отдаёт
+`page.content` то так, то этак, смотря в каком порядке ему случилось собирать
+страницы. Не нашлось ни того ни другого — остаётся адрес; на этом сайте он
+переложен латиницей и потому находится запросом по-русски: «моне» найдёт
+`/art/monet/`.
+
+Разделы — те же, что у поиска, из `_data/sitesearch.yml`: состав сайта записан
+в одном месте, а не в двух.
+{%- endcomment -%}
+{%- assign conf = site.data.sitesearch -%}
+{"pages":[
+{%- assign first = true -%}
+{%- for p in site.pages -%}
+{%- unless p.path contains '.md' -%}{% continue %}{% endunless -%}
+{%- if p.nav == false -%}{% continue %}{% endif -%}
+{%- if p.noindex -%}{% continue %}{% endif -%}
+{%- if p.path contains 'sitesearch/' -%}{% continue %}{% endif -%}
+{%- assign parts = p.url | split: '/' -%}
+{%- assign seg = parts[1] -%}
+{%- assign sec = conf.sections[seg] -%}
+{%- assign sectitle = sec.title | default: conf.default.title -%}
+{%- assign secorder = sec.order | default: conf.default.order | default: 99 -%}
+{%- assign name = p.title -%}
+{%- unless name -%}
+{%- assign lines = p.content | strip | newline_to_br | split: '<br />' -%}
+{%- for line in lines limit: 20 -%}
+{%- assign l = line | strip -%}
+{%- if l.size < 2 -%}{% continue %}{% endif -%}
+{%- assign lead = l | slice: 0, 1 -%}
+{%- if lead == '#' -%}{%- assign name = l | replace: '#', '' | strip -%}{%- break -%}{%- endif -%}
+{%- assign tag = l | slice: 0, 3 -%}
+{%- if tag == '<h1' or tag == '<h2' -%}{%- assign name = l | strip_html | strip -%}{%- break -%}{%- endif -%}
+{%- endfor -%}
+{%- endunless -%}
+{%- unless name -%}{%- assign name = p.url | remove_first: '/' | replace: '/', ' / ' | strip -%}{%- endunless -%}
+{%- unless first %},{% endunless -%}
+{%- assign first = false -%}
+{"url":{{ p.url | jsonify }},"title":{{ name | jsonify }},"section":{{ sectitle | jsonify }},"order":{{ secorder }}}
+{%- endfor -%}
+]}
