@@ -62,7 +62,7 @@ IAST — это **только санскрит**: ни перевода, ни �
 | [Śivasūtra-s](https://www.sanskrit-trikashaivism.com/en/node/545) | 2 868 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/545) |
 | [Bodhapañcadaśikā](https://www.sanskrit-trikashaivism.com/en/node/923) | 1 648 | полное | [есть](https://www.sanskrit-trikashaivism.com/ru/node/923) |
 | [Pratyabhijñāhṛdayam](https://www.sanskrit-trikashaivism.com/en/node/541) | 1 322 | полное, 20 сутр | [есть](https://www.sanskrit-trikashaivism.com/ru/node/541) |
-| [Pratyabhijñāhṛdayam — комментарий](https://www.sanskrit-trikashaivism.com/en/node/543) | — | пусто | **нет** |
+| [Pratyabhijñāhṛdayam — комментарий](https://www.sanskrit-trikashaivism.com/en/node/543) | — | пусто | **нет**, и английского не было по-русски — [перевели сами](/ksh/ph/) |
 | [Parātrīśikālaghuvṛtti](https://www.sanskrit-trikashaivism.com/en/node/539) | — | пусто | нет, и английского нет |
 | [Śivadṛṣṭi](https://www.sanskrit-trikashaivism.com/en/node/956) | — | пусто | только вступление |
 
@@ -158,15 +158,18 @@ IAST — это **только санскрит**: ни перевода, ни �
 [словарь терминов](/ksh/tantrasara/glossary/) — общий со словарём «Тантралоки»,
 потому что книга та же, сжатая.
 
-Мест, где браться было за что, четыре. Два из них закрыты — и закрыты
+Мест, где браться было за что, четыре. Три из них закрыты — и закрыты
 по-разному:
 
 1. **Parātrīśikāvivaraṇa** — [сделано](/ksh/pv/), все четырнадцать частей;
 2. **Śivastotrāvalī** — [сделана](/ksh/sv/), все двадцать гимнов. Переводить пришлось
    иначе, чем всё остальное: под 444 строфами из 450 у источника стоит «Untranslated»,
    опереться не на что, и перевод сделан прямо с санскрита;
-3. **комментарий к Pratyabhijñāhṛdayam** — по-русски выложены двадцать сутр без него,
-   то есть рама без картины;
+3. **комментарий к Pratyabhijñāhṛdayam** — [сделан](/ksh/ph/), все двадцать афоризмов.
+   По-русски были выложены двадцать сутр без разбора, то есть рама без картины;
+   разбор Кшемараджи есть у источника только по-английски, и 115 тысяч знаков его
+   переведены здесь. Сами сутры взяты у Габриэля Pradīpaka готовыми: одна и та же
+   сутра не должна звучать на сайте в двух прочтениях;
 4. **Mālinīvijayottaratantra** — самая большая из недостающих; браться за неё стоит
    последней.
 
