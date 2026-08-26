@@ -55,6 +55,7 @@ ta_ru = _load('ta_ru', os.path.join(HERE, 'ta-ru.py'))
 sys.path.insert(0, os.path.dirname(HERE))
 from common.page import markup
 from common.check import verify
+import words
 OUT = os.path.join(ROOT, 'ksh', 'ta')
 SRC = os.path.expanduser(
     '~/Downloads/Trika_Scriptures_IAST_transliteration/Tantrāloka/Tantrāloka.rtf')
@@ -317,7 +318,7 @@ def tr_html(c, nums, paras):
         # своего ребёнка. Без обёртки каждый подстрочник стал бы ячейкой, и
         # абзац рассыпался бы на слова.
         out.append('<p class="ta-tr" id="%s" markdown="1">%s<span class="ta-body">%s</span></p>'
-                   % (ident, mark, markup(t).replace('\n', '<br />\n')))
+                   % (ident, mark, markup(t, words.link).replace('\n', '<br />\n')))
     return out
 
 
@@ -337,7 +338,12 @@ def chapter_page(ch, prev, nxt):
            'search: false',
            '---',
            '']
-    crumbs = ['[КШ](/ksh/)', '[Тантралока](/ksh/ta/)', '[Поиск по сайту](/search/)']
+    crumbs = ['[КШ](/ksh/)', '[Тантралока](/ksh/ta/)']
+    # Словарь толкует пометы перевода, и в непереведённой главе ему нечего
+    # объяснять: там одна транслитерация.
+    if ru:
+        crumbs.append('[Словарь терминов](/ksh/ta/glossary/)')
+    crumbs.append('[Поиск по сайту](/search/)')
     out.append('<p class="pv-crumbs nosearch" markdown="1">%s</p>' % ' · '.join(crumbs))
     out.append('')
     out.append('# Глава %d — %s' % (ch['no'], ch['name']))
@@ -363,7 +369,7 @@ def chapter_page(ch, prev, nxt):
         for t in ch.get('pre', {}).get(flat(line), []):
             out.append('<p class="ta-tr ta-open-tr" markdown="1">'
                        '<span class="ta-num"></span><span class="ta-body">%s</span></p>'
-                       % markup(t).replace('\n', '<br />\n'))
+                       % markup(t, words.link).replace('\n', '<br />\n'))
             out.append('')
 
     deva = ch.get('deva', {})
@@ -408,7 +414,7 @@ PAGE = """---
 title: "Тантралока: санскрит целиком, с поиском по строфам"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Писания Трики](/ksh/scriptures/) · [Поиск по сайту](/search/) · [Тантралока у источника](https://www.sanskrit-trikashaivism.com/ru/node/581)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/ta/glossary/) · [Писания Трики](/ksh/scriptures/) · [Поиск по сайту](/search/) · [Тантралока у источника](https://www.sanskrit-trikashaivism.com/ru/node/581)</p>
 
 # Тантралока
 
@@ -456,6 +462,11 @@ Pradīpaka](https://www.sanskrit-trikashaivism.com/)** и перенесены �
 санскритское слово стоит <ruby>подстрочником<rp> (</rp><rt>saṁskṛta</rt><rp>)</rp></ruby>
 над своим русским, а не скобкой в строке: скобка через каждое второе слово рвала
 фразу. Скобки при этом никуда не делись — они видны при копировании и в поиске.
+
+Слово, у которого есть статья в **[словаре терминов](/ksh/ta/glossary/)**, —
+ссылка туда; из словаря ссылки ведут обратно, прямо в те абзацы, где термин
+разбирается гуще всего. Толкования в словаре написаны для этого сайта: перевод
+здесь чужой, а объяснения — свои, и они за перевод не выдаются.
 
 Перевод стоит не при каждой строфе, а при **группе**: сколько строф источник
 свёл в один абзац, к стольким и относится его перевод. Чаще всего в группе одна

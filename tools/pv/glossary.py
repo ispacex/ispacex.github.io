@@ -81,8 +81,8 @@ def row(term, place, names):
             '<td class="deva">%s</td>'
             '<td>%s</td>'
             '<td class="where">%s</td></tr>'
-            % (words.slug(term.iast), term.alias or term.ru.lower(),
-               term.ru, words.slug(term.iast), tts, term.iast,
+            % (words.keyof(term), term.alias or term.ru.lower(),
+               term.ru, words.keyof(term), tts, term.iast,
                term.deva, term.gloss, where(place, names)))
 
 

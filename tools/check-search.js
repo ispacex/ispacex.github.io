@@ -243,6 +243,7 @@ const GLOSSARIES = [
 	['Натьяшастры', path.join(HERE, 'dance', 'glossary.md')],
 	['Parātrīśikāvivaraṇa', path.join(HERE, 'ksh', 'pv', 'glossary', 'index.md')],
 	['Śivastotrāvalī', path.join(HERE, 'ksh', 'sv', 'glossary', 'index.md')],
+	['Тантралоки', path.join(HERE, 'ksh', 'ta', 'glossary', 'index.md')],
 ];
 
 function aliases() {

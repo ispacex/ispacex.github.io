@@ -24,20 +24,17 @@
   не пришлось: у каждой строфы уже есть свой адрес по номеру (`#v13.11`), и
   словарь ссылается прямо на него.
 """
-import collections
 import glob
 import json
 import os
-import re
-import unicodedata
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+
+from common.terms import (PLACES, count, find, hits, index as _index, keyof,  # noqa: F401
+                          slug, stem, t, targets, terms as _terms)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-
-Term = collections.namedtuple('Term', 'iast deva ru gloss forms alias say')
-
-
-def t(iast, deva, ru, gloss, forms='', alias='', say=''):
-    return Term(iast, deva, ru, gloss, tuple(forms.split()), alias, say)
 
 
 # Порядок статей внутри раздела — не алфавитный, а смысловой: соседние понятия
@@ -378,82 +375,19 @@ t('vapus', 'वपुस्', 'Вапус',
 
 # --- как слово из текста находит свою статью -------------------------------
 
-# Окончания, которые снимаются при сличении. Порядок значим: длинное раньше
-# короткого, иначе `asya` потеряет только `ā`.
-END = ('ābhyām', 'ānām', 'asya', 'eṣu', 'ebhyaḥ', 'ayaḥ', 'ayā', 'āni', 'ena',
-       'eṇa', 'aḥ', 'āḥ', 'am', 'ām', 'āt', 'au', 'e', 'ā', 'ḥ', 'ṁ', 'ṃ')
-
-
-def stem(w):
-    """Основа слова: снимаем падежное окончание и конечное «a».
-
-    `bhāvaḥ`, `bhāvam`, `bhāvena`, `bhāva` — одно слово в разных падежах, и
-    сличать их надо не по написанию. Правило грубое, и потому оно только
-    подспорье: там, где оно не берёт (`ātmanaḥ`, `manaḥ`, `vapuḥ`), у статьи
-    стоит прямой список форм.
-    """
-    w = w.strip().lower().replace('-', '').replace('ṃ', 'ṁ')
-    for e in END:
-        if w.endswith(e) and len(w) - len(e) >= 3:
-            w = w[:-len(e)]
-            break
-    return w[:-1] if len(w) > 3 and w[-1] in 'aā' else w
+# Механика общая на три словаря — см. `tools/common/terms.py`. Здесь только то,
+# что у «Шивастотравали» своё: где лежит перевод и чем зовётся место в нём.
 
 
 def terms():
-    for _, group in SECTIONS:
-        for term in group:
-            yield term
-
-
-def slug(iast):
-    """Ключ статьи: якорь на странице словаря, он же имя файла с озвучкой."""
-    s = iast.replace('ś', 'sh').replace('Ś', 'sh').replace('ñ', 'n')
-    s = unicodedata.normalize('NFD', s.lower())
-    return re.sub(r'[^a-z]', '', s)
+    return _terms(SECTIONS)
 
 
 def index():
-    """Слово из текста → статья словаря.
-
-    Сначала прямые формы, потом основы: прямой список должен перебивать
-    правило, а не наоборот. Совпадение основ у двух статей — ошибка сборки:
-    ссылка из текста повела бы не туда, и молча.
-    """
-    by_form, by_stem, keys = {}, {}, {}
-    for term in terms():
-        if slug(term.iast) in keys:
-            raise SystemExit('ключ совпал: %s и %s'
-                             % (keys[slug(term.iast)], term.iast))
-        keys[slug(term.iast)] = term.iast
-        for w in (term.iast,) + term.forms:
-            by_form[w.lower().replace('-', '')] = term
-        s = stem(term.iast)
-        if s in by_stem and by_stem[s] is not term:
-            raise SystemExit('основы совпали: %s и %s' % (by_stem[s].iast, term.iast))
-        by_stem[s] = term
-    return by_form, by_stem
-
-
-def find(word, tables=None):
-    """Статья для санскритского слова из подстрочника, или None."""
-    by_form, by_stem = tables or index()
-    w = word.strip().lower().replace('-', '')
-    return by_form.get(w) or by_stem.get(stem(word))
+    return _index(SECTIONS)
 
 
 # --- где термин звучит гуще всего ------------------------------------------
-
-# Больше трёх ссылок в строке словаря — уже не подсказка, а список.
-PLACES = 3
-
-GLOSS = re.compile(r'\(([^()]*?)\)')
-
-# Помета бывает и составной: `bhakti-rasa-āsava-vara-unmadāḥ`. Ссылку в словарь
-# такое слово не получает — подстрочник в `tools/common/page.py` сличает помету
-# целиком, — но для счёта «где термин звучит гуще всего» части считаются
-# наравне: в гимнах понятия чаще всего и стоят внутри составных слов.
-PART = re.compile(r'[-\s.]+')
 
 
 def occurrences():
@@ -464,43 +398,14 @@ def occurrences():
     блока: по нему же строфа зовётся и на странице.
     """
     tables = index()
-    hits = collections.defaultdict(collections.Counter)
+    out = hits()
     for path in sorted(glob.glob(os.path.join(HERE, 'sa', '*.json')) +
                        glob.glob(os.path.join(HERE, 'ru', '*.json'))):
         for key, text in json.load(open(path, encoding='utf-8')).items():
             if not isinstance(text, str) or '.' not in key:
                 continue
             hymn, verse = (int(x) for x in key.split('.'))
-            for m in GLOSS.finditer(text):
-                # Сперва помета целиком — составной термин («parama-īśvara»)
-                # обязан достаться себе, а не своей половине.
-                whole = find(m.group(1), tables)
-                for part in [m.group(1)] if whole else PART.split(m.group(1)):
-                    term = find(part, tables)
-                    if term is not None:
-                        hits[term.iast][(hymn, verse)] += 1
-    return hits
-
-
-def targets():
-    """Куда словарь ссылается: до трёх строф на термин.
-
-    Берутся строфы, где термин помечен гуще всего: там о нём и речь, а не
-    поминание мимоходом. При равном счёте вперёд идёт та, что раньше, —
-    читателю естественнее начать с первой.
-
-    Из одного гимна берётся одна строфа. Не ради экономии: три ссылки в один
-    гимн отличались бы только вторым числом, и выбирать между ними читателю
-    было бы не по чему.
-    """
-    out = {}
-    for iast, hits in occurrences().items():
-        best = {}
-        for (hymn, verse), n in hits.items():
-            if best.get(hymn, (0, 0))[0] < n:
-                best[hymn] = (n, verse)
-        top = sorted(best.items(), key=lambda kv: (-kv[1][0], kv[0]))[:PLACES]
-        out[iast] = sorted((hymn, verse) for hymn, (_n, verse) in top)
+            count(out, text, (hymn, verse), tables)
     return out
 
 
@@ -512,15 +417,16 @@ def links():
     """
     return {iast: [('ch%d' % hymn, 'v%d.%d' % (hymn, verse))
                    for hymn, verse in places]
-            for iast, places in targets().items()}
+            for iast, places in targets(occurrences()).items()}
 
 
 if __name__ == '__main__':
-    hits = occurrences()
+    got = occurrences()
     print('статей: %d' % sum(1 for _ in terms()))
     print('без единого вхождения: %s'
-          % (', '.join(x.iast for x in terms() if not hits.get(x.iast)) or '—'))
+          % (', '.join(x.iast for x in terms() if not got.get(x.iast)) or '—'))
+    tgt = targets(got)
     for term in terms():
-        n = sum(hits.get(term.iast, {}).values())
+        n = sum(got.get(term.iast, {}).values())
         print('%4d %-14s %s' % (n, term.iast,
-                                ' · '.join('%d.%d' % p for p in targets().get(term.iast, ()))))
+                                ' · '.join('%d.%d' % p for p in tgt.get(term.iast, ()))))

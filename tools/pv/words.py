@@ -23,16 +23,14 @@
 import collections
 import json
 import os
-import re
-import unicodedata
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+
+from common.terms import (PLACES, count, find, hits, index as _index, keyof,  # noqa: F401
+                          slug, stem, t, targets, terms as _terms)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-
-Term = collections.namedtuple('Term', 'iast deva ru gloss forms alias say')
-
-
-def t(iast, deva, ru, gloss, forms='', alias='', say=''):
-    return Term(iast, deva, ru, gloss, tuple(forms.split()), alias, say)
 
 
 # Порядок статей внутри раздела — не алфавитный, а смысловой: соседние
@@ -435,86 +433,20 @@ t('turya', 'तुर्य', 'Турья',
 
 # --- как слово из текста находит свою статью -------------------------------
 
-# Окончания, которые снимаются при сличении. Порядок значим: длинное раньше
-# короткого, иначе `asya` потеряет только `ā`.
-END = ('ābhyām', 'ānām', 'asya', 'eṣu', 'ebhyaḥ', 'ayaḥ', 'ayā', 'āni', 'ena',
-       'eṇa', 'aḥ', 'āḥ', 'am', 'ām', 'āt', 'au', 'e', 'ā', 'ḥ', 'ṁ', 'ṃ')
-
-
-def stem(w):
-    """Основа слова: снимаем падежное окончание и конечное «a».
-
-    `bhāvaḥ`, `bhāvam`, `bhāvena`, `bhāva` — одно слово в разных падежах, и
-    сличать их надо не по написанию. Правило грубое, и потому оно только
-    подспорье: там, где оно не берёт (`ātmanaḥ`, `vācaḥ`, `saṁvitti`), у статьи
-    стоит прямой список форм.
-    """
-    w = w.strip().lower().replace('-', '').replace('ṃ', 'ṁ')
-    for e in END:
-        if w.endswith(e) and len(w) - len(e) >= 3:
-            w = w[:-len(e)]
-            break
-    return w[:-1] if len(w) > 3 and w[-1] in 'aā' else w
+# Механика общая на три словаря — см. `tools/common/terms.py`. Здесь только то,
+# что у Parātrīśikāvivaraṇa своё: где лежит перевод, чем зовётся место в нём и
+# как на это место ставится якорь.
 
 
 def terms():
-    for _, group in SECTIONS:
-        for term in group:
-            yield term
-
-
-def slug(iast):
-    """Ключ статьи: имя файла с озвучкой и якорь на странице словаря.
-
-    Тот же приём, что в словаре «Натьяшастры»: диакритика снимается, `ś` и `ṣ`
-    становятся `sh` и `s`. Ключ обязан быть латиницей без знаков — он уходит и
-    в имя файла, и в адрес.
-    """
-    s = iast.replace('ś', 'sh').replace('Ś', 'sh').replace('ñ', 'n')
-    s = unicodedata.normalize('NFD', s.lower())
-    return re.sub(r'[^a-z]', '', s)
+    return _terms(SECTIONS)
 
 
 def index():
-    """Слово из текста → статья словаря.
-
-    Сначала прямые формы, потом основы: прямой список должен перебивать
-    правило, а не наоборот. Совпадение основ у двух статей — ошибка сборки:
-    ссылка из текста повела бы не туда, и молча.
-    """
-    by_form, by_stem, keys = {}, {}, {}
-    for term in terms():
-        # Ключ статьи — и якорь, и имя файла с озвучкой. Два одинаковых ключа
-        # значат, что одна статья звучит голосом другой, а ссылка ведёт не в ту
-        # строку; молча этого случиться не должно.
-        if slug(term.iast) in keys:
-            raise SystemExit('ключ совпал: %s и %s'
-                             % (keys[slug(term.iast)], term.iast))
-        keys[slug(term.iast)] = term.iast
-        for w in (term.iast,) + term.forms:
-            by_form[w.lower().replace('-', '')] = term
-        s = stem(term.iast)
-        if s in by_stem and by_stem[s] is not term:
-            raise SystemExit('основы совпали: %s и %s' % (by_stem[s].iast, term.iast))
-        by_stem[s] = term
-    return by_form, by_stem
-
-
-def find(word, tables=None):
-    """Статья для санскритского слова из подстрочника, или None."""
-    by_form, by_stem = tables or index()
-    w = word.strip().lower().replace('-', '')
-    return by_form.get(w) or by_stem.get(stem(word))
+    return _index(SECTIONS)
 
 
 # --- где термин разбирается ------------------------------------------------
-
-# Больше трёх ссылок в строке словаря — уже не подсказка, а список.
-PLACES = 3
-
-# Скобка с санскритским словом внутри русского абзаца — та же, что разбирает
-# tools/common/page.py. Здесь она нужна только чтобы посчитать вхождения.
-GLOSS = re.compile(r'\(([^()]*?)\)')
 
 
 def occurrences():
@@ -525,7 +457,7 @@ def occurrences():
     сборке страницы.
     """
     tables = index()
-    hits = collections.defaultdict(collections.Counter)
+    out = hits()
     from parts import PARTS
     for pid, _slug, _name in PARTS:
         path = os.path.join(HERE, 'ru', '%s.json' % pid)
@@ -534,32 +466,9 @@ def occurrences():
         for key, text in json.load(open(path, encoding='utf-8')).items():
             if not isinstance(text, str) or '.' in key:
                 continue
-            for m in GLOSS.finditer(text):
-                term = find(m.group(1), tables)
-                if term is not None:
-                    hits[term.iast][(pid, int(key))] += 1
-    return hits
-
-
-def targets():
-    """Куда словарь ссылается: до трёх абзацев на термин.
-
-    Берутся абзацы, где термин помечен гуще всего: там его и разбирают, а не
-    поминают мимоходом. При равном счёте вперёд идёт тот, что раньше в
-    трактате, — читателю естественнее начать с первого разбора.
-
-    Из одной части берётся один абзац. Иначе в строке словаря стояло бы
-    «1–2.1 · 1–2.1 · 1–2.1»: подписью ссылке служит номер части, и три ссылки
-    в одну часть читатель различить не может.
-    """
-    out = {}
-    for iast, hits in occurrences().items():
-        best = {}
-        for (pid, block), n in hits.items():
-            if best.get(pid, (0, 0))[0] < n:
-                best[pid] = (n, block)
-        top = sorted(best.items(), key=lambda kv: (-kv[1][0], kv[0]))[:PLACES]
-        out[iast] = sorted((pid, block) for pid, (_n, block) in top)
+            # Без разбора составных помет на части: см. `parts` в
+            # common/terms.py — так здесь считалось с самого начала.
+            count(out, text, (pid, int(key)), tables, parts=False)
     return out
 
 
@@ -572,7 +481,7 @@ def anchors():
     вёрстка остаётся правильной.
     """
     out = collections.defaultdict(dict)
-    tgt = targets()
+    tgt = targets(occurrences())
     for term in terms():
         for pid, block in tgt.get(term.iast, ()):
             out[pid].setdefault(block, 'g-' + slug(term.iast))
@@ -587,17 +496,13 @@ def links():
     marks, out = anchors(), {}
     from parts import PARTS
     where = {pid: slug for pid, slug, _ in PARTS}
-    for iast, places in targets().items():
+    for iast, places in targets(occurrences()).items():
         out[iast] = [(where[pid], marks[pid][block]) for pid, block in places]
     return out
 
 
 if __name__ == '__main__':
-    hits = occurrences()
+    got = occurrences()
     print('статей: %d' % sum(1 for _ in terms()))
     print('без единого вхождения: %s'
-          % (', '.join(x.iast for x in terms() if not hits.get(x.iast)) or '—'))
-    for term in terms():
-        n = sum(hits.get(term.iast, {}).values())
-        print('%5d %-16s %s' % (n, term.iast, hits.get(term.iast) and
-              ' '.join('%s:%d' % k for k in sorted(hits[term.iast])[:6]) or ''))
+          % (', '.join(x.iast for x in terms() if not got.get(x.iast)) or '—'))
