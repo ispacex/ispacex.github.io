@@ -117,8 +117,8 @@ title: "Śivastotrāvalī — гимны Утпаладевы Шиве"
 <li><a href="/ksh/sv/ch12/">Гимн 12 — Rahasyanirdeśanāma dvādaśaṁ stotram</a> — указание на тайну — <em>29 строф, переведён</em></li>
 <li><a href="/ksh/sv/ch13/">Гимн 13 — Saṅgrahastotranāma trayodaśaṁ stotram</a> — гимн, ставший сводом — <em>20 строф, переведён</em></li>
 <li><a href="/ksh/sv/ch14/">Гимн 14 — Jayastotranāma caturdaśaṁ stotram</a> — гимн победы — <em>24 строфы, переведён</em></li>
-<li><a href="/ksh/sv/ch15/">Гимн 15 — Bhaktistotranāma pañcadaśaṁ stotram</a> — гимн преданности — <em>19 строф, перевода нет</em></li>
-<li><a href="/ksh/sv/ch16/">Гимн 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram</a> — разрыв пут — <em>30 строф, перевода нет</em></li>
+<li><a href="/ksh/sv/ch15/">Гимн 15 — Bhaktistotranāma pañcadaśaṁ stotram</a> — гимн преданности — <em>19 строф, переведён</em></li>
+<li><a href="/ksh/sv/ch16/">Гимн 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram</a> — разрыв пут — <em>30 строф, переведён</em></li>
 <li><a href="/ksh/sv/ch17/">Гимн 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram</a> — дар божественной Игры — <em>48 строф, перевода нет</em></li>
 <li><a href="/ksh/sv/ch18/">Гимн 18 — Āviṣkāranāmāṣṭādaśaṁ stotram</a> — откровение — <em>21 строфа, перевода нет</em></li>
 <li><a href="/ksh/sv/ch19/">Гимн 19 — Udyotanābhidhānamekonaviṁśaṁ stotram</a> — озарение — <em>17 строф, перевода нет</em></li>
