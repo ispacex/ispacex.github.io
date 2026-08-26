@@ -21,7 +21,7 @@ recorded by the enlightened Bharata.
 
 So, chapter ten in the Nāṭyaśāstra of Bharata.
 
-## Грудная клетка (уras)
+## Грудная клетка (урас)
 
 1/ It is known that the breast is of five kinds: Abhugna (slightly bent), Nirbhugna (straightened), Prakampita (trembling), Udvahita (raised), and Sama (natural).
 

@@ -61,6 +61,22 @@ sys.path.insert(0, HERE)
 
 from common.translate import Cache, translate
 
+# Слово из двух алфавитов ловит `check-scripts.py` — та же проверка, что стоит
+# на сайте с давних пор. Здесь она нужна раньше: перевод рождает такие слова
+# сам. «урас» модель наполовину переложила латиницей и вернула «уras» —
+# кириллическая «у», латинское «ras». На странице это выглядит словом, а
+# поиском не находится ни по одному написанию.
+import importlib.util as _il
+
+_spec = _il.spec_from_file_location('chk', os.path.join(HERE, 'check-scripts.py'))
+_chk = _il.module_from_spec(_spec)
+_spec.loader.exec_module(_chk)
+
+
+def mixed(text):
+    """Слова, в которых сошлись два алфавита. Пусто — значит чисто."""
+    return [m.group(0) for m in _chk.WORD.finditer(text) if _chk.strangers(m.group(0))]
+
 OUT = os.path.join(ROOT, 'en')
 LANG = 'English'
 CODE = 'en'
@@ -231,6 +247,9 @@ def do(rel, cache, stats, dry=False):
         if got is not None and ruby and MARK.findall(got) != MARK.findall(b):
             stats['marks'] = stats.get('marks', 0) + 1
             got = None
+        if got is not None and mixed(got) and not mixed(b):
+            stats['mixed'] = stats.get('mixed', 0) + 1
+            got = None
         done.append(got if got is not None else b)
     return en_title, '\n\n'.join(done)
 
@@ -327,6 +346,8 @@ def main():
         print('вернулись без меток и остались по-русски: %d' % stats['lost'])
     if stats.get('marks'):
         print('испортили бы подстрочник и остались по-русски: %d' % stats['marks'])
+    if stats.get('mixed'):
+        print('дали слово из двух алфавитов и остались по-русски: %d' % stats['mixed'])
     return 0
 
 
