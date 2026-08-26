@@ -8,14 +8,14 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 
 <p class="pv-pager nosearch" markdown="1">[← Гимн 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram](/ksh/sv/ch10/) · [Гимн 12 — Rahasyanirdeśanāma dvādaśaṁ stotram →](/ksh/sv/ch12/)</p>
 
-<p class="pv-todo">Ещё без перевода 15 строф. У источника под ними стоит пометка «Untranslated»: английского изложения для них не написано, и перевод сюда придёт прямо с санскрита. Санскрит и транслитерация на месте.</p>
-
 <p class="pv-copy nosearch"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
 <p class="pv-pair pv-c" id="v11.1" data-pv="w1"><span class="pv-sa pv-src" lang="sa">जगदिदमथवा सुहृदो बन्धुजनो वा न भवति मम किमपि।</span><br />
 <span class="pv-iast">Jagadidamathavā suhṛdo bandhujano vā na bhavati mama kimapi|</span><br />
 <span class="pv-sa pv-src" lang="sa">त्वं पुनरेतत्सर्वं यदा तदा कोऽपरो मेऽस्तु॥११.१॥</span><br />
 <span class="pv-iast">Tvaṁ punaretatsarvaṁ yadā tadā ko'paro me'stu||11.1||</span></p>
+
+<p class="pv-tr" markdown="1"><ruby>Ни<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>этот<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt>jagat</rt><rp>)</rp></ruby>, <ruby>ни<rp> (</rp><rt>athavā</rt><rp>)</rp></ruby> <ruby>друзья<rp> (</rp><rt>suhṛdaḥ</rt><rp>)</rp></ruby>, <ruby>ни<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>родня<rp> (</rp><rt>bandhu-janaḥ</rt><rp>)</rp></ruby> <ruby>не значат<rp> (</rp><rt>bhavati</rt><rp>)</rp></ruby> <ruby>для меня<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>ничего<rp> (</rp><rt>kimapi</rt><rp>)</rp></ruby>. <ruby>А<rp> (</rp><rt>punaḥ</rt><rp>)</rp></ruby> <ruby>раз<rp> (</rp><rt>yadā</rt><rp>)</rp></ruby> <ruby>Ты<rp> (</rp><rt>tvam</rt><rp>)</rp></ruby> — <ruby>всё это<rp> (</rp><rt>etatsarvaṁ</rt><rp>)</rp></ruby>, — <ruby>тогда<rp> (</rp><rt>tadā</rt><rp>)</rp></ruby> <ruby>кто<rp> (</rp><rt>kaḥ</rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>ещё<rp> (</rp><rt>aparaḥ</rt><rp>)</rp></ruby> <ruby>нужен<rp> (</rp><rt>astu</rt><rp>)</rp></ruby>?||11.1||</p>
 
 <hr class="pv-rule" />
 
@@ -24,12 +24,16 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">वस्त्वेव सिद्धिमेत्विति याच्ञा तत्रापि याच्ञैव॥११.२॥</span><br />
 <span class="pv-iast">Vastveva siddhimetviti yācñā tatrāpi yācñaiva||11.2||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>«Владыка<rp> (</rp><rt>svāmin</rt><rp>)</rp></ruby>, <ruby>Ты — Maheśvara воочию<rp> (</rp><rt>sākṣāt maheśvaraḥ</rt><rp>)</rp></ruby>, <ruby>Ты один<rp> (</rp><rt>tvameva</rt><rp>)</rp></ruby> — <ruby>весь<rp> (</rp><rt>sarvam</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt>jagat</rt><rp>)</rp></ruby>», — <ruby>так<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>. <ruby>А просьба<rp> (</rp><rt>yācñā</rt><rp>)</rp></ruby>, <ruby>чтобы сама эта вещь<rp> (</rp><rt>vastveva</rt><rp>)</rp></ruby> <ruby>сбылась<rp> (</rp><rt>siddhimetu</rt><rp>)</rp></ruby>, — <ruby>и она<rp> (</rp><rt>tatrāpi</rt><rp>)</rp></ruby> <ruby>всё та же просьба<rp> (</rp><rt>yācñā eva</rt><rp>)</rp></ruby>||11.2||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.3" data-pv="w1"><span class="pv-sa pv-src" lang="sa">त्रिभुवनाधिपतित्वमपीह यत्तृणमिव प्रतिभाति भवज्जुषः।</span><br />
 <span class="pv-iast">Tribhuvanādhipatitvamapīha yattṛṇamiva pratibhāti bhavajjuṣaḥ|</span><br />
 <span class="pv-sa pv-src" lang="sa">किमिव तस्य फलं शुभकर्मणो भवति नाथ भवत्स्मरणादृते॥११.३॥</span><br />
 <span class="pv-iast">Kimiva tasya phalaṁ śubhakarmaṇo bhavati nātha bhavatsmaraṇādṛte||11.3||</span></p>
+
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>если<rp> (</rp><rt>yat</rt><rp>)</rp></ruby> <ruby>даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>владычество над тремя мирами<rp> (</rp><rt>tri-bhuvana-adhipatitvam</rt><rp>)</rp></ruby> <ruby>кажется<rp> (</rp><rt>pratibhāti</rt><rp>)</rp></ruby> <ruby>здесь<rp> (</rp><rt>iha</rt><rp>)</rp></ruby> <ruby>травинкой<rp> (</rp><rt>tṛṇam iva</rt><rp>)</rp></ruby> <ruby>тому, кто предан Тебе<rp> (</rp><rt>bhavat-juṣaḥ</rt><rp>)</rp></ruby>, — <ruby>то какой же<rp> (</rp><rt>kimiva</rt><rp>)</rp></ruby> <ruby>плод<rp> (</rp><rt>phalam</rt><rp>)</rp></ruby> <ruby>есть<rp> (</rp><rt>bhavati</rt><rp>)</rp></ruby> <ruby>у его<rp> (</rp><rt>tasya</rt><rp>)</rp></ruby> <ruby>благих дел<rp> (</rp><rt>śubha-karmaṇaḥ</rt><rp>)</rp></ruby>, <ruby>кроме<rp> (</rp><rt>ṛte</rt><rp>)</rp></ruby> <ruby>памятования о Тебе<rp> (</rp><rt>bhavat-smaraṇāt</rt><rp>)</rp></ruby>?||11.3||</p>
 
 <hr class="pv-rule" />
 
@@ -38,12 +42,16 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">त्वद्विजृम्भितमतोऽद्भुतकर्मस्वप्युदेति न तव स्तुतिबन्धः॥११.४॥</span><br />
 <span class="pv-iast">Tvadvijṛmbhitamato'dbhutakarmasvapyudeti na tava stutibandhaḥ||11.4||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>Раз<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>отдельного<rp> (</rp><rt>vibhinnam</rt><rp>)</rp></ruby> <ruby>от Тебя<rp> (</rp><rt>bhavataḥ</rt><rp>)</rp></ruby> нет ничего <span class="pv-w">(kiñcana api... na eva asti)</span>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>рождение миров<rp> (</rp><rt>jagatām prabhavaḥ</rt><rp>)</rp></ruby> — <ruby>Твоё раскрытие<rp> (</rp><rt>tvat-vijṛmbhitam</rt><rp>)</rp></ruby>, — <ruby>оттого<rp> (</rp><rt>ataḥ</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>на дивных Твоих делах<rp> (</rp><rt>adbhuta-karmasu</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>складывается<rp> (</rp><rt>udeti</rt><rp>)</rp></ruby> <ruby>Тебе<rp> (</rp><rt>tava</rt><rp>)</rp></ruby> <ruby>хвалебная речь<rp> (</rp><rt>stuti-bandhaḥ</rt><rp>)</rp></ruby>||11.4||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.5" data-pv="w1"><span class="pv-sa pv-src" lang="sa">त्वन्मयोऽस्मि भवदर्चननिष्ठः सर्वदाहमिति चाप्यविरामम्।</span><br />
 <span class="pv-iast">Tvanmayo'smi bhavadarcananiṣṭhaḥ sarvadāhamiti cāpyavirāmam|</span><br />
 <span class="pv-sa pv-src" lang="sa">भावयन्नपि विभो स्वरसेन स्वप्नगोऽपि न तथा किमिव स्याम्॥११.५॥</span><br />
 <span class="pv-iast">Bhāvayannapi vibho svarasena svapnago'pi na tathā kimiva syām||11.5||</span></p>
+
+<p class="pv-tr" markdown="1"><ruby>«Я<rp> (</rp><rt>aham</rt><rp>)</rp></ruby> <ruby>состою из Тебя<rp> (</rp><rt>tvat-mayaḥ</rt><rp>)</rp></ruby>, <ruby>я<rp> (</rp><rt>asmi</rt><rp>)</rp></ruby> <ruby>всегда<rp> (</rp><rt>sarvadā</rt><rp>)</rp></ruby> <ruby>предан почитанию Тебя<rp> (</rp><rt>bhavat-arcana-niṣṭhaḥ</rt><rp>)</rp></ruby>» — <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>хоть<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>я и созерцаю<rp> (</rp><rt>bhāvayan</rt><rp>)</rp></ruby> <ruby>это<rp> (</rp><rt>iti</rt><rp>)</rp></ruby> <ruby>без перерыва<rp> (</rp><rt>aviramam</rt><rp>)</rp></ruby>, — <ruby>отчего же<rp> (</rp><rt>kimiva</rt><rp>)</rp></ruby>, <ruby>Всепроникающий<rp> (</rp><rt>vibho</rt><rp>)</rp></ruby>, <ruby>я не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>таков<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby> <ruby>собственным вкусом<rp> (</rp><rt>sva-rasena</rt><rp>)</rp></ruby>, <ruby>даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>уходя в сон<rp> (</rp><rt>svapna-gaḥ</rt><rp>)</rp></ruby>?||11.5||</p>
 
 <hr class="pv-rule" />
 
@@ -52,12 +60,16 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">तेषु विस्रमिव भवति समस्तं भोगजातममरैरपि मृग्यम्॥११.६॥</span><br />
 <span class="pv-iast">Teṣu visramiva bhavati samastaṁ bhogajātamamarairapi mṛgyam||11.6||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>У тех<rp> (</rp><rt>teṣu</rt><rp>)</rp></ruby>, <ruby>кто<rp> (</rp><rt>ye</rt><rp>)</rp></ruby> <ruby>хоть чуть-чуть<rp> (</rp><rt>manāk api</rt><rp>)</rp></ruby> <ruby>отёрт<rp> (</rp><rt>vimṛṣṭaḥ</rt><rp>)</rp></ruby> крупицей <ruby>благоухания, поднявшегося от Твоих лотосов-стоп<rp> (</rp><rt>bhavat-caraṇa-abja-udbhūta-saurabha-lavena</rt><rp>)</rp></ruby>, <ruby>всё<rp> (</rp><rt>samastam</rt><rp>)</rp></ruby> <ruby>множество наслаждений<rp> (</rp><rt>bhoga-jātam</rt><rp>)</rp></ruby>, <ruby>какого ищут<rp> (</rp><rt>mṛgyam</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>бессмертные<rp> (</rp><rt>amaraiḥ</rt><rp>)</rp></ruby>, <ruby>становится<rp> (</rp><rt>bhavati</rt><rp>)</rp></ruby> <ruby>словно<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>сырое мясо<rp> (</rp><rt>visram</rt><rp>)</rp></ruby>||11.6||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.7" data-pv="w1"><span class="pv-sa pv-src" lang="sa">हृदि ते न तु विद्यतेऽन्यदन्यद्वचने कर्मणि चान्यदेव शम्भो।</span><br />
 <span class="pv-iast">Hṛdi te na tu vidyate'nyadanyadvacane karmaṇi cānyadeva śambho|</span><br />
 <span class="pv-sa pv-src" lang="sa">परमार्थसतोऽप्य् अनुग्रहो वा यदि वा निग्रह एक एव कार्यः॥११.७॥</span><br />
 <span class="pv-iast">Paramārthasato'py anugraho vā yadi vā nigraha eka eva kāryaḥ||11.7||</span></p>
+
+<p class="pv-tr" markdown="1"><ruby>Śambhu<rp> (</rp><rt>śambho</rt><rp>)</rp></ruby>, <ruby>у Тебя<rp> (</rp><rt>te</rt><rp>)</rp></ruby> не (na tu) <ruby>бывает<rp> (</rp><rt>vidyate</rt><rp>)</rp></ruby> <ruby>одного<rp> (</rp><rt>anyat</rt><rp>)</rp></ruby> <ruby>в сердце<rp> (</rp><rt>hṛdi</rt><rp>)</rp></ruby>, <ruby>другого<rp> (</rp><rt>anyat</rt><rp>)</rp></ruby> <ruby>в речи<rp> (</rp><rt>vacane</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>третьего<rp> (</rp><rt>anyadeva</rt><rp>)</rp></ruby> <ruby>в деле<rp> (</rp><rt>karmaṇi</rt><rp>)</rp></ruby>. <ruby>Раз Ты сущ по высшей истине<rp> (</rp><rt>parama-artha-sataḥ api</rt><rp>)</rp></ruby>, <ruby>то и делать<rp> (</rp><rt>kāryaḥ</rt><rp>)</rp></ruby> <ruby>следует что-нибудь одно<rp> (</rp><rt>ekaḥ eva</rt><rp>)</rp></ruby>: <ruby>милость<rp> (</rp><rt>anugrahaḥ</rt><rp>)</rp></ruby> <ruby>или<rp> (</rp><rt>vā yadi vā</rt><rp>)</rp></ruby> <ruby>кару<rp> (</rp><rt>nigrahaḥ</rt><rp>)</rp></ruby>||11.7||</p>
 
 <hr class="pv-rule" />
 
@@ -66,12 +78,16 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">शम्भो तथा कलय शीघ्रमुपैमि येन सर्वोत्तमां धुरमपोज्झितदुःखमार्गः॥११.८॥</span><br />
 <span class="pv-iast">Śambho tathā kalaya śīghramupaimi yena sarvottamāṁ dhuramapojjhitaduḥkhamārgaḥ||11.8||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>Я<rp> (</rp><rt>asmi</rt><rp>)</rp></ruby> <ruby>глуп<rp> (</rp><rt>mūḍhaḥ</rt><rp>)</rp></ruby>, <ruby>я измучен горем<rp> (</rp><rt>duḥkha-kalitaḥ</rt><rp>)</rp></ruby>, <ruby>я в страхе<rp> (</rp><rt>bhītaḥ</rt><rp>)</rp></ruby> <ruby>перед старостью и прочими бедами<rp> (</rp><rt>jarā-ādi-doṣa</rt><rp>)</rp></ruby>, <ruby>я без сил<rp> (</rp><rt>śakti-rahitaḥ</rt><rp>)</rp></ruby>, <ruby>я прибегнул к Тебе<rp> (</rp><rt>tava āśritaḥ</rt><rp>)</rp></ruby>. <ruby>Śambhu<rp> (</rp><rt>śambho</rt><rp>)</rp></ruby>, <ruby>сделай<rp> (</rp><rt>kalaya</rt><rp>)</rp></ruby> <ruby>так<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby>, <ruby>чтобы<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>я скорее<rp> (</rp><rt>śīghram</rt><rp>)</rp></ruby> <ruby>поднял<rp> (</rp><rt>upaimi</rt><rp>)</rp></ruby> <ruby>самое высокое<rp> (</rp><rt>sarva-uttamām</rt><rp>)</rp></ruby> <ruby>ярмо<rp> (</rp><rt>dhuram</rt><rp>)</rp></ruby>, <ruby>оставив дорогу горя<rp> (</rp><rt>apojjhita-duḥkha-mārgaḥ</rt><rp>)</rp></ruby>||11.8||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.9" data-pv="w1"><span class="pv-sa pv-src" lang="sa">त्वत्कर्णदेशमधिशय्य महार्घभावमाक्रन्दितानि मम तुच्छतराणि यान्ति।</span><br />
 <span class="pv-iast">Tvatkarṇadeśamadhiśayya mahārghabhāvamākranditāni mama tucchatarāṇi yānti|</span><br />
 <span class="pv-sa pv-src" lang="sa">वंशान्तरालपतितानि जलैकदेशखण्डानि मौक्तिकमणित्वमिवोद्वहन्ति॥११.९॥</span><br />
 <span class="pv-iast">Vaṁśāntarālapatitāni jalaikadeśakhaṇḍāni mauktikamaṇitvamivodvahanti||11.9||</span></p>
+
+<p class="pv-tr" markdown="1"><ruby>Мои<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>вопли<rp> (</rp><rt>ākranditāni</rt><rp>)</rp></ruby>, <ruby>самые ничтожные<rp> (</rp><rt>tuccha-tarāṇi</rt><rp>)</rp></ruby>, <ruby>лёгши<rp> (</rp><rt>adhiśayya</rt><rp>)</rp></ruby> <ruby>у Твоего уха<rp> (</rp><rt>tvat-karṇa-deśam</rt><rp>)</rp></ruby>, <ruby>становятся<rp> (</rp><rt>yānti</rt><rp>)</rp></ruby> <ruby>многоценными<rp> (</rp><rt>mahā-argha-bhāvam</rt><rp>)</rp></ruby> — <ruby>как<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>капли воды<rp> (</rp><rt>jala-eka-deśa-khaṇḍāni</rt><rp>)</rp></ruby>, <ruby>упавшие в междоузлие бамбука<rp> (</rp><rt>vaṁśa-antarāla-patitāni</rt><rp>)</rp></ruby>, <ruby>обретают<rp> (</rp><rt>udvahanti</rt><rp>)</rp></ruby> <ruby>достоинство жемчужины<rp> (</rp><rt>mauktika-maṇitvam</rt><rp>)</rp></ruby>||11.9||</p>
 
 <hr class="pv-rule" />
 
@@ -80,12 +96,16 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">शिशिरमयूखशेखर तथा कुरु येन मम क्षतमरणोऽणिमादिकमुपैमि यथा विभवम्॥११.१०॥</span><br />
 <span class="pv-iast">Śiśiramayūkhaśekhara tathā kuru yena mama kṣatamaraṇo'ṇimādikamupaimi yathā vibhavam||11.10||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>ах<rp> (</rp><rt>bata</rt><rp>)</rp></ruby>, <ruby>чего<rp> (</rp><rt>kimiva</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>обретают<rp> (</rp><rt>labhyate</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>те<rp> (</rp><rt>te</rt><rp>)</rp></ruby> <ruby>люди<rp> (</rp><rt>janaiḥ</rt><rp>)</rp></ruby>, <ruby>кто<rp> (</rp><rt>ye</rt><rp>)</rp></ruby> <ruby>хоть на миг<rp> (</rp><rt>kṣaṇam api</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>хоть<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>притворно<rp> (</rp><rt>kaitavāt</rt><rp>)</rp></ruby> <ruby>привержен<rp> (</rp><rt>ratāḥ</rt><rp>)</rp></ruby> <ruby>Твоему<rp> (</rp><rt>tava</rt><rp>)</rp></ruby> <ruby>имени<rp> (</rp><rt>nāmni</rt><rp>)</rp></ruby>? <ruby>Носящий в венце прохладнолучего<rp> (</rp><rt>śiśira-mayūkha-śekhara</rt><rp>)</rp></ruby>, <ruby>сделай<rp> (</rp><rt>kuru</rt><rp>)</rp></ruby> <ruby>так<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby>, <ruby>чтобы<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>я, с уничтоженной смертью<rp> (</rp><rt>kṣata-maraṇaḥ</rt><rp>)</rp></ruby>, <ruby>пришёл<rp> (</rp><rt>upaimi</rt><rp>)</rp></ruby> <ruby>к богатству<rp> (</rp><rt>vibhavam</rt><rp>)</rp></ruby> — <ruby>аниме и прочим совершенствам<rp> (</rp><rt>aṇimā-ādikam</rt><rp>)</rp></ruby>||11.10||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.11" data-pv="w1"><span class="pv-sa pv-src" lang="sa">शम्भो शर्व शशङ्कशेखर शिव त्र्यक्षाक्षमालाधर श्रीमन्नुग्रकपाललाञ्छन लसद्भीमत्रिशूलायुध।</span><br />
 <span class="pv-iast">Śambho śarva śaśaṅkaśekhara śiva tryakṣākṣamālādhara śrīmannugrakapālalāñchana lasadbhīmatriśūlāyudha|</span><br />
 <span class="pv-sa pv-src" lang="sa">कारुण्याम्बुनिधे त्रिलोकरचनाशीलोग्रशक्त्यात्मक श्रीकण्ठाशु विनाशयाशुभभरानाधत्स्वसिद्धिं पराम्॥११.११॥</span><br />
 <span class="pv-iast">Kāruṇyāmbunidhe trilokaracanāśīlograśaktyātmaka śrīkaṇṭhāśu vināśayāśubhabharānādhatsvasiddhiṁ parām||11.11||</span></p>
+
+<p class="pv-tr" markdown="1">Śambhu, Śarva, носящий месяц в венце, Śiva, Трёхокий, держащий чётки, благословенный, отмеченный страшным черепом, с блистающим грозным трезубцем <span class="pv-w">(śambho śarva śaśāṅka-śekhara śiva tri-akṣa akṣa-mālā-dhara śrīmat ugra-kapāla-lāñchana lasat-bhīma-triśūla-āyudha)</span>! <ruby>Океан милосердия<rp> (</rp><rt>kāruṇya-ambu-nidhe</rt><rp>)</rp></ruby>, состоящий <ruby>из грозной Силы, чей обычай — строить три мира<rp> (</rp><rt>tri-loka-racanā-śīla-ugra-śakti-ātmaka</rt><rp>)</rp></ruby>, <ruby>Śrīkaṇṭha<rp> (</rp><rt>śrīkaṇṭha</rt><rp>)</rp></ruby>! <ruby>Скорее<rp> (</rp><rt>āśu</rt><rp>)</rp></ruby> <ruby>уничтожь<rp> (</rp><rt>vināśaya</rt><rp>)</rp></ruby> <ruby>груз недоброго<rp> (</rp><rt>aśubha-bharān</rt><rp>)</rp></ruby> <ruby>и дай<rp> (</rp><rt>ādhatsva</rt><rp>)</rp></ruby> <ruby>высшее<rp> (</rp><rt>parām</rt><rp>)</rp></ruby> <ruby>совершенство<rp> (</rp><rt>siddhim</rt><rp>)</rp></ruby>||11.11||</p>
 
 <hr class="pv-rule" />
 
@@ -94,12 +114,16 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">इत्थं ते परमेश्वराक्षतमहाशक्तेः सदा संश्रितः संसारेऽत्र निरन्तराधिविधुरः क्लिश्याम्यहं केवलम्॥११.१२॥</span><br />
 <span class="pv-iast">Itthaṁ te parameśvarākṣatamahāśakteḥ sadā saṁśritaḥ saṁsāre'tra nirantarādhividhuraḥ kliśyāmyahaṁ kevalam||11.12||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>Владыка, что<rp> (</rp><rt>tatkiṁ</rt><rp>)</rp></ruby> <ruby>есть<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> <ruby>такое, в чём<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>Господь<rp> (</rp><rt>bhagavān</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>обретал бы<rp> (</rp><rt>aśnute</rt><rp>)</rp></ruby> <ruby>творящей силы<rp> (</rp><rt>nirmātṛtām</rt><rp>)</rp></ruby>? <ruby>И есть ли<rp> (</rp><rt>kimu</rt><rp>)</rp></ruby> <ruby>одушевлённое<rp> (</rp><rt>cetanavataḥ</rt><rp>)</rp></ruby> <ruby>существо<rp> (</rp><rt>bhāvaḥ</rt><rp>)</rp></ruby>, <ruby>которого<rp> (</rp><rt>yam</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>было бы<rp> (</rp><rt>asti</rt><rp>)</rp></ruby> <ruby>у Śaṅkara<rp> (</rp><rt>śaṅkaraḥ</rt><rp>)</rp></ruby>? <ruby>Вот так<rp> (</rp><rt>ittham</rt><rp>)</rp></ruby>, <ruby>Высший Владыка<rp> (</rp><rt>parama-īśvara</rt><rp>)</rp></ruby>, <ruby>Тебя<rp> (</rp><rt>te</rt><rp>)</rp></ruby>, <ruby>чья великая Сила нерушима<rp> (</rp><rt>akṣata-mahā-śakteḥ</rt><rp>)</rp></ruby>, <ruby>я всегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>держусь<rp> (</rp><rt>saṁśritaḥ</rt><rp>)</rp></ruby>, — <ruby>а<rp> (</rp><rt>kevalam</rt><rp>)</rp></ruby> <ruby>в этом<rp> (</rp><rt>atra</rt><rp>)</rp></ruby> <ruby>круговороте<rp> (</rp><rt>saṁsāre</rt><rp>)</rp></ruby> <ruby>мучаюсь<rp> (</rp><rt>kliśyāmi</rt><rp>)</rp></ruby> <ruby>я<rp> (</rp><rt>aham</rt><rp>)</rp></ruby> <ruby>непрестанной тоскою<rp> (</rp><rt>nirantara-ādhi-vidhuraḥ</rt><rp>)</rp></ruby>||11.12||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.13" data-pv="w1"><span class="pv-sa pv-src" lang="sa">यद्यप्यत्र वरप्रदोद्धततमाः पीडाजरामृत्यव एते वा क्षणमासतां बहुमतः शब्दादिरेवास्थिरः।</span><br />
 <span class="pv-iast">Yadyapyatra varapradoddhatatamāḥ pīḍājarāmṛtyava ete vā kṣaṇamāsatāṁ bahumataḥ śabdādirevāsthiraḥ|</span><br />
 <span class="pv-sa pv-src" lang="sa">तत्रापि स्पृहयामि सन्ततसुखाकाङ्क्षी चिरं स्थास्नवे भोगास्वादयुतत्वदङ्घ्रिकमलध्यानाग्र्य जीवातवे॥११.१३॥</span><br />
 <span class="pv-iast">Tatrāpi spṛhayāmi santatasukhākāṅkṣī ciraṁ sthāsnave bhogāsvādayutatvadaṅghrikamaladhyānāgrya jīvātave||11.13||</span></p>
+
+<p class="pv-tr" markdown="1">Пусть (yadi api) <ruby>здесь<rp> (</rp><rt>atra</rt><rp>)</rp></ruby> <ruby>боль, старость и смерть<rp> (</rp><rt>pīḍā-jarā-mṛtyavaḥ</rt><rp>)</rp></ruby> — <ruby>самые свирепые из тех, кто раздаёт дары<rp> (</rp><rt>vara-prada-uddhata-tamāḥ</rt><rp>)</rp></ruby>, — <ruby>вот они<rp> (</rp><rt>ete</rt><rp>)</rp></ruby>; <ruby>или<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>пусть на миг<rp> (</rp><rt>kṣaṇam</rt><rp>)</rp></ruby> <ruby>останется<rp> (</rp><rt>āsatām</rt><rp>)</rp></ruby> <ruby>многоценным<rp> (</rp><rt>bahu-mataḥ</rt><rp>)</rp></ruby> <ruby>непостоянный<rp> (</rp><rt>asthiraḥ</rt><rp>)</rp></ruby> <ruby>звук и прочее<rp> (</rp><rt>śabda-ādiḥ eva</rt><rp>)</rp></ruby>. <ruby>И всё же<rp> (</rp><rt>tatrāpi</rt><rp>)</rp></ruby> <ruby>я, жаждущий непрерывного счастья<rp> (</rp><rt>santata-sukha-ākāṅkṣī</rt><rp>)</rp></ruby>, <ruby>долго<rp> (</rp><rt>ciram</rt><rp>)</rp></ruby> <ruby>тянусь<rp> (</rp><rt>spṛhayāmi</rt><rp>)</rp></ruby> <ruby>к тому, что стоит прочно<rp> (</rp><rt>sthāsnave</rt><rp>)</rp></ruby>, — <ruby>к той жизни<rp> (</rp><rt>jīvātave</rt><rp>)</rp></ruby>, первое в которой созерцание Твоих лотосов-стоп вместе со вкусом наслаждений <span class="pv-note">— строфа тёмная: связь второй половины с первой допускает и другое членение —</span> <span class="pv-w">(bhoga-āsvāda-yuta-tvat-aṅghri-kamala-dhyāna-agrya)</span>||11.13||</p>
 
 <hr class="pv-rule" />
 
@@ -108,6 +132,8 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">तच्चेष्टस्व यथा मनोज्ञविषयास्वादप्रदा उत्तमा जीवन्नेव समश्नुवेऽहमचलाः सिद्धीस्त्वदर्चापरः॥११.१४॥</span><br />
 <span class="pv-iast">Tacceṣṭasva yathā manojñaviṣayāsvādapradā uttamā jīvanneva samaśnuve'hamacalāḥ siddhīstvadarcāparaḥ||11.14||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>О Владыка<rp> (</rp><rt>he nātha</rt><rp>)</rp></ruby>, <ruby>искусный в уничтожении горя припавших<rp> (</rp><rt>praṇata-ārti-nāśana-paṭo</rt><rp>)</rp></ruby>, <ruby>сокровищница блага<rp> (</rp><rt>śreyaḥ-nidhe</rt><rp>)</rp></ruby>, <ruby>Dhūrjaṭi<rp> (</rp><rt>dhūrjaṭe</rt><rp>)</rp></ruby>! <ruby>Ныне<rp> (</rp><rt>sāmpratam</rt><rp>)</rp></ruby> <ruby>для меня<rp> (</rp><rt>me</rt><rp>)</rp></ruby>, <ruby>единственного вместилища горя<rp> (</rp><rt>duḥkha-eka-āyatanasya</rt><rp>)</rp></ruby>, <ruby>напуганного рождением и смертью<rp> (</rp><rt>janma-maraṇa-trastasya</rt><rp>)</rp></ruby>, — <ruby>постарайся<rp> (</rp><rt>ceṣṭasva</rt><rp>)</rp></ruby> <ruby>о том<rp> (</rp><rt>tat</rt><rp>)</rp></ruby>, <ruby>чтобы<rp> (</rp><rt>yathā</rt><rp>)</rp></ruby> <ruby>я<rp> (</rp><rt>aham</rt><rp>)</rp></ruby>, <ruby>предавшись почитанию Тебя<rp> (</rp><rt>tvat-arcā-paraḥ</rt><rp>)</rp></ruby>, <ruby>ещё живым<rp> (</rp><rt>jīvan eva</rt><rp>)</rp></ruby> <ruby>обрёл<rp> (</rp><rt>samaśnuve</rt><rp>)</rp></ruby> <ruby>высшие<rp> (</rp><rt>uttamāḥ</rt><rp>)</rp></ruby>, <ruby>неколебимые<rp> (</rp><rt>acalāḥ</rt><rp>)</rp></ruby> <ruby>совершенства<rp> (</rp><rt>siddhīḥ</rt><rp>)</rp></ruby>, <ruby>дающие вкус милых сердцу предметов<rp> (</rp><rt>manojña-viṣaya-āsvāda-pradāḥ</rt><rp>)</rp></ruby>||11.14||</p>
+
 <hr class="pv-rule" />
 
 <p class="pv-pair pv-c" id="v11.15" data-pv="w1"><span class="pv-sa pv-src" lang="sa">नमो मोहमहाध्वान्तध्वंसनानन्यकर्मणे।</span><br />
@@ -115,10 +141,12 @@ title: "Śivastotrāvalī: Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ s
 <span class="pv-sa pv-src" lang="sa">सर्वप्रकाशातिशयप्रकाशायेन्दुलक्ष्मणे॥११.१५॥</span><br />
 <span class="pv-iast">Sarvaprakāśātiśayaprakāśāyendulakṣmaṇe||11.15||</span></p>
 
+<p class="pv-tr" markdown="1"><ruby>Поклон<rp> (</rp><rt>namaḥ</rt><rp>)</rp></ruby> Тому, чьё дело — единственное: <ruby>разбивать великую тьму заблуждения<rp> (</rp><rt>moha-mahā-dhvānta-dhvaṁsana-ananya-karmaṇe</rt><rp>)</rp></ruby>, <ruby>Свету, что превосходит всякий свет<rp> (</rp><rt>sarva-prakāśa-atiśaya-prakāśāya</rt><rp>)</rp></ruby>, <ruby>отмеченному месяцем<rp> (</rp><rt>indu-lakṣmaṇe</rt><rp>)</rp></ruby>||11.15||</p>
+
 <p class="pv-pager nosearch" markdown="1">[← Гимн 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram](/ksh/sv/ch10/) · [Гимн 12 — Rahasyanirdeśanāma dvādaśaṁ stotram →](/ksh/sv/ch12/)</p>
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter11).*
+*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter11). Строфы 11.1–11.15 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
 
 <script src="/assets/js/pv-copy.js"></script>
