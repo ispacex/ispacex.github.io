@@ -423,10 +423,41 @@ class Book:
         """Готовая таблица вместо разобранной, или None."""
         return None
 
+    # --- строфы ---
+
+    def pairing(self, blocks):
+        """Как строфа деванагари находит свою транслитерацию.
+
+        По умолчанию — двумя стенами, как их даёт источник (см. `pairing`).
+        Писание, у которого строфа и её транслитерация стоят в одном абзаце,
+        разводит их надвое на разборе, и стены выходят по одной строфе в
+        каждой: там это переопределяется, чтобы кнопки копирования стояли
+        над гимном один раз, а не над каждой строфой.
+        """
+        return pairing(blocks)
+
+    def verse_id(self, pid, block):
+        """Свой якорь строфы, или None.
+
+        Нужен там, где строфу принято звать по номеру: «Шивастотравали
+        13.11» цитирует и «Тантралока», и сам Абхинавагупта. Ставится только
+        если якоря раздела у этого блока нет — тот важнее.
+        """
+        return None
+
     # --- предупреждение о непереведённом ---
 
     def nav(self, secs, titles):
         return nav(secs, titles)
+
+    def head_note(self, pid):
+        """Что сказать о странице до её текста, помимо счёта непереведённого.
+
+        `todo` говорит о блоках, которым перевода ещё не написали здесь.
+        Это — о другом: о том, чего нет и у источника, и потому не окажется
+        на странице ни завтра, ни через месяц.
+        """
+        return ''
 
     # --- словарь терминов ---
 
@@ -471,7 +502,7 @@ def render(book, pid, slug, name, idx):
         return v
 
     secs = sections(blocks, lookup)
-    pair, eaten, opens, group = pairing(blocks)
+    pair, eaten, opens, group = book.pairing(blocks)
     # Сложенной стене отдельного якоря на транслитерацию не нужно: она стоит
     # в тех же абзацах, что и деванагари, и ссылка вела бы туда же.
     for sec in secs:
@@ -506,7 +537,8 @@ def render(book, pid, slug, name, idx):
                 body.append(copybar(opens[i], a))
                 a = None
             body.append(stanza(b, blocks[pair[i]],
-                               'pv-sa pv-src' if k == 'deva-red' else 'pv-sa', group[i], a))
+                               'pv-sa pv-src' if k == 'deva-red' else 'pv-sa', group[i],
+                               a or book.verse_id(pid, b)))
         elif i in eaten:
             continue
         elif k == 'deva':
@@ -560,9 +592,10 @@ def render(book, pid, slug, name, idx):
     if page_nav:
         head.append(page_nav)
         head.append('')
-    if missing_note:
-        head.append(missing_note)
-        head.append('')
+    for note in (book.head_note(pid), missing_note):
+        if note:
+            head.append(note)
+            head.append('')
     tail = [
         '',
         '<p class="pv-pager nosearch" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),

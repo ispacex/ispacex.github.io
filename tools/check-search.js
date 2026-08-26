@@ -146,6 +146,7 @@ const SETS = [
 	['śṛṅgāra', 'srngara', 'sringara', 'шрингара'],
 	['jñāna', 'джняна'],
 	['nāṭya', 'натья'],
+	['Śivastotrāvalī', 'Шивастотравали'],
 ];
 
 /* Свёртка там, где буква зависит от соседей. Проверяется фразой, а не словом:
@@ -276,7 +277,7 @@ function aliasesOf(name, file) {
 			if (first === null) first = p.join('|');
 			const same = p.join('|') === first;
 			if (!same) bad++;
-			console.log((same ? '  ' : '✗ ') + ('«' + q + '»').padEnd(16) + r.say.padEnd(28) +
+			console.log((same ? '  ' : '✗ ') + ('«' + q + '»').padEnd(18) + r.say.padEnd(28) +
 				'страниц ' + String(p.length).padStart(3));
 		}
 	}

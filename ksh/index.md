@@ -8,7 +8,7 @@ title: "Кашмирский шиваизм"
 
 ## КШ
 
-[Поиск по сайту](/search/) · [Базовые принципы](/ksh/principles/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Tantrasāra](/ksh/tantrasara/) · [Тантралока](/ksh/ta/) · [Писания Трики: что есть по-русски](/ksh/scriptures/)
+[Поиск по сайту](/search/) · [Базовые принципы](/ksh/principles/) · [Parātrīśikāvivaraṇa](/ksh/pv/) · [Tantrasāra](/ksh/tantrasara/) · [Тантралока](/ksh/ta/) · [Śivastotrāvalī](/ksh/sv/) · [Писания Трики: что есть по-русски](/ksh/scriptures/)
 
 *Мы носим в себе созидательный заряд вселенной, но в силу некоторых обстоятельств забываем об этом. // В. Дмитриева.*
 
