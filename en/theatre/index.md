@@ -1,6 +1,7 @@
 ---
 title: "Theatre"
 lang: en
+search: false
 ru: /theatre/
 ---
 

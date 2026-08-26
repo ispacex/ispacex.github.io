@@ -1,6 +1,7 @@
 ---
 title: "Indian dance and theatre, Nāṭyaśāstra"
 lang: en
+search: false
 ru: /dance/
 ---
 

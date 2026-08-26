@@ -1,6 +1,7 @@
 ---
 title: "Basic principles of Kashmir Shaivism"
 lang: en
+search: false
 ru: /ksh/principles/
 ---
 

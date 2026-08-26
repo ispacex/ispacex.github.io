@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 12 — Rahasyanirdeśanāma dvādaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch12/
 ---
 

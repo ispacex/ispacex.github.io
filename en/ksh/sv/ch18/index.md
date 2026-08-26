@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 18 — Āviṣkāranāmāṣṭādaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch18/
 ---
 

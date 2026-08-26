@@ -1,6 +1,7 @@
 ---
 title: "Tantrāloka: dictionary of terms"
 lang: en
+search: false
 ru: /ksh/ta/glossary/
 ---
 

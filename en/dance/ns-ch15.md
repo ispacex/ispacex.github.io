@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 15"
 lang: en
+search: false
 ru: /dance/ns-ch15/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Patañjali"
 lang: en
+search: false
 ru: /theatre/patanjali/
 ---
 

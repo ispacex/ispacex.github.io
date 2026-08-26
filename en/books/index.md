@@ -1,6 +1,7 @@
 ---
 title: "books"
 lang: en
+search: false
 ru: /books/
 ---
 

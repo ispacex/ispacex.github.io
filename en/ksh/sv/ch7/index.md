@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch7/
 ---
 

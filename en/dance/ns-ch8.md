@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 8"
 lang: en
+search: false
 ru: /dance/ns-ch8/
 ---
 

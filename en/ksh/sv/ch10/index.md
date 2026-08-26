@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch10/
 ---
 

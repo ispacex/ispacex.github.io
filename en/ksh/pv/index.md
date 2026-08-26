@@ -1,6 +1,7 @@
 ---
 title: "Parātrīśikāvivaraṇa — Abhinavagupta's commentary"
 lang: en
+search: false
 ru: /ksh/pv/
 ---
 

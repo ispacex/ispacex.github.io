@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch17/
 ---
 

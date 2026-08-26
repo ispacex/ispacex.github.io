@@ -1,6 +1,7 @@
 ---
 title: "Pratyabhijñāhṛdayam — The Heart of Recognition, with commentary by Kṣemarāja"
 lang: en
+search: false
 ru: /ksh/ph/
 ---
 

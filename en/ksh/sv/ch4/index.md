@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 4 — Surasodbalākhyaṁ caturthaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch4/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 14"
 lang: en
+search: false
 ru: /dance/ns-ch14/
 ---
 

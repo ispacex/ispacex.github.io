@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch16/
 ---
 

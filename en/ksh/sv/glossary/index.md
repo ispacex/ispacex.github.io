@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: glossary of terms"
 lang: en
+search: false
 ru: /ksh/sv/glossary/
 ---
 

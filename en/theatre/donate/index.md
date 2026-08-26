@@ -1,6 +1,7 @@
 ---
 title: "Поддержать театр Артен"
 lang: en
+search: false
 ru: /theatre/donate/
 ---
 

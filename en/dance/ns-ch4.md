@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 4"
 lang: en
+search: false
 ru: /dance/ns-ch4/
 ---
 

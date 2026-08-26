@@ -1,6 +1,7 @@
 ---
 title: "Notes on art"
 lang: en
+search: false
 ru: /art/
 ---
 

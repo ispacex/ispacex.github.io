@@ -1,6 +1,7 @@
 ---
 title: "Parātrīśikāvivaraṇa: glossary of terms"
 lang: en
+search: false
 ru: /ksh/pv/glossary/
 ---
 

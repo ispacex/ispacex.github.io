@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 14 — Jayastotranāma caturdaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch14/
 ---
 

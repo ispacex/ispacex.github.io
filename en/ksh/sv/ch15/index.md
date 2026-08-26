@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 15 — Bhaktistotranāma pañcadaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch15/
 ---
 

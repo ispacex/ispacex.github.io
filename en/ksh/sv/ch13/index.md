@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch13/
 ---
 

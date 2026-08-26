@@ -1,6 +1,7 @@
 ---
 title: "Pratyabhijñāhṛdayam: glossary of terms"
 lang: en
+search: false
 ru: /ksh/ph/glossary/
 ---
 

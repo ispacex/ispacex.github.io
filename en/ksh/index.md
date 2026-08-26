@@ -1,6 +1,7 @@
 ---
 title: "Kashmir Shaivism"
 lang: en
+search: false
 ru: /ksh/
 ---
 

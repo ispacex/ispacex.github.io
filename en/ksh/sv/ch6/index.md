@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch6/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 22"
 lang: en
+search: false
 ru: /dance/ns-ch22/
 ---
 

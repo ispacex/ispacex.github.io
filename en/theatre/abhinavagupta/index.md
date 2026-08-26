@@ -1,6 +1,7 @@
 ---
 title: "Abhinavagupta"
 lang: en
+search: false
 ru: /theatre/abhinavagupta/
 ---
 

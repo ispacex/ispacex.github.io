@@ -1,6 +1,7 @@
 ---
 title: "Notes on pigments"
 lang: en
+search: false
 ru: /art/pigments/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 37"
 lang: en
+search: false
 ru: /dance/ns-ch37/
 ---
 

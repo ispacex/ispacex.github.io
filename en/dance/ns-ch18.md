@@ -1,6 +1,7 @@
 ---
 title: "Nāṭyaśāstra, Chapter 18"
 lang: en
+search: false
 ru: /dance/ns-ch18/
 ---
 

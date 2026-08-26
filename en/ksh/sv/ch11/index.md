@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch11/
 ---
 

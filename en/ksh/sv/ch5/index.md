@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch5/
 ---
 

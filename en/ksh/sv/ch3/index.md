@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch3/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Tantrasāra — a concise encyclopedia of Tantra"
 lang: en
+search: false
 ru: /ksh/tantrasara/
 ---
 

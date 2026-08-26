@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī — hymns of Utpaladeva to Śiva"
 lang: en
+search: false
 ru: /ksh/sv/
 ---
 

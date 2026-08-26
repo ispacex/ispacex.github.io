@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 1 — Bhaktivilāsākhyaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch1/
 ---
 

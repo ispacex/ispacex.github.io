@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 19 — Udyotanābhidhānamekonaviṁśaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch19/
 ---
 

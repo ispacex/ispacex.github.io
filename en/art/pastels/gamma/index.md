@@ -1,5 +1,6 @@
 ---
 lang: en
+search: false
 ru: /art/pastels/gamma/
 ---
 

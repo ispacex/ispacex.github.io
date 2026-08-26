@@ -1,6 +1,7 @@
 ---
 title: "Tantrāloka: the Sanskrit in full, with search by stanza"
 lang: en
+search: false
 ru: /ksh/ta/
 ---
 

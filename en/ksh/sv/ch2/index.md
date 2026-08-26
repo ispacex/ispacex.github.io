@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch2/
 ---
 

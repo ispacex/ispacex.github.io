@@ -1,6 +1,7 @@
 ---
 title: "Śivastotrāvalī: Hymn 9 — Svātantryavijayākhyaṁ navamaṁ stotram"
 lang: en
+search: false
 ru: /ksh/sv/ch9/
 ---
 
