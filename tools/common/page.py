@@ -450,15 +450,6 @@ class Book:
     def nav(self, secs, titles):
         return nav(secs, titles)
 
-    def head_note(self, pid):
-        """Что сказать о странице до её текста, помимо счёта непереведённого.
-
-        `todo` говорит о блоках, которым перевода ещё не написали здесь.
-        Это — о другом: о том, чего нет и у источника, и потому не окажется
-        на странице ни завтра, ни через месяц.
-        """
-        return ''
-
     # --- словарь терминов ---
 
     def link(self, word):
@@ -557,6 +548,15 @@ def render(book, pid, slug, name, idx):
             else:
                 body.append(para(v, 'pv-tr' if b.get('c') else None, a,
                                  book.link, marks.get(i)))
+        elif k == 'gap':
+            # Место под перевод там, где у источника его нет вовсе: под строфой
+            # стоит пометка «Untranslated», а не текст. Показывать в рамке
+            # `pv-en` нечего — английского там тоже нет, — поэтому пустое место
+            # молчит. Перевод сюда всё же приходит: сделанный не с изложения,
+            # а прямо с санскрита. Тогда он встаёт обычным абзацем перевода.
+            v = tr(i, b)
+            if v is not None:
+                body.append(para(v, 'pv-tr', a, book.link, marks.get(i)))
         elif k == 'list':
             items = [book.item(pid, i, j, x) or x for j, x in enumerate(b['items'])]
             if any(book.item(pid, i, j, x) is None for j, x in enumerate(b['items'])):
@@ -592,10 +592,9 @@ def render(book, pid, slug, name, idx):
     if page_nav:
         head.append(page_nav)
         head.append('')
-    for note in (book.head_note(pid), missing_note):
-        if note:
-            head.append(note)
-            head.append('')
+    if missing_note:
+        head.append(missing_note)
+        head.append('')
     tail = [
         '',
         '<p class="pv-pager nosearch" markdown="1">%s%s</p>' % (prev_link, ' · ' + next_link if next_link else ''),

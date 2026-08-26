@@ -8,7 +8,7 @@ title: "Śivastotrāvalī: Гимн 8 — Alaukikodbalanākhyamaṣṭamaṁ sto
 
 <p class="pv-pager nosearch" markdown="1">[← Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram](/ksh/sv/ch7/) · [Гимн 9 — Svātantryavijayākhyaṁ navamaṁ stotram →](/ksh/sv/ch9/)</p>
 
-<p class="pv-todo">Перевода здесь нет, и взять его неоткуда: под каждой строфой этого гимна у Габриэля Pradīpaka стоит пометка «Untranslated». Английского изложения, с которого здесь переводят, для него ещё не написано. Санскрит и транслитерация на месте.</p>
+<p class="pv-todo">Ещё без перевода 13 строф. У источника под ними стоит пометка «Untranslated»: английского изложения для них не написано, и перевод сюда придёт прямо с санскрита. Санскрит и транслитерация на месте.</p>
 
 <p class="pv-copy nosearch"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
@@ -105,6 +105,6 @@ title: "Śivastotrāvalī: Гимн 8 — Alaukikodbalanākhyamaṣṭamaṁ sto
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 8 — Alaukikodbalanākhyamaṣṭamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter8). За точным смыслом идите в источник.*
+*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 8 — Alaukikodbalanākhyamaṣṭamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter8).*
 
 <script src="/assets/js/pv-copy.js"></script>

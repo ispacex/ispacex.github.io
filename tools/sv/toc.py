@@ -20,7 +20,8 @@ INDEX = os.path.join(book.out, 'index.md')
 
 rows = []
 for (n, name, about, _), (pid, slug, title) in zip(HYMNS, book.parts):
-    total, done = book.counts(pid)
+    total, en, sa = book.counts(pid)
+    done = en + sa
     state = ('переведён' if done >= total else
              'переведено %d' % done if done else 'перевода нет')
     rows.append('<li><a href="%s">%s</a> — %s — <em>%d %s, %s</em></li>'

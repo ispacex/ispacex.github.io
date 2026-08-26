@@ -18,10 +18,14 @@ common/page.py складывает стены построчно. Здесь с
 построчно, а не двумя блоками подряд.
 
 **Перевода у источника почти нет.** Под 444 строфами из 450 стоит одно слово —
-«Untranslated». Это пометка, а не текст писания, и в блоки она не идёт: абзац
-с ней выбрасывается здесь. Сколько строф в гимне осталось без перевода,
-страница считает сама — по числу переводов при её строфах (см. `head_note` в
-book.py).
+«Untranslated». Сам текст пометки в блоки не идёт — показывать её на странице
+нечего, — но место под ней остаётся: блок вида `gap`, пустой и помеченный
+номером своей строфы. Пустым он молчит, а перевод, сделанный прямо с
+санскрита, встаёт ровно сюда.
+
+Номер строфы служит ключом и абзацам перевода, и местам под него: по номеру
+строфу зовут, и от правки разбора такой ключ не съезжает, а порядковый номер
+блока съехал бы весь.
 """
 import json, os, re, sys
 from collections import Counter
@@ -89,19 +93,26 @@ def convert():
     chapters = cut(page['blocks'])
     whole = 0
     for n, name, _, _ in HYMNS:
-        bs, gaps, kept = [], 0, 0
+        bs, gaps, kept, at = [], 0, 0, None
         for b in chapters.get(n, []):
-            if b['k'] == 'text' and GAP.match(b['t']):
-                gaps += 1
-                continue
             pair = split(b) if b['k'] in ('deva', 'deva-red') else None
             if pair:
                 bs.extend(pair)
                 kept += 1
-            else:
-                bs.append(b)
+                at = pair[0].get('n')
+                continue
+            # Абзац под строфой — место под её перевод, и помечается он номером
+            # той строфы, а не своим номером в списке блоков: по номеру строфу
+            # зовут, по нему же лежит перевод, и от правки разбора он не едет.
+            if b['k'] == 'text' and GAP.match(b['t']):
+                bs.append({'k': 'gap', 't': '', 'n': at})
+                gaps += 1
+                continue
+            if b['k'] == 'text':
+                b = dict(b, n=at)
+            bs.append(b)
         whole += kept
-        blind = kept - sum(1 for b in bs if b.get('n'))
+        blind = kept - sum(1 for b in bs if b['k'] in ('deva', 'deva-red') and b.get('n'))
         if blind:
             print('%2d: строф без номера: %d' % (n, blind))
         json.dump({'title': name, 'blocks': bs},

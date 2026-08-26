@@ -4,19 +4,23 @@
 Отличие одно, и оно определяет здесь всё: **переводить почти не с чего**.
 Санскрит у источника выложен целиком — все 450 строф, деванагари и
 транслитерация, — а английское изложение написано только для вступления и для
-первых шести строф первого гимна. Под остальными 444 стоит одно слово:
-«Untranslated».
+строф 1.1–1.6. Под остальными 444 стоит одно слово: «Untranslated».
 
-Поэтому конвейер тот же, что у Parātrīśikāvivaraṇa (перевод лежит здесь, в
-`ru/*.json`, и доливается по частям), но страница обязана сказать о себе
-правду сразу: перевода нет не потому, что до него не дошли руки здесь, а
-потому, что его нет и у источника. Это и говорит `head_note`.
+Отсюда две родословные у перевода, и они не равны:
 
-Пометка `pv-en`, которой Parātrīśikāvivaraṇa показывает ещё не переведённый
-абзац, здесь не работает вовсе: показывать в рамке слово «Untranslated»
-двадцать шесть раз подряд — не честность, а шум. Такие абзацы выброшены на
-разборе (см. `convert.py`), и счёт им ведётся по строфам, у которых перевода
-не оказалось.
+* `ru/<гимн>.json` — переведено **по английскому изложению** Габриэля
+  Pradīpaka, как весь /ksh/pv/. Между санскритом и русским стоит его работа;
+* `sa/<гимн>.json` — переведено **прямо с санскрита**, здесь. Изложения, на
+  которое можно опереться, для этих строф нет вовсе, и сверить перевод не с
+  чем: два полных английских перевода «Шивастотравали» существуют, но оба под
+  копирайтом и в работу не брались.
+
+Смешивать их молча нельзя: читатель вправе знать, чью работу он читает.
+Поэтому подпись под страницей называет обе родословные поимённо, с номерами
+строф, а `check.py` следит, чтобы одна и та же строфа не лежала в обеих папках.
+
+Ключ в обеих — **номер строфы** («13.11»), а не номер блока: по номеру строфу
+зовут, и от правки разбора такой ключ не съезжает.
 """
 import json, os, re, sys
 
@@ -27,9 +31,30 @@ sys.path.insert(0, HERE)
 from common.page import Book, SA_KINDS, plural
 from parts import PARTS, SRC, SRC_URL
 
+# Откуда взялся перевод: папка и то, как это называется вслух.
+FROM_EN, FROM_SA = 'ru', 'sa'
 
-def load(path, default):
-    return json.load(open(path, encoding='utf-8')) if os.path.exists(path) else default
+
+def load(path):
+    return json.load(open(path, encoding='utf-8')) if os.path.exists(path) else {}
+
+
+def ranges(nums):
+    """[«1.1», «1.2», «1.3», «1.7»] -> «1.1–1.3, 1.7» — подпись читает человек."""
+    def key(s):
+        a, b = s.split('.')
+        return int(a), int(b)
+    out, run = [], []
+    for s in sorted(nums, key=key):
+        if run and key(s)[1] == key(run[-1])[1] + 1 and key(s)[0] == key(run[-1])[0]:
+            run.append(s)
+            continue
+        if run:
+            out.append(run)
+        run = [s]
+    if run:
+        out.append(run)
+    return ', '.join(r[0] if len(r) == 1 else '%s–%s' % (r[0], r[-1]) for r in out)
 
 
 class SV(Book):
@@ -42,16 +67,17 @@ class SV(Book):
 
     def __init__(self, here=HERE):
         Book.__init__(self, here)
-        self.ru = {}
+        self.tr = {}
 
-    def _ru(self, pid):
-        if pid not in self.ru:
-            self.ru[pid] = load(os.path.join(self.here, 'ru', '%s.json' % pid), {})
-        return self.ru[pid]
+    def _tr(self, pid):
+        if pid not in self.tr:
+            self.tr[pid] = {w: load(os.path.join(self.here, w, '%s.json' % pid))
+                            for w in (FROM_EN, FROM_SA)}
+        return self.tr[pid]
 
     def load(self, pid):
-        ru = self._ru(pid)
-        return lambda i, b: ru.get(str(i))
+        en, sa = self._tr(pid)[FROM_EN], self._tr(pid)[FROM_SA]
+        return lambda i, b: en.get(b.get('n')) or sa.get(b.get('n'))
 
     def page_title(self, name):
         # Названия гимнов санскритские, и строчными их писать нельзя:
@@ -78,44 +104,40 @@ class SV(Book):
     def verse_id(self, pid, block):
         """Якорь строфы — её номер: /ksh/sv/ch13/#v13.11.
 
-        Строфу здесь зовут по номеру: «Шивастотравали 13.11» цитирует и
-        «Тантралока», и сам Абхинавагупта в Parātrīśikāvivaraṇa. Номер лежит
-        в блоке с разбора (см. `NUM` в convert.py).
+        Строфу здесь зовут по номеру: «Шивастотравали 13.11» приводит целиком
+        «Тантралока» 13.290. Номер лежит в блоке с разбора (см. `NUM` в
+        convert.py).
         """
         n = block.get('n')
         return 'v%s' % n if n else None
 
-    # --- чего на странице нет ---
+    # --- что на странице чьё ---
 
     def counts(self, pid):
-        """(строф в гимне, из них с русским переводом)."""
+        """(строф в гимне, переведено с изложения, переведено с санскрита)."""
         blocks = self.blocks(pid)
-        ru = self._ru(pid)
-        sa = [i for i, b in enumerate(blocks) if b['k'] in SA_KINDS]
-        return len(sa), sum(1 for i, b in enumerate(blocks)
-                            if b['k'] == 'text' and ru.get(str(i)))
+        at = {b['n'] for b in blocks if b['k'] in SA_KINDS and b.get('n')}
+        tr = self._tr(pid)
+        return (len(at),
+                len(at & set(tr[FROM_EN])),
+                len(at & set(tr[FROM_SA])))
 
-    def head_note(self, pid):
-        total, done = self.counts(pid)
-        if done >= total:
-            return ''
-        if not done:
-            return ('<p class="pv-todo">Перевода здесь нет, и взять его неоткуда: под'
-                    ' каждой строфой этого гимна у Габриэля Pradīpaka стоит пометка'
-                    ' «Untranslated». Английского изложения, с которого здесь переводят,'
-                    ' для него ещё не написано. Санскрит и транслитерация на месте.</p>')
-        left = total - done
-        return ('<p class="pv-todo">Переведены %d %s из %d — те, которые у источника'
-                ' изложены по-английски. Под остальными %d стоит пометка «Untranslated»:'
-                ' изложения для них ещё не написано, и перевода здесь не будет, пока оно'
-                ' не появится. Санскрит и транслитерация на месте.</p>'
-                % (done, plural(done, 'строфа', 'строфы', 'строф'), total, left))
+    def todo(self, n):
+        return ('<p class="pv-todo">Ещё без перевода %d %s. У источника под ними стоит'
+                ' пометка «Untranslated»: английского изложения для них не написано, и'
+                ' перевод сюда придёт прямо с санскрита. Санскрит и транслитерация на'
+                ' месте.</p>' % (n, plural(n, 'строфа', 'строфы', 'строф')))
 
     def footer(self, pid, name):
-        _, done = self.counts(pid)
-        made = ('' if not done else
-                ' Перевод тех строф, у которых он здесь есть, сделан для этого сайта'
-                ' по его английскому изложению.')
-        return ('*Санскрит (деванагари и IAST) перенесён без изменений с сайта'
-                ' **Габриэля Pradīpaka**: [%s](%s).%s За точным смыслом идите в источник.*'
-                % (name, self.at_source(pid), made))
+        tr = self._tr(pid)
+        at = ['*Санскрит (деванагари и IAST) перенесён без изменений с сайта'
+              ' **Габриэля Pradīpaka**: [%s](%s).' % (name, self.at_source(pid))]
+        if tr[FROM_EN]:
+            at.append(' Строфы %s переведены по его английскому изложению.'
+                      % ranges(tr[FROM_EN]))
+        if tr[FROM_SA]:
+            at.append(' Строфы %s переведены прямо с санскрита, для этого сайта:'
+                      ' изложения, на которое можно было бы опереться, для них у'
+                      ' источника нет.' % ranges(tr[FROM_SA]))
+        at.append('*')
+        return ''.join(at)

@@ -8,7 +8,7 @@ title: "Śivastotrāvalī: Гимн 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ
 
 <p class="pv-pager nosearch" markdown="1">[← Гимн 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram](/ksh/sv/ch2/) · [Гимн 4 — Surasodbalākhyaṁ caturthaṁ stotram →](/ksh/sv/ch4/)</p>
 
-<p class="pv-todo">Перевода здесь нет, и взять его неоткуда: под каждой строфой этого гимна у Габриэля Pradīpaka стоит пометка «Untranslated». Английского изложения, с которого здесь переводят, для него ещё не написано. Санскрит и транслитерация на месте.</p>
+<p class="pv-todo">Ещё без перевода 21 строфа. У источника под ними стоит пометка «Untranslated»: английского изложения для них не написано, и перевод сюда придёт прямо с санскрита. Санскрит и транслитерация на месте.</p>
 
 <p class="pv-copy nosearch"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
 
@@ -161,6 +161,6 @@ title: "Śivastotrāvalī: Гимн 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter3). За точным смыслом идите в источник.*
+*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter3).*
 
 <script src="/assets/js/pv-copy.js"></script>
