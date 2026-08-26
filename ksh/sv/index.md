@@ -109,10 +109,10 @@ title: "Śivastotrāvalī — гимны Утпаладевы Шиве"
 <li><a href="/ksh/sv/ch4/">Гимн 4 — Surasodbalākhyaṁ caturthaṁ stotram</a> — сила от доброго сока — <em>25 строф, переведён</em></li>
 <li><a href="/ksh/sv/ch5/">Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram</a> — указание на собственную силу — <em>26 строф, переведён</em></li>
 <li><a href="/ksh/sv/ch6/">Гимн 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram</a> — борение на пути — <em>11 строф, переведён</em></li>
-<li><a href="/ksh/sv/ch7/">Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram</a> — победа над мукой разлуки — <em>9 строф, перевода нет</em></li>
-<li><a href="/ksh/sv/ch8/">Гимн 8 — Alaukikodbalanākhyamaṣṭamaṁ stotram</a> — нездешняя сила — <em>13 строф, перевода нет</em></li>
-<li><a href="/ksh/sv/ch9/">Гимн 9 — Svātantryavijayākhyaṁ navamaṁ stotram</a> — победа Абсолютной Свободы — <em>20 строф, перевода нет</em></li>
-<li><a href="/ksh/sv/ch10/">Гимн 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram</a> — разрыв непрерывности — <em>26 строф, перевода нет</em></li>
+<li><a href="/ksh/sv/ch7/">Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram</a> — победа над мукой разлуки — <em>9 строф, переведён</em></li>
+<li><a href="/ksh/sv/ch8/">Гимн 8 — Alaukikodbalanākhyamaṣṭamaṁ stotram</a> — нездешняя сила — <em>13 строф, переведён</em></li>
+<li><a href="/ksh/sv/ch9/">Гимн 9 — Svātantryavijayākhyaṁ navamaṁ stotram</a> — победа Абсолютной Свободы — <em>20 строф, переведён</em></li>
+<li><a href="/ksh/sv/ch10/">Гимн 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram</a> — разрыв непрерывности — <em>26 строф, переведён</em></li>
 <li><a href="/ksh/sv/ch11/">Гимн 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram</a> — томление и уверенность — <em>15 строф, перевода нет</em></li>
 <li><a href="/ksh/sv/ch12/">Гимн 12 — Rahasyanirdeśanāma dvādaśaṁ stotram</a> — указание на тайну — <em>29 строф, перевода нет</em></li>
 <li><a href="/ksh/sv/ch13/">Гимн 13 — Saṅgrahastotranāma trayodaśaṁ stotram</a> — гимн, ставший сводом — <em>20 строф, перевода нет</em></li>
