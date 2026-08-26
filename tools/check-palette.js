@@ -94,9 +94,11 @@ if (pickFrom < 0 || pickTo < 0) { console.log('в palette.js не нашлось
 // SHOWN стоит в шапке файла, вне обоих кусков, — берём его тем же чтением,
 // чтобы число строк в выдаче проверялось то же, что у читателя.
 const SHOWN = /var SHOWN = (\d+)/.exec(src)[1];
+// HERE_LANG в браузере берётся из <html lang>; здесь браузера нет, и проверка
+// смотрит с русской страницы — как читатель, пришедший на сайт впервые.
 const pick = new Function(
-	'var SHOWN = ' + SHOWN + ';\n' + src.slice(from, to) + src.slice(pickFrom, pickTo)
-	+ '\nreturn pick;')();
+	'var SHOWN = ' + SHOWN + ';\nvar HERE_LANG = "ru";\n'
+	+ src.slice(from, to) + src.slice(pickFrom, pickTo) + '\nreturn pick;')();
 
 const WANT = [
 	['Тантралока', '/ksh/ta/'],
@@ -118,12 +120,19 @@ const WANT = [
 	// Порядок внутри одинаково подходящих: главы идут числом, а не как
 	// придётся.
 	['тантралока глава', '/ksh/ta/ch1/'],
+	// Появился перевод — и английские страницы полезли вперёд русских: их
+	// первый сегмент адреса «en» в перечне разделов не значится, они падали в
+	// умолчание, а у того порядок 0. Раздел берётся теперь после языка, а свой
+	// язык читателя идёт впереди чужого.
+	['scriptures of trika', '/en/ksh/scriptures/'],
+	['натьяшастра', '/dance/'],
 ];
 
 function jumps(pages) {
 	const ready = pages.map((p) => ({
 		url: p.url, title: p.title, section: p.section, order: p.order,
 		fold: fold(p.title), tail: fold(p.url + ' ' + (p.section || '')),
+		lang: p.lang || 'ru',
 		depth: p.url.split('/').filter(Boolean).length,
 		home: p.url.split('/').filter(Boolean).length <= 1 && p.section ? fold(p.section) : null,
 	}));

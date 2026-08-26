@@ -19,6 +19,14 @@
 	var INDEX = '/nav-index.json';
 	var SHOWN = 12;
 
+	/* Язык страницы, на которой стоит читатель. Палитра показывает сперва свой
+	   язык: читающему по-английски русский перевод той же книги не нужен вовсе,
+	   и наоборот.
+
+	   Стоит здесь, а не рядом с отбором, нарочно: проверка вынимает отбор
+	   куском исходника и подставляет своё значение, а `document` в ноде нет. */
+	var HERE_LANG = (document.documentElement.getAttribute('lang') || 'ru').slice(0, 2);
+
 	/* --- свёртка письменности -------------------------------------------
 	 *
 	 * Та же, что в поиске (sitesearch/search.js): регистр, «ё» и диакритика
@@ -135,6 +143,7 @@
 		}
 		out.sort(function (a, b) {
 			return a.s - b.s
+				|| (a.page.lang === HERE_LANG ? 0 : 1) - (b.page.lang === HERE_LANG ? 0 : 1)
 				|| a.page.order - b.page.order
 				|| a.page.depth - b.page.depth
 				|| byName(a.page.title, b.page.title);

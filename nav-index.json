@@ -42,6 +42,19 @@ talam», «# Monet». Ищется он и в разметке, и в готов
 {%- if p.path contains 'sitesearch/' -%}{% continue %}{% endif -%}
 {%- assign parts = p.url | split: '/' -%}
 {%- assign seg = parts[1] -%}
+{%- assign lang = 'ru' -%}
+{%- comment -%}
+Перевод лежит в `/en/…`, и раздел у него тот же, что у оригинала: «Тантралока»
+остаётся кашмирским шиваизмом, на каком бы языке её ни читали. Без этого первый
+сегмент адреса — «en» — не находился в перечне, страница падала в умолчание
+«Институт», а у того порядок 0, и английская «Тантралока» обходила русскую в
+палитре. Сломалось это ровно в тот день, когда появился перевод, и сказала об
+этом проверка, а не глаз.
+{%- endcomment -%}
+{%- if seg == 'en' -%}
+{%- assign lang = 'en' -%}
+{%- assign seg = parts[2] -%}
+{%- endif -%}
 {%- assign sec = conf.sections[seg] -%}
 {%- assign sectitle = sec.title | default: conf.default.title -%}
 {%- assign secorder = sec.order | default: conf.default.order | default: 99 -%}
@@ -60,6 +73,6 @@ talam», «# Monet». Ищется он и в разметке, и в готов
 {%- unless name -%}{%- assign name = p.url | remove_first: '/' | replace: '/', ' / ' | strip -%}{%- endunless -%}
 {%- unless first %},{% endunless -%}
 {%- assign first = false -%}
-{"url":{{ p.url | jsonify }},"title":{{ name | jsonify }},"section":{{ sectitle | jsonify }},"order":{{ secorder }}}
+{"url":{{ p.url | jsonify }},"title":{{ name | jsonify }},"section":{{ sectitle | jsonify }},"order":{{ secorder }},"lang":{{ lang | jsonify }}}
 {%- endfor -%}
 ]}
