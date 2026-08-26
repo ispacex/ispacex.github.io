@@ -231,7 +231,7 @@ def looks_iast(b):
     return not CYR.search(t) and not DEVA.search(t) and '(' not in t
 
 
-def pairing(blocks):
+def pairing(blocks, is_iast=None):
     """Строфа деванагари и та же строфа в транслитерации — рядом, а не стенами.
 
     Источник даёт их двумя стенами: сперва весь санскрит раздела, потом весь
@@ -242,7 +242,15 @@ def pairing(blocks):
     центрирования, и число строк. Первое же расхождение обрывает складывание —
     дальше стена остаётся стеной. Так страница, где транслитерации нет вовсе
     (таблицы соответствий), просто остаётся как была, а не съезжает на строку.
+
+    `is_iast` — чем узнаётся транслитерация. По умолчанию `looks_iast`: вид
+    блока плюс догадка по письменности, потому что разбор изредка зовёт строку
+    транслитерации переводом. Писанию, у которого вид блока уже расставлен по
+    письменности наверняка, догадка не нужна и вредна — у Pratyabhijñāhṛdayam
+    она спотыкается о ссылку «(9)» внутри самой транслитерации.
     """
+    if is_iast is None:
+        is_iast = looks_iast
     pair, eaten, opens, group = {}, set(), {}, {}
     i = 0
     while i < len(blocks):
@@ -255,7 +263,7 @@ def pairing(blocks):
         n = 0
         while n < j - i and j + n < len(blocks):
             sa, ia = blocks[i + n], blocks[j + n]
-            if not looks_iast(ia) or ia.get('c') != sa.get('c'):
+            if not is_iast(ia) or ia.get('c') != sa.get('c'):
                 break
             if len(lines(ia['t'])) != len(lines(sa['t'])):
                 break
