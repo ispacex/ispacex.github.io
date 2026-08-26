@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 4"
 lang: en
 search: false
-ru: /dance/ns-ch4/
+ru: /dance/ns-ch4
 ---
 
 # Nāṭyaśāstra, Chapter 4, technique of dance

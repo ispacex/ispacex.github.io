@@ -6,7 +6,7 @@ Since there's no additional content provided beyond this title, I should transla
 Let me provide the translation of this title.Nāṭyaśāstra, Chapter 3"
 lang: en
 search: false
-ru: /dance/ns-ch3/
+ru: /dance/ns-ch3
 ---
 
 # Nāṭyaśāstra, Chapter 3, worship of the gods of the stage
@@ -23,7 +23,7 @@ Bharata Muni
 
 **/THE SCIENCE OF THEATRE/**
 
-**   applied by the enlightened Bharata
+**   применённая просветлённым Бхаратой**
 
 So, the third chapter in the **Nāṭyaśāstra** of Bharata.
 

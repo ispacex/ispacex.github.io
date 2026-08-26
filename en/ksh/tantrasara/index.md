@@ -76,28 +76,28 @@ half, while here everything is translated, together with the ritual.
 ## Chapters
 
 <ul class="pv-toc">
-<li><a href="/ksh/tantrasara/ch1/">Глава 1 — Vijñānabhedaprakāśanam</a> — объяснение различных видов знания — <em>9 строф, 25 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch2/">Глава 2 — Anupāyaprakāśanam</a> — объяснение Anupāya, лишённой методов — <em>3 строфы, 7 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch3/">Глава 3 — Śāmbhavopāyaprakāśanam</a> — объяснение метода Śambhu — <em>3 строфы, 37 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch4/">Глава 4 — Śāktopāyaprakāśanam</a> — объяснение метода Śakti — <em>10 строф, 51 абзац</em></li>
-<li><a href="/ksh/tantrasara/ch5/">Глава 5 — Āṇavaprakāśanam</a> — объяснение метода ограниченного существа — <em>13 строф, 40 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch6/">Глава 6 — Kālādhvaprakāśanam</a> — объяснение пути Времени — <em>12 строф, 88 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch7/">Глава 7 — Deśādhvaprakāśanam</a> — объяснение пути Пространства — <em>5 строф, 43 абзаца</em></li>
-<li><a href="/ksh/tantrasara/ch8/">Глава 8 — Tattvasvarūpaprakāśanam</a> — объяснение сущностной природы категорий — <em>4 строфы, 96 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch9/">Глава 9 — Tattvabhedaprakāśanam</a> — объяснение разделения по категориям — <em>4 строфы, 55 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch10/">Глава 10 — Kalādyadhvaprakāśanam</a> — объяснение пути Kalā-s и прочих — <em>5 строф, 23 абзаца</em></li>
-<li><a href="/ksh/tantrasara/ch11/">Глава 11 — Śaktipātaprakāśanam</a> — объяснение нисхождения Силы — <em>3 строфы, 29 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch12/">Глава 12 — Snānaprakāśanam</a> — объяснение омовения — <em>3 строфы, 13 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch13/">Глава 13 — Samayidīkṣāprakāśanam</a> — объяснение посвящения в дисциплину — <em>7 строф, 96 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch14/">Глава 14 — Putrakadīkṣāprakāśanam</a> — объяснение посвящения в духовные сыновья — <em>4 строфы, 33 абзаца</em></li>
-<li><a href="/ksh/tantrasara/ch15/">Глава 15 — Sapratyayadīkṣāprakāśanam</a> — объяснение посвящения с убеждённостью — <em>3 строфы, 9 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch16/">Глава 16 — Parokṣadīkṣāprakāśanam</a> — объяснение посвящения отсутствующего — <em>6 строф, 24 абзаца</em></li>
-<li><a href="/ksh/tantrasara/ch17/">Глава 17 — Liṅgoddhāraḥ</a> — удаление метки, или знака — <em>3 строфы, 9 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch18/">Глава 18 — Abhiṣekaprakāśanam</a> — объяснение освящения — <em>3 строфы, 7 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch19/">Глава 19 — Śrāddhadīkṣāprakāśanam</a> — объяснение посвящения при поминовении умершего — <em>3 строфы, 10 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch20/">Глава 20 — Śeṣavartanaprakāśanam</a> — объяснение того, как жить дальше — <em>24 строфы, 65 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch21/">Глава 21 — Āgamaprāmāṇyaprakāśanam</a> — объяснение авторитетности писаний — <em>4 строфы, 10 абзацев</em></li>
-<li><a href="/ksh/tantrasara/ch22/">Глава 22 — Kulayāgaprakāśanam</a> — объяснение ритуала Kaula — <em>11 строф, 48 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch1/">Глава 1 — Vijñānabhedaprakāśanam</a> — объяснение различных видов знания — <em>9 строф, 25 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch2/">Глава 2 — Anupāyaprakāśanam</a> — объяснение Anupāya, лишённой методов — <em>3 строфы, 7 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch3/">Глава 3 — Śāmbhavopāyaprakāśanam</a> — объяснение метода Śambhu — <em>3 строфы, 37 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch4/">Глава 4 — Śāktopāyaprakāśanam</a> — объяснение метода Śakti — <em>10 строф, 51 абзац</em></li>
+<li><a href="/en/ksh/tantrasara/ch5/">Глава 5 — Āṇavaprakāśanam</a> — объяснение метода ограниченного существа — <em>13 строф, 40 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch6/">Глава 6 — Kālādhvaprakāśanam</a> — объяснение пути Времени — <em>12 строф, 88 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch7/">Глава 7 — Deśādhvaprakāśanam</a> — объяснение пути Пространства — <em>5 строф, 43 абзаца</em></li>
+<li><a href="/en/ksh/tantrasara/ch8/">Глава 8 — Tattvasvarūpaprakāśanam</a> — объяснение сущностной природы категорий — <em>4 строфы, 96 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch9/">Глава 9 — Tattvabhedaprakāśanam</a> — объяснение разделения по категориям — <em>4 строфы, 55 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch10/">Глава 10 — Kalādyadhvaprakāśanam</a> — объяснение пути Kalā-s и прочих — <em>5 строф, 23 абзаца</em></li>
+<li><a href="/en/ksh/tantrasara/ch11/">Глава 11 — Śaktipātaprakāśanam</a> — объяснение нисхождения Силы — <em>3 строфы, 29 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch12/">Глава 12 — Snānaprakāśanam</a> — объяснение омовения — <em>3 строфы, 13 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch13/">Глава 13 — Samayidīkṣāprakāśanam</a> — объяснение посвящения в дисциплину — <em>7 строф, 96 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch14/">Глава 14 — Putrakadīkṣāprakāśanam</a> — объяснение посвящения в духовные сыновья — <em>4 строфы, 33 абзаца</em></li>
+<li><a href="/en/ksh/tantrasara/ch15/">Глава 15 — Sapratyayadīkṣāprakāśanam</a> — объяснение посвящения с убеждённостью — <em>3 строфы, 9 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch16/">Глава 16 — Parokṣadīkṣāprakāśanam</a> — объяснение посвящения отсутствующего — <em>6 строф, 24 абзаца</em></li>
+<li><a href="/en/ksh/tantrasara/ch17/">Глава 17 — Liṅgoddhāraḥ</a> — удаление метки, или знака — <em>3 строфы, 9 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch18/">Глава 18 — Abhiṣekaprakāśanam</a> — объяснение освящения — <em>3 строфы, 7 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch19/">Глава 19 — Śrāddhadīkṣāprakāśanam</a> — объяснение посвящения при поминовении умершего — <em>3 строфы, 10 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch20/">Глава 20 — Śeṣavartanaprakāśanam</a> — объяснение того, как жить дальше — <em>24 строфы, 65 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch21/">Глава 21 — Āgamaprāmāṇyaprakāśanam</a> — объяснение авторитетности писаний — <em>4 строфы, 10 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch22/">Глава 22 — Kulayāgaprakāśanam</a> — объяснение ритуала Kaula — <em>11 строф, 48 абзацев</em></li>
 </ul>
 
 ## Translator's introduction

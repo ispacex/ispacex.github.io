@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 10"
 lang: en
 search: false
-ru: /dance/ns-ch10/
+ru: /dance/ns-ch10
 ---
 
 # Nāṭyaśāstra, Chapter 10, positions of the parts of the body

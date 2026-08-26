@@ -76,10 +76,10 @@ and it cannot diverge from what lies on the page.
 
 Then, for the same reason the "Tantrasāra](/en/ksh/tantrasara/)" was transferred: [site search](/search/) searches the pages of this repository, not others. The text left at the link is not in the index at all — a query for "*bhakti*" or "*saṁvinmaya*" simply will not find the "Śivastotrāvalī", even though it is there.
 
-Moreover, neighboring pages refer to these hymns. In [«Tantrāloka» 13.290](/ksh/ta/ch13/#t13.290)
+Moreover, neighboring pages refer to these hymns. In [«Tantrāloka» 13.290](/en/ksh/ta/ch13/#t13.290)
 Abhinavagupta quotes in full the stanza 13.11 — the one where Utpaladeva asks the Lord
 why He delays the Revelation — and until now there was nowhere to refer to in response.
-Now every stanza has its own address: [/ksh/sv/ch13/#v13.11](/ksh/sv/ch13/#v13.11).
+Now every stanza has its own address: [/ksh/sv/ch13/#v13.11](/en/ksh/sv/ch13/#v13.11).
 
 ## How to read these pages
 
@@ -106,26 +106,26 @@ The number of stanzas in each hymn is not our count, but that declared in the in
 with the stanzas on the pages it matched to the last one.
 
 <ul class="pv-toc">
-<li><a href="/ksh/sv/ch1/">Hymn 1 — Bhaktivilāsākhyaṁ stotram</a> — the play of devotion — <em>26 verses, translated</em></li>
-<li><a href="/ksh/sv/ch2/">Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram</a> — contemplation of the Self of all — <em>29 verses, translated</em></li>
-<li><a href="/ksh/sv/ch3/">Hymn 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram</a> — grace in response to devotion — <em>21 verses, translated</em></li>
-<li><a href="/ksh/sv/ch4/">Hymn 4 — Surasodbalākhyaṁ caturthaṁ stotram</a> — strength from the sweet essence — <em>25 verses, translated</em></li>
-<li><a href="/ksh/sv/ch5/">Hymn 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram</a> — instruction on one's own strength — <em>26 verses, translated</em></li>
-<li><a href="/ksh/sv/ch6/">Hymn 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram</a> — striving on the path — <em>11 verses, translated</em></li>
-<li><a href="/ksh/sv/ch7/">Hymn 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram</a> — victory over the anguish of separation — <em>9 verses, translated</em></li>
-<li><a href="/ksh/sv/ch8/">Hymn 8 — Alaukikodbalanākhyamaṣṭamaṁ stotram</a> — unearthly strength — <em>13 verses, translated</em></li>
-<li><a href="/ksh/sv/ch9/">Hymn 9 — Svātantryavijayākhyaṁ navamaṁ stotram</a> — victory of Absolute Freedom — <em>20 verses, translated</em></li>
-<li><a href="/ksh/sv/ch10/">Hymn 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram</a> — the rupture of continuity — <em>26 verses, translated</em></li>
-<li><a href="/ksh/sv/ch11/">Hymn 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram</a> — longing and assurance — <em>15 verses, translated</em></li>
-<li><a href="/ksh/sv/ch12/">Hymn 12 — Rahasyanirdeśanāma dvādaśaṁ stotram</a> — instruction on the secret — <em>29 verses, translated</em></li>
-<li><a href="/ksh/sv/ch13/">Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram</a> — a hymn become a compendium — <em>20 verses, translated</em></li>
-<li><a href="/ksh/sv/ch14/">Hymn 14 — Jayastotranāma caturdaśaṁ stotram</a> — hymn of victory — <em>24 verses, translated</em></li>
-<li><a href="/ksh/sv/ch15/">Hymn 15 — Bhaktistotranāma pañcadaśaṁ stotram</a> — hymn of devotion — <em>19 verses, translated</em></li>
-<li><a href="/ksh/sv/ch16/">Hymn 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram</a> — the breaking of bonds — <em>30 verses, translated</em></li>
-<li><a href="/ksh/sv/ch17/">Hymn 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram</a> — the gift of divine Play — <em>48 verses, translated</em></li>
-<li><a href="/ksh/sv/ch18/">Hymn 18 — Āviṣkāranāmāṣṭādaśaṁ stotram</a> — revelation — <em>21 verses, translated</em></li>
-<li><a href="/ksh/sv/ch19/">Hymn 19 — Udyotanābhidhānamekonaviṁśaṁ stotram</a> — illumination — <em>17 verses, translated</em></li>
-<li><a href="/ksh/sv/ch20/">Hymn 20 — Carvarṇābhidhānaṁ viṁśaṁ stotram</a> — tasting — <em>21 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch1/">Hymn 1 — Bhaktivilāsākhyaṁ stotram</a> — the play of devotion — <em>26 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch2/">Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram</a> — contemplation of the Self of all — <em>29 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch3/">Hymn 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram</a> — grace in response to devotion — <em>21 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch4/">Hymn 4 — Surasodbalākhyaṁ caturthaṁ stotram</a> — strength from the sweet essence — <em>25 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch5/">Hymn 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram</a> — instruction on one's own strength — <em>26 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch6/">Hymn 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram</a> — striving on the path — <em>11 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch7/">Hymn 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram</a> — victory over the anguish of separation — <em>9 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch8/">Hymn 8 — Alaukikodbalanākhyamaṣṭamaṁ stotram</a> — unearthly strength — <em>13 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch9/">Hymn 9 — Svātantryavijayākhyaṁ navamaṁ stotram</a> — victory of Absolute Freedom — <em>20 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch10/">Hymn 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram</a> — the rupture of continuity — <em>26 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch11/">Hymn 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram</a> — longing and assurance — <em>15 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch12/">Hymn 12 — Rahasyanirdeśanāma dvādaśaṁ stotram</a> — instruction on the secret — <em>29 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch13/">Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram</a> — a hymn become a compendium — <em>20 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch14/">Hymn 14 — Jayastotranāma caturdaśaṁ stotram</a> — hymn of victory — <em>24 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch15/">Hymn 15 — Bhaktistotranāma pañcadaśaṁ stotram</a> — hymn of devotion — <em>19 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch16/">Hymn 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram</a> — the breaking of bonds — <em>30 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch17/">Hymn 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram</a> — the gift of divine Play — <em>48 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch18/">Hymn 18 — Āviṣkāranāmāṣṭādaśaṁ stotram</a> — revelation — <em>21 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch19/">Hymn 19 — Udyotanābhidhānamekonaviṁśaṁ stotram</a> — illumination — <em>17 verses, translated</em></li>
+<li><a href="/en/ksh/sv/ch20/">Hymn 20 — Carvarṇābhidhānaṁ viṁśaṁ stotram</a> — tasting — <em>21 verses, translated</em></li>
 </ul>
 
 ## What these hymns are about

@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 23"
 lang: en
 search: false
-ru: /dance/ns-ch23/
+ru: /dance/ns-ch23
 ---
 
 # Nāṭyaśāstra, Chapter 23, Costumes and Makeup (nepathya)

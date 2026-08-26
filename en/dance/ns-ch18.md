@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 18"
 lang: en
 search: false
-ru: /dance/ns-ch18/
+ru: /dance/ns-ch18
 ---
 
 # Nāṭyaśāstra, Chapter 18, Rules for the Use of Languages (bhāṣā)

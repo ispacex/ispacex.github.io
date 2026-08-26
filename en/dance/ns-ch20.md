@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 20"
 lang: en
 search: false
-ru: /dance/ns-ch20/
+ru: /dance/ns-ch20
 ---
 
 # Nāṭyaśāstra, Chapter 20, Ten kinds of drama

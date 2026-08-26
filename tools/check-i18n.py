@@ -35,6 +35,11 @@
    сколько таких, надо.
 5. **У каждой английской страницы есть русская.** Иначе перевод пережил
    страницу, которой больше нет.
+
+Страницы-заместители (те, у кого во front matter стоит `source:`) проверяются
+иначе, и по тому же правилу. Своего текста у них нет — сличать нечего; вся их
+работа держится на двух ссылках: на подлинник у источника и на русскую
+страницу, за которой читатель шёл. Их и проверяем.
 """
 import os
 import re
@@ -49,6 +54,9 @@ CYR = re.compile(r'[А-Яа-яЁё]')
 MARK = re.compile(r'\([A-Za-zĀ-ſḀ-ỿ\'\-\s.…|]+\)')
 ROW = re.compile(r'data-tts="([^"]+)"[^>]*>([^<]*)</td>')
 LINK = re.compile(r'\]\((?:/|https?://)[^)]*\)')
+SOURCE = re.compile(r'^source:\s*(\S+)\s*$', re.M)
+RU = re.compile(r'^ru:\s*(\S+)\s*$', re.M)
+TITLE = re.compile(r'^title:\s*"?(.*?)"?\s*$', re.M)
 BOLD = re.compile(r'\*\*')
 CELL = re.compile(r'</t[dh]>')
 
@@ -72,6 +80,7 @@ def main():
         return 1
 
     lost_pages, missing, tts_bad, mark_bad, mark_soft, markup_bad = [], [], [], [], [], []
+    stubs, stub_bad, stub_ru_title = [], [], []
     for en_rel, ru_path in rows:
         en_path = os.path.join(EN, en_rel)
         en = open(en_path, encoding='utf-8').read()
@@ -79,6 +88,24 @@ def main():
             missing.append(en_rel)
             continue
         ru = open(ru_path, encoding='utf-8').read()
+
+        # Страница-заместитель: текста нет, есть две ссылки, и обе обязаны быть
+        # на месте. Пропала ссылка на подлинник — страница стала тупиком;
+        # пропала ссылка на русскую — читатель, шедший за главой, её не найдёт.
+        src = SOURCE.search(en)
+        if src:
+            stubs.append(en_rel)
+            back = RU.search(en)
+            if src.group(1) not in en[src.end():]:
+                stub_bad.append((en_rel, 'нет ссылки на подлинник'))
+            if not back:
+                stub_bad.append((en_rel, 'нет обратного адреса'))
+            elif '](%s)' % back.group(1) not in en:
+                stub_bad.append((en_rel, 'нет ссылки на русскую страницу'))
+            t = TITLE.search(en[:en.index('---', 4)] if '---' in en[4:] else en)
+            if t and CYR.search(t.group(1)):
+                stub_ru_title.append((en_rel, t.group(1)))
+            continue
 
         # 1. Транслитерация: пара из перевода против пары из исходника.
         was = dict(ROW.findall(ru))
@@ -118,7 +145,16 @@ def main():
         if left:
             lost_pages.append((en_rel, len(left)))
 
-    print('страниц переведено: %d' % len(rows))
+    print('страниц переведено: %d, из них со ссылкой на подлинник: %d'
+          % (len(rows), len(stubs)))
+
+    print('\nу заместителя порвана ссылка: %d' % len(stub_bad))
+    for rel, why in stub_bad[:20]:
+        print('   %-34s %s' % (rel, why))
+
+    print('\nзаголовок заместителя остался русским: %d' % len(stub_ru_title))
+    for rel, t in stub_ru_title[:10]:
+        print('   %-34s %s' % (rel, t))
 
     print('\nбез русского исходника: %d' % len(missing))
     for x in missing:
@@ -147,7 +183,7 @@ def main():
     for rel, n in sorted(lost_pages, key=lambda x: -x[1])[:10]:
         print('   %-34s %d' % (rel, n))
 
-    bad = len(missing) + len(tts_bad) + len(mark_bad) + len(markup_bad)
+    bad = len(missing) + len(tts_bad) + len(mark_bad) + len(markup_bad) + len(stub_bad)
     print('\n%s' % ('расхождений нет' if not bad else 'расхождений: %d' % bad))
     return 1 if bad else 0
 

@@ -2,7 +2,7 @@
 title: "Institute of Inner Space Exploration"
 lang: en
 search: false
-ru: /index/
+ru: /
 ---
 
 

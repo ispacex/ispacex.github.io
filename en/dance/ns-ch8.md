@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 8"
 lang: en
 search: false
-ru: /dance/ns-ch8/
+ru: /dance/ns-ch8
 ---
 
 # Nāṭyaśāstra, Chapter 8, Facial Expression and Glances

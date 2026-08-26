@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 17"
 lang: en
 search: false
-ru: /dance/ns-ch17/
+ru: /dance/ns-ch17
 ---
 
 # Nāṭyaśāstra, Chapter 17, The Language of the Play (lakṣaṇa)

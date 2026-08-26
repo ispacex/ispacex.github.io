@@ -1,7 +1,7 @@
 ---
 lang: en
 search: false
-ru: /CLAUDE/
+ru: /CLAUDE
 ---
 
 # CLAUDE.md

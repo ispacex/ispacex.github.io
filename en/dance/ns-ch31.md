@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 31"
 lang: en
 search: false
-ru: /dance/ns-ch31/
+ru: /dance/ns-ch31
 ---
 
 # Nāṭyaśāstra, Chapter 31, On the measure of time (tāla)

@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 16"
 lang: en
 search: false
-ru: /dance/ns-ch16/
+ru: /dance/ns-ch16
 ---
 
 # Nāṭyaśāstra, Chapter 16, Metrical Patterns (chandas)

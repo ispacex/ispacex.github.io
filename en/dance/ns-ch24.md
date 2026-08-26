@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 24"
 lang: en
 search: false
-ru: /dance/ns-ch24/
+ru: /dance/ns-ch24
 ---
 
 # Nāṭyaśāstra, Chapter 24, Harmonious representation (sāmānyābhinaya)

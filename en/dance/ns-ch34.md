@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 34"
 lang: en
 search: false
-ru: /dance/ns-ch34/
+ru: /dance/ns-ch34
 ---
 
 # Nāṭyaśāstra, Chapter 34, Types of Characters (prakṛti)

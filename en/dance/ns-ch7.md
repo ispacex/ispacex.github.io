@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 7"
 lang: en
 search: false
-ru: /dance/ns-ch7/
+ru: /dance/ns-ch7
 ---
 
 # Nāṭyaśāstra, Chapter 7, Bhāva (emotions)

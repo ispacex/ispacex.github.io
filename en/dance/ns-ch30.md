@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 30"
 lang: en
 search: false
-ru: /dance/ns-ch30/
+ru: /dance/ns-ch30
 ---
 
 # Nāṭyaśāstra, Chapter 30, On Hollow Instruments (suṣira)

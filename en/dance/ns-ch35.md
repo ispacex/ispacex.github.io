@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 35"
 lang: en
 search: false
-ru: /dance/ns-ch35/
+ru: /dance/ns-ch35
 ---
 
 # Nāṭyaśāstra, Chapter 35, On the Distribution of Roles (bhūmikā)

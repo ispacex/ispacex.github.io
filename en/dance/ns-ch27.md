@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 27"
 lang: en
 search: false
-ru: /dance/ns-ch27/
+ru: /dance/ns-ch27
 ---
 
 # Nāṭyaśāstra, Chapter 27, Success in Dramatic Production (siddhi)

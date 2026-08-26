@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 29"
 lang: en
 search: false
-ru: /dance/ns-ch29/
+ru: /dance/ns-ch29
 ---
 
 # Nāṭyaśāstra, Chapter 29, On stringed instruments (tata)

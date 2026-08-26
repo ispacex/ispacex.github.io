@@ -42,43 +42,43 @@ search</a>, along with everything else.</em></p>
 
 | № | Chapter | Verses | What's here | At the source |
 |---:|---|---:|---|---|
-| [1](/ksh/ta/ch1/) | [Vijñānabhit](/ksh/ta/ch1/) | 332 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/582) |
-| [2](/ksh/ta/ch2/) | [Gatopāyaḥ](/ksh/ta/ch2/) | 50 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/857) |
-| [3](/ksh/ta/ch3/) | [Paropāyaḥ](/ksh/ta/ch3/) | 294 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/858) |
-| [4](/ksh/ta/ch4/) | [Śāktopāyaḥ](/ksh/ta/ch4/) | 279 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/860) |
-| [5](/ksh/ta/ch5/) | [Naropāyaḥ](/ksh/ta/ch5/) | 159 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/862) |
-| [6](/ksh/ta/ch6/) | [Kālopāyaḥ](/ksh/ta/ch6/) | 252 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/863) |
-| [7](/ksh/ta/ch7/) | [Cakrodayaḥ](/ksh/ta/ch7/) | 71 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/865) |
-| [8](/ksh/ta/ch8/) | [Deśādhvā](/ksh/ta/ch8/) | 452 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/866) |
-| [9](/ksh/ta/ch9/) | [Tattvādhvā](/ksh/ta/ch9/) | 314 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/869) |
-| [10](/ksh/ta/ch10/) | [Tattvabhedanam](/ksh/ta/ch10/) | 309 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/871) |
-| [11](/ksh/ta/ch11/) | [Kalādyadhvā](/ksh/ta/ch11/) | 118 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/873) |
-| [12](/ksh/ta/ch12/) | [Adhvopayogaḥ](/ksh/ta/ch12/) | 25 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/874) |
-| [13](/ksh/ta/ch13/) | [Śaktipātatirohitī](/ksh/ta/ch13/) | 361 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/875) |
-| [14](/ksh/ta/ch14/) | [Dīkṣopakramaṇam](/ksh/ta/ch14/) | 46 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/878) |
-| [15](/ksh/ta/ch15/) | [Dīkṣā sāmayī](/ksh/ta/ch15/) | 615 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/879) |
-| [16](/ksh/ta/ch16/) | [Pautrikavidhiḥ](/ksh/ta/ch16/) | 311 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/883) |
-| [17](/ksh/ta/ch17/) | [Prameyaprakriyā](/ksh/ta/ch17/) | 122 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/885) |
-| [18](/ksh/ta/ch18/) | [Sūkṣmā dīkṣā](/ksh/ta/ch18/) | 11 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/886) |
-| [19](/ksh/ta/ch19/) | [Sadyaḥsamutkrama](/ksh/ta/ch19/) | 56 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/887) |
-| [20](/ksh/ta/ch20/) | [Tulādīkṣā](/ksh/ta/ch20/) | 15 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/888) |
-| [21](/ksh/ta/ch21/) | [Pārokṣī](/ksh/ta/ch21/) | 61 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/889) |
-| [22](/ksh/ta/ch22/) | [Liṅgoddhāraḥ](/ksh/ta/ch22/) | 48 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/890) |
-| [23](/ksh/ta/ch23/) | [Abhiṣecanam](/ksh/ta/ch23/) | 103 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/891) |
-| [24](/ksh/ta/ch24/) | [Antyeṣṭiḥ](/ksh/ta/ch24/) | 24 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/892) |
-| [25](/ksh/ta/ch25/) | [Śrāddhakḷptiḥ](/ksh/ta/ch25/) | 29 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/893) |
-| [26](/ksh/ta/ch26/) | [Śeṣavṛttinirūpaṇam](/ksh/ta/ch26/) | 76 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/894) |
-| [27](/ksh/ta/ch27/) | [Liṅgārcā](/ksh/ta/ch27/) | 59 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/895) |
-| [28](/ksh/ta/ch28/) | [Bahubhitparvapavitrādi nimittajam](/ksh/ta/ch28/) | 434 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/896) |
-| [29](/ksh/ta/ch29/) | [Rahasyacaryā](/ksh/ta/ch29/) | 291 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/899) |
-| [30](/ksh/ta/ch30/) | [Mantraughaḥ](/ksh/ta/ch30/) | 123 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/901) |
-| [31](/ksh/ta/ch31/) | [Maṇḍalam](/ksh/ta/ch31/) | 163 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/902) |
-| [32](/ksh/ta/ch32/) | [Mudrikāvidhiḥ](/ksh/ta/ch32/) | 67 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/903) |
-| [33](/ksh/ta/ch33/) | [Ekīkāraḥ](/ksh/ta/ch33/) | 32 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/904) |
-| [34](/ksh/ta/ch34/) | [Svasvarūpe praveśaḥ](/ksh/ta/ch34/) | 3 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/905) |
-| [35](/ksh/ta/ch35/) | [Śāstramelanam](/ksh/ta/ch35/) | 44 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/906) |
-| [36](/ksh/ta/ch36/) | [Āyātikathanam](/ksh/ta/ch36/) | 15 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/907) |
-| [37](/ksh/ta/ch37/) | [Śāstropādeyatvanirūpaṇam](/ksh/ta/ch37/) | 85 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/908) |
+| [1](/en/ksh/ta/ch1/) | [Vijñānabhit](/en/ksh/ta/ch1/) | 332 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/582) |
+| [2](/en/ksh/ta/ch2/) | [Gatopāyaḥ](/en/ksh/ta/ch2/) | 50 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/857) |
+| [3](/en/ksh/ta/ch3/) | [Paropāyaḥ](/en/ksh/ta/ch3/) | 294 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/858) |
+| [4](/en/ksh/ta/ch4/) | [Śāktopāyaḥ](/en/ksh/ta/ch4/) | 279 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/860) |
+| [5](/en/ksh/ta/ch5/) | [Naropāyaḥ](/en/ksh/ta/ch5/) | 159 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/862) |
+| [6](/en/ksh/ta/ch6/) | [Kālopāyaḥ](/en/ksh/ta/ch6/) | 252 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/863) |
+| [7](/en/ksh/ta/ch7/) | [Cakrodayaḥ](/en/ksh/ta/ch7/) | 71 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/865) |
+| [8](/en/ksh/ta/ch8/) | [Deśādhvā](/en/ksh/ta/ch8/) | 452 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/866) |
+| [9](/en/ksh/ta/ch9/) | [Tattvādhvā](/en/ksh/ta/ch9/) | 314 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/869) |
+| [10](/en/ksh/ta/ch10/) | [Tattvabhedanam](/en/ksh/ta/ch10/) | 309 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/871) |
+| [11](/en/ksh/ta/ch11/) | [Kalādyadhvā](/en/ksh/ta/ch11/) | 118 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/873) |
+| [12](/en/ksh/ta/ch12/) | [Adhvopayogaḥ](/en/ksh/ta/ch12/) | 25 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/874) |
+| [13](/en/ksh/ta/ch13/) | [Śaktipātatirohitī](/en/ksh/ta/ch13/) | 361 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/875) |
+| [14](/en/ksh/ta/ch14/) | [Dīkṣopakramaṇam](/en/ksh/ta/ch14/) | 46 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/878) |
+| [15](/en/ksh/ta/ch15/) | [Dīkṣā sāmayī](/en/ksh/ta/ch15/) | 615 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/879) |
+| [16](/en/ksh/ta/ch16/) | [Pautrikavidhiḥ](/en/ksh/ta/ch16/) | 311 | Devanagari, IAST, Russian | [Russian](https://www.sanskrit-trikashaivism.com/ru/node/883) |
+| [17](/en/ksh/ta/ch17/) | [Prameyaprakriyā](/en/ksh/ta/ch17/) | 122 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/885) |
+| [18](/en/ksh/ta/ch18/) | [Sūkṣmā dīkṣā](/en/ksh/ta/ch18/) | 11 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/886) |
+| [19](/en/ksh/ta/ch19/) | [Sadyaḥsamutkrama](/en/ksh/ta/ch19/) | 56 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/887) |
+| [20](/en/ksh/ta/ch20/) | [Tulādīkṣā](/en/ksh/ta/ch20/) | 15 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/888) |
+| [21](/en/ksh/ta/ch21/) | [Pārokṣī](/en/ksh/ta/ch21/) | 61 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/889) |
+| [22](/en/ksh/ta/ch22/) | [Liṅgoddhāraḥ](/en/ksh/ta/ch22/) | 48 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/890) |
+| [23](/en/ksh/ta/ch23/) | [Abhiṣecanam](/en/ksh/ta/ch23/) | 103 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/891) |
+| [24](/en/ksh/ta/ch24/) | [Antyeṣṭiḥ](/en/ksh/ta/ch24/) | 24 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/892) |
+| [25](/en/ksh/ta/ch25/) | [Śrāddhakḷptiḥ](/en/ksh/ta/ch25/) | 29 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/893) |
+| [26](/en/ksh/ta/ch26/) | [Śeṣavṛttinirūpaṇam](/en/ksh/ta/ch26/) | 76 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/894) |
+| [27](/en/ksh/ta/ch27/) | [Liṅgārcā](/en/ksh/ta/ch27/) | 59 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/895) |
+| [28](/en/ksh/ta/ch28/) | [Bahubhitparvapavitrādi nimittajam](/en/ksh/ta/ch28/) | 434 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/896) |
+| [29](/en/ksh/ta/ch29/) | [Rahasyacaryā](/en/ksh/ta/ch29/) | 291 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/899) |
+| [30](/en/ksh/ta/ch30/) | [Mantraughaḥ](/en/ksh/ta/ch30/) | 123 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/901) |
+| [31](/en/ksh/ta/ch31/) | [Maṇḍalam](/en/ksh/ta/ch31/) | 163 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/902) |
+| [32](/en/ksh/ta/ch32/) | [Mudrikāvidhiḥ](/en/ksh/ta/ch32/) | 67 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/903) |
+| [33](/en/ksh/ta/ch33/) | [Ekīkāraḥ](/en/ksh/ta/ch33/) | 32 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/904) |
+| [34](/en/ksh/ta/ch34/) | [Svasvarūpe praveśaḥ](/en/ksh/ta/ch34/) | 3 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/905) |
+| [35](/en/ksh/ta/ch35/) | [Śāstramelanam](/en/ksh/ta/ch35/) | 44 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/906) |
+| [36](/en/ksh/ta/ch36/) | [Āyātikathanam](/en/ksh/ta/ch36/) | 15 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/907) |
+| [37](/en/ksh/ta/ch37/) | [Śāstropādeyatvanirūpaṇam](/en/ksh/ta/ch37/) | 85 | IAST | [English](https://www.sanskrit-trikashaivism.com/en/node/908) |
 
 ## How to read these pages
 

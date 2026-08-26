@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 37"
 lang: en
 search: false
-ru: /dance/ns-ch37/
+ru: /dance/ns-ch37
 ---
 
 # Nāṭyaśāstra, Chapter 37, The Story of King Nahuṣa

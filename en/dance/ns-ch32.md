@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 32"
 lang: en
 search: false
-ru: /dance/ns-ch32/
+ru: /dance/ns-ch32
 ---
 
 # Nāṭyaśāstra, Chapter 32, On Dhruvā Songs

@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 2"
 lang: en
 search: false
-ru: /dance/ns-ch2/
+ru: /dance/ns-ch2
 ---
 
 # Nāṭyaśāstra, Chapter 2, characteristics of the playhouse

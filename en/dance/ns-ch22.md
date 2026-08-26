@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 22"
 lang: en
 search: false
-ru: /dance/ns-ch22/
+ru: /dance/ns-ch22
 ---
 
 # Nāṭyaśāstra, Chapter 22, Styles (vṛtti)

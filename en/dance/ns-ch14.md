@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 14"
 lang: en
 search: false
-ru: /dance/ns-ch14/
+ru: /dance/ns-ch14
 ---
 
 # Nāṭyaśāstra, Chapter 14, Zones (kakṣyā) and local customs (pravṛtti)

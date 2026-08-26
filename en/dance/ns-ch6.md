@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 6"
 lang: en
 search: false
-ru: /dance/ns-ch6/
+ru: /dance/ns-ch6
 ---
 
 # Nāṭyaśāstra, Chapter 6, Rasa
@@ -59,7 +59,7 @@ So, the sixth chapter of **Nāṭyaśāstra** by Bharata:
 
 18/ **Despair, emptiness, suspicion,** also **envy, intoxication** and **fatigue, laziness** and **dejection,** **preoccupation** and **fainting,** **recollection** and **contentment,**
 
-** **19/** shame, irascibility, joy **and **confusion, **as well as **stupidity, pride,** **disappointment, languor, drowsiness and obsession,
+** **19/** стыд, вспыльчивость, радость **и **смятение, **а также **глупость, гордость,** **разочарованность, томление, сонливость и одержимость,**
 
 20/ **sleep, awakening** and **irritation**, as well as **deception** and **punishment**, **prudence, illness, madness** and **dying,**
 
@@ -193,7 +193,7 @@ Now two ślokas, handed down from ancient times in the *āryā* meter:
 
 49/ With improperly worn ornaments, walking incorrectly, saying the wrong thing, dressed inappropriately, awkward and laughing at oneself — thus is traditionally presented the ***rasa* of Laughter**.
 
-50/ When someone makes another person laugh with absurd mannerisms, grimaces, and a strange costume—this too is known as *rasa **Laughter.***
+ 50/ Когда нелепыми повадками, гримасами и чудным костюмом некто смешит другого человека - это тоже известно как *раса ****Смех.***
 
 51/ This feeling is most often shown by female and low characters. It has six degrees, which I will now describe.
 
@@ -273,7 +273,7 @@ Here are the ślokas in the *āryā* meter:
 
 72/ **Fear** is always depicted with a parched throat, palate, and lips, with trembling in the heart, a numbed body, and shivering in the hands and feet.
 
-Further, the *rasa* of **Disgust**, whose essence, its *sthāyibhāva*, is **aversion**. It is excited by the following *vibhāva* — mention, sight, or hearing of something ugly, displeasing, unclean, and unpleasant. It should be performed with such *anubhāva* as vomiting when depicting a corpse, a decaying body, or a wounded face. And its *bhāva* are these: the desire to forget, irritation, confusion, fainting, illness, death.
+   Далее *раса ****Отвращение***, сущность которого, его *стхаибхава* – **омерзение**. Оно возбуждается следующими *вибхава* - упомининие, видение или слышание чего-нибудь некрасивого, не нравящегося, неопрятного и неприятного. Оно должно быть исполнено с такими *анубхава*, как рвота при изображении мертвечины, разлагающегося тела или израненного лица. А его *бхава* таковы: стремление забыть, раздражение, смущение, обморок, заболевание, смерть.
 
 Here are the original lines in the *āryā* meter:
 

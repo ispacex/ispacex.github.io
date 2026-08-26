@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 33"
 lang: en
 search: false
-ru: /dance/ns-ch33/
+ru: /dance/ns-ch33
 ---
 
 # Nāṭyaśāstra, Chapter 33, On Covered Instruments (avanaddha)

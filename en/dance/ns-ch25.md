@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 25"
 lang: en
 search: false
-ru: /dance/ns-ch25/
+ru: /dance/ns-ch25
 ---
 
 # Nāṭyaśāstra, Chapter 25, On the Treatment of Courtesans (vaiśika)

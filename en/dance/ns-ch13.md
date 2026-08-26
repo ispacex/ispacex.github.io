@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 13"
 lang: en
 search: false
-ru: /dance/ns-ch13/
+ru: /dance/ns-ch13
 ---
 
 # Nāṭyaśāstra, Chapter 13, various gaits

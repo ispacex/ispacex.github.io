@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 19"
 lang: en
 search: false
-ru: /dance/ns-ch19/
+ru: /dance/ns-ch19
 ---
 
 # Nāṭyaśāstra, Chapter 19, Forms of address and intonation

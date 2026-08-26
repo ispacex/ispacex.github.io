@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 21"
 lang: en
 search: false
-ru: /dance/ns-ch21/
+ru: /dance/ns-ch21
 ---
 
 # Nāṭyaśāstra, Chapter 21, Members of the Parts (sandhi)

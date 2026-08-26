@@ -18,7 +18,7 @@ ru: /ksh/sv/ch14/
 <span class="pv-sa pv-src" lang="sa">जयोद्घोषणपीयूषरसमास्वादये क्षणम्॥१४.१॥</span><br />
 <span class="pv-iast">Jayodghoṣaṇapīyūṣarasamāsvādaye kṣaṇam||14.1||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Before<rp> (</rp><rt>puraḥ</rt><rp>)</rp></ruby> <ruby>the own<rp> (</rp><rt>nijasya</rt><rp>)</rp></ruby> <ruby>Lord<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-svamin" class="pv-gl">svāminaḥ</a></rt><rp>)</rp></ruby>, <ruby>the treasury of Śrī victory<rp> (</rp><rt>jaya-lakṣmī-nidhānasya</rt><rp>)</rp></ruby>, <ruby>may I taste<rp> (</rp><rt>āsvādaye</rt><rp>)</rp></ruby> <ruby>even a moment<rp> (</rp><rt>kṣaṇam</rt><rp>)</rp></ruby> <ruby>the nectarous juice of the proclamation of victory<rp> (</rp><rt>jaya-udghoṣaṇa-pīyūṣa-rasam</rt><rp>)</rp></ruby>||14.1||</p>
+<p class="pv-tr" markdown="1"><ruby>Before<rp> (</rp><rt>puraḥ</rt><rp>)</rp></ruby> <ruby>the own<rp> (</rp><rt>nijasya</rt><rp>)</rp></ruby> <ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-svamin" class="pv-gl">svāminaḥ</a></rt><rp>)</rp></ruby>, <ruby>the treasury of Śrī victory<rp> (</rp><rt>jaya-lakṣmī-nidhānasya</rt><rp>)</rp></ruby>, <ruby>may I taste<rp> (</rp><rt>āsvādaye</rt><rp>)</rp></ruby> <ruby>even a moment<rp> (</rp><rt>kṣaṇam</rt><rp>)</rp></ruby> <ruby>the nectarous juice of the proclamation of victory<rp> (</rp><rt>jaya-udghoṣaṇa-pīyūṣa-rasam</rt><rp>)</rp></ruby>||14.1||</p>
 
 <hr class="pv-rule" />
 

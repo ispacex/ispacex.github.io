@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 26"
 lang: en
 search: false
-ru: /dance/ns-ch26/
+ru: /dance/ns-ch26
 ---
 
 # Nāṭyaśāstra, Chapter 26, Pictorial Representation (citrābhinaya)

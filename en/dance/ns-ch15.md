@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 15"
 lang: en
 search: false
-ru: /dance/ns-ch15/
+ru: /dance/ns-ch15
 ---
 
 # Nāṭyaśāstra, Chapter 15, Verbal representation (vācika) and prosody (chandahśāstra)

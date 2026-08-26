@@ -70,20 +70,20 @@ Abhinavagupta comments on the verses of the *Parātriśikā* in sequence; the tr
 and the same division is preserved here.
 
 <ul class="pv-toc">
-<li><a href="/ksh/pv/s1-2-1/">Stanzas 1–2, part 1</a> — five introductory stanzas of Abhinavagupta and the beginning of the commentary on stanza 1 — <em>translated</em></li>
-<li><a href="/ksh/pv/s1-2-2/">Stanzas 1–2, part 2</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s1-2-3/">Stanzas 1–2, part 3</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s1-2-4/">Stanzas 1–2, part 4</a> — end of stanza 1, stanza 1½ and stanza 2 — <em>translated</em></li>
-<li><a href="/ksh/pv/s3-4-1/">Stanzas 3–4, part 1</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s3-4-2/">Stanzas 3–4, part 2</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s3-4-3/">Stanzas 3–4, part 3</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s3-4-4/">Stanzas 3–4, part 4</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s5-8-1/">Stanzas 5–8, part 1</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s5-8-2/">Stanzas 5–8, part 2</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s5-8-3/">Stanzas 5–8, part 3</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s5-8-4/">Stanzas 5–8, part 4</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s5-8-5/">Stanzas 5–8, part 5</a> — <em>translated</em></li>
-<li><a href="/ksh/pv/s5-8-6/">Stanzas 5–8, part 6</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s1-2-1/">Stanzas 1–2, part 1</a> — five introductory stanzas of Abhinavagupta and the beginning of the commentary on stanza 1 — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s1-2-2/">Stanzas 1–2, part 2</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s1-2-3/">Stanzas 1–2, part 3</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s1-2-4/">Stanzas 1–2, part 4</a> — end of stanza 1, stanza 1½ and stanza 2 — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s3-4-1/">Stanzas 3–4, part 1</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s3-4-2/">Stanzas 3–4, part 2</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s3-4-3/">Stanzas 3–4, part 3</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s3-4-4/">Stanzas 3–4, part 4</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s5-8-1/">Stanzas 5–8, part 1</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s5-8-2/">Stanzas 5–8, part 2</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s5-8-3/">Stanzas 5–8, part 3</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s5-8-4/">Stanzas 5–8, part 4</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s5-8-5/">Stanzas 5–8, part 5</a> — <em>translated</em></li>
+<li><a href="/en/ksh/pv/s5-8-6/">Stanzas 5–8, part 6</a> — <em>translated</em></li>
 </ul>
 
 All fourteen parts are translated in full. As for the following stanzas 5–8, the translation from the source has not yet been published: stanzas 9–18, 19–37, and the twenty concluding praise stanzas of Abhinavagupta are listed in his table of contents, but there are no references to them.

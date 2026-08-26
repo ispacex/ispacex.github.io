@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 1"
 lang: en
 search: false
-ru: /dance/ns-ch1/
+ru: /dance/ns-ch1
 ---
 
 # Nāṭyaśāstra, Chapter 1

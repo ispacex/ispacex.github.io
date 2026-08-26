@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 36"
 lang: en
 search: false
-ru: /dance/ns-ch36/
+ru: /dance/ns-ch36
 ---
 
 # Nāṭyaśāstra, Chapter 36, On the descent of drama to earth

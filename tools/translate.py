@@ -17,7 +17,11 @@
 
 Гнать это машиной обратно в английский значит выдать третье колено пересказа
 вместо его собственного текста, который на одну ссылку дальше. Такие страницы
-получают не перевод, а строку со ссылкой на источник (см. `SOURCE`).
+получают не перевод, а страницу со ссылкой на подлинник (см. `SECTION`,
+`source()` и `stub()`).
+
+Ссылка при этом **не сочиняется**: она уже стоит на каждой такой странице, и
+здесь у неё меняется только язык.
 
 Śivastotrāvalī — исключение и переводится: её русский сделан прямо с санскрита,
 и по-английски её нет нигде. Но живёт она в `ru/*.json`, поэтому переводится не
@@ -82,15 +86,57 @@ LANG = 'English'
 CODE = 'en'
 
 # Разделы, чей русский сам перевод. Их страницы не переводятся; вместо этого
-# на них стоит ссылка на источник.
-SOURCE = {
-    'ksh/pv/': 'https://www.sanskrit-trikashaivism.com/en/node/793',
-    'ksh/ta/': 'https://www.sanskrit-trikashaivism.com/en/node/581',
-    'ksh/tantrasara/': 'https://www.sanskrit-trikashaivism.com/en/'
-                       'tantrasara-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/919',
-    'ksh/ph/': 'https://www.sanskrit-trikashaivism.com/en/'
-               'pratyabhijnahrdayam-commentary-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/543',
+# каждая получает свою английскую страницу со ссылкой на подлинник.
+#
+# `name` — имя раздела: оно в IAST и одинаково на обоих языках. `home` — весь
+# раздел у источника. `made` — чей русский лежит на этих страницах: `his` —
+# собственный русский Габриэля, перенесённый без изменений; `here` — сделанный
+# для этого сайта с его английского. Разница видна читателю и потому написана
+# на странице разными словами.
+#
+# Адреса заглавных сверены по заголовку страницы у источника, а не выписаны на
+# глаз: выписанный на глаз уже был неверен — у Parātrīśikāvivaraṇa здесь стоял
+# узел 793, а это «строфы 1–2, часть 4», а не введение.
+SECTION = {
+    'ksh/pv/': ('Parātrīśikāvivaraṇa',
+                'https://www.sanskrit-trikashaivism.com/en/node/540', 'here'),
+    'ksh/ta/': ('Tantrāloka',
+                'https://www.sanskrit-trikashaivism.com/en/node/581', 'his'),
+    'ksh/tantrasara/': ('Tantrasāra',
+                        'https://www.sanskrit-trikashaivism.com/en/node/919', 'his'),
+    'ksh/ph/': ('Pratyabhijñāhṛdayam',
+                'https://www.sanskrit-trikashaivism.com/en/node/543', 'here'),
 }
+
+# Ссылка на подлинник не сочиняется. Она уже стоит на каждой из этих страниц —
+# в хлебных крошках («Эта часть у источника») или в подписи под текстом, — и
+# берётся оттуда; здесь у неё меняется только язык.
+#
+# Так можно потому, что узел у Габриэля **один на оба языка**: `/ru/node/869` и
+# `/en/node/869` — две версии одной и той же девятой главы. Значит перевод
+# адреса не может привести не на ту страницу. Считать адрес по номеру главы,
+# наоборот, нельзя: номера узлов идут с пропусками (869, 871, 873, 878…), и
+# арифметика попала бы в соседний текст, ничем не выдав ошибки.
+SRC = re.compile(r'https://www\.sanskrit-trikashaivism\.com/(ru|en)/(?:[^)"\s]+/)?(\d+)(#[^)"\s]*)?')
+
+
+def source(text):
+    """Английский подлинник этой страницы у Габриэля. Ссылки нет — None."""
+    m = SRC.search(text)
+    if not m:
+        return None
+    lang, node, frag = m.groups()
+    if lang == 'en':
+        return m.group(0)
+    return 'https://www.sanskrit-trikashaivism.com/en/node/%s%s' % (node, frag or '')
+
+
+def section(rel):
+    """(префикс раздела, имя, заглавная у источника, чей русский)."""
+    for pref, row in SECTION.items():
+        if rel.startswith(pref):
+            return (pref,) + row
+    return None, None, None, None
 
 # Страницы этих разделов — сам перенесённый перевод. Заглавная страница раздела
 # и словарь написаны здесь и переводятся.
@@ -108,10 +154,19 @@ FM = re.compile(r'\A---\n(.*?)\n---\n', re.S)
 TITLE = re.compile(r'^title:\s*"?(.*?)"?\s*$', re.M)
 FENCE = re.compile(r'\A```')
 LINK = re.compile(r'\]\((/[^)]*)\)')
+# Ссылка бывает и разметкой Markdown, и готовым тегом: перечни глав на
+# заглавных страницах разделов написаны прямо на HTML. Пока правилось только
+# первое, английская страница «Pratyabhijñāhṛdayam» уводила читателя в русские
+# афоризмы, хотя английские двойники у них были.
+HREF = re.compile(r'href="(/[^"]*)"')
 
 
 def pages():
-    """Страницы сайта: (путь, переводить ли, почему нет)."""
+    """Страницы сайта: (путь, что с ней делать, пояснение).
+
+    Три состояния, а не два: `ours` — перевести, `source` — не переводить, а
+    поставить ссылку на подлинник, `no` — не трогать вовсе.
+    """
     out = []
     for base, dirs, files in os.walk(ROOT):
         dirs[:] = [d for d in dirs if not d.startswith('.')]
@@ -123,12 +178,22 @@ def pages():
                 continue
             text = open(os.path.join(ROOT, rel), encoding='utf-8').read()
             if not CYR.search(text):
-                out.append((rel, False, 'не по-русски'))
+                out.append((rel, 'no', 'не по-русски'))
             elif rel.startswith(ROUND):
-                out.append((rel, False, 'сама перевод'))
+                out.append((rel, 'source', 'сама перевод — ссылка на подлинник'))
             else:
-                out.append((rel, True, ''))
+                out.append((rel, 'ours', ''))
     return out
+
+
+def title_of(rel):
+    """Заголовок страницы из front matter. Нет — None."""
+    src = open(os.path.join(ROOT, rel), encoding='utf-8').read()
+    m = FM.match(src)
+    if not m:
+        return None
+    t = TITLE.search(m.group(1))
+    return t.group(1) if t else None
 
 
 def twin(rel):
@@ -145,11 +210,17 @@ def blocks(body):
 
 
 def relink(text, have):
-    """Ссылки внутрь сайта — на английские двойники, где они есть."""
-    def one(m):
-        url = m.group(1)
-        return '](%s)' % ('/en' + url if url in have else url)
-    return LINK.sub(one, text)
+    """Ссылки внутрь сайта — на английские двойники, где они есть.
+
+    Якорь отделяется и возвращается на место: `/ksh/ta/ch9/#v9.5` — та же
+    страница, что `/ksh/ta/ch9/`, и без этого она бы не узналась.
+    """
+    def swap(url):
+        base, sep, frag = url.partition('#')
+        return ('/en' + base + sep + frag) if base in have else url
+
+    text = LINK.sub(lambda m: '](%s)' % swap(m.group(1)), text)
+    return HREF.sub(lambda m: 'href="%s"' % swap(m.group(1)), text)
 
 
 def wanted(rel):
@@ -250,6 +321,13 @@ def do(rel, cache, stats, dry=False):
         if got is not None and mixed(got) and not mixed(b):
             stats['mixed'] = stats.get('mixed', 0) + 1
             got = None
+        # Непарная звёздочка не портит абзац — она портит **всё, что ниже**:
+        # полужирное начинается и не кончается до конца страницы. Сличается
+        # чётность до и после, а не сама чётность: кое-где звёздочка непарна и
+        # по-русски, и перевод там ни при чём.
+        if got is not None and got.count('**') % 2 != b.count('**') % 2:
+            stats['bold'] = stats.get('bold', 0) + 1
+            got = None
         done.append(got if got is not None else b)
     return en_title, '\n\n'.join(done)
 
@@ -274,10 +352,62 @@ def write(rel, en_title, body, have):
     # языку читателя. Оно делается в общем движке поиска (`sitesearch`), и как
     # только доедет — эту строку надо снять, а не оставить навсегда.
     head += 'search: false\n'
-    # Обратный путь. Стоит первой строкой, чтобы читатель, попавший сюда из
-    # поиска, сразу видел, что оригинал русский и он рядом.
-    head += 'ru: %s\n---\n\n' % ('/' + rel[:-len('.md')].removesuffix('/index') + '/').replace('//', '/')
+    # Обратный путь. Считается тем же `twin()`, что и путь туда, — своя
+    # арифметика здесь однажды уже соврала: `index.md` она обращала в
+    # «/index/», и переключатель с английской главной вёл в 404. Адрес
+    # страницы и адрес её двойника — одно знание, и живёт оно в одном месте.
+    head += 'ru: %s\n---\n\n' % twin(rel)[len('/en'):]
     open(dest, 'w', encoding='utf-8').write(head + relink(body, have).rstrip() + '\n')
+
+
+# Что стоит на английской странице вместо перевода. Текста два, потому что
+# происхождение русского разное, и читателю эта разница важна: в одном случае
+# русское здесь — работа Габриэля, в другом — наша работа по его английскому.
+WHOSE = {
+    'his': ("The Russian on this page is **Gabriel Pradīpaka's own translation**, kept "
+            "here unchanged so that a stanza can be found by any word in it. Rather than "
+            "run his work through a machine and back into English, here is his own English:"),
+    'here': ("The Russian on this page was made **for this site, out of Gabriel Pradīpaka's "
+             "English**. Translating it back would hand you a third-hand retelling of a text "
+             "whose original is one link away:"),
+}
+
+
+def stub(rel, en_title):
+    """Английская страница взамен непереведённой: чей текст и куда за подлинником.
+
+    Ссылка ведёт **на эту же часть**, а не на раздел вообще: она взята с самой
+    страницы (`source()`), и заглавная раздела остаётся лишь на случай, когда
+    ссылки на странице почему-то нет.
+    """
+    pref, name, home, whose = section(rel)
+    text = open(os.path.join(ROOT, rel), encoding='utf-8').read()
+    src = source(text) or home
+    ru_url = twin(rel)[len('/en'):]
+    en_home = '/en/' + pref
+    head = ('---\n'
+            'title: "%s"\n'
+            'lang: en\n'
+            # Своего текста у такой страницы нет — искать в ней нечего.
+            'search: false\n'
+            'source: %s\n'
+            'ru: %s\n'
+            '---\n\n') % ((en_title or name).replace('"', "'"), src, ru_url)
+    body = (
+        '<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · '
+        '[%(name)s](%(home)s) · [Glossary](%(home)sglossary/)</p>\n\n'
+        '# %(title)s\n\n'
+        '> **Not translated here, and on purpose.** %(whose)s\n'
+        '>\n'
+        '> **[Read this part in the author\'s own English](%(src)s)**\n'
+        '>\n'
+        '> The Russian page you were heading for is [still here](%(ru)s) — the Sanskrit '
+        'on it is the same Sanskrit.\n'
+    ) % {'name': name, 'home': en_home, 'title': en_title or name,
+         'whose': WHOSE[whose], 'src': src, 'ru': ru_url}
+    dest = os.path.join(OUT, rel)
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    open(dest, 'w', encoding='utf-8').write(head + body)
 
 
 def roster(todo):
@@ -310,25 +440,31 @@ def main():
 
     rows = pages()
     if args.list:
-        yes = [r for r in rows if r[1]]
-        no = [r for r in rows if not r[1]]
-        print('переводим: %d' % len(yes))
-        print('не переводим: %d' % len(no))
-        for rel, _, why in no:
-            print('   %-40s %s' % (rel, why))
+        for kind, what in (('ours', 'переводим'), ('source', 'ссылка на подлинник'),
+                           ('no', 'не трогаем')):
+            part = [r for r in rows if r[1] == kind]
+            print('%s: %d' % (what, len(part)))
+            if kind != 'ours':
+                for rel, _k, why in part:
+                    print('   %-40s %s' % (rel, why))
         return 0
 
-    todo = [r[0] for r in rows if r[1]]
+    todo = [r[0] for r in rows if r[1] == 'ours']
+    refs = [r[0] for r in rows if r[1] == 'source']
     if args.only:
         todo = [r for r in todo if r in args.only]
-        if not todo:
+        refs = [r for r in refs if r in args.only]
+        if not todo and not refs:
             sys.exit('таких страниц в переводе нет: %s' % ' '.join(args.only))
-    have = {twin(r)[len('/en'):] for r in todo}
+    # Двойник есть и у страницы-заместителя: иначе ссылка на главу с английской
+    # заглавной раздела вела бы прямо в русский текст, ничем не предупредив.
+    have = {twin(r)[len('/en'):] for r in todo + refs}
 
     cache, stats = Cache(CODE), {}
 
     if not args.dry:
         texts = [t for rel in todo for t in wanted(rel)]
+        texts += [t for t in (title_of(r) for r in refs) if t]
         print('кусков %d, покупаем недостающие…' % len(texts), flush=True)
         print('куплено: %d' % warm(texts, cache, args.workers))
 
@@ -338,9 +474,28 @@ def main():
             write(rel, en_title, body, have)
         if n % 20 == 0 or n == len(todo):
             print('%3d/%d  %s' % (n, len(todo), stats), flush=True)
+
+    for rel in refs:
+        ru_title = title_of(rel)
+        en_title = ru_title
+        if ru_title and not args.dry:
+            got = translate(ru_title, LANG, cache, stats)
+            # Заголовок у этих страниц — номер и имя: «глава 9», «афоризм 3»,
+            # «строфы 3–4, часть 1». Номер тут не украшение: по нему читатель
+            # сверяет, туда ли попал, и по нему же страницы выстраиваются в
+            # палитре перехода. Пропал или переменился — заголовок остаётся
+            # русским: русский заголовок хуже читается, неверный номер врёт.
+            if got and re.findall(r'\d+', got) == re.findall(r'\d+', ru_title):
+                en_title = got
+            else:
+                stats['titles'] = stats.get('titles', 0) + 1
+        if not args.dry:
+            stub(rel, en_title)
+    if refs:
+        print('со ссылкой на подлинник: %d' % len(refs))
     cache.save()
     if not args.dry:
-        print('в _data/i18n.yml: %d страниц' % roster(todo))
+        print('в _data/i18n.yml: %d страниц' % roster(todo + refs))
     print('готово: %s' % stats)
     if stats.get('lost'):
         print('вернулись без меток и остались по-русски: %d' % stats['lost'])
@@ -348,6 +503,10 @@ def main():
         print('испортили бы подстрочник и остались по-русски: %d' % stats['marks'])
     if stats.get('mixed'):
         print('дали слово из двух алфавитов и остались по-русски: %d' % stats['mixed'])
+    if stats.get('bold'):
+        print('потеряли звёздочку и остались по-русски: %d' % stats['bold'])
+    if stats.get('titles'):
+        print('заголовок потерял номер и остался русским: %d' % stats['titles'])
     return 0
 
 

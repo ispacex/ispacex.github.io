@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 5"
 lang: en
 search: false
-ru: /dance/ns-ch5/
+ru: /dance/ns-ch5
 ---
 
 # Nāṭyaśāstra, Chapter 5, the pūrvaraṅga ritual

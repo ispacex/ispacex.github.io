@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 11"
 lang: en
 search: false
-ru: /dance/ns-ch11/
+ru: /dance/ns-ch11
 ---
 
 # Nāṭyaśāstra, Chapter 11, movements of Cārī

@@ -2,7 +2,7 @@
 title: "Nāṭyaśāstra, Chapter 28"
 lang: en
 search: false
-ru: /dance/ns-ch28/
+ru: /dance/ns-ch28
 ---
 
 # Nāṭyaśāstra, Chapter 28, On Instrumental Music (ātodya)
