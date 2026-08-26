@@ -242,6 +242,7 @@ async function typos() {
 const GLOSSARIES = [
 	['Натьяшастры', path.join(HERE, 'dance', 'glossary.md')],
 	['Parātrīśikāvivaraṇa', path.join(HERE, 'ksh', 'pv', 'glossary', 'index.md')],
+	['Śivastotrāvalī', path.join(HERE, 'ksh', 'sv', 'glossary', 'index.md')],
 ];
 
 function aliases() {

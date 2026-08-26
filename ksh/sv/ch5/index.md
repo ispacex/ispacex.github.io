@@ -2,7 +2,7 @@
 title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Śivastotrāvalī](/ksh/sv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter5)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Śivastotrāvalī](/ksh/sv/) · [Словарь терминов](/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter5)</p>
 
 # Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram
 
@@ -15,7 +15,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">गलेपादिकया नाथ मां स्ववेश्म प्रवेशय॥५.१॥</span><br />
 <span class="pv-iast">Galepādikayā nātha māṁ svaveśma praveśaya||5.1||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>меня<rp> (</rp><rt>mām</rt><rp>)</rp></ruby>, прилепившегося к наслаждению одним <ruby>лишь прикосновением к Твоим лотосам-стопам<rp> (</rp><rt>tvat-pāda-padma-samparka-mātra-sambhoga-saṅginam</rt><rp>)</rp></ruby>, <ruby>введи<rp> (</rp><rt>praveśaya</rt><rp>)</rp></ruby> <ruby>в Твой дом<rp> (</rp><rt>sva-veśma</rt><rp>)</rp></ruby> — <ruby>хоть силком, ногою за шею<rp> (</rp><rt>gale-pādikayā</rt><rp>)</rp></ruby>||5.1||</p>
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>меня<rp> (</rp><rt>mām</rt><rp>)</rp></ruby>, прилепившегося к наслаждению одним <ruby>лишь прикосновением к Твоим лотосам-стопам<rp> (</rp><rt>tvat-pāda-padma-samparka-mātra-sambhoga-saṅginam</rt><rp>)</rp></ruby>, <ruby>введи<rp> (</rp><rt>praveśaya</rt><rp>)</rp></ruby> <ruby>в Твой дом<rp> (</rp><rt>sva-veśma</rt><rp>)</rp></ruby> — <ruby>хоть силком, ногою за шею<rp> (</rp><rt>gale-pādikayā</rt><rp>)</rp></ruby>||5.1||</p>
 
 <hr class="pv-rule" />
 
@@ -42,7 +42,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">अहो स्वादो विरूपक्षेत्येव नृत्येयमारटन्॥५.४॥</span><br />
 <span class="pv-iast">Aho svādo virūpakṣetyeva nṛtyeyamāraṭan||5.4||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>«О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>сокровищница нектара<rp> (</rp><rt>sudhā-nidhe</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt>svāmin</rt><rp>)</rp></ruby>! <ruby>О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>сладостный<rp> (</rp><rt>mṛṣṭa</rt><rp>)</rp></ruby> <ruby>Трёхокий<rp> (</rp><rt>tri-locana</rt><rp>)</rp></ruby>! <ruby>О, вкус, о Virūpākṣa!<rp> (</rp><rt>aho svādo virūpākṣa</rt><rp>)</rp></ruby>» — <ruby>так<rp> (</rp><rt>ityeva</rt><rp>)</rp></ruby> <ruby>крича<rp> (</rp><rt>āraṭan</rt><rp>)</rp></ruby>, <ruby>да пущусь я в пляс<rp> (</rp><rt>nṛtyeyam</rt><rp>)</rp></ruby>||5.4||</p>
+<p class="pv-tr" markdown="1"><ruby>«О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>сокровищница нектара<rp> (</rp><rt>sudhā-nidhe</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-svamin" class="pv-gl">svāmin</a></rt><rp>)</rp></ruby>! <ruby>О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>сладостный<rp> (</rp><rt>mṛṣṭa</rt><rp>)</rp></ruby> <ruby>Трёхокий<rp> (</rp><rt>tri-locana</rt><rp>)</rp></ruby>! <ruby>О, вкус, о Virūpākṣa!<rp> (</rp><rt>aho svādo virūpākṣa</rt><rp>)</rp></ruby>» — <ruby>так<rp> (</rp><rt>ityeva</rt><rp>)</rp></ruby> <ruby>крича<rp> (</rp><rt>āraṭan</rt><rp>)</rp></ruby>, <ruby>да пущусь я в пляс<rp> (</rp><rt>nṛtyeyam</rt><rp>)</rp></ruby>||5.4||</p>
 
 <hr class="pv-rule" />
 
@@ -60,7 +60,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">निरन्तरत्वत्प्रलापमयी वृत्तिर्महारसा॥५.६॥</span><br />
 <span class="pv-iast">Nirantaratvatpralāpamayī vṛttirmahārasā||5.6||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>О Всепроникающий<rp> (</rp><rt>vibho</rt><rp>)</rp></ruby>, <ruby>да поселюсь я<rp> (</rp><rt>vaseyam</rt><rp>)</rp></ruby> где-нибудь (kva api) <ruby>на земле горы-ума<rp> (</rp><rt>citta-bhūbhṛt-bhuvi</rt><rp>)</rp></ruby>, <ruby>где<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>та<rp> (</rp><rt>sā</rt><rp>)</rp></ruby> <ruby>полная великого сока<rp> (</rp><rt>mahā-rasā</rt><rp>)</rp></ruby> <ruby>работа сознания<rp> (</rp><rt>vṛttiḥ</rt><rp>)</rp></ruby> <ruby>вся состоит из непрерывного лепета о Тебе<rp> (</rp><rt>nirantara-tvat-pralāpa-mayī</rt><rp>)</rp></ruby>||5.6||</p>
+<p class="pv-tr" markdown="1"><ruby>О Всепроникающий<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-vibhu" class="pv-gl">vibho</a></rt><rp>)</rp></ruby>, <ruby>да поселюсь я<rp> (</rp><rt>vaseyam</rt><rp>)</rp></ruby> где-нибудь (kva api) <ruby>на земле горы-ума<rp> (</rp><rt>citta-bhūbhṛt-bhuvi</rt><rp>)</rp></ruby>, <ruby>где<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>та<rp> (</rp><rt>sā</rt><rp>)</rp></ruby> <ruby>полная великого сока<rp> (</rp><rt>mahā-rasā</rt><rp>)</rp></ruby> <ruby>работа сознания<rp> (</rp><rt>vṛttiḥ</rt><rp>)</rp></ruby> <ruby>вся состоит из непрерывного лепета о Тебе<rp> (</rp><rt>nirantara-tvat-pralāpa-mayī</rt><rp>)</rp></ruby>||5.6||</p>
 
 <hr class="pv-rule" />
 
@@ -87,7 +87,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">मनो मे तत्तदास्वाद्य क्षीवेदिव गलेदिव॥५.९॥</span><br />
 <span class="pv-iast">Mano me tattadāsvādya kṣīvediva galediva||5.9||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Смилуйся<rp> (</rp><rt>prasīda</rt><rp>)</rp></ruby>, <ruby>Господь<rp> (</rp><rt>bhagavan</rt><rp>)</rp></ruby>, <ruby>чтобы<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>мой<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>ум<rp> (</rp><rt>manaḥ</rt><rp>)</rp></ruby>, <ruby>навсегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>павший<rp> (</rp><rt>patitam</rt><rp>)</rp></ruby> <ruby>к Твоей стопе<rp> (</rp><rt>tvat-pade</rt><rp>)</rp></ruby>, <ruby>вкушая<rp> (</rp><rt>āsvādya</rt><rp>)</rp></ruby> <ruby>то и это<rp> (</rp><rt>tattad</rt><rp>)</rp></ruby>, <ruby>будто<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>хмелел<rp> (</rp><rt>kṣīvet</rt><rp>)</rp></ruby> <ruby>и будто<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>таял<rp> (</rp><rt>galet</rt><rp>)</rp></ruby>||5.9||</p>
+<p class="pv-tr" markdown="1"><ruby>Смилуйся<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-prasada" class="pv-gl">prasīda</a></rt><rp>)</rp></ruby>, <ruby>Господь<rp> (</rp><rt>bhagavan</rt><rp>)</rp></ruby>, <ruby>чтобы<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>мой<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>ум<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-manas" class="pv-gl">manaḥ</a></rt><rp>)</rp></ruby>, <ruby>навсегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>павший<rp> (</rp><rt>patitam</rt><rp>)</rp></ruby> <ruby>к Твоей стопе<rp> (</rp><rt>tvat-pade</rt><rp>)</rp></ruby>, <ruby>вкушая<rp> (</rp><rt>āsvādya</rt><rp>)</rp></ruby> <ruby>то и это<rp> (</rp><rt>tattad</rt><rp>)</rp></ruby>, <ruby>будто<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>хмелел<rp> (</rp><rt>kṣīvet</rt><rp>)</rp></ruby> <ruby>и будто<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>таял<rp> (</rp><rt>galet</rt><rp>)</rp></ruby>||5.9||</p>
 
 <hr class="pv-rule" />
 
@@ -96,7 +96,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">बाह्यादथान्तराद्भावात्प्रकटीभव मे प्रभो॥५.१०॥</span><br />
 <span class="pv-iast">Bāhyādathāntarādbhāvātprakaṭībhava me prabho||5.10||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Господь<rp> (</rp><rt>prabho</rt><rp>)</rp></ruby>, <ruby>явись<rp> (</rp><rt>prakaṭī-bhava</rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>me</rt><rp>)</rp></ruby> — <ruby>от восторга<rp> (</rp><rt>praharṣāt</rt><rp>)</rp></ruby> <ruby>или<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>от<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>горя<rp> (</rp><rt>śokāt</rt><rp>)</rp></ruby>, <ruby>хоть<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>от стены<rp> (</rp><rt>kuḍyāt</rt><rp>)</rp></ruby>, <ruby>хоть от горшка<rp> (</rp><rt>ghaṭāt</rt><rp>)</rp></ruby>, <ruby>из вещи<rp> (</rp><rt>bhāvāt</rt><rp>)</rp></ruby> <ruby>внешней<rp> (</rp><rt>bāhyāt</rt><rp>)</rp></ruby> <ruby>или<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>внутренней<rp> (</rp><rt>āntarāt</rt><rp>)</rp></ruby>||5.10||</p>
+<p class="pv-tr" markdown="1"><ruby>Господь<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>явись<rp> (</rp><rt>prakaṭī-bhava</rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>me</rt><rp>)</rp></ruby> — <ruby>от восторга<rp> (</rp><rt>praharṣāt</rt><rp>)</rp></ruby> <ruby>или<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>от<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>горя<rp> (</rp><rt>śokāt</rt><rp>)</rp></ruby>, <ruby>хоть<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>от стены<rp> (</rp><rt>kuḍyāt</rt><rp>)</rp></ruby>, <ruby>хоть от горшка<rp> (</rp><rt>ghaṭāt</rt><rp>)</rp></ruby>, <ruby>из вещи<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-bhava" class="pv-gl">bhāvāt</a></rt><rp>)</rp></ruby> <ruby>внешней<rp> (</rp><rt>bāhyāt</rt><rp>)</rp></ruby> <ruby>или<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>внутренней<rp> (</rp><rt>āntarāt</rt><rp>)</rp></ruby>||5.10||</p>
 
 <hr class="pv-rule" />
 
@@ -132,7 +132,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">स्वामिन्गृहाण दासेषु प्रसादालोकनक्षणम्॥५.१४॥</span><br />
 <span class="pv-iast">Svāmingṛhāṇa dāseṣu prasādālokanakṣaṇam||5.14||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>svāmin</rt><rp>)</rp></ruby>, <ruby>вечно сытый пищей всех миров без остатка<rp> (</rp><rt>aśeṣa-bhuvana-āhāra-nitya-tṛptaḥ</rt><rp>)</rp></ruby>, <ruby>займи удобное сиденье<rp> (</rp><rt>sukha-āsanam gṛhāṇa</rt><rp>)</rp></ruby> — <ruby>и удели рабам<rp> (</rp><rt>dāseṣu</rt><rp>)</rp></ruby> <ruby>мгновение милостивого взгляда<rp> (</rp><rt>prasāda-ālokana-kṣaṇam</rt><rp>)</rp></ruby>||5.14||</p>
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-svamin" class="pv-gl">svāmin</a></rt><rp>)</rp></ruby>, <ruby>вечно сытый пищей всех миров без остатка<rp> (</rp><rt>aśeṣa-bhuvana-āhāra-nitya-tṛptaḥ</rt><rp>)</rp></ruby>, <ruby>займи удобное сиденье<rp> (</rp><rt>sukha-āsanam gṛhāṇa</rt><rp>)</rp></ruby> — <ruby>и удели рабам<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-dasa" class="pv-gl">dāseṣu</a></rt><rp>)</rp></ruby> <ruby>мгновение милостивого взгляда<rp> (</rp><rt>prasāda-ālokana-kṣaṇam</rt><rp>)</rp></ruby>||5.14||</p>
 
 <hr class="pv-rule" />
 
@@ -141,7 +141,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">नमो मह्यं शिवायेति पूजयन्स्यां तृणान्यपि॥५.१५॥</span><br />
 <span class="pv-iast">Namo mahyaṁ śivāyeti pūjayansyāṁ tṛṇānyapi||5.15||</span></p>
 
-<p class="pv-tr" markdown="1">С глазами, смежёнными <ruby>от вкушения внутреннего восторга преданности<rp> (</rp><rt>antar-bhakti-camatkāra-carvaṇā-mīlita-īkṣaṇaḥ</rt><rp>)</rp></ruby>, <ruby>да буду<rp> (</rp><rt>syām</rt><rp>)</rp></ruby> <ruby>я, почитая<rp> (</rp><rt>pūjayan</rt><rp>)</rp></ruby> <ruby>даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>травинки<rp> (</rp><rt>tṛṇāni</rt><rp>)</rp></ruby>, <ruby>говорить<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>: <ruby>«Поклон<rp> (</rp><rt>namaḥ</rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>mahyam</rt><rp>)</rp></ruby>, <ruby>Śiva<rp> (</rp><rt>śivāya</rt><rp>)</rp></ruby>»||5.15||</p>
+<p class="pv-tr" markdown="1">С глазами, смежёнными <ruby>от вкушения внутреннего восторга преданности<rp> (</rp><rt>antar-bhakti-camatkāra-carvaṇā-mīlita-īkṣaṇaḥ</rt><rp>)</rp></ruby>, <ruby>да буду<rp> (</rp><rt>syām</rt><rp>)</rp></ruby> <ruby>я, почитая<rp> (</rp><rt>pūjayan</rt><rp>)</rp></ruby> <ruby>даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>травинки<rp> (</rp><rt>tṛṇāni</rt><rp>)</rp></ruby>, <ruby>говорить<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>: <ruby>«Поклон<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>mahyam</rt><rp>)</rp></ruby>, <ruby>Śiva<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-shiva" class="pv-gl">śivāya</a></rt><rp>)</rp></ruby>»||5.15||</p>
 
 <hr class="pv-rule" />
 
@@ -150,7 +150,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">पश्यन्भक्तिरसाभोगैर्भवेयमवियोजितः॥५.१६॥</span><br />
 <span class="pv-iast">Paśyanbhaktirasābhogairbhaveyamaviyojitaḥ||5.16||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Обретя Твоё бытие<rp> (</rp><rt>labdha-bhavat-bhāvaḥ</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>видя<rp> (</rp><rt>paśyan</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt>jagat</rt><rp>)</rp></ruby> <ruby>как разлив собственной самости<rp> (</rp><rt>sva-ātma-ullāsa-mayam</rt><rp>)</rp></ruby>, <ruby>да буду<rp> (</rp><rt>bhaveyam</rt><rp>)</rp></ruby> <ruby>я неразлучен<rp> (</rp><rt>aviyojitaḥ</rt><rp>)</rp></ruby> <ruby>с полнотою сока преданности<rp> (</rp><rt>bhakti-rasa-ābhogaiḥ</rt><rp>)</rp></ruby>||5.16||</p>
+<p class="pv-tr" markdown="1"><ruby>Обретя Твоё бытие<rp> (</rp><rt>labdha-bhavat-bhāvaḥ</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>видя<rp> (</rp><rt>paśyan</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-jagat" class="pv-gl">jagat</a></rt><rp>)</rp></ruby> <ruby>как разлив собственной самости<rp> (</rp><rt>sva-ātma-ullāsa-mayam</rt><rp>)</rp></ruby>, <ruby>да буду<rp> (</rp><rt>bhaveyam</rt><rp>)</rp></ruby> <ruby>я неразлучен<rp> (</rp><rt>aviyojitaḥ</rt><rp>)</rp></ruby> <ruby>с полнотою сока преданности<rp> (</rp><rt>bhakti-rasa-ābhogaiḥ</rt><rp>)</rp></ruby>||5.16||</p>
 
 <hr class="pv-rule" />
 
@@ -159,7 +159,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">तव तेनाद्वितीयस्य युक्तं यत्परिपूर्णता॥५.१७॥</span><br />
 <span class="pv-iast">Tava tenādvitīyasya yuktaṁ yatparipūrṇatā||5.17||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>раз<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>нет ничего иного<rp> (</rp><rt>aparaṁ... na vidyate</rt><rp>)</rp></ruby>, <ruby>чего можно было бы желать<rp> (</rp><rt>ākāṅkṣaṇīyam</rt><rp>)</rp></ruby>, — <ruby>тем самым<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>Тебе<rp> (</rp><rt>tava</rt><rp>)</rp></ruby>, <ruby>не имеющему второго<rp> (</rp><rt>advitīyasya</rt><rp>)</rp></ruby>, <ruby>и подобает<rp> (</rp><rt>yuktam</rt><rp>)</rp></ruby> <ruby>полнота<rp> (</rp><rt>paripūrṇatā</rt><rp>)</rp></ruby>||5.17||</p>
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>раз<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>нет ничего иного<rp> (</rp><rt>aparaṁ... na vidyate</rt><rp>)</rp></ruby>, <ruby>чего можно было бы желать<rp> (</rp><rt>ākāṅkṣaṇīyam</rt><rp>)</rp></ruby>, — <ruby>тем самым<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>Тебе<rp> (</rp><rt>tava</rt><rp>)</rp></ruby>, <ruby>не имеющему второго<rp> (</rp><rt>advitīyasya</rt><rp>)</rp></ruby>, <ruby>и подобает<rp> (</rp><rt>yuktam</rt><rp>)</rp></ruby> <ruby>полнота<rp> (</rp><rt>paripūrṇatā</rt><rp>)</rp></ruby>||5.17||</p>
 
 <hr class="pv-rule" />
 
@@ -177,7 +177,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">एतु मम मनसि यावन्नश्यतु दुर्वासनागन्धः॥५.१९॥</span><br />
 <span class="pv-iast">Etu mama manasi yāvannaśyatu durvāsanāgandhaḥ||5.19||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Пусть<rp> (</rp><rt>etu</rt><rp>)</rp></ruby> <ruby>в моём<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>уме<rp> (</rp><rt>manasi</rt><rp>)</rp></ruby> <ruby>окрепнет<rp> (</rp><rt>dṛḍhatām</rt><rp>)</rp></ruby> благоухание цветка — <ruby>думы о Тебе, всякий раз с небывалой радостью<rp> (</rp><rt>tat-tat-apūrva-āmoda-tvat-cintā-kusuma-vāsanā</rt><rp>)</rp></ruby>, — <ruby>пока<rp> (</rp><rt>yāvat</rt><rp>)</rp></ruby> <ruby>не сгинет<rp> (</rp><rt>naśyatu</rt><rp>)</rp></ruby> запах дурных привычек <span class="pv-note">— «vāsanā» здесь разом «благоухание» и «накопленный след прежних дел»; на этом двойном смысле и стоит вся строфа —</span> <span class="pv-w">(dur-vāsanā-gandhaḥ)</span>||5.19||</p>
+<p class="pv-tr" markdown="1"><ruby>Пусть<rp> (</rp><rt>etu</rt><rp>)</rp></ruby> <ruby>в моём<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>уме<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-manas" class="pv-gl">manasi</a></rt><rp>)</rp></ruby> <ruby>окрепнет<rp> (</rp><rt>dṛḍhatām</rt><rp>)</rp></ruby> благоухание цветка — <ruby>думы о Тебе, всякий раз с небывалой радостью<rp> (</rp><rt>tat-tat-apūrva-āmoda-tvat-cintā-kusuma-vāsanā</rt><rp>)</rp></ruby>, — <ruby>пока<rp> (</rp><rt>yāvat</rt><rp>)</rp></ruby> <ruby>не сгинет<rp> (</rp><rt>naśyatu</rt><rp>)</rp></ruby> запах дурных привычек <span class="pv-note">— «vāsanā» здесь разом «благоухание» и «накопленный след прежних дел»; на этом двойном смысле и стоит вся строфа —</span> <span class="pv-w">(dur-vāsanā-gandhaḥ)</span>||5.19||</p>
 
 <hr class="pv-rule" />
 
@@ -213,7 +213,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">आस्वादयन्भवेयं कमपि महारसमपुनरुक्तम्॥५.२३॥</span><br />
 <span class="pv-iast">Āsvādayanbhaveyaṁ kamapi mahārasamapunaruktam||5.23||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>когда это<rp> (</rp><rt>asmin</rt><rp>)</rp></ruby> <ruby>Твоё<rp> (</rp><rt>tava</rt><rp>)</rp></ruby> <ruby>имя<rp> (</rp><rt>nāmani</rt><rp>)</rp></ruby> — <ruby>«Śiva, Śiva, Śiva»<rp> (</rp><rt>śiva śiva śiva iti</rt><rp>)</rp></ruby> — <ruby>шепчется<rp> (</rp><rt>japyamāne</rt><rp>)</rp></ruby> <ruby>без предела<rp> (</rp><rt>niravadhi</rt><rp>)</rp></ruby>, <ruby>да буду<rp> (</rp><rt>bhaveyam</rt><rp>)</rp></ruby> <ruby>я вкушать<rp> (</rp><rt>āsvādayan</rt><rp>)</rp></ruby> некий (kam api) <ruby>великий сок<rp> (</rp><rt>mahā-rasam</rt><rp>)</rp></ruby>, <ruby>который не бывает повторением<rp> (</rp><rt>apunar-uktam</rt><rp>)</rp></ruby>||5.23||</p>
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>когда это<rp> (</rp><rt>asmin</rt><rp>)</rp></ruby> <ruby>Твоё<rp> (</rp><rt>tava</rt><rp>)</rp></ruby> <ruby>имя<rp> (</rp><rt>nāmani</rt><rp>)</rp></ruby> — <ruby>«Śiva, Śiva, Śiva»<rp> (</rp><rt>śiva śiva śiva iti</rt><rp>)</rp></ruby> — <ruby>шепчется<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-japa" class="pv-gl">japyamāne</a></rt><rp>)</rp></ruby> <ruby>без предела<rp> (</rp><rt>niravadhi</rt><rp>)</rp></ruby>, <ruby>да буду<rp> (</rp><rt>bhaveyam</rt><rp>)</rp></ruby> <ruby>я вкушать<rp> (</rp><rt>āsvādayan</rt><rp>)</rp></ruby> некий (kam api) <ruby>великий сок<rp> (</rp><rt>mahā-rasam</rt><rp>)</rp></ruby>, <ruby>который не бывает повторением<rp> (</rp><rt>apunar-uktam</rt><rp>)</rp></ruby>||5.23||</p>
 
 <hr class="pv-rule" />
 
@@ -240,7 +240,7 @@ title: "Śivastotrāvalī: Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ s
 <span class="pv-sa pv-src" lang="sa">गलति यत्र समस्तमिदं सुधासरसि विश्वमिदं दिश मे सदा॥५.२६॥</span><br />
 <span class="pv-iast">Galati yatra samastamidaṁ sudhāsarasi viśvamidaṁ diśa me sadā||5.26||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>то<rp> (</rp><rt>tat</rt><rp>)</rp></ruby> <ruby>нечто<rp> (</rp><rt>kimapi</rt><rp>)</rp></ruby>, <ruby>что порой<rp> (</rp><rt>kadācana</rt><rp>)</rp></ruby> <ruby>вспыхивает<rp> (</rp><rt>sphurati</rt><rp>)</rp></ruby> <ruby>в сознании<rp> (</rp><rt>cetasi</rt><rp>)</rp></ruby> <ruby>у касающихся подошв Твоих стоп<rp> (</rp><rt>bhavat-aṅghri-tala-spṛśām</rt><rp>)</rp></ruby>, — <ruby>то озеро нектара<rp> (</rp><rt>sudhā-sarasi</rt><rp>)</rp></ruby>, <ruby>где<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>растворяется<rp> (</rp><rt>galati</rt><rp>)</rp></ruby> <ruby>вся<rp> (</rp><rt>samastam</rt><rp>)</rp></ruby> <ruby>эта<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>вселенная<rp> (</rp><rt>viśvam idam</rt><rp>)</rp></ruby>, — <ruby>дай<rp> (</rp><rt>diśa</rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>навсегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby>||5.26||</p>
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>то<rp> (</rp><rt>tat</rt><rp>)</rp></ruby> <ruby>нечто<rp> (</rp><rt>kimapi</rt><rp>)</rp></ruby>, <ruby>что порой<rp> (</rp><rt>kadācana</rt><rp>)</rp></ruby> <ruby>вспыхивает<rp> (</rp><rt>sphurati</rt><rp>)</rp></ruby> <ruby>в сознании<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-citta" class="pv-gl">cetasi</a></rt><rp>)</rp></ruby> <ruby>у касающихся подошв Твоих стоп<rp> (</rp><rt>bhavat-aṅghri-tala-spṛśām</rt><rp>)</rp></ruby>, — <ruby>то озеро нектара<rp> (</rp><rt>sudhā-sarasi</rt><rp>)</rp></ruby>, <ruby>где<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>растворяется<rp> (</rp><rt>galati</rt><rp>)</rp></ruby> <ruby>вся<rp> (</rp><rt>samastam</rt><rp>)</rp></ruby> <ruby>эта<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>вселенная<rp> (</rp><rt>viśvam idam</rt><rp>)</rp></ruby>, — <ruby>дай<rp> (</rp><rt>diśa</rt><rp>)</rp></ruby> <ruby>мне<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>навсегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby>||5.26||</p>
 
 <p class="pv-pager nosearch" markdown="1">[← Гимн 4 — Surasodbalākhyaṁ caturthaṁ stotram](/ksh/sv/ch4/) · [Гимн 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram →](/ksh/sv/ch6/)</p>
 

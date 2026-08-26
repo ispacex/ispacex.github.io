@@ -2,7 +2,7 @@
 title: "Śivastotrāvalī: Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Śivastotrāvalī](/ksh/sv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter7)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Śivastotrāvalī](/ksh/sv/) · [Словарь терминов](/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter7)</p>
 
 # Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram
 
@@ -15,7 +15,7 @@ title: "Śivastotrāvalī: Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ 
 <span class="pv-sa pv-src" lang="sa">परिहरतु सकृदियन्तं भेदाधीनं महानर्थम्॥७.१॥</span><br />
 <span class="pv-iast">Pariharatu sakṛdiyantaṁ bhedādhīnaṁ mahānartham||7.1||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>пусть моё<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>сознание<rp> (</rp><rt>cetaḥ</rt><rp>)</rp></ruby>, <ruby>войдя<rp> (</rp><rt>etya</rt><rp>)</rp></ruby> <ruby>в единовкусие<rp> (</rp><rt>sama-rasatām</rt><rp>)</rp></ruby> <ruby>с Тобою<rp> (</rp><rt>tvayi</rt><rp>)</rp></ruby>, <ruby>рекою блаженства<rp> (</rp><rt>ānanda-sarasvati</rt><rp>)</rp></ruby>, <ruby>разом<rp> (</rp><rt>sakṛt</rt><rp>)</rp></ruby> <ruby>отбросит<rp> (</rp><rt>pariharatu</rt><rp>)</rp></ruby> <ruby>эту<rp> (</rp><rt>iyantam</rt><rp>)</rp></ruby> <ruby>великую беду<rp> (</rp><rt>mahā-anartham</rt><rp>)</rp></ruby>, <ruby>что держится на различении<rp> (</rp><rt>bheda-adhīnam</rt><rp>)</rp></ruby>||7.1||</p>
+<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>пусть моё<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>сознание<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-citta" class="pv-gl">cetaḥ</a></rt><rp>)</rp></ruby>, <ruby>войдя<rp> (</rp><rt>etya</rt><rp>)</rp></ruby> <ruby>в единовкусие<rp> (</rp><rt>sama-rasatām</rt><rp>)</rp></ruby> <ruby>с Тобою<rp> (</rp><rt>tvayi</rt><rp>)</rp></ruby>, <ruby>рекою блаженства<rp> (</rp><rt>ānanda-sarasvati</rt><rp>)</rp></ruby>, <ruby>разом<rp> (</rp><rt>sakṛt</rt><rp>)</rp></ruby> <ruby>отбросит<rp> (</rp><rt>pariharatu</rt><rp>)</rp></ruby> <ruby>эту<rp> (</rp><rt>iyantam</rt><rp>)</rp></ruby> <ruby>великую беду<rp> (</rp><rt>mahā-anartham</rt><rp>)</rp></ruby>, <ruby>что держится на различении<rp> (</rp><rt>bheda-adhīnam</rt><rp>)</rp></ruby>||7.1||</p>
 
 <hr class="pv-rule" />
 
@@ -24,7 +24,7 @@ title: "Śivastotrāvalī: Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ 
 <span class="pv-sa pv-src" lang="sa">नाथ भवन्मयतैक्यप्रत्ययपरशुः पतत्वन्तः॥७.२॥</span><br />
 <span class="pv-iast">Nātha bhavanmayataikyapratyayaparaśuḥ patatvantaḥ||7.2||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>«Это<rp> (</rp><rt>etat</rt><rp>)</rp></ruby> <ruby>моё<rp> (</rp><rt>mama</rt><rp>)</rp></ruby>, <ruby>а это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> — нет (na tu)» — <ruby>так<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>; и на крепкий <ruby>корень этих оков, страсти, ненависти и прочего<rp> (</rp><rt>rāga-dveṣa-ādi-nigaḍa-dṛḍha-mūle</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt>nātha</rt><rp>)</rp></ruby>, <ruby>пусть упадёт<rp> (</rp><rt>patatu</rt><rp>)</rp></ruby> <ruby>внутрь<rp> (</rp><rt>antaḥ</rt><rp>)</rp></ruby> топор — <ruby>уверенность, что всё есть Ты и едино с Тобою<rp> (</rp><rt>bhavat-mayatā-aikya-pratyaya-paraśuḥ</rt><rp>)</rp></ruby>||7.2||</p>
+<p class="pv-tr" markdown="1"><ruby>«Это<rp> (</rp><rt>etat</rt><rp>)</rp></ruby> <ruby>моё<rp> (</rp><rt>mama</rt><rp>)</rp></ruby>, <ruby>а это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> — нет (na tu)» — <ruby>так<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>; и на крепкий <ruby>корень этих оков, страсти, ненависти и прочего<rp> (</rp><rt>rāga-dveṣa-ādi-nigaḍa-dṛḍha-mūle</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>пусть упадёт<rp> (</rp><rt>patatu</rt><rp>)</rp></ruby> <ruby>внутрь<rp> (</rp><rt>antaḥ</rt><rp>)</rp></ruby> топор — <ruby>уверенность, что всё есть Ты и едино с Тобою<rp> (</rp><rt>bhavat-mayatā-aikya-pratyaya-paraśuḥ</rt><rp>)</rp></ruby>||7.2||</p>
 
 <hr class="pv-rule" />
 
@@ -51,7 +51,7 @@ title: "Śivastotrāvalī: Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ 
 <span class="pv-sa pv-src" lang="sa">चित्तमिदं निःशेषितविषयविषासङ्गवासनावधि मे॥७.५॥</span><br />
 <span class="pv-iast">Cittamidaṁ niḥśeṣitaviṣayaviṣāsaṅgavāsanāvadhi me||7.5||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Пусть это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>моё<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>сознание<rp> (</rp><rt>cittam</rt><rp>)</rp></ruby>, в котором дочиста <ruby>истреблён след прилепления к яду предметов<rp> (</rp><rt>niḥśeṣita-viṣaya-viṣa-āsaṅga-vāsanā-avadhi</rt><rp>)</rp></ruby>, <ruby>обретёт<rp> (</rp><rt>labhatām</rt><rp>)</rp></ruby> умение вкушать самую <ruby>суть нектарного сока созерцания Твоих стоп<rp> (</rp><rt>tvat-caraṇa-bhāvanā-amṛta-rasa-sāra-āsvāda-naipuṇam</rt><rp>)</rp></ruby>||7.5||</p>
+<p class="pv-tr" markdown="1"><ruby>Пусть это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>моё<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>сознание<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-citta" class="pv-gl">cittam</a></rt><rp>)</rp></ruby>, в котором дочиста <ruby>истреблён след прилепления к яду предметов<rp> (</rp><rt>niḥśeṣita-viṣaya-viṣa-āsaṅga-vāsanā-avadhi</rt><rp>)</rp></ruby>, <ruby>обретёт<rp> (</rp><rt>labhatām</rt><rp>)</rp></ruby> умение вкушать самую <ruby>суть нектарного сока созерцания Твоих стоп<rp> (</rp><rt>tvat-caraṇa-bhāvanā-amṛta-rasa-sāra-āsvāda-naipuṇam</rt><rp>)</rp></ruby>||7.5||</p>
 
 <hr class="pv-rule" />
 
@@ -78,7 +78,7 @@ title: "Śivastotrāvalī: Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ 
 <span class="pv-sa pv-src" lang="sa">शिवमयमखिलं लोकं क्रियाश्च पूजामयी सकलाः॥७.८॥</span><br />
 <span class="pv-iast">Śivamayamakhilaṁ lokaṁ kriyāśca pūjāmayī sakalāḥ||7.8||</span></p>
 
-<p class="pv-tr" markdown="1">Силою <ruby>головокружения, рождённого хмелем преданности<rp> (</rp><rt>bhakti-mada-janita-vibhrama-vaśena</rt><rp>)</rp></ruby>, <ruby>да увижу я<rp> (</rp><rt>paśyeyam</rt><rp>)</rp></ruby> <ruby>органами чувств<rp> (</rp><rt>karaṇaiḥ</rt><rp>)</rp></ruby> <ruby>без изъяна<rp> (</rp><rt>avikalam</rt><rp>)</rp></ruby> <ruby>весь<rp> (</rp><rt>akhilam</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt>lokam</rt><rp>)</rp></ruby> <ruby>состоящим из Śiva<rp> (</rp><rt>śiva-mayam</rt><rp>)</rp></ruby>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>все<rp> (</rp><rt>sakalāḥ</rt><rp>)</rp></ruby> <ruby>дела<rp> (</rp><rt>kriyāḥ</rt><rp>)</rp></ruby> — <ruby>состоящими из почитания<rp> (</rp><rt>pūjā-mayī</rt><rp>)</rp></ruby>||7.8||</p>
+<p class="pv-tr" markdown="1">Силою <ruby>головокружения, рождённого хмелем преданности<rp> (</rp><rt>bhakti-mada-janita-vibhrama-vaśena</rt><rp>)</rp></ruby>, <ruby>да увижу я<rp> (</rp><rt>paśyeyam</rt><rp>)</rp></ruby> <ruby>органами чувств<rp> (</rp><rt>karaṇaiḥ</rt><rp>)</rp></ruby> <ruby>без изъяна<rp> (</rp><rt>avikalam</rt><rp>)</rp></ruby> <ruby>весь<rp> (</rp><rt>akhilam</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt>lokam</rt><rp>)</rp></ruby> <ruby>состоящим из Śiva<rp> (</rp><rt>śiva-mayam</rt><rp>)</rp></ruby>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>все<rp> (</rp><rt>sakalāḥ</rt><rp>)</rp></ruby> <ruby>дела<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-kriya" class="pv-gl">kriyāḥ</a></rt><rp>)</rp></ruby> — <ruby>состоящими из почитания<rp> (</rp><rt>pūjā-mayī</rt><rp>)</rp></ruby>||7.8||</p>
 
 <hr class="pv-rule" />
 

@@ -2,7 +2,7 @@
 title: "Śivastotrāvalī: Гимн 14 — Jayastotranāma caturdaśaṁ stotram"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Śivastotrāvalī](/ksh/sv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter14)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Śivastotrāvalī](/ksh/sv/) · [Словарь терминов](/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter14)</p>
 
 # Гимн 14 — Jayastotranāma caturdaśaṁ stotram
 
@@ -15,7 +15,7 @@ title: "Śivastotrāvalī: Гимн 14 — Jayastotranāma caturdaśaṁ stotram
 <span class="pv-sa pv-src" lang="sa">जयोद्घोषणपीयूषरसमास्वादये क्षणम्॥१४.१॥</span><br />
 <span class="pv-iast">Jayodghoṣaṇapīyūṣarasamāsvādaye kṣaṇam||14.1||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Перед<rp> (</rp><rt>puraḥ</rt><rp>)</rp></ruby> <ruby>собственным<rp> (</rp><rt>nijasya</rt><rp>)</rp></ruby> <ruby>Владыкою<rp> (</rp><rt>svāminaḥ</rt><rp>)</rp></ruby>, <ruby>сокровищницей Шри победы<rp> (</rp><rt>jaya-lakṣmī-nidhānasya</rt><rp>)</rp></ruby>, <ruby>да вкушу я<rp> (</rp><rt>āsvādaye</rt><rp>)</rp></ruby> <ruby>хоть миг<rp> (</rp><rt>kṣaṇam</rt><rp>)</rp></ruby> <ruby>нектарный сок возглашения победы<rp> (</rp><rt>jaya-udghoṣaṇa-pīyūṣa-rasam</rt><rp>)</rp></ruby>||14.1||</p>
+<p class="pv-tr" markdown="1"><ruby>Перед<rp> (</rp><rt>puraḥ</rt><rp>)</rp></ruby> <ruby>собственным<rp> (</rp><rt>nijasya</rt><rp>)</rp></ruby> <ruby>Владыкою<rp> (</rp><rt><a href="/ksh/sv/glossary/#t-svamin" class="pv-gl">svāminaḥ</a></rt><rp>)</rp></ruby>, <ruby>сокровищницей Шри победы<rp> (</rp><rt>jaya-lakṣmī-nidhānasya</rt><rp>)</rp></ruby>, <ruby>да вкушу я<rp> (</rp><rt>āsvādaye</rt><rp>)</rp></ruby> <ruby>хоть миг<rp> (</rp><rt>kṣaṇam</rt><rp>)</rp></ruby> <ruby>нектарный сок возглашения победы<rp> (</rp><rt>jaya-udghoṣaṇa-pīyūṣa-rasam</rt><rp>)</rp></ruby>||14.1||</p>
 
 <hr class="pv-rule" />
 

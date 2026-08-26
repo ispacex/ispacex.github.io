@@ -28,8 +28,11 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 sys.path.insert(0, HERE)
 
+import words
 from common.page import Book, SA_KINDS, plural
 from parts import PARTS, SRC, SRC_URL
+
+GLOSSARY = '/ksh/sv/glossary/'
 
 # Откуда взялся перевод: папка и то, как это называется вслух.
 FROM_EN, FROM_SA = 'ru', 'sa'
@@ -68,6 +71,9 @@ class SV(Book):
     def __init__(self, here=HERE):
         Book.__init__(self, here)
         self.tr = {}
+        # Словарь считается один раз на всю сборку: обход перевода ради каждой
+        # из двадцати страниц был бы двадцатью обходами.
+        self.words = words.index()
 
     def _tr(self, pid):
         if pid not in self.tr:
@@ -110,6 +116,21 @@ class SV(Book):
         """
         n = block.get('n')
         return 'v%s' % n if n else None
+
+    # --- словарь терминов ---
+
+    def link(self, word):
+        """Санскритское слово в подстрочнике — ссылка на статью словаря.
+
+        Слово стоит в падеже, и статью ему подбирает `words.find`. Чего в
+        словаре нет — остаётся простым текстом: восемьдесят две статьи на пять
+        с лишним тысяч помет, и большая их часть — служебные слова.
+        """
+        term = words.find(word, self.words)
+        return GLOSSARY + '#t-' + words.slug(term.iast) if term else None
+
+    def crumbs(self):
+        return ' · [Словарь терминов](%s)' % GLOSSARY
 
     # --- что на странице чьё ---
 
