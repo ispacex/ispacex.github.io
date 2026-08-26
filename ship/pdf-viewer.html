@@ -288,6 +288,20 @@
       position: relative;
     }
 
+    .page-failed {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      transform: translateY(-50%);
+      padding: 0 24px;
+      text-align: center;
+      color: var(--text);
+      opacity: .6;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
     .page-wrapper canvas {
       display: block;
       box-shadow: 0 2px 8px var(--canvas-shadow);
@@ -587,8 +601,61 @@
     const pageWrappers = [];
     const renderedPages = new Set();
     let rendering = false;
+    let renderAgain = false;
     let mode = 'scroll';
+    let basePageWidth = 0;
     const storageKey = 'pdf-page:' + pdfUrl;
+
+    // Номер раскладки: он растёт всякий раз, когда страницы перекладываются
+    // заново — от масштаба, от ширины окна, от смены режима.
+    //
+    // Это ответ на вопрос, которого читалке не хватало: **какой раскладке
+    // принадлежит нарисованная страница**. Без него две перекладки, запущенные
+    // подряд, сливались в одну: каждая успевала очистить список до своего
+    // ожидания, а разложить заново — после, и в контейнере оказывалось 987
+    // «страниц» вместо 329. Дальше прокрутка доходила до четырёхсотой, pdf.js
+    // отвечал «Invalid page request», и читалка умирала совсем.
+    //
+    // Поэтому чужая отрисовка теперь **бросается, а не дорисовывается**:
+    // дорисовать её некуда — страниц, для которых она считалась, больше нет.
+    let layout = 0;
+    const liveTasks = new Set();
+
+    // Отрисовка, начатая для прошлой раскладки, отменяется. Без этого она
+    // продолжает занимать pdf.js, и новая ждёт впустую — на книге в триста
+    // страниц это заметно рукой.
+    function relayout() {
+      for (const t of liveTasks) {
+        try { t.cancel(); } catch (e) {}
+      }
+      liveTasks.clear();
+      return ++layout;
+    }
+
+    // Предел размера холста у браузера. За ним отрисовка не «медленнее» — её
+    // нет вовсе: Safari отдаёт пустой холст, Chrome бросает. Поэтому плотность
+    // пикселей понижается ровно настолько, чтобы уложиться: страница выходит
+    // мягче, но выходит.
+    const CANVAS_LIMIT = 16 * 1024 * 1024;
+
+    function fitDpr(cssWidth, cssHeight) {
+      const dpr = window.devicePixelRatio || 1;
+      const area = cssWidth * cssHeight * dpr * dpr;
+      return area > CANVAS_LIMIT ? dpr * Math.sqrt(CANVAS_LIMIT / area) : dpr;
+    }
+
+    // Место страницы, которая не нарисовалась. Пустое тёмное поле о случившемся
+    // молчит, и читатель принимает его за конец книги; здесь сказано прямо — и
+    // сказано, что делать.
+    function failedPage(wrapper, num) {
+      if (!wrapper) return;
+      wrapper.innerHTML = '';
+      const note = document.createElement('div');
+      note.className = 'page-failed';
+      note.textContent = 'Страница ' + num + ' не нарисовалась. '
+        + 'Уменьшите масштаб или прокрутите мимо и обратно.';
+      wrapper.appendChild(note);
+    }
 
     function getScale(pageWidth) {
       if (scale === 0) return (container.clientWidth - 32) / pageWidth;
@@ -632,13 +699,19 @@
 
       wrapper.appendChild(textDiv);
 
-      for (const span of textDiv.querySelectorAll('span[data-target-width]')) {
+      // Сперва все замеры, потом все правки — двумя проходами, а не вперемешку.
+      // Замер после правки заставляет браузер пересчитать раскладку заново, и на
+      // странице в полторы тысячи слов таких пересчётов было полторы тысячи
+      // вместо одного. Это и есть та часть «зависания», которая приходится не на
+      // отрисовку, а на текст поверх неё.
+      const spans = [...textDiv.querySelectorAll('span[data-target-width]')];
+      const widths = spans.map((span) => span.getBoundingClientRect().width);
+      spans.forEach((span, i) => {
         const target = parseFloat(span.dataset.targetWidth);
-        const actual = span.getBoundingClientRect().width;
-        if (actual > 0 && target > 0) {
-          span.style.transform = (span.style.transform || '') + ' scaleX(' + (target / actual) + ')';
+        if (widths[i] > 0 && target > 0) {
+          span.style.transform = (span.style.transform || '') + ' scaleX(' + (target / widths[i]) + ')';
         }
-      }
+      });
     }
 
     async function buildAnnotationLayer(page, wrapper, cssScale) {
@@ -686,42 +759,69 @@
       if (annotDiv.children.length > 0) wrapper.appendChild(annotDiv);
     }
 
-    async function renderPageCanvas(num) {
+    async function renderPageCanvas(num, gen) {
+      // Страница за пределами книги — не запрос, а ошибка счёта. Просить её у
+      // pdf.js нельзя: он бросает, и раньше этим всё и кончалось.
+      if (num < 1 || num > totalPages) return;
       if (renderedPages.has(num)) return;
       renderedPages.add(num);
 
       const wrapper = pageWrappers[num - 1];
-      const page = await pdfDoc.getPage(num);
-      const vp0 = page.getViewport({ scale: 1 });
-      const s = getScale(vp0.width);
-      const dpr = window.devicePixelRatio || 1;
-      const viewport = page.getViewport({ scale: s * dpr });
+      let task = null;
+      try {
+        const page = await pdfDoc.getPage(num);
+        if (gen !== layout) { renderedPages.delete(num); return; }
 
-      const canvas = document.createElement('canvas');
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
-      canvas.style.width = (viewport.width / dpr) + 'px';
-      canvas.style.height = (viewport.height / dpr) + 'px';
+        const vp0 = page.getViewport({ scale: 1 });
+        const s = getScale(vp0.width);
+        const dpr = fitDpr(vp0.width * s, vp0.height * s);
+        const viewport = page.getViewport({ scale: s * dpr });
 
-      wrapper.innerHTML = '';
-      wrapper.appendChild(canvas);
-      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
-      await buildTextLayer(page, wrapper, s);
-      await buildAnnotationLayer(page, wrapper, s);
-      showSearchHighlightsOnPage(num);
+        const canvas = document.createElement('canvas');
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+        canvas.style.width = (viewport.width / dpr) + 'px';
+        canvas.style.height = (viewport.height / dpr) + 'px';
+
+        wrapper.innerHTML = '';
+        wrapper.appendChild(canvas);
+        task = page.render({ canvasContext: canvas.getContext('2d'), viewport });
+        liveTasks.add(task);
+        await task.promise;
+        if (gen !== layout) { renderedPages.delete(num); return; }
+        await buildTextLayer(page, wrapper, s);
+        await buildAnnotationLayer(page, wrapper, s);
+        showSearchHighlightsOnPage(num);
+      } catch (e) {
+        // Страница забывается — значит, её попробуют снова. Раньше она
+        // оставалась помеченной как нарисованная, и пустое поле на её месте
+        // было навсегда.
+        renderedPages.delete(num);
+        // Отменённая отрисовка — не поломка, а решение: раскладка сменилась,
+        // и рисовать было уже некуда.
+        if (e && e.name === 'RenderingCancelledException') return;
+        if (gen === layout) failedPage(wrapper, num);
+      } finally {
+        if (task) liveTasks.delete(task);
+      }
     }
 
-    async function createPlaceholders(count) {
-      container.innerHTML = '';
-      pageWrappers.length = 0;
-      renderedPages.clear();
-
+    async function createPlaceholders(count, gen) {
+      // Всё, что меняет DOM, идёт **после** последнего ожидания и одним куском:
+      // между «очистить» и «разложить заново» не должна успеть влезть вторая
+      // перекладка. Раньше очистка стояла до ожидания — и три быстрых щелчка по
+      // масштабу складывали три набора страниц в один контейнер.
       const firstPage = await pdfDoc.getPage(1);
+      if (gen !== layout) return false;
+
       const vp0 = firstPage.getViewport({ scale: 1 });
       const s = getScale(vp0.width);
       const cssW = (vp0.width * s) + 'px';
       const cssH = (vp0.height * s) + 'px';
 
+      container.innerHTML = '';
+      pageWrappers.length = 0;
+      renderedPages.clear();
       for (let i = 0; i < count; i++) {
         const wrapper = document.createElement('div');
         wrapper.className = 'page-wrapper';
@@ -730,6 +830,7 @@
         container.appendChild(wrapper);
         pageWrappers.push(wrapper);
       }
+      return true;
     }
 
     function getVisiblePages() {
@@ -747,21 +848,41 @@
     }
 
     async function renderVisibleScroll() {
-      if (rendering) return;
+      // Просьба, пришедшая во время отрисовки, раньше пропадала молча — а
+      // приходит она как раз тогда, когда нужнее всего: сразу после смены
+      // масштаба. Теперь она запоминается, и круг повторяется.
+      if (rendering) { renderAgain = true; return; }
       rendering = true;
-      const visible = getVisiblePages();
+      try {
+        do {
+          renderAgain = false;
+          const gen = layout;
+          const visible = getVisiblePages();
 
-      const toRender = new Set();
-      for (const p of visible) {
-        if (p > 1) toRender.add(p - 1);
-        toRender.add(p);
-        if (p < totalPages) toRender.add(p + 1);
+          // Сперва то, на что читатель смотрит, и лишь потом соседи. Раньше
+          // сосед сверху шёл первым, а на крупном масштабе одна страница
+          // рисуется секундами — всё это время перед читателем было пустое
+          // поле, хотя рисовалась в этот момент страница, которой на экране
+          // даже не видно.
+          const toRender = [];
+          const want = (p) => {
+            if (p >= 1 && p <= totalPages && !toRender.includes(p)) toRender.push(p);
+          };
+          for (const p of visible) want(p);
+          for (const p of visible) { want(p - 1); want(p + 1); }
+
+          for (const p of toRender) {
+            if (gen !== layout) break;
+            await renderPageCanvas(p, gen);
+          }
+
+          if (gen === layout && visible.length > 0) updatePageDisplay(visible[0]);
+        } while (renderAgain);
+      } finally {
+        // Флаг снимается всегда. Именно он, оставшись поднятым после ошибки
+        // внутри отрисовки, останавливал прокрутку насовсем.
+        rendering = false;
       }
-
-      for (const p of toRender) await renderPageCanvas(p);
-
-      if (visible.length > 0) updatePageDisplay(visible[0]);
-      rendering = false;
     }
 
     function scrollToPage(num) {
@@ -778,35 +899,52 @@
 
     async function renderSinglePage(num) {
       if (num < 1 || num > totalPages) return;
-      currentPage = num;
-      renderedPages.clear();
-      pageWrappers.length = 0;
+      const gen = relayout();
+      let wrapper = null;
+      let task = null;
+      try {
+        const page = await pdfDoc.getPage(num);
+        if (gen !== layout) return;
 
-      container.innerHTML = '';
-      const page = await pdfDoc.getPage(num);
-      const vp0 = page.getViewport({ scale: 1 });
-      const s = getScale(vp0.width);
-      const dpr = window.devicePixelRatio || 1;
-      const viewport = page.getViewport({ scale: s * dpr });
+        const vp0 = page.getViewport({ scale: 1 });
+        const s = getScale(vp0.width);
+        const dpr = fitDpr(vp0.width * s, vp0.height * s);
+        const viewport = page.getViewport({ scale: s * dpr });
 
-      const wrapper = document.createElement('div');
-      wrapper.className = 'page-wrapper';
-      const canvas = document.createElement('canvas');
-      canvas.width = viewport.width;
-      canvas.height = viewport.height;
-      canvas.style.width = (viewport.width / dpr) + 'px';
-      canvas.style.height = (viewport.height / dpr) + 'px';
-      wrapper.appendChild(canvas);
-      container.appendChild(wrapper);
-      pageWrappers.push(wrapper);
+        wrapper = document.createElement('div');
+        wrapper.className = 'page-wrapper';
+        const canvas = document.createElement('canvas');
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+        canvas.style.width = (viewport.width / dpr) + 'px';
+        canvas.style.height = (viewport.height / dpr) + 'px';
+        wrapper.appendChild(canvas);
 
-      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
-      await buildTextLayer(page, wrapper, s);
-      await buildAnnotationLayer(page, wrapper, s);
-      renderedPages.add(num);
-      showSearchHighlightsOnPage(num);
-      updatePageDisplay(num);
-      container.scrollTop = 0;
+        // Один кусок без ожиданий: старое убрано, новое поставлено.
+        container.innerHTML = '';
+        pageWrappers.length = 0;
+        renderedPages.clear();
+        container.appendChild(wrapper);
+        pageWrappers.push(wrapper);
+        currentPage = num;
+        renderedPages.add(num);
+        updatePageDisplay(num);
+        container.scrollTop = 0;
+
+        task = page.render({ canvasContext: canvas.getContext('2d'), viewport });
+        liveTasks.add(task);
+        await task.promise;
+        if (gen !== layout) return;
+        await buildTextLayer(page, wrapper, s);
+        await buildAnnotationLayer(page, wrapper, s);
+        showSearchHighlightsOnPage(num);
+      } catch (e) {
+        renderedPages.delete(num);
+        if (e && e.name === 'RenderingCancelledException') return;
+        if (gen === layout) failedPage(wrapper, num);
+      } finally {
+        if (task) liveTasks.delete(task);
+      }
     }
 
     async function switchMode(newMode) {
@@ -815,7 +953,8 @@
       btnScroll.classList.toggle('active', mode === 'scroll');
 
       if (mode === 'scroll') {
-        await createPlaceholders(totalPages);
+        const gen = relayout();
+        if (!await createPlaceholders(totalPages, gen)) return;
         scrollToPage(currentPage);
         await renderVisibleScroll();
       } else {
@@ -866,8 +1005,8 @@
 
     async function applyZoom() {
       if (mode === 'scroll') {
-        renderedPages.clear();
-        await createPlaceholders(totalPages);
+        const gen = relayout();
+        if (!await createPlaceholders(totalPages, gen)) return;
         scrollToPage(currentPage);
         await renderVisibleScroll();
       } else {
@@ -875,21 +1014,19 @@
       }
     }
 
+    // Ширина первой страницы берётся из запомненного, а не выспрашивается у
+    // pdf.js заново. Разница не в скорости: за то ожидание успевал пройти
+    // второй щелчок, читал ещё нетронутое `scale === 0` и считал тот же
+    // масштаб, что и первый. Три щелчка по «+» увеличивали на один шаг.
     document.getElementById('zoom-in').addEventListener('click', async () => {
-      if (scale === 0) {
-        const page = await pdfDoc.getPage(1);
-        manualScale = getScale(page.getViewport({ scale: 1 }).width) + SCALE_STEP;
-        scale = 1;
-      } else { manualScale += SCALE_STEP; }
+      if (scale === 0) { manualScale = getScale(basePageWidth); scale = 1; }
+      manualScale += SCALE_STEP;
       await applyZoom();
     });
 
     document.getElementById('zoom-out').addEventListener('click', async () => {
-      if (scale === 0) {
-        const page = await pdfDoc.getPage(1);
-        manualScale = Math.max(0.5, getScale(page.getViewport({ scale: 1 }).width) - SCALE_STEP);
-        scale = 1;
-      } else { manualScale = Math.max(0.5, manualScale - SCALE_STEP); }
+      if (scale === 0) { manualScale = getScale(basePageWidth); scale = 1; }
+      manualScale = Math.max(0.5, manualScale - SCALE_STEP);
       await applyZoom();
     });
 
@@ -1105,6 +1242,7 @@
     async function loadPDF() {
       pdfDoc = await pdfjsLib.getDocument(pdfUrl).promise;
       totalPages = pdfDoc.numPages;
+      basePageWidth = (await pdfDoc.getPage(1)).getViewport({ scale: 1 }).width;
 
       const hashMatch = window.location.hash.match(/page=(\d+)/);
       const hashPage = hashMatch ? parseInt(hashMatch[1], 10) : 0;
