@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Проверяет перевод Pratyabhijñāhṛdayam.
 
-Четыре вещи, и каждая ломается тихо — страница при этом выглядит целой:
+Пять вещей, и каждая ломается тихо — страница при этом выглядит целой:
 
 * **подстрочник не изменил текста абзаца** (общая проверка, common/check.py).
   Санскрит стоит над русским словом, а не скобкой в строке, но скобки никуда
@@ -14,7 +14,11 @@
   источника, а не пишется здесь;
 * **перевод не разъехался с блоками** — ключей в `ru/<часть>.json` не больше,
   чем в части абзацев, и все они на месте. Ключ здесь — номер блока, и от
-  правки разбора он бы съехал: перевод молча встал бы не под тот абзац.
+  правки разбора он бы съехал: перевод молча встал бы не под тот абзац;
+* **каждая ссылка словаря ведёт в существующий якорь.** Якоря ставит сборка
+  страниц по тому, что сказал словарь, и эти двое считают по одним и тем же
+  номерам блоков — но считают порознь. Разойдись они, и «где в тексте» молча
+  уводило бы в начало части.
 """
 import glob
 import json
@@ -29,6 +33,21 @@ from common.check import verify
 from common.page import SA_KINDS
 from book import PH
 from parts import PARTS
+import words
+
+OUT = os.path.normpath(os.path.join(HERE, '..', '..', 'ksh', 'ph'))
+
+
+def dangling():
+    """Ссылки словаря, которым на странице части не нашлось якоря."""
+    bad = []
+    for slug, anchor in {p for places in words.links().values() for p in places}:
+        page = os.path.join(OUT, slug, 'index.md')
+        if not os.path.exists(page):
+            bad.append((slug, anchor, 'нет самой страницы'))
+        elif ('id="%s"' % anchor) not in open(page, encoding='utf-8').read():
+            bad.append((slug, anchor, 'нет якоря'))
+    return bad
 
 
 def texts():
@@ -69,7 +88,11 @@ def main():
     print('переводов не под абзацем: %d' % len(stray))
     for x in stray:
         print('  %s ключ %s' % x)
-    return 1 if (bad or unpaired or reds or stray) else 0
+    lost = dangling()
+    print('ссылок словаря в пустоту: %d' % len(lost))
+    for x in lost:
+        print('  %s #%s — %s' % x)
+    return 1 if (bad or unpaired or reds or stray or lost) else 0
 
 
 if __name__ == '__main__':

@@ -148,6 +148,7 @@ const SETS = [
 	['nāṭya', 'натья'],
 	['Śivastotrāvalī', 'Шивастотравали'],
 	['Tantrasāra', 'Тантрасара'],
+	['Pratyabhijñāhṛdayam', 'Пратьябхиджняхридаям'],
 ];
 
 /* Свёртка там, где буква зависит от соседей. Проверяется фразой, а не словом:
@@ -246,6 +247,7 @@ const GLOSSARIES = [
 	['Śivastotrāvalī', path.join(HERE, 'ksh', 'sv', 'glossary', 'index.md')],
 	['Тантралоки', path.join(HERE, 'ksh', 'ta', 'glossary', 'index.md')],
 	['Тантрасары', path.join(HERE, 'ksh', 'tantrasara', 'glossary', 'index.md')],
+	['Pratyabhijñāhṛdayam', path.join(HERE, 'ksh', 'ph', 'glossary', 'index.md')],
 ];
 
 function aliases() {

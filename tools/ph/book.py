@@ -27,6 +27,8 @@ sys.path.insert(0, HERE)
 from common.page import Book, pairing, plural
 from parts import PARTS, SRC, SRC_URL, SUTRAS, SUTRAS_PAGE
 
+GLOSSARY = '/ksh/ph/glossary/'
+
 # Номер в конце абзаца: «||13||». Так у источника кончается перевод сутры — но
 # не только он: тем же номером закрывается и последний абзац разбора, а во
 # вступительных строфах так же пронумерованы сами строфы. Поэтому одного этого
@@ -51,6 +53,29 @@ class PH(Book):
         self.sutras = load(os.path.join(here, 'sutras.json'), {})
         self.ru = {}
         self._at = {}
+        # Внутри, а не наверху модуля: `words` читает перевод, а перевод
+        # приходит отсюда — встречный `import` наверху замкнул бы круг.
+        import words
+        self.words = words.index()
+        self.marks = words.anchors()
+
+    def link(self, word):
+        """Санскритское слово в подстрочнике — ссылка на статью словаря.
+
+        Слово стоит в падеже, и статью ему подбирает `words.find`. Чего в
+        словаре нет — остаётся простым текстом: сто одиннадцать статей на две
+        с небольшим тысячи помет, и добрая половина последних — служебные
+        слова.
+        """
+        import words
+        term = words.find(word, self.words)
+        return GLOSSARY + '#t-' + words.keyof(term) if term else None
+
+    def anchors(self, pid):
+        return self.marks.get(pid, {})
+
+    def crumbs(self):
+        return ' · [Словарь терминов](%s)' % GLOSSARY
 
     def _ru(self, pid):
         if pid not in self.ru:
