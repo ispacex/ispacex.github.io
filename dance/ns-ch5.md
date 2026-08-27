@@ -15,7 +15,7 @@ title: "Натьяшастра, Глава 5"
 
 [Оглавление](https://ispacex.github.io/dance/)
 
-*← *[Глава](/Natyashastra-glava-4-ch-3-shl-246-328-02-20) 4* *ч. 3 | [Глава 6](/Natyashastra-glava-6-Rasa-02-22) →
+← [Глава](/Natyashastra-glava-4-ch-3-shl-246-328-02-20) 4 ч. 3 | [Глава 6](/Natyashastra-glava-6-Rasa-02-22) →
 
 *Вопрос Мудрецов*
 

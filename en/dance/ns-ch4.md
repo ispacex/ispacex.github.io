@@ -349,11 +349,11 @@ Bharata Muni
 
 ← [Chapter 4](/Natyashastra-glava-4-tehnika-tanca-shl-1-169-iz-328-02-18) part 1 | [Chapter 4](/Natyashastra-glava-4-ch-3-shl-246-328-02-20) part 3 →
 
-Angaharas* (Aṅgahāras)*
+Angaharas *(Aṅgahāras)*
 
 170. I spoke of the one hundred and eight Karaṇas. Now I will describe the various Aṅgahāras.
 
-171-173. ① Sthirahasta* — extending both arms and raising them upward, entering Samapada Sthānu (Samapāda Sthāna), the left arm extended upward from shoulder level, then taking Pratyālīḍha Sthāna (Pratyālīḍha Sthāna), followed by performing sequentially the karaṇas Nikuttita, Urdhvavṛtta, Akṣipta, Svastika, Nitamba, Karihasta, and Katicchinna (Kaṭicchinna).
+171-173. ① Sthirahasta (Sthirahasta) — extending both arms and raising them upward, entering Samapada Sthānu (Samapāda Sthāna), the left arm extended upward from shoulder level, then taking Pratyālīḍha Sthāna (Pratyālīḍha Sthāna), followed by the sequential execution of Nikuttita, Urdhvṛtta, Akṣipta, Svastika, Nitamba, Karihasta, and Katicchinna (Kaṭicchinna) karaṇas.
 
 174-176. ② Paryastaka (Paryastaka) — execution of the Talapuṣpapuṭa, Apaviddha and Vartitā karaṇas, then assuming Pratyālīḍha Sthāna, then assuming the karaṇas Nikuttaka, Urdhvavṛtta, Akṣipta, Uromaṇḍala, Nitamba, Karihasta, Kaṭicchinna.
 
@@ -371,7 +371,7 @@ Angaharas* (Aṅgahāras)*
 
 190-192. ⑨ Viśkambhāprasṛta (Viṣkambhāpasṛta) — beginning with the Karaṇas in Kuttita and Bhujaṅgatraśita, the hand in Recita to show the Patāka gesture, then successively assume Akṣiptaka, Uromaṇḍala, the Lata gesture, the *Katiccheda* Karaṇas (*translator's note:* here it is unclear what Kaṭiccheda karaṇa is, it looks like an error in the original text, most likely it is Katicchinna).
 
-192-195. ⑩ Mattakrīḍā (Mattākrīḍa) — assuming the Nūpura-karaṇa with a turn of the Trika, then assuming the Bhujaṅgatrasita-karaṇa, assuming the next Recita-karaṇa with the right leg, and then successively assuming the Akṣiptakā, Chinna, Bāhyabhrāmarakā (Bāhyabhramaraka), Uromaṇḍala, Nitamba, Karihasta, *Katiccheda* (*translator's note: *Katicchinna) karaṇas.
+192-195. ⑩ Mattakrīḍā (Mattākrīḍa) — assuming Nūpura-karaṇa with a turn of the Trika, then assuming Bhujaṅgatrasita-karaṇa, assuming the next Recita-karaṇa with the right foot, and then successively assuming Akṣiptakā, Chinna, Bāhyabhramaraka (Bāhyabhramaraka), Uromaṇḍala, Nitamba, Karihasta, *Katiccheda* (*translator's note:* Katicchinna) karaṇas.
 
 196-197. ⑪ Svastikarecita (Svastikarecita) — hands and feet — this is Recita, then take Vṛścika-karaṇa and again repeat this movement of hands and feet, then Nikuttaka-karaṇa and the Lata gesture alternately with the right and left hand, and then Katicchinna-karaṇa.
 
@@ -424,7 +424,7 @@ Bharata Muni
 
 [Table of Contents](https://ispacex.github.io/dance/)
 
-*← *[Chapter 4](/Natyashastra-glava-4-ch-2-tehnika-tanca-angahary-shl-170-245-02-18)* *part 2 | [Chapter 5](/Natyashastra-glava-5-Purvaranga-02-22) →
+← [Chapter 4](/Natyashastra-glava-4-ch-2-tehnika-tanca-angahary-shl-170-245-02-18) part 2 | [Chapter 5](/Natyashastra-glava-5-Purvaranga-02-22) →
 
 *Rechakas (Recakas)*
 

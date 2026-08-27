@@ -26,7 +26,7 @@ So, the third chapter in the **Nāṭyaśāstra** of Bharata.
 
 2/ Then, when night falls, having sprinkled the body with water consecrated by prayer, let him take his place on the fore-stage of the theatre.
 
-3/ the mentor of **Nāṭya** in new garments, having fasted for three nights, initiated, focused, possessed of a pure soul and the power of spiritual fire.
+3/ the **Nāṭya** master in new garments, having fasted for three nights, initiated, focused, possessed of a pure soul and the power of spiritual fire.
 
 4/ Having bowed to the Great God, by whom all worlds are created, who is being itself, the progenitor of all born, as well as to Vishnu, Indra, and Guha /Shiva/,
 
@@ -52,7 +52,7 @@ So, the third chapter in the **Nāṭyaśāstra** of Bharata.
 
 15/ Thus, according to the rules, having performed the night service in the building of **Nāṭya**, with the arrival of day it should be continued.
 
-16/ Worship on stage should be conducted under the influence of three eastern constellations – **Ārdrā** /gentle/, **Maghā** /reward/, and **Yāmyā** /belonging to Yama/, or under the influence of the constellations **Āśleṣā** /embrace/ and **Mūla** /root/.
+16/ Worship on stage should be conducted under the influence of three eastern constellations – **Ārdrā** /gentle/, **Maghā** /reward/, and **Yāmyā** /belonging to Yama/ or under the influence of the constellations **Āśleṣā** /embrace/ and **Mūla** /foundation/.
 
 17/ The teacher of **Nāṭya**, focused, initiated, and endowed with the power of spiritual fire, should light the lamp of the stage and perform the ritual of worshiping the gods.
 

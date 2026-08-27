@@ -70,7 +70,7 @@ So, the second chapter in the **Nāṭyaśāstra** of Bharata.
 
 24/ The organizer, you should first inspect the plot of land, and then, with good intentions, begin the measurement.
 
-25/ The site for the house **Nāṭya** should be chosen where the ground is level, stable, firm, and black in color, not pale.
+25/ The site for the **Nāṭya** house should be chosen where the ground is level, stable, firm, and black, not pale, in color.
 
 26/ Having first removed pieces of wood, potsherds, grass, and bushes, one should plow it with a plow and, once purified, mark it out with a measuring cord.
 

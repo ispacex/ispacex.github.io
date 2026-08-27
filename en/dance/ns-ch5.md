@@ -17,7 +17,7 @@ Bharata Muni
 
 [Table of Contents](https://ispacex.github.io/dance/)
 
-*← *[Chapter](/Natyashastra-glava-4-ch-3-shl-246-328-02-20) 4* *part 3 | [Chapter 6](/Natyashastra-glava-6-Rasa-02-22) →
+← [Chapter](/Natyashastra-glava-4-ch-3-shl-246-328-02-20) 4, part 3 | [Chapter 6](/Natyashastra-glava-6-Rasa-02-22) →
 
 *Question of the Sages*
 
