@@ -22,7 +22,7 @@ The main tasks of the institute:
 * [Art](/en/art/)
 * [Natyashastra](/en/dance/)
   * [Natya talam](/en/nt/)
-* [КШ](/en/ksh/)
+* [Kashmir Shaivism](/en/ksh/)
 * [Theatre](/en/theatre/)
 * [Yoga](/en/yoga/)
 * [Hoop](/en/hoop/)

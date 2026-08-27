@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/tantrasara/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/tantrasara/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/tantrasara/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Tantrasāra
 
@@ -75,28 +75,28 @@ half, while here everything is translated, together with the ritual.
 ## Chapters
 
 <ul class="pv-toc">
-<li><a href="/en/ksh/tantrasara/ch1/">Глава 1 — Vijñānabhedaprakāśanam</a> — объяснение различных видов знания — <em>9 строф, 25 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch2/">Глава 2 — Anupāyaprakāśanam</a> — объяснение Anupāya, лишённой методов — <em>3 строфы, 7 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch3/">Глава 3 — Śāmbhavopāyaprakāśanam</a> — объяснение метода Śambhu — <em>3 строфы, 37 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch4/">Глава 4 — Śāktopāyaprakāśanam</a> — объяснение метода Śakti — <em>10 строф, 51 абзац</em></li>
-<li><a href="/en/ksh/tantrasara/ch5/">Глава 5 — Āṇavaprakāśanam</a> — объяснение метода ограниченного существа — <em>13 строф, 40 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch6/">Глава 6 — Kālādhvaprakāśanam</a> — объяснение пути Времени — <em>12 строф, 88 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch7/">Глава 7 — Deśādhvaprakāśanam</a> — объяснение пути Пространства — <em>5 строф, 43 абзаца</em></li>
-<li><a href="/en/ksh/tantrasara/ch8/">Глава 8 — Tattvasvarūpaprakāśanam</a> — объяснение сущностной природы категорий — <em>4 строфы, 96 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch9/">Глава 9 — Tattvabhedaprakāśanam</a> — объяснение разделения по категориям — <em>4 строфы, 55 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch10/">Глава 10 — Kalādyadhvaprakāśanam</a> — объяснение пути Kalā-s и прочих — <em>5 строф, 23 абзаца</em></li>
-<li><a href="/en/ksh/tantrasara/ch11/">Глава 11 — Śaktipātaprakāśanam</a> — объяснение нисхождения Силы — <em>3 строфы, 29 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch12/">Глава 12 — Snānaprakāśanam</a> — объяснение омовения — <em>3 строфы, 13 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch13/">Глава 13 — Samayidīkṣāprakāśanam</a> — объяснение посвящения в дисциплину — <em>7 строф, 96 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch14/">Глава 14 — Putrakadīkṣāprakāśanam</a> — объяснение посвящения в духовные сыновья — <em>4 строфы, 33 абзаца</em></li>
-<li><a href="/en/ksh/tantrasara/ch15/">Глава 15 — Sapratyayadīkṣāprakāśanam</a> — объяснение посвящения с убеждённостью — <em>3 строфы, 9 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch16/">Глава 16 — Parokṣadīkṣāprakāśanam</a> — объяснение посвящения отсутствующего — <em>6 строф, 24 абзаца</em></li>
-<li><a href="/en/ksh/tantrasara/ch17/">Глава 17 — Liṅgoddhāraḥ</a> — удаление метки, или знака — <em>3 строфы, 9 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch18/">Глава 18 — Abhiṣekaprakāśanam</a> — объяснение освящения — <em>3 строфы, 7 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch19/">Глава 19 — Śrāddhadīkṣāprakāśanam</a> — объяснение посвящения при поминовении умершего — <em>3 строфы, 10 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch20/">Глава 20 — Śeṣavartanaprakāśanam</a> — объяснение того, как жить дальше — <em>24 строфы, 65 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch21/">Глава 21 — Āgamaprāmāṇyaprakāśanam</a> — объяснение авторитетности писаний — <em>4 строфы, 10 абзацев</em></li>
-<li><a href="/en/ksh/tantrasara/ch22/">Глава 22 — Kulayāgaprakāśanam</a> — объяснение ритуала Kaula — <em>11 строф, 48 абзацев</em></li>
+<li><a href="/en/ksh/tantrasara/ch1/">Chapter 1 — Vijñānabhedaprakāśanam</a> — explanation of various kinds of knowledge — <em>9 stanzas, 25 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch2/">Chapter 2 — Anupāyaprakāśanam</a> — explanation of Anupāya, devoid of methods — <em>3 stanzas, 7 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch3/">Chapter 3 — Śāmbhavopāyaprakāśanam</a> — explanation of the method of Śambhu — <em>3 stanzas, 37 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch4/">Chapter 4 — Śāktopāyaprakāśanam</a> — explanation of the method Śakti — <em>10 stanzas, 51 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch5/">Chapter 5 — Āṇavaprakāśanam</a> — explanation of the method of the limited being — <em>13 stanzas, 40 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch6/">Chapter 6 — Kālādhvaprakāśanam</a> — explanation of the path of Time — <em>12 stanzas, 88 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch7/">Chapter 7 — Deśādhvaprakāśanam</a> — explanation of the path of Space — <em>5 stanzas, 43 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch8/">Chapter 8 — Tattvasvarūpaprakāśanam</a> — explanation of the essential nature of categories — <em>4 stanzas, 96 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch9/">Chapter 9 — Tattvabhedaprakāśanam</a> — explanation of division by categories — <em>4 stanzas, 55 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch10/">Chapter 10 — Kalādyadhvaprakāśanam</a> — explanation of the path of Kalā-s and others — <em>5 stanzas, 23 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch11/">Chapter 11 — Śaktipātaprakāśanam</a> — explanation of the descent of the Force — <em>3 stanzas, 29 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch12/">Chapter 12 — Snānaprakāśanam</a> — explanation of ablution — <em>3 stanzas, 13 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch13/">Chapter 13 — Samayidīkṣāprakāśanam</a> — explanation of initiation into the discipline — <em>7 stanzas, 96 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch14/">Chapter 14 — Putrakadīkṣāprakāśanam</a> — explanation of initiation into spiritual sonship — <em>4 stanzas, 33 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch15/">Chapter 15 — Sapratyayadīkṣāprakāśanam</a> — explanation of initiation with conviction — <em>3 stanzas, 9 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch16/">Chapter 16 — Parokṣadīkṣāprakāśanam</a> — explanation of the dedication of the absent one — <em>6 stanzas, 24 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch17/">Chapter 17 — Liṅgoddhāraḥ</a> — removal of the mark, or sign — <em>3 stanzas, 9 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch18/">Chapter 18 — Abhiṣekaprakāśanam</a> — explanation of consecration — <em>3 stanzas, 7 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch19/">Chapter 19 — Śrāddhadīkṣāprakāśanam</a> — explanation of the dedication at the commemoration of the deceased — <em>3 stanzas, 10 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch20/">Chapter 20 — Śeṣavartanaprakāśanam</a> — explanation of how to live on — <em>24 stanzas, 65 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch21/">Chapter 21 — Āgamaprāmāṇyaprakāśanam</a> — explanation of the authority of the scriptures — <em>4 stanzas, 10 paragraphs</em></li>
+<li><a href="/en/ksh/tantrasara/ch22/">Chapter 22 — Kulayāgaprakāśanam</a> — explanation of the Kaula ritual — <em>11 stanzas, 48 paragraphs</em></li>
 </ul>
 
 ## Translator's introduction
@@ -134,6 +134,6 @@ there is a link here to the same one at the source.
 
 Two corrections were made, and both were in the Sanskrit, not in the translation. In chapter 6, the chapter heading in Devanagari appears twice in the source; in chapter 10, the heading of chapter 9 comes first (*navamamāhnikam* instead of *daśamamāhnikam*); the extra one was removed, otherwise the lines of Sanskrit and transliteration would have diverged by one paragraph and would not have aligned further on. The title of chapter 2 was taken from the source's table of contents (*Anupāyaprakāśanam*), not from its own introduction, where the title of the first chapter is repeated.
 
-It is worth keeping nearby [The Basic Principles of KŚ](/en/ksh/principles/) — that minimum of concepts
+It is worth keeping at hand [Basic principles of Kashmir Shaivism](/en/ksh/principles/) — that minimum of concepts
 without which the *Tantrasāra* is unreadable — and [a survey of the Trika scriptures](/en/ksh/scriptures/):
 which of them are already available in Russian, and which are not.

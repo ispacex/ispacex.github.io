@@ -83,7 +83,7 @@ The application of songs (gītavidbi) is intended for the glorification of the g
 
 22-23. Now I will speak about the ceremony of Utthāpana (lit. Raising), which bears this name because with it the reciters of the Benediction begin the performance [of the play] on stage before anything else. Therefore some consider Utthāpana to be the beginning [of the action].
 
-Обход
+Circumambulation
 
 23-24. The "circumambulation" (parivartana) is so named because in it the guardian deities of different worlds are glorified [by the Director] as he traverses the entire [stage].
 

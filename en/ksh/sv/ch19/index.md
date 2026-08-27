@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch19/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter19)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter19)</p>
 
 # Hymn 19 — Udyotanābhidhānamekonaviṁśaṁ stotram
 
@@ -27,7 +26,7 @@ ru: /ksh/sv/ch19/
 <span class="pv-sa pv-src" lang="sa">अस्य मे पुनरसौ निजा आत्मा न त्वमेव घटसे परमास्ताम्॥१९.२॥</span><br />
 <span class="pv-iast">Asya me punarasau nijā ātmā na tvameva ghaṭase paramāstām||19.2||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>И<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>во всякой вещи<rp> (</rp><rt>sarva-vastuni</rt><rp>)</rp></ruby> <ruby>из собственной самости<rp> (</rp><rt>sva-ātmanaḥ</rt><rp>)</rp></ruby>, <ruby>единственной сокровищницы<rp> (</rp><rt>eka-nidhānāt</rt><rp>)</rp></ruby>, <ruby>поистине<rp> (</rp><rt>kila</rt><rp>)</rp></ruby> <ruby>обретаемо<rp> (</rp><rt>labhyam</rt><rp>)</rp></ruby> <ruby>всё Твоё<rp> (</rp><rt>tvat-akhilam</rt><rp>)</rp></ruby>. <ruby>Но<rp> (</rp><rt>punaḥ</rt><rp>)</rp></ruby> у меня (asya me) <ruby>эта<rp> (</rp><rt>asau</rt><rp>)</rp></ruby> <ruby>самость<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-atman" class="pv-gl">ātmā</a></rt><rp>)</rp></ruby> — <ruby>своя<rp> (</rp><rt>nijā</rt><rp>)</rp></ruby>, а Ты (tvam eva) <ruby>в неё не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>укладываешься<rp> (</rp><rt>ghaṭase</rt><rp>)</rp></ruby>. <ruby>Пусть уж<rp> (</rp><rt>param āstām</rt><rp>)</rp></ruby> так||19.2||</p>
+<p class="pv-tr" markdown="1"><ruby>And<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>in every thing<rp> (</rp><rt>sarva-vastuni</rt><rp>)</rp></ruby> <ruby>from one’s own self<rp> (</rp><rt>sva-ātmanaḥ</rt><rp>)</rp></ruby>, <ruby>the sole treasury<rp> (</rp><rt>eka-nidhānāt</rt><rp>)</rp></ruby>, <ruby>indeed<rp> (</rp><rt>kila</rt><rp>)</rp></ruby> <ruby>is obtained<rp> (</rp><rt>labhyam</rt><rp>)</rp></ruby> <ruby>all that is Yours<rp> (</rp><rt>tvat-akhilam</rt><rp>)</rp></ruby>. <ruby>But<rp> (</rp><rt>punaḥ</rt><rp>)</rp></ruby> in me (asya me) <ruby>this<rp> (</rp><rt>asau</rt><rp>)</rp></ruby> <ruby>self<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-atman" class="pv-gl">ātmā</a></rt><rp>)</rp></ruby> — <ruby>one’s own<rp> (</rp><rt>nijā</rt><rp>)</rp></ruby>, and You (tvam eva) <ruby>do not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>fit into it<rp> (</rp><rt>ghaṭase</rt><rp>)</rp></ruby>. <ruby>Let it be<rp> (</rp><rt>param āstām</rt><rp>)</rp></ruby> so||19.2||</p>
 
 <hr class="pv-rule" />
 
@@ -168,6 +167,6 @@ ru: /ksh/sv/ch19/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 19 — Udyotanābhidhānamekonaviṁśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter19). Строфы 19.1–19.17 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 19 — Udyotanābhidhānamekonaviṁśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter19). Stanzas 19.1–19.17 have been translated directly from the Sanskrit, for this site: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

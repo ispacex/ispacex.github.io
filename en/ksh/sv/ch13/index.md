@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch13/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter13)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter13)</p>
 
 # Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram
 
@@ -72,7 +71,7 @@ ru: /ksh/sv/ch13/
 <span class="pv-sa pv-src" lang="sa">युग्ममेतदितरेतराश्रयं भक्तिशालिषु सदा विजृम्भते॥१३.७॥</span><br />
 <span class="pv-iast">Yugmametaditaretarāśrayaṁ bhaktiśāliṣu sadā vijṛmbhate||13.7||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Видение вещей как они есть<rp> (</rp><rt>yat yathā-sthita-padārtha-darśanam</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>великий праздник почитания Тебя<rp> (</rp><rt>yuṣmat-arcana-mahā-utsavaḥ</rt><rp>)</rp></ruby> — <ruby>эта<rp> (</rp><rt>etat</rt><rp>)</rp></ruby> <ruby>двоица<rp> (</rp><rt>yugmam</rt><rp>)</rp></ruby>, <ruby>одно на другом стоящая<rp> (</rp><rt>itaretara-āśrayam</rt><rp>)</rp></ruby>, <ruby>всегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>раскрывается<rp> (</rp><rt>vijṛmbhate</rt><rp>)</rp></ruby> <ruby>у тех, кто полон преданности<rp> (</rp><rt>bhakti-śāliṣu</rt><rp>)</rp></ruby>||13.7||</p>
+<p class="pv-tr" markdown="1"><ruby>Vision of things as they are<rp> (</rp><rt>yat yathā-sthita-padārtha-darśanam</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>the great festival of worshipping You<rp> (</rp><rt>yuṣmat-arcana-mahā-utsavaḥ</rt><rp>)</rp></ruby> — <ruby>this<rp> (</rp><rt>etat</rt><rp>)</rp></ruby> <ruby>pair<rp> (</rp><rt>yugmam</rt><rp>)</rp></ruby>, <ruby>resting one upon the other<rp> (</rp><rt>itaretara-āśrayam</rt><rp>)</rp></ruby>, <ruby>always<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>unfolds<rp> (</rp><rt>vijṛmbhate</rt><rp>)</rp></ruby> <ruby>in those full of devotion<rp> (</rp><rt>bhakti-śāliṣu</rt><rp>)</rp></ruby>||13.7||</p>
 
 <hr class="pv-rule" />
 
@@ -195,6 +194,6 @@ ru: /ksh/sv/ch13/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 13 — Saṅgrahastotranāma trayodaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter13). Строфы 13.1–13.20 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter13). Stanzas 13.1–13.20 have been translated directly from Sanskrit, for this website: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

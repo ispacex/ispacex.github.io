@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/scriptures/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Trika Scriptures: What Is and What Is Not
 

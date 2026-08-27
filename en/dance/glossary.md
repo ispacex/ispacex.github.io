@@ -20,7 +20,7 @@ instead of "naatya"). Both are synthesis, not a recording of a reader, and are n
 pronunciation: be careful with aspirates, retroflexes, and vowel lengths.*
 
 <p><label for="gl-filter">Filter:</label>
-<input type="search" id="gl-filter" placeholder="начните вводить термин, например «раса» или «hasta»" /></p>
+<input type="search" id="gl-filter" placeholder="start typing a term, for example “rasa” or “hasta”" /></p>
 
 <p id="gl-voice" data-audio="/dance/audio/" data-store="ns-voice">Voice:
 <label><input type="radio" name="gl-voice" value="parler" checked /> Parler</label>

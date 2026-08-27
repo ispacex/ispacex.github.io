@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch3/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter3)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter3)</p>
 
 # Hymn 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram
 
@@ -36,7 +35,7 @@ ru: /ksh/sv/ch3/
 <span class="pv-sa pv-src" lang="sa">येषां भवरुजामेकं भेषजं ते सुखासिनः॥३.३॥</span><br />
 <span class="pv-iast">Yeṣāṁ bhavarujāmekaṁ bheṣajaṁ te sukhāsinaḥ||3.3||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Те<rp> (</rp><rt>te</rt><rp>)</rp></ruby> <ruby>блаженствуют<rp> (</rp><rt>sukha-āsinaḥ</rt><rp>)</rp></ruby>, <ruby>у кого<rp> (</rp><rt>yeṣām</rt><rp>)</rp></ruby> памятование <ruby>о Твоём теле, усыпанном всею вселенной<rp> (</rp><rt>aśeṣa-viśva-khacita-bhavat-vapuḥ-anusmṛtiḥ</rt><rp>)</rp></ruby>, — <ruby>единственное<rp> (</rp><rt>ekam</rt><rp>)</rp></ruby> <ruby>лекарство<rp> (</rp><rt>bheṣajam</rt><rp>)</rp></ruby> <ruby>от болезни бытия<rp> (</rp><rt>bhava-rujām</rt><rp>)</rp></ruby>||3.3||</p>
+<p class="pv-tr" markdown="1"><ruby>Those<rp> (</rp><rt>te</rt><rp>)</rp></ruby> <ruby>rejoice<rp> (</rp><rt>sukha-āsinaḥ</rt><rp>)</rp></ruby>, <ruby>for whom<rp> (</rp><rt>yeṣām</rt><rp>)</rp></ruby> the remembrance <ruby>of Your body, adorned with the entire universe<rp> (</rp><rt>aśeṣa-viśva-khacita-bhavat-vapuḥ-anusmṛtiḥ</rt><rp>)</rp></ruby> — <ruby>the sole<rp> (</rp><rt>ekam</rt><rp>)</rp></ruby> <ruby>medicine<rp> (</rp><rt>bheṣajam</rt><rp>)</rp></ruby> <ruby>for the disease of existence<rp> (</rp><rt>bhava-rujām</rt><rp>)</rp></ruby>||3.3||</p>
 
 <hr class="pv-rule" />
 
@@ -81,7 +80,7 @@ ru: /ksh/sv/ch3/
 <span class="pv-sa pv-src" lang="sa">प्राभवीणां विभूतीनां परमेकः स भाजनम्॥३.८॥</span><br />
 <span class="pv-iast">Prābhavīṇāṁ vibhūtīnāṁ paramekaḥ sa bhājanam||3.8||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>У кого<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>случилась<rp> (</rp><rt>jātam</rt><rp>)</rp></ruby> <ruby>встреча сердца<rp> (</rp><rt>hṛdaya-melanam</rt><rp>)</rp></ruby> <ruby>с Тобою<rp> (</rp><rt>bhavatā</rt><rp>)</rp></ruby>, <ruby>Господом<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabhuṇā</a></rt><rp>)</rp></ruby>, — <ruby>тот<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <ruby>один<rp> (</rp><rt>ekaḥ</rt><rp>)</rp></ruby> <ruby>и есть высший<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>сосуд<rp> (</rp><rt>bhājanam</rt><rp>)</rp></ruby> <ruby>владычных совершенств<rp> (</rp><rt>prābhavīṇām vibhūtīnām</rt><rp>)</rp></ruby>||3.8||</p>
+<p class="pv-tr" markdown="1"><ruby>He in whom<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>has occurred<rp> (</rp><rt>jātam</rt><rp>)</rp></ruby> <ruby>the meeting of the heart<rp> (</rp><rt>hṛdaya-melanam</rt><rp>)</rp></ruby> <ruby>with Thee<rp> (</rp><rt>bhavatā</rt><rp>)</rp></ruby>, <ruby>the Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabhuṇā</a></rt><rp>)</rp></ruby>, — <ruby>that one<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <ruby>alone<rp> (</rp><rt>ekaḥ</rt><rp>)</rp></ruby> <ruby>is the highest<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>vessel<rp> (</rp><rt>bhājanam</rt><rp>)</rp></ruby> <ruby>of the lordly perfections<rp> (</rp><rt>prābhavīṇām vibhūtīnām</rt><rp>)</rp></ruby>||3.8||</p>
 
 <hr class="pv-rule" />
 
@@ -135,7 +134,7 @@ ru: /ksh/sv/ch3/
 <span class="pv-sa pv-src" lang="sa">त्वं महापुरुषस्त्वेको निःशेषपुरुषाश्रयः॥३.१४॥</span><br />
 <span class="pv-iast">Tvaṁ mahāpuruṣastveko niḥśeṣapuruṣāśrayaḥ||3.14||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Есть<rp> (</rp><rt>asti</rt><rp>)</rp></ruby> <ruby>и другой<rp> (</rp><rt>anyaḥ</rt><rp>)</rp></ruby> <ruby>высочайший<rp> (</rp><rt>uttamaḥ</rt><rp>)</rp></ruby> <ruby>пуруша<rp> (</rp><rt>puruṣaḥ</rt><rp>)</rp></ruby>, <ruby>отличённый тем, что он — остаток от Тебя<rp> (</rp><rt>yuṣmat-śeṣa-viśeṣitaḥ</rt><rp>)</rp></ruby>. <ruby>Ты же<rp> (</rp><rt>tvaṁ tu</rt><rp>)</rp></ruby> — <ruby>Великий Пуруша<rp> (</rp><rt>mahā-puruṣaḥ</rt><rp>)</rp></ruby>, <ruby>один<rp> (</rp><rt>ekaḥ</rt><rp>)</rp></ruby>, <ruby>опора всех пуруш без остатка<rp> (</rp><rt>niḥśeṣa-puruṣa-āśrayaḥ</rt><rp>)</rp></ruby>||3.14||</p>
+<p class="pv-tr" markdown="1"><ruby>There is<rp> (</rp><rt>asti</rt><rp>)</rp></ruby> <ruby>and another<rp> (</rp><rt>anyaḥ</rt><rp>)</rp></ruby> <ruby>highest<rp> (</rp><rt>uttamaḥ</rt><rp>)</rp></ruby> <ruby>puruṣa<rp> (</rp><rt>puruṣaḥ</rt><rp>)</rp></ruby>, <ruby>distinguished by being the remainder of You<rp> (</rp><rt>yuṣmat-śeṣa-viśeṣitaḥ</rt><rp>)</rp></ruby>. <ruby>But You<rp> (</rp><rt>tvaṁ tu</rt><rp>)</rp></ruby> — <ruby>the Great Puruṣa<rp> (</rp><rt>mahā-puruṣaḥ</rt><rp>)</rp></ruby>, <ruby>one<rp> (</rp><rt>ekaḥ</rt><rp>)</rp></ruby>, <ruby>the support of all puruṣas without remainder<rp> (</rp><rt>niḥśeṣa-puruṣa-āśrayaḥ</rt><rp>)</rp></ruby>||3.14||</p>
 
 <hr class="pv-rule" />
 
@@ -171,7 +170,7 @@ ru: /ksh/sv/ch3/
 <span class="pv-sa pv-src" lang="sa">त्वं चासतः सतश्चान्यस्तेनासि सदसन्मयः॥३.१८॥</span><br />
 <span class="pv-iast">Tvaṁ cāsataḥ sataścānyastenāsi sadasanmayaḥ||3.18||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Выше<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>сущего<rp> (</rp><rt>sataḥ</rt><rp>)</rp></ruby> <ruby>непременно<rp> (</rp><rt>avaśyam</rt><rp>)</rp></ruby> <ruby>не-сущее<rp> (</rp><rt>asat</rt><rp>)</rp></ruby>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>сущее<rp> (</rp><rt>sat</rt><rp>)</rp></ruby> <ruby>выше<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>него<rp> (</rp><rt>tasmāt</rt><rp>)</rp></ruby>, <ruby>Господь<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>. <ruby>Ты же<rp> (</rp><rt>tvaṁ ca</rt><rp>)</rp></ruby> <ruby>иной<rp> (</rp><rt>anyaḥ</rt><rp>)</rp></ruby>, <ruby>чем не-сущее<rp> (</rp><rt>asataḥ</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>чем сущее<rp> (</rp><rt>sataḥ</rt><rp>)</rp></ruby>, — <ruby>тем самым<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>Ты<rp> (</rp><rt>asi</rt><rp>)</rp></ruby> <ruby>состоишь из сущего и не-сущего<rp> (</rp><rt>sat-asat-mayaḥ</rt><rp>)</rp></ruby>||3.18||</p>
+<p class="pv-tr" markdown="1"><ruby>Above<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>of being<rp> (</rp><rt>sataḥ</rt><rp>)</rp></ruby> <ruby>necessarily<rp> (</rp><rt>avaśyam</rt><rp>)</rp></ruby> <ruby>non-being<rp> (</rp><rt>asat</rt><rp>)</rp></ruby>, <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>being<rp> (</rp><rt>sat</rt><rp>)</rp></ruby> <ruby>above<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>it<rp> (</rp><rt>tasmāt</rt><rp>)</rp></ruby>, <ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>. <ruby>But You<rp> (</rp><rt>tvaṁ ca</rt><rp>)</rp></ruby> <ruby>other<rp> (</rp><rt>anyaḥ</rt><rp>)</rp></ruby>, <ruby>than non-being<rp> (</rp><rt>asataḥ</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>than being<rp> (</rp><rt>sataḥ</rt><rp>)</rp></ruby>, — <ruby>thereby<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>You<rp> (</rp><rt>asi</rt><rp>)</rp></ruby> <ruby>consist of being and non-being<rp> (</rp><rt>sat-asat-mayaḥ</rt><rp>)</rp></ruby>||3.18||</p>
 
 <hr class="pv-rule" />
 
@@ -198,12 +197,12 @@ ru: /ksh/sv/ch3/
 <span class="pv-sa pv-src" lang="sa">तीव्रं विरौमि यन्नाथ मुह्याम्येवं विदन्नपि॥३.२१॥</span><br />
 <span class="pv-iast">Tīvraṁ viraumi yannātha muhyāmyevaṁ vidannapi||3.21||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Довольно<rp> (</rp><rt>alam</rt><rp>)</rp></ruby> <ruby>иных<rp> (</rp><rt>anyaiḥ</rt><rp>)</rp></ruby> <ruby>воплей<rp> (</rp><rt>ākranditaiḥ</rt><rp>)</rp></ruby>! <ruby>Лишь об этом<rp> (</rp><rt>iyadeva</rt><rp>)</rp></ruby> <ruby>перед<rp> (</rp><rt>puraḥ</rt><rp>)</rp></ruby> <ruby>Господом<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabhoḥ</a></rt><rp>)</rp></ruby> <ruby>я кричу<rp> (</rp><rt>viraumi</rt><rp>)</rp></ruby> <ruby>в голос<rp> (</rp><rt>tīvram</rt><rp>)</rp></ruby>: <ruby>что<rp> (</rp><rt>yat</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>я и зная<rp> (</rp><rt>vidannapi</rt><rp>)</rp></ruby> <ruby>вот так<rp> (</rp><rt>evam</rt><rp>)</rp></ruby>, <ruby>всё же теряю разум<rp> (</rp><rt>muhyāmi</rt><rp>)</rp></ruby>||3.21||</p>
+<p class="pv-tr" markdown="1"><ruby>Enough<rp> (</rp><rt>alam</rt><rp>)</rp></ruby> <ruby>of other<rp> (</rp><rt>anyaiḥ</rt><rp>)</rp></ruby> <ruby>cries<rp> (</rp><rt>ākranditaiḥ</rt><rp>)</rp></ruby>! <ruby>Only this<rp> (</rp><rt>iyadeva</rt><rp>)</rp></ruby> <ruby>before<rp> (</rp><rt>puraḥ</rt><rp>)</rp></ruby> <ruby>the Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabhoḥ</a></rt><rp>)</rp></ruby> <ruby>I cry<rp> (</rp><rt>viraumi</rt><rp>)</rp></ruby> <ruby>aloud<rp> (</rp><rt>tīvram</rt><rp>)</rp></ruby>: <ruby>that<rp> (</rp><rt>yat</rt><rp>)</rp></ruby>, <ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>even knowing<rp> (</rp><rt>vidannapi</rt><rp>)</rp></ruby> <ruby>thus<rp> (</rp><rt>evam</rt><rp>)</rp></ruby>, <ruby>I still lose my mind<rp> (</rp><rt>muhyāmi</rt><rp>)</rp></ruby>||3.21||</p>
 
 <p class="pv-pager nosearch" markdown="1">[← Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram](/en/ksh/sv/ch2/) · [Hymn 4 — Surasodbalākhyaṁ caturthaṁ stotram →](/en/ksh/sv/ch4/)</p>
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter3). Строфы 3.1–3.21 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter3). Stanzas 3.1–3.21 have been translated directly from Sanskrit, for this website: there is no exposition that could serve as a basis for them at the source.*
 
 <script src="/assets/js/pv-copy.js"></script>

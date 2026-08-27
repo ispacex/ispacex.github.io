@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch5/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter5)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter5)</p>
 
 # Hymn 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram
 
@@ -45,7 +44,7 @@ ru: /ksh/sv/ch5/
 <span class="pv-sa pv-src" lang="sa">अहो स्वादो विरूपक्षेत्येव नृत्येयमारटन्॥५.४॥</span><br />
 <span class="pv-iast">Aho svādo virūpakṣetyeva nṛtyeyamāraṭan||5.4||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>«О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>сокровищница нектара<rp> (</rp><rt>sudhā-nidhe</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-svamin" class="pv-gl">svāmin</a></rt><rp>)</rp></ruby>! <ruby>О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>сладостный<rp> (</rp><rt>mṛṣṭa</rt><rp>)</rp></ruby> <ruby>Трёхокий<rp> (</rp><rt>tri-locana</rt><rp>)</rp></ruby>! <ruby>О, вкус, о Virūpākṣa!<rp> (</rp><rt>aho svādo virūpākṣa</rt><rp>)</rp></ruby>» — <ruby>так<rp> (</rp><rt>ityeva</rt><rp>)</rp></ruby> <ruby>крича<rp> (</rp><rt>āraṭan</rt><rp>)</rp></ruby>, <ruby>да пущусь я в пляс<rp> (</rp><rt>nṛtyeyam</rt><rp>)</rp></ruby>||5.4||</p>
+<p class="pv-tr" markdown="1"><ruby>«О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>treasury of nectar<rp> (</rp><rt>sudhā-nidhe</rt><rp>)</rp></ruby>, <ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-svamin" class="pv-gl">svāmin</a></rt><rp>)</rp></ruby>! <ruby>O<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>, <ruby>sweet<rp> (</rp><rt>mṛṣṭa</rt><rp>)</rp></ruby> <ruby>Three-eyed<rp> (</rp><rt>tri-locana</rt><rp>)</rp></ruby>! <ruby>Oh, taste, o Virūpākṣa!<rp> (</rp><rt>aho svādo virūpākṣa</rt><rp>)</rp></ruby>» — <ruby>so<rp> (</rp><rt>ityeva</rt><rp>)</rp></ruby> <ruby>crying out<rp> (</rp><rt>āraṭan</rt><rp>)</rp></ruby>, <ruby>Let me dance.<rp> (</rp><rt>nṛtyeyam</rt><rp>)</rp></ruby>||5.4||</p>
 
 <hr class="pv-rule" />
 
@@ -90,7 +89,7 @@ ru: /ksh/sv/ch5/
 <span class="pv-sa pv-src" lang="sa">मनो मे तत्तदास्वाद्य क्षीवेदिव गलेदिव॥५.९॥</span><br />
 <span class="pv-iast">Mano me tattadāsvādya kṣīvediva galediva||5.9||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Смилуйся<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prasada" class="pv-gl">prasīda</a></rt><rp>)</rp></ruby>, <ruby>Господь<rp> (</rp><rt>bhagavan</rt><rp>)</rp></ruby>, <ruby>чтобы<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>мой<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>ум<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-manas" class="pv-gl">manaḥ</a></rt><rp>)</rp></ruby>, <ruby>навсегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>павший<rp> (</rp><rt>patitam</rt><rp>)</rp></ruby> <ruby>к Твоей стопе<rp> (</rp><rt>tvat-pade</rt><rp>)</rp></ruby>, <ruby>вкушая<rp> (</rp><rt>āsvādya</rt><rp>)</rp></ruby> <ruby>то и это<rp> (</rp><rt>tattad</rt><rp>)</rp></ruby>, <ruby>будто<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>хмелел<rp> (</rp><rt>kṣīvet</rt><rp>)</rp></ruby> <ruby>и будто<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>таял<rp> (</rp><rt>galet</rt><rp>)</rp></ruby>||5.9||</p>
+<p class="pv-tr" markdown="1"><ruby>Have mercy<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prasada" class="pv-gl">prasīda</a></rt><rp>)</rp></ruby>, <ruby>Lord<rp> (</rp><rt>bhagavan</rt><rp>)</rp></ruby>, <ruby>so that<rp> (</rp><rt>yena</rt><rp>)</rp></ruby> <ruby>my<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>mind<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-manas" class="pv-gl">manaḥ</a></rt><rp>)</rp></ruby>, <ruby>forever<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby> <ruby>fallen<rp> (</rp><rt>patitam</rt><rp>)</rp></ruby> <ruby>at Your foot<rp> (</rp><rt>tvat-pade</rt><rp>)</rp></ruby>, <ruby>tasting<rp> (</rp><rt>āsvādya</rt><rp>)</rp></ruby> <ruby>this and that<rp> (</rp><rt>tattad</rt><rp>)</rp></ruby>, <ruby>as if<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>intoxicated<rp> (</rp><rt>kṣīvet</rt><rp>)</rp></ruby> <ruby>and as if<rp> (</rp><rt>iva</rt><rp>)</rp></ruby> <ruby>melting<rp> (</rp><rt>galet</rt><rp>)</rp></ruby>||5.9||</p>
 
 <hr class="pv-rule" />
 
@@ -180,7 +179,7 @@ ru: /ksh/sv/ch5/
 <span class="pv-sa pv-src" lang="sa">एतु मम मनसि यावन्नश्यतु दुर्वासनागन्धः॥५.१९॥</span><br />
 <span class="pv-iast">Etu mama manasi yāvannaśyatu durvāsanāgandhaḥ||5.19||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Пусть<rp> (</rp><rt>etu</rt><rp>)</rp></ruby> <ruby>в моём<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>уме<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-manas" class="pv-gl">manasi</a></rt><rp>)</rp></ruby> <ruby>окрепнет<rp> (</rp><rt>dṛḍhatām</rt><rp>)</rp></ruby> благоухание цветка — <ruby>думы о Тебе, всякий раз с небывалой радостью<rp> (</rp><rt>tat-tat-apūrva-āmoda-tvat-cintā-kusuma-vāsanā</rt><rp>)</rp></ruby>, — <ruby>пока<rp> (</rp><rt>yāvat</rt><rp>)</rp></ruby> <ruby>не сгинет<rp> (</rp><rt>naśyatu</rt><rp>)</rp></ruby> запах дурных привычек <span class="pv-note">— «vāsanā» здесь разом «благоухание» и «накопленный след прежних дел»; на этом двойном смысле и стоит вся строфа —</span> <span class="pv-w">(dur-vāsanā-gandhaḥ)</span>||5.19||</p>
+<p class="pv-tr" markdown="1"><ruby>May<rp> (</rp><rt>etu</rt><rp>)</rp></ruby> <ruby>in my<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>mind<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-manas" class="pv-gl">manasi</a></rt><rp>)</rp></ruby> <ruby>grow strong<rp> (</rp><rt>dṛḍhatām</rt><rp>)</rp></ruby> the fragrance of the flower — <ruby>thought of Thee, each time with unprecedented joy<rp> (</rp><rt>tat-tat-apūrva-āmoda-tvat-cintā-kusuma-vāsanā</rt><rp>)</rp></ruby>, — <ruby>until<rp> (</rp><rt>yāvat</rt><rp>)</rp></ruby> <ruby>it perishes<rp> (</rp><rt>naśyatu</rt><rp>)</rp></ruby> the smell of bad habits <span class="pv-note">— «vāsanā» here is at once «fragrance» and «accumulated trace of past deeds»; the whole stanza rests on this double meaning —</span> <span class="pv-w">(dur-vāsanā-gandhaḥ)</span>||5.19||</p>
 
 <hr class="pv-rule" />
 
@@ -249,6 +248,6 @@ ru: /ksh/sv/ch5/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter5). Строфы 5.1–5.26 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 5 — Svabalanideśanākhyaṁ pañcamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter5). Stanzas 5.1–5.26 have been translated directly from the Sanskrit, for this site: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

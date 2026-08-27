@@ -4,10 +4,9 @@ lang: en
 ru: /ksh/principles/
 ---
 
+[Kashmir Shaivism](/en/ksh/) · [Back to main page](/en/)
 
-[КШ](/en/ksh/) · [Вернуться на главную](/en/)
-
-## Basic principles of KSh
+## Basic Principles of Kashmir Shaivism
 
 *Set forth according to: [Trika — Non-Dual Kashmiri Shaivism](https://www.sanskrit-trikashaivism.com/ru/essentials-tour-russian-home-tour-trika-section/703). Gabriel Pradīpaka (Gurujī).*
 

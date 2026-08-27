@@ -134,7 +134,7 @@ Mahattarī
 
 37/ Women who, for the protection of the entire harem and for the prosperity of the king, find pleasure in singing hymns to the gods and in performing auspicious ceremonies, are called mahattarī (matrons).
 
-Пратихари
+Pratihari
 
 38/ Women who present to the king all matters pertaining to various state affairs, such as treaties, war, and the like, are called pratīhārī (door-keepers).
 

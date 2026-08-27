@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch4/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter4)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter4)</p>
 
 # Hymn 4 — Surasodbalākhyaṁ caturthaṁ stotram
 
@@ -198,7 +197,7 @@ ru: /ksh/sv/ch4/
 <span class="pv-sa pv-src" lang="sa">शुभशतान्युदितानि तदैव मे किमपरं मृगये भवतः प्रभो॥४.२१॥</span><br />
 <span class="pv-iast">Śubhaśatānyuditāni tadaiva me kimaparaṁ mṛgaye bhavataḥ prabho||4.21||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Великий Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-maheshvara" class="pv-gl">maheśa</a></rt><rp>)</rp></ruby>, <ruby>как только<rp> (</rp><rt>yadā eva</rt><rp>)</rp></ruby> <ruby>я поставил ногу<rp> (</rp><rt>kṛta-padaḥ asmi</rt><rp>)</rp></ruby> <ruby>на Твой<rp> (</rp><rt>tāvake</rt><rp>)</rp></ruby> <ruby>путь Śiva<rp> (</rp><rt>śiva-adhvani</rt><rp>)</rp></ruby> — <ruby>Твоею же волей<rp> (</rp><rt>tava icchayā</rt><rp>)</rp></ruby>, — <ruby>тогда же<rp> (</rp><rt>tadā eva</rt><rp>)</rp></ruby> <ruby>взошли<rp> (</rp><rt>uditāni</rt><rp>)</rp></ruby> <ruby>у меня<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>сотни благ<rp> (</rp><rt>śubha-śatāni</rt><rp>)</rp></ruby>. <ruby>Чего ещё<rp> (</rp><rt>kimaparaṁ</rt><rp>)</rp></ruby> <ruby>искать<rp> (</rp><rt>mṛgaye</rt><rp>)</rp></ruby> <ruby>мне у Тебя<rp> (</rp><rt>bhavataḥ</rt><rp>)</rp></ruby>, <ruby>Господь<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>?||4.21||</p>
+<p class="pv-tr" markdown="1"><ruby>The Great Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-maheshvara" class="pv-gl">maheśa</a></rt><rp>)</rp></ruby>, <ruby>as soon as<rp> (</rp><rt>yadā eva</rt><rp>)</rp></ruby> <ruby>I placed my foot<rp> (</rp><rt>kṛta-padaḥ asmi</rt><rp>)</rp></ruby> <ruby>on Thy<rp> (</rp><rt>tāvake</rt><rp>)</rp></ruby> <ruby>path of Śiva<rp> (</rp><rt>śiva-adhvani</rt><rp>)</rp></ruby> — <ruby>by Thy very will<rp> (</rp><rt>tava icchayā</rt><rp>)</rp></ruby>, — <ruby>then indeed<rp> (</rp><rt>tadā eva</rt><rp>)</rp></ruby> <ruby>arose<rp> (</rp><rt>uditāni</rt><rp>)</rp></ruby> <ruby>in me<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>hundreds of blessings<rp> (</rp><rt>śubha-śatāni</rt><rp>)</rp></ruby>. <ruby>What more<rp> (</rp><rt>kimaparaṁ</rt><rp>)</rp></ruby> <ruby>should I seek<rp> (</rp><rt>mṛgaye</rt><rp>)</rp></ruby> <ruby>from Thee<rp> (</rp><rt>bhavataḥ</rt><rp>)</rp></ruby>, <ruby>O Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>?||4.21||</p>
 
 <hr class="pv-rule" />
 
@@ -225,7 +224,7 @@ ru: /ksh/sv/ch4/
 <span class="pv-sa pv-src" lang="sa">यदयं प्रथमानमेव मे त्वामवधीर्य श्लथते न लेशतोऽपि॥४.२४॥</span><br />
 <span class="pv-iast">Yadayaṁ prathamānameva me tvāmavadhīrya ślathate na leśato'pi||4.24||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Ах<rp> (</rp><rt>bata</rt><rp>)</rp></ruby>, <ruby>Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>крепка<rp> (</rp><rt>dṛḍhaḥ</rt><rp>)</rp></ruby> <ruby>эта<rp> (</rp><rt>ayam</rt><rp>)</rp></ruby> <ruby>привязь к самому себе<rp> (</rp><rt>ātma-bandhaḥ</rt><rp>)</rp></ruby>, <ruby>сотканная из незнания о Тебе<rp> (</rp><rt>bhavat-akhyāti-mayaḥ</rt><rp>)</rp></ruby> <ruby>и Тобою же<rp> (</rp><rt>tvayā eva</rt><rp>)</rp></ruby> <ruby>слаженная<rp> (</rp><rt>kḷptaḥ</rt><rp>)</rp></ruby>: <ruby>ведь<rp> (</rp><rt>yat</rt><rp>)</rp></ruby> <ruby>она<rp> (</rp><rt>ayam</rt><rp>)</rp></ruby> <ruby>не ослабевает<rp> (</rp><rt>ślathate</rt><rp>)</rp></ruby> <ruby>ни на волос<rp> (</rp><rt>na leśataḥ api</rt><rp>)</rp></ruby>, <ruby>пренебрегая<rp> (</rp><rt>avadhīrya</rt><rp>)</rp></ruby> <ruby>Тобою<rp> (</rp><rt>tvām</rt><rp>)</rp></ruby>, <ruby>у меня<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>уже сияющим<rp> (</rp><rt>prathamānam eva</rt><rp>)</rp></ruby>||4.24||</p>
+<p class="pv-tr" markdown="1"><ruby>Ah<rp> (</rp><rt>bata</rt><rp>)</rp></ruby>, <ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>firm<rp> (</rp><rt>dṛḍhaḥ</rt><rp>)</rp></ruby> <ruby>this<rp> (</rp><rt>ayam</rt><rp>)</rp></ruby> <ruby>bond to oneself<rp> (</rp><rt>ātma-bandhaḥ</rt><rp>)</rp></ruby>, <ruby>woven from ignorance of You<rp> (</rp><rt>bhavat-akhyāti-mayaḥ</rt><rp>)</rp></ruby> <ruby>and by You Yourself<rp> (</rp><rt>tvayā eva</rt><rp>)</rp></ruby> <ruby>composed<rp> (</rp><rt>kḷptaḥ</rt><rp>)</rp></ruby>: <ruby>for<rp> (</rp><rt>yat</rt><rp>)</rp></ruby> <ruby>it<rp> (</rp><rt>ayam</rt><rp>)</rp></ruby> <ruby>does not slacken<rp> (</rp><rt>ślathate</rt><rp>)</rp></ruby> <ruby>by a hair<rp> (</rp><rt>na leśataḥ api</rt><rp>)</rp></ruby>, <ruby>disregarding<rp> (</rp><rt>avadhīrya</rt><rp>)</rp></ruby> <ruby>You<rp> (</rp><rt>tvām</rt><rp>)</rp></ruby>, <ruby>for me<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>already shining<rp> (</rp><rt>prathamānam eva</rt><rp>)</rp></ruby>||4.24||</p>
 
 <hr class="pv-rule" />
 
@@ -240,6 +239,6 @@ ru: /ksh/sv/ch4/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 4 — Surasodbalākhyaṁ caturthaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter4). Строфы 4.1–4.25 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 4 — Surasodbalākhyaṁ caturthaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter4). Stanzas 4.1–4.25 have been translated directly from the Sanskrit, for this site: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/sv/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Śivastotrāvalī
 

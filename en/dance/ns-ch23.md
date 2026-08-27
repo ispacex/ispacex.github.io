@@ -74,7 +74,7 @@ The superimposed (āropya) include a golden neck chain (hema-sūtra) and necklac
 
 The earring (kuṇḍala), the ear pendant (mocaka), and the ear stud (kīla) are ornaments for the ears.
 
-Neck ornaments
+*Neck ornaments*
 
 16/ Necklaces of pearls (muktāvalī), harṣaka, and the [golden] thread (sūtra) are ornaments of the neck.
 
@@ -124,7 +124,7 @@ Tilaka and patralekhā are decorations of the cheeks.
 
 26-30/ Triveṇī is to be known as an ornament of the chest. Both eyes should be lined with collyrium, and the lips should also be colored. The teeth will have various colors, and four of them may possess whiteness. Colored with turmeric, their beauty increases. Pearl-like teeth of beautiful young women adorn their smile, and teeth colored with the hue of lotus petals will be charming, while lips colored with the hue of stone will acquire the beauty of a flower. And a languid glance will constitute their allure.
 
-Neck ornaments
+*Neck ornaments*
 
 30-31/ Pearl necklace, serpentine row (vyāla-paṅkti), mañjari, string of gems, necklace of gems, and neck chain (sūtra) are ornaments of the neck.
 
@@ -200,7 +200,7 @@ Kharjūra and ucchitikā are ornaments of the forearm. Also kalāpī and kaṭak
 
 58/ Women of the rakṣasas should have sapphires as ornaments, and their teeth should be white, while their garments should be black.
 
-Goddesses
+*Goddesses*
 
 59/ Heavenly women should have lapis lazuli and pearls as ornaments, and their garments should be green, like [the color of] a parrot's tail.
 
@@ -428,7 +428,7 @@ Goddesses
 
 154/ Men and women, having been brought into such a state, should present all psychological states (bhāva) of the gods in a human manner.
 
-**Sañjīva**
+**Sanjīva**
 
 155-156/ Directors should not prescribe unblinking eyes in the case of gods. For all psychological states and moods in this world are based on glances, and the meaning [of words] contained in glances is then represented by gestures. Thus should one know about body makeup pertaining to various characters.
 

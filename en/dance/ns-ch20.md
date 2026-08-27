@@ -98,7 +98,7 @@ The number of characters
 
 40/ Plays of the types Vyāyoga, Īhāmṛga, Samavakāra, and Ḍima should have ten or twelve Acts.
 
-Введение колесниц и дворцов на сцену
+Introduction of chariots and palaces to the stage
 
 41/ A chariot, an elephant, a horse, and a palace should not be represented on stage. They must be conveyed in the play through the appearance and costumes [of the people associated with them], as well as their gait (gati) and movements (gati-vicāra).
 
@@ -210,7 +210,7 @@ Ihamṛga
 
 83/ The features of Īhāmṛga have been briefly stated by me. Next, I shall speak about the features of Ḍima.
 
-Дима
+Dima
 
 84/ It must be built on a well-known plot, its hero must be of a renowned and exalted (udātta) type. It must contain six rasas and consist of only four Acts.
 
@@ -258,7 +258,7 @@ Mixed Prahasana
 
 106-107/ Any popular theme [of scandal] or episode of hypocrisy should be introduced into the Prahasana through the quarrels of Dhūrtas and Vīṭas. The Prahasana should include [any of] the kinds of Vīti that it may appropriately require.
 
-Бхана
+Bhāṇa
 
 107-108/ Now I shall speak of the peculiarities of the Bhāṇa. The Bhāṇa is enacted by a single character and is of two kinds: [one — with] the expression of one's own feelings, the other — [with] the description of others' deeds.
 
@@ -268,7 +268,7 @@ Mixed Prahasana
 
 111/ All the features of the Bhāṇa have been described by me according to tradition (āgama). [Now] I shall speak of the features of the Vīthi in the proper order.
 
-Вити
+Viṭi
 
 112-113/ Vīthi must have one Act and be performed by two or one person. It should include characters of the highest, middle, or lowest type, may contain [any of] the rasas, and is of thirteen kinds. Now I shall speak of the peculiarities of all of them.
 
@@ -282,7 +282,7 @@ Random interpretation
 
 117/ If, wishing to explain them, people connect words of obscure meaning with words other [than those intended by the speaker], this becomes an Incidental interpretation.
 
-Перенесение
+Transfer
 
 118/ When [something] occurring in connection with one thing is used to achieve something else, — this becomes [an example of] Transference (avalagita).
 
@@ -354,7 +354,7 @@ Asina (pathya)
 
 139/ When [someone] sits without tidying oneself, and is overcome with anxiety and grief, and glances sideways — this is [an example of] Āsīna (pathya).
 
-Пушпагандика
+Pushpagandika
 
 140/ When a woman dressed as a man sweetly recites something in Sanskrit to the delight of her friends, this is [an example of] Puṣpagandikā.
 
@@ -366,7 +366,7 @@ Trimudhaka
 
 142/ A play adorned with even meters, abounding in heroic sentiments, and composed of words that are neither harsh nor grand, is called Trimudhaka.
 
-Сайндхавака
+Saindhavaka
 
 143/ When [someone] portrays a lover who has failed to appear for a rendezvous and expresses his sorrow in Prakrit through well-executed karaṇas, this is [an example of] Saindhavakī.
 

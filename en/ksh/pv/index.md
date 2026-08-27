@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/pv/
 ---
 
-
-[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/pv/glossary/) · [Поиск по сайту](/en/search/) · [Вернуться на главную](/en/)
+[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/pv/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)
 
 # Parātrīśikāvivaraṇa
 
@@ -97,5 +96,5 @@ The Russian text on these pages is a translation of his English exposition, made
 for the exact meaning and for the Sanskrit, one should always go to the source.
 
 Among Russian translations, it is worth keeping at hand [Tantrasāra](/en/ksh/tantrasara/)
-and [Basic Principles of KŚ](/en/ksh/principles/) — they provide the minimum set of concepts without which
+and [Basic Principles of Kashmir Shaivism](/en/ksh/principles/) — they provide the minimum set of concepts without which
 the “Parātriśikā-vivaraṇa” is unreadable.

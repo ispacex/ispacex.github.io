@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch7/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter7)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter7)</p>
 
 # Hymn 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram
 
@@ -36,7 +35,7 @@ ru: /ksh/sv/ch7/
 <span class="pv-sa pv-src" lang="sa">भगवन्नानन्दरसप्लुतास्तु मे चिन्मयी मूर्तिः॥७.३॥</span><br />
 <span class="pv-iast">Bhagavannānandarasaplutāstu me cinmayī mūrtiḥ||7.3||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Пусть стечёт<rp> (</rp><rt>galatu</rt><rp>)</rp></ruby> <ruby>вереница пятен различающей мысли<rp> (</rp><rt>vikalpa-kalaṅka-āvalī</rt><rp>)</rp></ruby>, <ruby>пусть воссияет<rp> (</rp><rt>samullasatu</rt><rp>)</rp></ruby> <ruby>в сердце<rp> (</rp><rt>hṛdi</rt><rp>)</rp></ruby> <ruby>беспрепятственность<rp> (</rp><rt>nirargalatā</rt><rp>)</rp></ruby>; <ruby>Господь<rp> (</rp><rt>bhagavan</rt><rp>)</rp></ruby>, <ruby>пусть мой<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>состоящий из Сознания<rp> (</rp><rt>cin-mayī</rt><rp>)</rp></ruby> <ruby>облик<rp> (</rp><rt>mūrtiḥ</rt><rp>)</rp></ruby> <ruby>будет<rp> (</rp><rt>astu</rt><rp>)</rp></ruby> <ruby>залит соком блаженства<rp> (</rp><rt>ānanda-rasa-plutā</rt><rp>)</rp></ruby>||7.3||</p>
+<p class="pv-tr" markdown="1"><ruby>Let flow<rp> (</rp><rt>galatu</rt><rp>)</rp></ruby> <ruby>the train of stains of discriminating thought<rp> (</rp><rt>vikalpa-kalaṅka-āvalī</rt><rp>)</rp></ruby>, <ruby>let shine forth<rp> (</rp><rt>samullasatu</rt><rp>)</rp></ruby> <ruby>in the heart<rp> (</rp><rt>hṛdi</rt><rp>)</rp></ruby> <ruby>unobstructedness<rp> (</rp><rt>nirargalatā</rt><rp>)</rp></ruby>; <ruby>Lord<rp> (</rp><rt>bhagavan</rt><rp>)</rp></ruby>, <ruby>let my<rp> (</rp><rt>me</rt><rp>)</rp></ruby> <ruby>form consisting of Consciousness<rp> (</rp><rt>cin-mayī</rt><rp>)</rp></ruby> <ruby>be<rp> (</rp><rt>mūrtiḥ</rt><rp>)</rp></ruby> <ruby>will be<rp> (</rp><rt>astu</rt><rp>)</rp></ruby> <ruby>flooded with the juice of bliss<rp> (</rp><rt>ānanda-rasa-plutā</rt><rp>)</rp></ruby>||7.3||</p>
 
 <hr class="pv-rule" />
 
@@ -81,7 +80,7 @@ ru: /ksh/sv/ch7/
 <span class="pv-sa pv-src" lang="sa">शिवमयमखिलं लोकं क्रियाश्च पूजामयी सकलाः॥७.८॥</span><br />
 <span class="pv-iast">Śivamayamakhilaṁ lokaṁ kriyāśca pūjāmayī sakalāḥ||7.8||</span></p>
 
-<p class="pv-tr" markdown="1">Силою <ruby>головокружения, рождённого хмелем преданности<rp> (</rp><rt>bhakti-mada-janita-vibhrama-vaśena</rt><rp>)</rp></ruby>, <ruby>да увижу я<rp> (</rp><rt>paśyeyam</rt><rp>)</rp></ruby> <ruby>органами чувств<rp> (</rp><rt>karaṇaiḥ</rt><rp>)</rp></ruby> <ruby>без изъяна<rp> (</rp><rt>avikalam</rt><rp>)</rp></ruby> <ruby>весь<rp> (</rp><rt>akhilam</rt><rp>)</rp></ruby> <ruby>мир<rp> (</rp><rt>lokam</rt><rp>)</rp></ruby> <ruby>состоящим из Śiva<rp> (</rp><rt>śiva-mayam</rt><rp>)</rp></ruby>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>все<rp> (</rp><rt>sakalāḥ</rt><rp>)</rp></ruby> <ruby>дела<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-kriya" class="pv-gl">kriyāḥ</a></rt><rp>)</rp></ruby> — <ruby>состоящими из почитания<rp> (</rp><rt>pūjā-mayī</rt><rp>)</rp></ruby>||7.8||</p>
+<p class="pv-tr" markdown="1">By force <ruby>of dizziness born of the intoxication of devotion<rp> (</rp><rt>bhakti-mada-janita-vibhrama-vaśena</rt><rp>)</rp></ruby>, <ruby>May I see.<rp> (</rp><rt>paśyeyam</rt><rp>)</rp></ruby> <ruby>with the sense organs<rp> (</rp><rt>karaṇaiḥ</rt><rp>)</rp></ruby> <ruby>flawless<rp> (</rp><rt>avikalam</rt><rp>)</rp></ruby> <ruby>all<rp> (</rp><rt>akhilam</rt><rp>)</rp></ruby> <ruby>world<rp> (</rp><rt>lokam</rt><rp>)</rp></ruby> <ruby>consisting of Śiva<rp> (</rp><rt>śiva-mayam</rt><rp>)</rp></ruby>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>all<rp> (</rp><rt>sakalāḥ</rt><rp>)</rp></ruby> <ruby>deeds<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-kriya" class="pv-gl">kriyāḥ</a></rt><rp>)</rp></ruby> — <ruby>consisting of worship<rp> (</rp><rt>pūjā-mayī</rt><rp>)</rp></ruby>||7.8||</p>
 
 <hr class="pv-rule" />
 
@@ -96,6 +95,6 @@ ru: /ksh/sv/ch7/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter7). Строфы 7.1–7.9 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 7 — Vidhuravijayanāmadheyaṁ saptamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter7). Stanzas 7.1–7.9 have been translated directly from the Sanskrit, for this website: there is no exposition available from the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

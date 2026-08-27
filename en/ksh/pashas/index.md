@@ -3,7 +3,7 @@ lang: en
 ru: /ksh/pashas/
 ---
 
-[KŚ](/en/ksh/)
+[Kashmir Shaivism](/en/ksh/)
 
 ## Pāśa
 

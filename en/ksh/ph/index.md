@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/ph/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/ph/glossary/) · [Scriptures of Trika](/en/ksh/scriptures/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/ph/glossary/) · [Scriptures of Trika](/en/ksh/scriptures/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Pratyabhijñāhṛdayam
 
@@ -96,27 +96,27 @@ exposition of the whole system, and its words are its own: `saṅkoca` and `vik�
 ## Parts
 
 <ul class="pv-toc">
-<li><a href="/en/ksh/ph/begin/">Начало</a> — вступительные строфы и обращение к читателю — <em>4 строфы, 5 абзацев</em></li>
-<li><a href="/en/ksh/ph/s1/">Афоризм 1</a> — Сила-Сознание свободна и есть причина вселенной — <em>11 строф, 9 абзацев</em></li>
-<li><a href="/en/ksh/ph/s2/">Афоризм 2</a> — она разворачивает вселенную на собственном холсте — <em>3 строфы, 3 абзаца</em></li>
-<li><a href="/en/ksh/ph/s3/">Афоризм 3</a> — вселенная многообразна из-за деления на познающего и познаваемое — <em>3 строфы, 3 абзаца</em></li>
-<li><a href="/en/ksh/ph/s4/">Афоризм 4</a> — сжатое сознание тоже несёт вселенную — в сжатом виде — <em>16 строф, 17 абзацев</em></li>
-<li><a href="/en/ksh/ph/s5/">Афоризм 5</a> — сама Сила, нисходя, становится умом — <em>7 строф, 7 абзацев</em></li>
-<li><a href="/en/ksh/ph/s6/">Афоризм 6</a> — воспринимающий под властью майи состоит из ума — <em>7 строф, 7 абзацев</em></li>
-<li><a href="/en/ksh/ph/s7/">Афоризм 7</a> — Один становится двумя, тремя, четырьмя и семью пятёрками — <em>3 строфы, 3 абзаца</em></li>
-<li><a href="/en/ksh/ph/s8/">Афоризм 8</a> — все философские школы — Его роли — <em>30 строф, 27 абзацев</em></li>
-<li><a href="/en/ksh/ph/s9/">Афоризм 9</a> — от сжатия Силы Самость становится душой, покрытой грязью — <em>3 строфы, 3 абзаца</em></li>
-<li><a href="/en/ksh/ph/s10/">Афоризм 10</a> — и в этом состоянии она совершает те же пять действий — <em>8 строф, 8 абзацев</em></li>
-<li><a href="/en/ksh/ph/s11/">Афоризм 11</a> — пять действий: явление, вкус, отклик, семя, растворение — <em>5 строф, 5 абзацев</em></li>
-<li><a href="/en/ksh/ph/s12/">Афоризм 12</a> — быть душой в круговороте — значит не знать об этом авторстве — <em>19 строф, 18 абзацев</em></li>
-<li><a href="/en/ksh/ph/s13/">Афоризм 13</a> — при полном знании ум сам восходит к Чистому Сознанию — <em>3 строфы, 3 абзаца</em></li>
-<li><a href="/en/ksh/ph/s14/">Афоризм 14</a> — огонь Сознания и под покровом сжигает топливо познаваемого — <em>5 строф, 4 абзаца</em></li>
-<li><a href="/en/ksh/ph/s15/">Афоризм 15</a> — обретя Силу Сознания, человек уподобляет вселенную себе — <em>9 строф, 8 абзацев</em></li>
-<li><a href="/en/ksh/ph/s16/">Афоризм 16</a> — обретя Блаженство, он свободен при жизни — <em>5 строф, 4 абзаца</em></li>
-<li><a href="/en/ksh/ph/s17/">Афоризм 17</a> — Блаженство обретается раскрытием срединного — <em>5 строф, 5 абзацев</em></li>
-<li><a href="/en/ksh/ph/s18/">Афоризм 18</a> — четыре способа этого раскрытия — <em>35 строф, 35 абзацев</em></li>
-<li><a href="/en/ksh/ph/s19/">Афоризм 19</a> — постоянное Самадхи — из состояния после Самадхи — <em>5 строф, 5 абзацев</em></li>
-<li><a href="/en/ksh/ph/s20/">Афоризм 20</a> — власть над кругом божеств собственного Сознания — <em>27 строф, 28 абзацев</em></li>
+<li><a href="/en/ksh/ph/begin/">Beginning</a> — introductory verses and address to the reader — <em>4 verses, 5 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s1/">Aphorism 1</a> — Force-Consciousness is free and is the cause of the universe — <em>11 verses, 9 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s2/">Aphorism 2</a> — it unfolds the universe on its own canvas — <em>3 verses, 3 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s3/">Aphorism 3</a> — the universe is manifold because of the division into knower and known — <em>3 verses, 3 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s4/">Aphorism 4</a> — contracted consciousness also bears the universe — in contracted form — <em>16 verses, 17 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s5/">Aphorism 5</a> — Force itself, descending, becomes mind — <em>7 verses, 7 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s6/">Aphorism 6</a> — the perceiver under the power of māyā consists of mind — <em>7 verses, 7 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s7/">Aphorism 7</a> — the One becomes two, three, four, and seven fives — <em>3 verses, 3 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s8/">Aphorism 8</a> — all philosophical schools are His roles — <em>30 verses, 27 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s9/">Aphorism 9</a> — from the contraction of Force the Self becomes a soul covered with dirt — <em>3 verses, 3 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s10/">Aphorism 10</a> — and in this state it performs the same five actions — <em>8 verses, 8 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s11/">Aphorism 11</a> — five actions: manifestation, taste, response, seed, dissolution — <em>5 verses, 5 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s12/">Aphorism 12</a> — to be a soul in the cycle means not to know of this authorship — <em>19 verses, 18 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s13/">Aphorism 13</a> — with full knowledge the mind itself ascends to Pure Consciousness — <em>3 verses, 3 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s14/">Aphorism 14</a> — the fire of Consciousness even under cover burns the fuel of the knowable — <em>5 verses, 4 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s15/">Aphorism 15</a> — having attained the Force of Consciousness, a man makes the universe like himself — <em>9 verses, 8 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s16/">Aphorism 16</a> — having attained Bliss, he is free while living — <em>5 verses, 4 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s17/">Aphorism 17</a> — Bliss is attained by the opening of the middle — <em>5 verses, 5 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s18/">Aphorism 18</a> — four ways of this opening — <em>35 verses, 35 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s19/">Aphorism 19</a> — constant Samādhi — from the state after Samādhi — <em>5 verses, 5 paragraphs</em></li>
+<li><a href="/en/ksh/ph/s20/">Aphorism 20</a> — mastery over the circle of deities of one's own Consciousness — <em>27 verses, 28 paragraphs</em></li>
 </ul>
 
 ## About the Source

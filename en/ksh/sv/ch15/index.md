@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch15/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter15)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter15)</p>
 
 # Hymn 15 — Bhaktistotranāma pañcadaśaṁ stotram
 
@@ -45,7 +44,7 @@ ru: /ksh/sv/ch15/
 <span class="pv-sa pv-src" lang="sa">भवेयमपि तूद्रिक्तभक्त्यासवरसोन्मदः॥१५.४॥</span><br />
 <span class="pv-iast">Bhaveyamapi tūdriktabhaktyāsavarasonmadaḥ||15.4||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Твой почитатель<rp> (</rp><rt>tvat-arcakaḥ</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>отрешён<rp> (</rp><rt>viraktaḥ</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> не (na api) <ruby>владыка<rp> (</rp><rt>īśaḥ</rt><rp>)</rp></ruby>, <ruby>и освобождения не ищет<rp> (</rp><rt>mokṣa-ākāṅkṣī</rt><rp>)</rp></ruby>. Но (api tu) <ruby>да буду<rp> (</rp><rt>bhaveyam</rt><rp>)</rp></ruby> я хмелен от переливающегося <ruby>через край хмельного сока преданности<rp> (</rp><rt>udrikta-bhakti-āsava-rasa-unmadaḥ</rt><rp>)</rp></ruby>||15.4||</p>
+<p class="pv-tr" markdown="1"><ruby>Your worshipper<rp> (</rp><rt>tvat-arcakaḥ</rt><rp>)</rp></ruby> <ruby>is not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>detached<rp> (</rp><rt>viraktaḥ</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> not (na api) <ruby>a lord<rp> (</rp><rt>īśaḥ</rt><rp>)</rp></ruby>, <ruby>and does not seek liberation<rp> (</rp><rt>mokṣa-ākāṅkṣī</rt><rp>)</rp></ruby>. But (api tu) <ruby>may I be<rp> (</rp><rt>bhaveyam</rt><rp>)</rp></ruby> intoxicated with the overflowing <ruby>excess of the intoxicating juice of devotion<rp> (</rp><rt>udrikta-bhakti-āsava-rasa-unmadaḥ</rt><rp>)</rp></ruby>||15.4||</p>
 
 <hr class="pv-rule" />
 
@@ -153,7 +152,7 @@ ru: /ksh/sv/ch15/
 <span class="pv-sa pv-src" lang="sa">वासयन्त्यपि विरुद्धवासनान्योगिनो निकटवासिनोऽखिलान्॥१५.१६॥</span><br />
 <span class="pv-iast">Vāsayantyapi viruddhavāsanānyogino nikaṭavāsino'khilān||15.16||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Йогины<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-yoga" class="pv-gl">yoginaḥ</a></rt><rp>)</rp></ruby>, <ruby>благоуханные благим<rp> (</rp><rt>śubhāḥ</rt><rp>)</rp></ruby>, у кого мощно <ruby>раскрывается благоухание соцветия Трёхокого<rp> (</rp><rt>utkaṭa-unmiṣat-tryambaka-stavaka-saurabhāḥ</rt><rp>)</rp></ruby> — <ruby>и снаружи<rp> (</rp><rt>bāhyataḥ</rt><rp>)</rp></ruby>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>внутри<rp> (</rp><rt>antaḥ api</rt><rp>)</rp></ruby>, — <ruby>пропитывают<rp> (</rp><rt>vāsayanti</rt><rp>)</rp></ruby> <ruby>собою и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>всех<rp> (</rp><rt>akhilān</rt><rp>)</rp></ruby> <ruby>живущих поблизости<rp> (</rp><rt>nikaṭa-vāsinaḥ</rt><rp>)</rp></ruby>, <ruby>даже с противоположными наклонностями<rp> (</rp><rt>viruddha-vāsanān</rt><rp>)</rp></ruby>||15.16||</p>
+<p class="pv-tr" markdown="1"><ruby>Yogins<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-yoga" class="pv-gl">yoginaḥ</a></rt><rp>)</rp></ruby>, <ruby>fragrant with goodness<rp> (</rp><rt>śubhāḥ</rt><rp>)</rp></ruby>, in whom the fragrance of the Three-Eyed One’s blossom powerfully<ruby>unfolds<rp> (</rp><rt>utkaṭa-unmiṣat-tryambaka-stavaka-saurabhāḥ</rt><rp>)</rp></ruby> — <ruby>both outwardly<rp> (</rp><rt>bāhyataḥ</rt><rp>)</rp></ruby>, <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>inwardly<rp> (</rp><rt>antaḥ api</rt><rp>)</rp></ruby>, — <ruby>permeate<rp> (</rp><rt>vāsayanti</rt><rp>)</rp></ruby> <ruby>with themselves<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>all<rp> (</rp><rt>akhilān</rt><rp>)</rp></ruby> <ruby>those dwelling nearby<rp> (</rp><rt>nikaṭa-vāsinaḥ</rt><rp>)</rp></ruby>, <ruby>even those with contrary dispositions<rp> (</rp><rt>viruddha-vāsanān</rt><rp>)</rp></ruby>||15.16||</p>
 
 <hr class="pv-rule" />
 
@@ -186,6 +185,6 @@ ru: /ksh/sv/ch15/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 15 — Bhaktistotranāma pañcadaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter15). Строфы 15.1–15.19 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 15 — Bhaktistotranāma pañcadaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter15). Stanzas 15.1–15.19 have been translated directly from Sanskrit for this site: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

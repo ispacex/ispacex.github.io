@@ -108,7 +108,7 @@ Bharata Muni
 
 49/ The meanings of words are presented differently by men and women through psychological states and appropriate followers.
 
-Joy
+**Joy**
 
 50/ Joy is indicated by embracing the body, smiling eyes, and goosebumps (romāñca).
 
@@ -140,7 +140,7 @@ Joy
 
 59-60/ Fear in women is shown through the movement of the eyeballs, trembling, shaking of the limbs, frightened sidelong glances, seeking refuge, loud weeping, and wrapping the arms around loved ones.
 
-Intoxication
+**Intoxication**
 
 61/ Intoxication is applied to women and to male characters of the inferior type.
 

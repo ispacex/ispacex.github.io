@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch14/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter14)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter14)</p>
 
 # Hymn 14 — Jayastotranāma caturdaśaṁ stotram
 
@@ -27,7 +26,7 @@ ru: /ksh/sv/ch14/
 <span class="pv-sa pv-src" lang="sa">पार्वतीप्रणयिञ्छर्व सर्वगीर्वाणपूर्वज॥१४.२॥</span><br />
 <span class="pv-iast">Pārvatīpraṇayiñcharva sarvagīrvāṇapūrvaja||14.2||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Победа<rp> (</rp><rt>jaya</rt><rp>)</rp></ruby> <ruby>единому Rudra, единому Śiva<rp> (</rp><rt>eka-rudra-eka-śiva</rt><rp>)</rp></ruby>, <ruby>Mahādeva<rp> (</rp><rt>mahā-deva</rt><rp>)</rp></ruby>, <ruby>Maheśvara<rp> (</rp><rt>mahā-īśvara</rt><rp>)</rp></ruby>, <ruby>любящий Pārvatī<rp> (</rp><rt>pārvatī-praṇayin</rt><rp>)</rp></ruby>, <ruby>Śarva<rp> (</rp><rt>śarva</rt><rp>)</rp></ruby>, <ruby>рождённый прежде всех богов<rp> (</rp><rt>sarva-girvāṇa-pūrva-ja</rt><rp>)</rp></ruby>!||14.2||</p>
+<p class="pv-tr" markdown="1"><ruby>Victory<rp> (</rp><rt>jaya</rt><rp>)</rp></ruby> <ruby>to the one Rudra, the one Śiva<rp> (</rp><rt>eka-rudra-eka-śiva</rt><rp>)</rp></ruby>, <ruby>Mahādeva<rp> (</rp><rt>mahā-deva</rt><rp>)</rp></ruby>, <ruby>Maheśvara<rp> (</rp><rt>mahā-īśvara</rt><rp>)</rp></ruby>, <ruby>loving Pārvatī<rp> (</rp><rt>pārvatī-praṇayin</rt><rp>)</rp></ruby>, <ruby>Śarva<rp> (</rp><rt>śarva</rt><rp>)</rp></ruby>, <ruby>born before all gods<rp> (</rp><rt>sarva-girvāṇa-pūrva-ja</rt><rp>)</rp></ruby>!||14.2||</p>
 
 <hr class="pv-rule" />
 
@@ -162,7 +161,7 @@ ru: /ksh/sv/ch14/
 <span class="pv-sa pv-src" lang="sa">जय विश्वक्षयक्षेपिक्षणकोपाशुशुक्षणे॥१४.१७॥</span><br />
 <span class="pv-iast">Jaya viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe||14.17||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Победа<rp> (</rp><rt>jaya</rt><rp>)</rp></ruby> Тебе, <ruby>играючи отдавшему этот океан — рудник нектара<rp> (</rp><rt>helā-vitīrṇa-etat-amṛta-ākara-sāgara</rt><rp>)</rp></ruby>! <ruby>Победа<rp> (</rp><rt>jaya</rt><rp>)</rp></ruby> Тебе, чей мгновенный <ruby>гнев — огонь, что швыряет вселенную в гибель<rp> (</rp><rt>viśva-kṣaya-kṣepi-kṣaṇa-kopa-āśuśukṣaṇe</rt><rp>)</rp></ruby>!||14.17||</p>
+<p class="pv-tr" markdown="1"><ruby>Victory<rp> (</rp><rt>jaya</rt><rp>)</rp></ruby> To you, <ruby>having playfully given away this ocean — the mine of nectar<rp> (</rp><rt>helā-vitīrṇa-etat-amṛta-ākara-sāgara</rt><rp>)</rp></ruby>! <ruby>Victory<rp> (</rp><rt>jaya</rt><rp>)</rp></ruby> To you, whose momentary <ruby>anger — fire that hurls the universe into destruction<rp> (</rp><rt>viśva-kṣaya-kṣepi-kṣaṇa-kopa-āśuśukṣaṇe</rt><rp>)</rp></ruby>!||14.17||</p>
 
 <hr class="pv-rule" />
 
@@ -231,6 +230,6 @@ ru: /ksh/sv/ch14/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 14 — Jayastotranāma caturdaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter14). Строфы 14.1–14.24 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 14 — Jayastotranāma caturdaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter14). Stanzas 14.1–14.24 have been translated directly from Sanskrit, for this site: there is no exposition from the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

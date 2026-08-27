@@ -4,14 +4,14 @@ lang: en
 ru: /ksh/ta/glossary/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Tantrāloka](/en/ksh/ta/) · [Site search](/en/search/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Tantrāloka](/en/ksh/ta/) · [Site search](/en/search/)</p>
 
 # Glossary of terms
 
-This dictionary is not in the treatise. It has been compiled from the very Sanskrit annotations
-that appear in parentheses next to each Russian word: annotations in the translated chapters
+*This dictionary is not in the treatise. It is compiled from those very Sanskrit annotations,
+which stand in parentheses next to each Russian word: annotations in the translated chapters
 **46 302**, and there was plenty to choose from — at the top by frequency are function words,
-`tatas`, `atra`, `syāt`. What remains here is what the reader stumbles over.
+`tatas`, `atra`, `syāt`. What remains here is what the reader stumbles over.*
 
 > **Whose work this is.** The translation of the *Tantrāloka* into Russian is by **Gabriela
 > Pradīpaka**; it is reproduced here unchanged, and not a line of it did we write.
@@ -31,7 +31,7 @@ named aloud. The only price for this is: at the end a slight aspiration is heard
 which is not present in the spelling above the button.*
 
 <p><label for="gl-filter">Filter:</label>
-<input type="search" id="gl-filter" placeholder="начните вводить термин, например «таттва» или «samvid»" /></p>
+<input type="search" id="gl-filter" placeholder="start typing a term, for example “tattva” or “samvid”" /></p>
 
 <p id="gl-voice" data-audio="/ksh/ta/audio/" data-store="ta-voice">Voice:
 <label><input type="radio" name="gl-voice" value="lekha" checked /> system (Lekha, hi_IN)</label></p>

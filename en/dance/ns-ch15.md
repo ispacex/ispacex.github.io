@@ -115,7 +115,7 @@ Twenty-six rhythmic types (chandas)
 25 syllables -- Atikṛti;
 26 syllables -- Utkṛti.
 
-Числа метрических образцов
+Numbers of metric patterns
 
 51-77/ Detailed enumeration of possible exemplars:
 

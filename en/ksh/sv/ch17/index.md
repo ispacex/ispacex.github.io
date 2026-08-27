@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch17/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter17)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter17)</p>
 
 # Hymn 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram
 
@@ -63,7 +62,7 @@ ru: /ksh/sv/ch17/
 <span class="pv-sa pv-src" lang="sa">पूजात्मासौ क्रिया तस्याः कर्तारस्त्वज्जुषः परम्॥१७.६॥</span><br />
 <span class="pv-iast">Pūjātmāsau kriyā tasyāḥ kartārastvajjuṣaḥ param||17.6||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Господь<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>то<rp> (</rp><rt>asau</rt><rp>)</rp></ruby> <ruby>действие<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-kriya" class="pv-gl">kriyā</a></rt><rp>)</rp></ruby>, <ruby>у которого<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>нет<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>ни начала, ни конца<rp> (</rp><rt>anārambha-paryantau</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>нет чреды времени<rp> (</rp><rt>kāla-kramaḥ</rt><rp>)</rp></ruby>, — <ruby>оно и есть почитание<rp> (</rp><rt>pūjā-ātmā</rt><rp>)</rp></ruby>; <ruby>а совершают<rp> (</rp><rt>kartāraḥ</rt><rp>)</rp></ruby> <ruby>его<rp> (</rp><rt>tasyāḥ</rt><rp>)</rp></ruby> <ruby>одни лишь<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>преданные Тебе<rp> (</rp><rt>tvat-juṣaḥ</rt><rp>)</rp></ruby>||17.6||</p>
+<p class="pv-tr" markdown="1"><ruby>The Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>that<rp> (</rp><rt>asau</rt><rp>)</rp></ruby> <ruby>action<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-kriya" class="pv-gl">kriyā</a></rt><rp>)</rp></ruby>, <ruby>which<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>has neither<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>beginning nor end<rp> (</rp><rt>anārambha-paryantau</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>no sequence of time<rp> (</rp><rt>kāla-kramaḥ</rt><rp>)</rp></ruby>, — <ruby>that indeed is worship<rp> (</rp><rt>pūjā-ātmā</rt><rp>)</rp></ruby>; <ruby>and they perform<rp> (</rp><rt>kartāraḥ</rt><rp>)</rp></ruby> <ruby>it<rp> (</rp><rt>tasyāḥ</rt><rp>)</rp></ruby> <ruby>only<rp> (</rp><rt>param</rt><rp>)</rp></ruby> <ruby>devotees of Thee<rp> (</rp><rt>tvat-juṣaḥ</rt><rp>)</rp></ruby>||17.6||</p>
 
 <hr class="pv-rule" />
 
@@ -180,7 +179,7 @@ ru: /ksh/sv/ch17/
 <span class="pv-sa pv-src" lang="sa">भवत्पूजामृतापानमदास्वादमहामुदम्॥१७.१९॥</span><br />
 <span class="pv-iast">Bhavatpūjāmṛtāpānamadāsvādamahāmudam||17.19||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-ishvara" class="pv-gl">īśāna</a></rt><rp>)</rp></ruby>, <ruby>да испытаю я<rp> (</rp><rt>anubhūyāsam</rt><rp>)</rp></ruby> <ruby>при каждом деле<rp> (</rp><rt>prati-karma</rt><rp>)</rp></ruby>, <ruby>от мига к мигу<rp> (</rp><rt>kṣaṇāt kṣaṇam</rt><rp>)</rp></ruby>, великую радость <ruby>от вкуса хмеля питья нектара почитания Тебя<rp> (</rp><rt>bhavat-pūjā-amṛta-āpāna-mada-āsvāda-mahā-mudam</rt><rp>)</rp></ruby>||17.19||</p>
+<p class="pv-tr" markdown="1"><ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-ishvara" class="pv-gl">īśāna</a></rt><rp>)</rp></ruby>, <ruby>may I experience<rp> (</rp><rt>anubhūyāsam</rt><rp>)</rp></ruby> <ruby>in every deed<rp> (</rp><rt>prati-karma</rt><rp>)</rp></ruby>, <ruby>from moment to moment<rp> (</rp><rt>kṣaṇāt kṣaṇam</rt><rp>)</rp></ruby>, the great joy <ruby>of the taste of the intoxication of drinking the nectar of worshipping Thee<rp> (</rp><rt>bhavat-pūjā-amṛta-āpāna-mada-āsvāda-mahā-mudam</rt><rp>)</rp></ruby>||17.19||</p>
 
 <hr class="pv-rule" />
 
@@ -405,7 +404,7 @@ ru: /ksh/sv/ch17/
 <span class="pv-sa pv-src" lang="sa">अहो करणवृन्दस्य कापि लक्ष्मीर्विजृम्भते॥१७.४४॥</span><br />
 <span class="pv-iast">Aho karaṇavṛndasya kāpi lakṣmīrvijṛmbhate||17.44||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Господь<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>о<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>! <ruby>В деле почитания Тебя<rp> (</rp><rt>tvat-pūjā-karmaṇi</rt><rp>)</rp></ruby>, <ruby>в этой доброй сокровищнице всех почитаний<rp> (</rp><rt>aśeṣa-pūjā-sat-kośe</rt><rp>)</rp></ruby>, <ruby>раскрывается<rp> (</rp><rt>vijṛmbhate</rt><rp>)</rp></ruby> <ruby>некая<rp> (</rp><rt>kā api</rt><rp>)</rp></ruby> <ruby>Шри<rp> (</rp><rt>lakṣmīḥ</rt><rp>)</rp></ruby> <ruby>сонма органов чувств<rp> (</rp><rt>karaṇa-vṛndasya</rt><rp>)</rp></ruby>||17.44||</p>
+<p class="pv-tr" markdown="1"><ruby>The Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>o<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>! <ruby>In the matter of worshiping You<rp> (</rp><rt>tvat-pūjā-karmaṇi</rt><rp>)</rp></ruby>, <ruby>in this good treasury of all worships<rp> (</rp><rt>aśeṣa-pūjā-sat-kośe</rt><rp>)</rp></ruby>, <ruby>unfolds<rp> (</rp><rt>vijṛmbhate</rt><rp>)</rp></ruby> <ruby>certain<rp> (</rp><rt>kā api</rt><rp>)</rp></ruby> <ruby>Śrī<rp> (</rp><rt>lakṣmīḥ</rt><rp>)</rp></ruby> <ruby>the dream of the sense organs<rp> (</rp><rt>karaṇa-vṛndasya</rt><rp>)</rp></ruby>||17.44||</p>
 
 <hr class="pv-rule" />
 
@@ -447,6 +446,6 @@ ru: /ksh/sv/ch17/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter17). Строфы 17.1–17.48 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 17 — Divyakrīḍābahumānanāma saptadaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter17). Stanzas 17.1–17.48 have been translated directly from Sanskrit, for this website: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

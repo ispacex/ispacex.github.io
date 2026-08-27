@@ -56,7 +56,7 @@ Four mārga
 
 31/ Detailed syllabic examples are given for each mārga, such as the āddita strokes: “ghaṭṭam, kaṭṭhita ghaṭṭam ghenta ghaṭṭam gaṭṭhimam gaṭṭhi ghantam gaṭṭhi”.
 
-Прачары и применение маргов
+Pracāras and the application of mārgas
 
 32-34/ There are three pracāras (patterns of hand movement): sama, viṣama, and sama-viṣama.
 

@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch16/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter16)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter16)</p>
 
 # Hymn 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram
 
@@ -117,7 +116,7 @@ ru: /ksh/sv/ch16/
 <span class="pv-sa pv-src" lang="sa">निर्व्याजं त्वद्वपुःस्पर्शरसास्वादसुखं समम्॥१६.१२॥</span><br />
 <span class="pv-iast">Nirvyājaṁ tvadvapuḥsparśarasāsvādasukhaṁ samam||16.12||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>У преданных<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktānām</a></rt><rp>)</rp></ruby>, <ruby>где бы их ни заперли<rp> (</rp><rt>yatra tatra uparuddhānām</rt><rp>)</rp></ruby>, <ruby>снаружи<rp> (</rp><rt>bahiḥ</rt><rp>)</rp></ruby> <ruby>и внутри<rp> (</rp><rt>antare</rt><rp>)</rp></ruby> — <ruby>ровно<rp> (</rp><rt>samam</rt><rp>)</rp></ruby> <ruby>и без подделки<rp> (</rp><rt>nirvyājam</rt><rp>)</rp></ruby> счастье <ruby>вкушения сока прикосновения к Твоему телу<rp> (</rp><rt>tvat-vapuḥ-sparśa-rasa-āsvāda-sukham</rt><rp>)</rp></ruby>||16.12||</p>
+<p class="pv-tr" markdown="1"><ruby>For the devotees<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktānām</a></rt><rp>)</rp></ruby>, <ruby>wherever they are confined<rp> (</rp><rt>yatra tatra uparuddhānām</rt><rp>)</rp></ruby>, <ruby>outside<rp> (</rp><rt>bahiḥ</rt><rp>)</rp></ruby> <ruby>and inside<rp> (</rp><rt>antare</rt><rp>)</rp></ruby> — <ruby>equally<rp> (</rp><rt>samam</rt><rp>)</rp></ruby> <ruby>and without pretense<rp> (</rp><rt>nirvyājam</rt><rp>)</rp></ruby> the joy of tasting the nectar of contact with Your body<ruby> (<rp></rp><rt>tvat-vapuḥ-sparśa-rasa-āsvāda-sukham</rt><rp>)</rp></ruby>||16.12||</p>
 
 <hr class="pv-rule" />
 
@@ -162,7 +161,7 @@ ru: /ksh/sv/ch16/
 <span class="pv-sa pv-src" lang="sa">तस्य प्रारब्धमध्यान्तदशासूच्चैः सुखासिका॥१६.१७॥</span><br />
 <span class="pv-iast">Tasya prārabdhamadhyāntadaśāsūccaiḥ sukhāsikā||16.17||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>У кого<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> средство исполнения — <ruby>купание, питьё и прочее в нектаре преданности<rp> (</rp><rt>bhakti-sudhā-snāna-pāna-ādi-vidhi-sādhanam</rt><rp>)</rp></ruby>, — <ruby>у того<rp> (</rp><rt>tasya</rt><rp>)</rp></ruby> <ruby>высоко<rp> (</rp><rt>uccaiḥ</rt><rp>)</rp></ruby> <ruby>сидит счастье<rp> (</rp><rt>sukha-āsikā</rt><rp>)</rp></ruby> <ruby>и в начале, и в середине, и в конце<rp> (</rp><rt>prārabdha-madhya-anta-daśāsu</rt><rp>)</rp></ruby>||16.17||</p>
+<p class="pv-tr" markdown="1"><ruby>For whom<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> the means of accomplishment — <ruby>bathing, drinking, and so on in the nectar of devotion<rp> (</rp><rt>bhakti-sudhā-snāna-pāna-ādi-vidhi-sādhanam</rt><rp>)</rp></ruby>, — <ruby>for him<rp> (</rp><rt>tasya</rt><rp>)</rp></ruby> <ruby>high<rp> (</rp><rt>uccaiḥ</rt><rp>)</rp></ruby> <ruby>sits happiness<rp> (</rp><rt>sukha-āsikā</rt><rp>)</rp></ruby> <ruby>at the beginning, in the middle, and at the end<rp> (</rp><rt>prārabdha-madhya-anta-daśāsu</rt><rp>)</rp></ruby>||16.17||</p>
 
 <hr class="pv-rule" />
 
@@ -207,7 +206,7 @@ ru: /ksh/sv/ch16/
 <span class="pv-sa pv-src" lang="sa">भक्तिमत्तात्मनां नाथ सर्वथासि सुधामयः॥१६.२२॥</span><br />
 <span class="pv-iast">Bhaktimattātmanāṁ nātha sarvathāsi sudhāmayaḥ||16.22||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>с обликом<rp> (</rp><rt>sākāraḥ</rt><rp>)</rp></ruby> <ruby>ли<rp> (</rp><rt>vā</rt><rp>)</rp></ruby>, <ruby>без облика<rp> (</rp><rt>nirākāraḥ</rt><rp>)</rp></ruby> <ruby>ли<rp> (</rp><rt>vā</rt><rp>)</rp></ruby>, <ruby>внутри<rp> (</rp><rt>antaḥ</rt><rp>)</rp></ruby> <ruby>ли<rp> (</rp><rt>vā</rt><rp>)</rp></ruby>, <ruby>вовне<rp> (</rp><rt>bahiḥ</rt><rp>)</rp></ruby> <ruby>ли<rp> (</rp><rt>eva vā</rt><rp>)</rp></ruby>, — <ruby>для тех, чья самость полна преданности<rp> (</rp><rt>bhaktimat-tā-ātmanām</rt><rp>)</rp></ruby>, <ruby>Ты<rp> (</rp><rt>asi</rt><rp>)</rp></ruby> <ruby>во всех отношениях<rp> (</rp><rt>sarvathā</rt><rp>)</rp></ruby> <ruby>состоишь из нектара<rp> (</rp><rt>sudhā-mayaḥ</rt><rp>)</rp></ruby>||16.22||</p>
+<p class="pv-tr" markdown="1"><ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, <ruby>with form<rp> (</rp><rt>sākāraḥ</rt><rp>)</rp></ruby> <ruby>or<rp> (</rp><rt>vā</rt><rp>)</rp></ruby>, <ruby>without form<rp> (</rp><rt>nirākāraḥ</rt><rp>)</rp></ruby> <ruby>or<rp> (</rp><rt>vā</rt><rp>)</rp></ruby>, <ruby>inside<rp> (</rp><rt>antaḥ</rt><rp>)</rp></ruby> <ruby>or<rp> (</rp><rt>vā</rt><rp>)</rp></ruby>, <ruby>outside<rp> (</rp><rt>bahiḥ</rt><rp>)</rp></ruby> <ruby>or<rp> (</rp><rt>eva vā</rt><rp>)</rp></ruby>, — <ruby>for those whose selves are full of devotion<rp> (</rp><rt>bhaktimat-tā-ātmanām</rt><rp>)</rp></ruby>, <ruby>You<rp> (</rp><rt>asi</rt><rp>)</rp></ruby> <ruby>in all respects<rp> (</rp><rt>sarvathā</rt><rp>)</rp></ruby> <ruby>consist of nectar<rp> (</rp><rt>sudhā-mayaḥ</rt><rp>)</rp></ruby>||16.22||</p>
 
 <hr class="pv-rule" />
 
@@ -285,6 +284,6 @@ ru: /ksh/sv/ch16/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter16). Строфы 16.1–16.30 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 16 — Pāśān-udbhedanāma ṣoḍaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter16). Stanzas 16.1–16.30 have been translated directly from Sanskrit, for this website: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

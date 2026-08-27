@@ -166,7 +166,7 @@ Aparāntaka
 
 121/ This form requires "five, six, or seven" śirṣakas, whereas the prakārī must contain "four, three and a half" sections, totaling seven and a half units.
 
-Ровиндака
+Rovindaka
 
 122-123/ Rovindaka "consists of seven parts at minimum and sixteen parts at maximum," with individual sections including "two [consecutive] pādas."
 
@@ -174,7 +174,7 @@ Aparāntaka
 
 125-126/ The specifications include "six mātrās with a padabhāga of four kālas," with time-mark patterns consisting of "tāla, śamya, tāla, śamya, tāla, śamya." The concluding sections "must end with sannipāta and include vivādha and ekaka."
 
-Овенака
+Ovenaka
 
 127/ This form contains "seven or twelve parts" with various structural endings depending on the number of parts.
 

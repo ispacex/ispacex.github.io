@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch1/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter1)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter1)</p>
 
 # Hymn 1 — Bhaktivilāsākhyaṁ stotram
 
@@ -18,7 +17,7 @@ ru: /ksh/sv/ch1/
 <span class="pv-sa pv-src" lang="sa">एवमेव शिवाभासस्तं नुमो भक्तिशालिनम्॥१.१॥</span><br />
 <span class="pv-iast">Evameva śivābhāsastaṁ numo bhaktiśālinam||1.1||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Мы славим<rp> (</rp><rt>numaḥ</rt><rp>)</rp></ruby> <ruby>того<rp> (</rp><rt>tam</rt><rp>)</rp></ruby> преданного <span class="pv-note">— букв. полного преданности —</span> <span class="pv-w">(bhakti-śālinam)</span>, <ruby>в ком<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>Сияние Śiva<rp> (</rp><rt>śiva-ābhāsaḥ</rt><rp>)</rp></ruby> <ruby>возникает<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> вот так <span class="pv-note">— то есть одной лишь Милостью Śiva —</span> (evam eva), <ruby>безо всяких предварительных приёмов<rp> (</rp><rt>a-vidhi-pūrvakam</rt><rp>)</rp></ruby>, <ruby>без созерцания<rp> (</rp><rt>na dhyāyataḥ</rt><rp>)</rp></ruby> _(и)_ <ruby>без повторения мантр<rp> (</rp><rt>na japataḥ</rt><rp>)</rp></ruby>||1.1||</p>
+<p class="pv-tr" markdown="1"><ruby>We praise<rp> (</rp><rt>numaḥ</rt><rp>)</rp></ruby> <ruby>him<rp> (</rp><rt>tam</rt><rp>)</rp></ruby> the devotee <span class="pv-note">— lit. full of devotion —</span> <span class="pv-w">(bhakti-śālinam)</span>, <ruby>in whom<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>the Radiance of Śiva<rp> (</rp><rt>śiva-ābhāsaḥ</rt><rp>)</rp></ruby> <ruby>arises<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> in this way <span class="pv-note">— that is, by the sole Grace of Śiva —</span> (evam eva), <ruby>without any preliminary means<rp> (</rp><rt>a-vidhi-pūrvakam</rt><rp>)</rp></ruby>, <ruby>without meditation<rp> (</rp><rt>na dhyāyataḥ</rt><rp>)</rp></ruby> _(and)_ <ruby>without repetition of mantras<rp> (</rp><rt>na japataḥ</rt><rp>)</rp></ruby>||1.1||</p>
 
 <hr class="pv-rule" />
 
@@ -27,7 +26,7 @@ ru: /ksh/sv/ch1/
 <span class="pv-sa pv-src" lang="sa">लोकयात्रारजोरागात्पलितैरिव धूसरः॥१.२॥</span><br />
 <span class="pv-iast">Lokayātrārajorāgātpalitairiva dhūsaraḥ||1.2||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Хотя<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>моё<rp> (</rp><rt>mama</rt><rp>)</rp></ruby> <ruby>«я»<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-atman" class="pv-gl">ātmā</a></rt><rp>)</rp></ruby> <ruby>и есть<rp> (</rp><rt>san</rt><rp>)</rp></ruby> юноша, пьющий Нектар преданности Тебе <span class="pv-note">— то есть преданности, обращённой к Тебе —</span> <span class="pv-w">(bhavat-bhakti-sudhā-pāna-yuvā)</span>, оно _(всё же)_ <ruby>серо<rp> (</rp><rt>dhūsaraḥ</rt><rp>)</rp></ruby> <ruby>от седины<rp> (</rp><rt>palitaiḥ</rt><rp>)</rp></ruby>, так сказать <span class="pv-note">— то есть это образ, а не действительный случай —</span> <span class="pv-w">(iva)</span>, — от того, что его окрасила пыль _(по имени)_ мирская жизнь <span class="pv-note">— то есть обыденное существование —</span> <span class="pv-w">(loka-yātrā-rajas-rāgāt)</span>||1.2||</p>
+<p class="pv-tr" markdown="1"><ruby>Although<rp> (</rp><rt>api</rt><rp>)</rp></ruby> my<ruby> (<rp></rp>mama<rt></rt>)<rp></rp> </ruby>“I”<ruby> (<rp></rp><rt>ātmā<a href="/en/ksh/sv/glossary/#t-atman" class="pv-gl"></a></rt>)<rp></rp></ruby> <ruby>is<rp> (</rp><rt>san</rt><rp>)</rp></ruby> a youth drinking the Nectar of devotion to You <span class="pv-note">— that is, devotion directed toward You —</span> <span class="pv-w">(bhavat-bhakti-sudhā-pāna-yuvā)</span>, it _(nevertheless)_ <ruby>is grey<rp> (</rp><rt>dhūsaraḥ</rt><rp>)</rp></ruby> <ruby>from greyness<rp> (</rp><rt>palitaiḥ</rt><rp>)</rp></ruby>, so to speak <span class="pv-note">— that is, this is an image, not an actual occurrence —</span> <span class="pv-w">(iva)</span>, — because it has been colored by the dust _(named)_ worldly life <span class="pv-note">— that is, ordinary existence —</span> <span class="pv-w">(loka-yātrā-rajas-rāgāt)</span>||1.2||</p>
 
 <hr class="pv-rule" />
 
@@ -36,7 +35,7 @@ ru: /ksh/sv/ch1/
 <span class="pv-sa pv-src" lang="sa">सञ्चारो लोकमार्गेऽपि स्यात्तयैव विजृम्भया॥१.३॥</span><br />
 <span class="pv-iast">Sañcāro lokamārge'pi syāttayaiva vijṛmbhayā||1.3||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>на мирской дороге<rp> (</rp><rt>loka-mārge</rt><rp>)</rp></ruby> <ruby>хождение<rp> (</rp><rt>sañcāraḥ</rt><rp>)</rp></ruby> <ruby>преданных<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktimatām</a></rt><rp>)</rp></ruby>, <ruby>обретших Твоё Богатство<rp> (</rp><rt>labdha-tvat-sampadām</rt><rp>)</rp></ruby> _(и)_ <ruby>живущих в Твоём Граде<rp> (</rp><rt>tvat-pura-vāsinām</rt><rp>)</rp></ruby>, <ruby>причастно<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> _(всё)_ <ruby>тому же раскрытию<rp> (</rp><rt>tayā eva vijṛmbhayā</rt><rp>)</rp></ruby>||1.3||</p>
+<p class="pv-tr" markdown="1"><ruby>Even<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>on the worldly path<rp> (</rp><rt>loka-mārge</rt><rp>)</rp></ruby> <ruby>the movement<rp> (</rp><rt>sañcāraḥ</rt><rp>)</rp></ruby> <ruby>of devotees<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktimatām</a></rt><rp>)</rp></ruby>, <ruby>who have obtained Your Wealth<rp> (</rp><rt>labdha-tvat-sampadām</rt><rp>)</rp></ruby> _(and)_ <ruby>who dwell in Your City<rp> (</rp><rt>tvat-pura-vāsinām</rt><rp>)</rp></ruby>, <ruby>is partaken<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> _(of all)_ <ruby>by that very same unfolding<rp> (</rp><rt>tayā eva vijṛmbhayā</rt><rp>)</rp></ruby>||1.3||</p>
 
 <hr class="pv-rule" />
 
@@ -45,7 +44,7 @@ ru: /ksh/sv/ch1/
 <span class="pv-sa pv-src" lang="sa">किं न भक्तिमतां क्षेत्रं मन्त्रः क्वैषां न सिद्ध्यति॥१.४॥</span><br />
 <span class="pv-iast">Kiṁ na bhaktimatāṁ kṣetraṁ mantraḥ kvaiṣāṁ na siddhyati||1.4||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>О Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, во всём _(этом)_ мире (sarvasmin bhuvana-antare), <ruby>который и есть Ты Сам<rp> (</rp><rt>sākṣāt-bhavat-maye</rt><rp>)</rp></ruby>, <ruby>какое<rp> (</rp><rt>kim</rt><rp>)</rp></ruby> <ruby>место<rp> (</rp><rt>kṣetram</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> принадлежит преданным <span class="pv-note">— или же: «не для преданных» —</span> <span class="pv-w">(<a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktimatām</a>)</span>? Где _(та)_ <ruby>мантра<rp> (</rp><rt>mantraḥ</rt><rp>)</rp></ruby>, <ruby>что не приносит им плода<rp> (</rp><rt>eṣām na siddhyati</rt><rp>)</rp></ruby>?||1.4||</p>
+<p class="pv-tr" markdown="1"><ruby>O Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>, in all _(this)_ world (sarvasmin bhuvana-antare), <ruby>which is Yourself alone<rp> (</rp><rt>sākṣāt-bhavat-maye</rt><rp>)</rp></ruby>, <ruby>what<rp> (</rp><rt>kim</rt><rp>)</rp></ruby> <ruby>place<rp> (</rp><rt>kṣetram</rt><rp>)</rp></ruby> <ruby>is not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> belonging to the devotees <span class="pv-note">— or rather: “not for the devotees” —</span> <span class="pv-w">(<a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktimatām</a>)</span>? Where _(is)_ <ruby>the mantra<rp> (</rp><rt>mantraḥ</rt><rp>)</rp></ruby>, <ruby>that does not yield them fruit<rp> (</rp><rt>eṣām na siddhyati</rt><rp>)</rp></ruby>?||1.4||</p>
 
 <hr class="pv-rule" />
 
@@ -54,7 +53,7 @@ ru: /ksh/sv/ch1/
 <span class="pv-sa pv-src" lang="sa">अद्वितीया अपि सदा त्वद्द्वितीया अपि प्रभो॥१.५॥</span><br />
 <span class="pv-iast">Advitīyā api sadā tvaddvitīyā api prabho||1.5||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>О Господь<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, да будет победа тем _(преданным)_ <span class="pv-w">(jayanti)</span>, кто хмелён лучшим вином _(изготовленным)_ <ruby>из нектарной амброзии преданности<rp> (</rp><rt>bhakti-pīyūṣa-rasa-āsava-vara-unmadāḥ</rt><rp>)</rp></ruby> _(и)_ кто, хоть и не имеет второго <span class="pv-note">— то есть их сущностная природа необычайна, ей нет равных —</span> <span class="pv-w">(advitīyāḥ api)</span>, всё же <span class="pv-note">— то есть даже при этом —</span> сопровождаем Тобою <span class="pv-note">— то есть Ты и есть их второй —</span> <span class="pv-w">(tvat-dvitīyāḥ api)</span> <ruby>всегда<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby>!||1.5||</p>
+<p class="pv-tr" markdown="1"><ruby>O Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, let victory be to those _(devotees)_ <span class="pv-w">(jayanti)</span> who are intoxicated with the finest wine _(made)_ <ruby>from the nectarous ambrosia of devotion<rp> (</rp><rt>bhakti-pīyūṣa-rasa-āsava-vara-unmadāḥ</rt><rp>)</rp></ruby> _(and)_ who, though having no second <span class="pv-note">— that is, their essential nature is extraordinary, having no equal —</span> <span class="pv-w">(advitīyāḥ api)</span>, yet <span class="pv-note">— that is, even so —</span> are accompanied by Thee <span class="pv-note">— that is, Thou art their second —</span> <span class="pv-w">(tvat-dvitīyāḥ api)</span> <ruby>always<rp> (</rp><rt>sadā</rt><rp>)</rp></ruby>!||1.5||</p>
 
 <hr class="pv-rule" />
 
@@ -63,7 +62,7 @@ ru: /ksh/sv/ch1/
 <span class="pv-sa pv-src" lang="sa">तादृशा एव ये सान्द्रभक्त्यानन्दरसाप्लुताः॥१.६॥</span><br />
 <span class="pv-iast">Tādṛśā eva ye sāndrabhaktyānandarasāplutāḥ||1.6||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>О Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>! <ruby>Только<rp> (</rp><rt>eva</rt><rp>)</rp></ruby> такие _(люди)_ <span class="pv-note">— то есть те преданные, чья природа есть Твоя природа —</span> <span class="pv-w">(te... tādṛśāḥ)</span> <ruby>знают<rp> (</rp><rt>vidanti</rt><rp>)</rp></ruby> <ruby>Суть<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-tattva" class="pv-gl">tattva</a></rt><rp>)</rp></ruby> <ruby>Твоего Океана бесконечного Блаженства<rp> (</rp><rt>ananta-ānanda-sindhoḥ te</rt><rp>)</rp></ruby> — <ruby>те, кто<rp> (</rp><rt>ye</rt><rp>)</rp></ruby> без <ruby>остатка залит соком Радости плотной преданности<rp> (</rp><rt>sāndra-bhakti-ānanda-rasa-āplutāḥ</rt><rp>)</rp></ruby>||1.6||</p>
+<p class="pv-tr" markdown="1"><ruby>O Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-natha" class="pv-gl">nātha</a></rt><rp>)</rp></ruby>! <ruby>Only<rp> (</rp><rt>eva</rt><rp>)</rp></ruby> those _(people)_ <span class="pv-note">— that is, those devotees whose nature is Your nature —</span> <span class="pv-w">(te... tādṛśāḥ)</span> <ruby>know<rp> (</rp><rt>vidanti</rt><rp>)</rp></ruby> <ruby>the Essence<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-tattva" class="pv-gl">tattva</a></rt><rp>)</rp></ruby> <ruby>of Your Ocean of infinite Bliss<rp> (</rp><rt>ananta-ānanda-sindhoḥ te</rt><rp>)</rp></ruby> — <ruby>those who<rp> (</rp><rt>ye</rt><rp>)</rp></ruby> are <ruby>completely flooded with the juice of Joy of dense devotion<rp> (</rp><rt>sāndra-bhakti-ānanda-rasa-āplutāḥ</rt><rp>)</rp></ruby>||1.6||</p>
 
 <hr class="pv-rule" />
 
@@ -249,6 +248,6 @@ ru: /ksh/sv/ch1/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 1 — Bhaktivilāsākhyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter1). Строфы 1.1–1.6 переведены по его английскому изложению. Строфы 1.7–1.26 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanagari and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 1 — Bhaktivilāsākhyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter1). Stanzas 1.1–1.6 are translated according to his English exposition. Stanzas 1.7–1.26 are translated directly from Sanskrit, for this site: there is no exposition at the source that could be relied upon for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

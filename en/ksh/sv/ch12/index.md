@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch12/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter12)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter12)</p>
 
 # Hymn 12 — Rahasyanirdeśanāma dvādaśaṁ stotram
 
@@ -54,7 +53,7 @@ ru: /ksh/sv/ch12/
 <span class="pv-sa pv-src" lang="sa">तदिदं भवदीयदर्शनं न च नित्यं न च कथ्यतेऽन्यथा॥१२.५॥</span><br />
 <span class="pv-iast">Tadidaṁ bhavadīyadarśanaṁ na ca nityaṁ na ca kathyate'nyathā||12.5||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Ни «тогда»<rp> (</rp><rt>na tadā</rt><rp>)</rp></ruby>, <ruby>ни «всегда»<rp> (</rp><rt>na sadā</rt><rp>)</rp></ruby>, <ruby>ни<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>«однажды»<rp> (</rp><rt>na ekadā</rt><rp>)</rp></ruby>: <ruby>там<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>бывает<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>той<rp> (</rp><rt>sā</rt><rp>)</rp></ruby> <ruby>мысли о времени<rp> (</rp><rt>kāla-dhīḥ</rt><rp>)</rp></ruby>. <ruby>Вот это<rp> (</rp><rt>tadidaṁ</rt><rp>)</rp></ruby> <ruby>видение Тебя<rp> (</rp><rt>bhavadīya-darśanam</rt><rp>)</rp></ruby> <ruby>и не вечно<rp> (</rp><rt>na ca nityaṁ</rt><rp>)</rp></ruby>, <ruby>и иначе<rp> (</rp><rt>anyathā</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>назовёшь<rp> (</rp><rt>kathyate</rt><rp>)</rp></ruby>||12.5||</p>
+<p class="pv-tr" markdown="1"><ruby>Neither "then"<rp> (</rp><rt>na tadā</rt><rp>)</rp></ruby>, <ruby>nor "always"<rp> (</rp><rt>na sadā</rt><rp>)</rp></ruby>, <ruby>nor<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>"once"<rp> (</rp><rt>na ekadā</rt><rp>)</rp></ruby>: <ruby>there<rp> (</rp><rt>yatra</rt><rp>)</rp></ruby> <ruby>not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>is<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>that<rp> (</rp><rt>sā</rt><rp>)</rp></ruby> <ruby>thought of time<rp> (</rp><rt>kāla-dhīḥ</rt><rp>)</rp></ruby>. <ruby>This very<rp> (</rp><rt>tadidaṁ</rt><rp>)</rp></ruby> <ruby>vision of You<rp> (</rp><rt>bhavadīya-darśanam</rt><rp>)</rp></ruby> <ruby>is not eternal<rp> (</rp><rt>na ca nityaṁ</rt><rp>)</rp></ruby>, <ruby>and otherwise<rp> (</rp><rt>anyathā</rt><rp>)</rp></ruby> <ruby>not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>will you call it<rp> (</rp><rt>kathyate</rt><rp>)</rp></ruby>||12.5||</p>
 
 <hr class="pv-rule" />
 
@@ -153,7 +152,7 @@ ru: /ksh/sv/ch12/
 <span class="pv-sa pv-src" lang="sa">क्षणमात्रकमिह न भवसि कस्य न जन्तोर्दृशोर्विषयः॥१२.१६॥</span><br />
 <span class="pv-iast">Kṣaṇamātrakamiha na bhavasi kasya na jantordṛśorviṣayaḥ||12.16||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Владыка<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-ishvara" class="pv-gl">īśa</a></rt><rp>)</rp></ruby>, <ruby>придя<rp> (</rp><rt>upayātaḥ</rt><rp>)</rp></ruby> <ruby>на дорогу видения<rp> (</rp><rt>darśana-patham</rt><rp>)</rp></ruby>, <ruby>отчего<rp> (</rp><rt>kutaḥ</rt><rp>)</rp></ruby> <ruby>Ты уходишь<rp> (</rp><rt>apasarasi</rt><rp>)</rp></ruby> <ruby>от меня<rp> (</rp><rt>mama</rt><rp>)</rp></ruby>, <ruby>Твоего<rp> (</rp><rt>te</rt><rp>)</rp></ruby> <ruby>слуги<rp> (</rp><rt>bhṛtyasya</rt><rp>)</rp></ruby>? <ruby>У какого<rp> (</rp><rt>kasya</rt><rp>)</rp></ruby> <ruby>существа<rp> (</rp><rt>jantoḥ</rt><rp>)</rp></ruby> <ruby>здесь<rp> (</rp><rt>iha</rt><rp>)</rp></ruby> <ruby>Ты<rp> (</rp><rt>bhavasi</rt><rp>)</rp></ruby> <ruby>хоть на миг<rp> (</rp><rt>kṣaṇa-mātrakam</rt><rp>)</rp></ruby> <ruby>не<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>бываешь предметом<rp> (</rp><rt>viṣayaḥ</rt><rp>)</rp></ruby> <ruby>глаз<rp> (</rp><rt>dṛśoḥ</rt><rp>)</rp></ruby>?||12.16||</p>
+<p class="pv-tr" markdown="1"><ruby>Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-ishvara" class="pv-gl">īśa</a></rt><rp>)</rp></ruby>, <ruby>having come<rp> (</rp><rt>upayātaḥ</rt><rp>)</rp></ruby> <ruby>onto the path of sight<rp> (</rp><rt>darśana-patham</rt><rp>)</rp></ruby>, <ruby>why<rp> (</rp><rt>kutaḥ</rt><rp>)</rp></ruby> <ruby>do You depart<rp> (</rp><rt>apasarasi</rt><rp>)</rp></ruby> <ruby>from me<rp> (</rp><rt>mama</rt><rp>)</rp></ruby>, <ruby>Your<rp> (</rp><rt>te</rt><rp>)</rp></ruby> <ruby>servant<rp> (</rp><rt>bhṛtyasya</rt><rp>)</rp></ruby>? <ruby>Of what<rp> (</rp><rt>kasya</rt><rp>)</rp></ruby> <ruby>creature<rp> (</rp><rt>jantoḥ</rt><rp>)</rp></ruby> <ruby>here<rp> (</rp><rt>iha</rt><rp>)</rp></ruby> <ruby>are You<rp> (</rp><rt>bhavasi</rt><rp>)</rp></ruby> <ruby>even for a moment<rp> (</rp><rt>kṣaṇa-mātrakam</rt><rp>)</rp></ruby> <ruby>not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>the object<rp> (</rp><rt>viṣayaḥ</rt><rp>)</rp></ruby> <ruby>of the eyes<rp> (</rp><rt>dṛśoḥ</rt><rp>)</rp></ruby>?||12.16||</p>
 
 <hr class="pv-rule" />
 
@@ -276,6 +275,6 @@ ru: /ksh/sv/ch12/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 12 — Rahasyanirdeśanāma dvādaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter12). Строфы 12.1–12.29 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 12 — Rahasyanirdeśanāma dvādaśaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter12). Stanzas 12.1–12.29 have been translated directly from the Sanskrit, for this site: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

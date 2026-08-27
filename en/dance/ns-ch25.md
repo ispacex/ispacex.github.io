@@ -72,7 +72,7 @@ Bharata Muni
 
 36/ Three natures of women: highest, middle, and lowest. But the nature of courtesans corresponds to their own class.
 
-The Supreme Woman
+*Highest woman*
 
 37-39/ The highest woman remains unperturbed when she is offended, does not use harsh words, is brief in anger, skilled in the arts, desirable for high birth and wealth, versed in matters of love, honest, physically attractive, angered only with cause, speaks without malice, and knows the proper occasions for all actions.
 
@@ -96,11 +96,11 @@ The Supreme Woman
 
 45/ The second youth brings the greatest pleasure; it is characterized by full, rounded limbs, a lush bosom, and a slender waist.
 
-Third youth
+*Third Youth*
 
 46/ The third youth possesses all kinds of beauty, arouses sensual desire, intoxicates, is rich in qualities, and amorous passion adds to its charms.
 
-Fourth youth
+*Fourth Youth*
 
 47-48/ The fourth youth arrives when the first, second, and third have passed. It is the "enemy of intimacy" and is characterized by diminished physical attractiveness — slightly paler cheeks, sides, lips, breasts — yet it retains zeal for amorous affairs.
 
@@ -160,7 +160,7 @@ Fourth youth
 
 68/ Giving wealth according to one's means at an appropriate or inappropriate time, and concealing this under some pretext, is called a gift.
 
-Discord
+*Strife*
 
 69/ Pointing out the shortcomings of her dear person in any way is discord.
 

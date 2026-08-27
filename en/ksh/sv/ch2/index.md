@@ -4,10 +4,9 @@ lang: en
 ru: /ksh/sv/ch2/
 ---
 
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter2)</p>
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter2)</p>
-
-## Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram
+# Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram
 
 <p class="pv-pager nosearch" markdown="1">[← Hymn 1 — Bhaktivilāsākhyaṁ stotram](/en/ksh/sv/ch1/) · [Hymn 3 — Praṇayaprasādākhyaṁ tṛtīyaṁ stotram →](/en/ksh/sv/ch3/)</p>
 
@@ -81,7 +80,7 @@ ru: /ksh/sv/ch2/
 <span class="pv-sa pv-src" lang="sa">नमः सम्साररूपाय निःसंसाराय शम्भवे॥२.८॥</span><br />
 <span class="pv-iast">Namaḥ samsārarūpāya niḥsaṁsārāya śambhave||2.8||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Поклон<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>Śambhu<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-shambhu" class="pv-gl">śambhave</a></rt><rp>)</rp></ruby> — <ruby>единственной причине круговорота<rp> (</rp><rt>saṁsāra-eka-nimittāya</rt><rp>)</rp></ruby>, <ruby>единственному его противнику<rp> (</rp><rt>saṁsāra-eka-virodhine</rt><rp>)</rp></ruby>, <ruby>самому этому круговороту<rp> (</rp><rt>saṁsāra-rūpāya</rt><rp>)</rp></ruby> <ruby>и Тому, в ком круговорота нет<rp> (</rp><rt>niḥsaṁsārāya</rt><rp>)</rp></ruby>||2.8||</p>
+<p class="pv-tr" markdown="1"><ruby>Homage<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>Śambhu<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-shambhu" class="pv-gl">śambhave</a></rt><rp>)</rp></ruby> — <ruby>the sole cause of the cycle of existence<rp> (</rp><rt>saṁsāra-eka-nimittāya</rt><rp>)</rp></ruby>, <ruby>its sole opponent<rp> (</rp><rt>saṁsāra-eka-virodhine</rt><rp>)</rp></ruby>, <ruby>that very cycle itself<rp> (</rp><rt>saṁsāra-rūpāya</rt><rp>)</rp></ruby> <ruby>and to Him in whom there is no cycle<rp> (</rp><rt>niḥsaṁsārāya</rt><rp>)</rp></ruby>||2.8||</p>
 
 <hr class="pv-rule" />
 
@@ -135,7 +134,7 @@ ru: /ksh/sv/ch2/
 <span class="pv-sa pv-src" lang="sa">यस्य तस्मै नमस्तुभ्यमगाधहरसिन्धवे॥२.१४॥</span><br />
 <span class="pv-iast">Yasya tasmai namastubhyamagādhaharasindhave||2.14||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Поклон<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>Тебе<rp> (</rp><rt>tubhyam</rt><rp>)</rp></ruby>, <ruby>бездонный океан Hara<rp> (</rp><rt>agādha-hara-sindhave</rt><rp>)</rp></ruby>, — <ruby>Тому<rp> (</rp><rt>tasmai</rt><rp>)</rp></ruby>, <ruby>чьи<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>те и эти совершенства<rp> (</rp><rt>tāḥ tāḥ vibhūtayaḥ</rt><rp>)</rp></ruby> <ruby>добыты<rp> (</rp><rt>labdhāḥ</rt><rp>)</rp></ruby> <ruby>блуждающими<rp> (</rp><rt>paribhrāntaiḥ</rt><rp>)</rp></ruby> <ruby>всего лишь<rp> (</rp><rt>eva</rt><rp>)</rp></ruby> <ruby>по берегам<rp> (</rp><rt>taṭeṣu</rt><rp>)</rp></ruby>||2.14||</p>
+<p class="pv-tr" markdown="1"><ruby>Homage<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>to you<rp> (</rp><rt>tubhyam</rt><rp>)</rp></ruby>, <ruby>bottomless ocean of Hara<rp> (</rp><rt>agādha-hara-sindhave</rt><rp>)</rp></ruby>, — <ruby>to him<rp> (</rp><rt>tasmai</rt><rp>)</rp></ruby>, <ruby>whose<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>those and these perfections<rp> (</rp><rt>tāḥ tāḥ vibhūtayaḥ</rt><rp>)</rp></ruby> <ruby>are obtained<rp> (</rp><rt>labdhāḥ</rt><rp>)</rp></ruby> <ruby>by the wandering<rp> (</rp><rt>paribhrāntaiḥ</rt><rp>)</rp></ruby> <ruby>merely<rp> (</rp><rt>eva</rt><rp>)</rp></ruby> <ruby>along the shores<rp> (</rp><rt>taṭeṣu</rt><rp>)</rp></ruby>||2.14||</p>
 
 <hr class="pv-rule" />
 
@@ -144,7 +143,7 @@ ru: /ksh/sv/ch2/
 <span class="pv-sa pv-src" lang="sa">अलेपाय नमः शम्भुशतपत्राय शोभिने॥२.१५॥</span><br />
 <span class="pv-iast">Alepāya namaḥ śambhuśatapatrāya śobhine||2.15||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Поклон<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>прекрасному<rp> (</rp><rt>śobhine</rt><rp>)</rp></ruby> <ruby>столепестковому лотосу Śambhu<rp> (</rp><rt>śambhu-śata-patrāya</rt><rp>)</rp></ruby> — Тому, кто живёт <ruby>посреди густой грязи мира, сотканного из māyā<rp> (</rp><rt>māyā-maya-jagat-sāndra-paṅka-madhya-adhivāsine</rt><rp>)</rp></ruby>, <ruby>и не запятнан ею<rp> (</rp><rt>alepāya</rt><rp>)</rp></ruby>||2.15||</p>
+<p class="pv-tr" markdown="1"><ruby>Bow<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>beautiful<rp> (</rp><rt>śobhine</rt><rp>)</rp></ruby> <ruby>to the hundred-petaled lotus of Śambhu<rp> (</rp><rt>śambhu-śata-patrāya</rt><rp>)</rp></ruby> — To the one who lives <ruby>in the midst of the dense mire of the world woven from māyā<rp> (</rp><rt>māyā-maya-jagat-sāndra-paṅka-madhya-adhivāsine</rt><rp>)</rp></ruby>, <ruby>and not stained by it<rp> (</rp><rt>alepāya</rt><rp>)</rp></ruby>||2.15||</p>
 
 <hr class="pv-rule" />
 
@@ -180,7 +179,7 @@ ru: /ksh/sv/ch2/
 <span class="pv-sa pv-src" lang="sa">सर्वाचाराय शर्वाय निराचाराय ते नमः॥२.१९॥</span><br />
 <span class="pv-iast">Sarvācārāya śarvāya nirācārāya te namaḥ||2.19||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>Поклон<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>Тебе<rp> (</rp><rt>te</rt><rp>)</rp></ruby>, <ruby>Śarva<rp> (</rp><rt>śarvāya</rt><rp>)</rp></ruby>, — <ruby>сути правого обычая<rp> (</rp><rt>dakṣiṇa-ācāra-sārāya</rt><rp>)</rp></ruby>, <ruby>желающему левого<rp> (</rp><rt>vāma-ācāra-abhilāṣiṇe</rt><rp>)</rp></ruby>, <ruby>всякому обычаю разом<rp> (</rp><rt>sarva-ācārāya</rt><rp>)</rp></ruby> <ruby>и не имеющему обычая вовсе<rp> (</rp><rt>nirācārāya</rt><rp>)</rp></ruby>||2.19||</p>
+<p class="pv-tr" markdown="1"><ruby>Homage<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-namas" class="pv-gl">namaḥ</a></rt><rp>)</rp></ruby> <ruby>to you<rp> (</rp><rt>te</rt><rp>)</rp></ruby>, <ruby>Śarva<rp> (</rp><rt>śarvāya</rt><rp>)</rp></ruby>, — <ruby>to the essence of the right practice<rp> (</rp><rt>dakṣiṇa-ācāra-sārāya</rt><rp>)</rp></ruby>, <ruby>to the one desiring the left<rp> (</rp><rt>vāma-ācāra-abhilāṣiṇe</rt><rp>)</rp></ruby>, <ruby>to every practice at once<rp> (</rp><rt>sarva-ācārāya</rt><rp>)</rp></ruby> <ruby>and to the one having no practice at all<rp> (</rp><rt>nirācārāya</rt><rp>)</rp></ruby>||2.19||</p>
 
 <hr class="pv-rule" />
 
@@ -276,6 +275,6 @@ ru: /ksh/sv/ch2/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter2). Строфы 2.1–2.29 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 2 — Sarvātmaparibhāvanākhyaṁ dvitīyaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter2). Stanzas 2.1–2.29 have been translated directly from Sanskrit for this site: there is no exposition at the source that could serve as a basis for them.*
 
 <script src="/assets/js/pv-copy.js"></script>

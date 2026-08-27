@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch6/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter6)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter6)</p>
 
 # Hymn 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram
 
@@ -114,6 +113,6 @@ ru: /ksh/sv/ch6/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter6). Строфы 6.1–6.11 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanagari and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 6 — Adhvavisphuraṇākhyaṁ ṣaṣṭhaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter6). Stanzas 6.1–6.11 have been translated directly from Sanskrit for this site: there is no exposition to rely on for them at the source.*
 
 <script src="/assets/js/pv-copy.js"></script>

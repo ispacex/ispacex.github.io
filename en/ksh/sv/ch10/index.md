@@ -4,8 +4,7 @@ lang: en
 ru: /ksh/sv/ch10/
 ---
 
-
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter10)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [This part at the source](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter10)</p>
 
 # Hymn 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram
 
@@ -72,7 +71,7 @@ ru: /ksh/sv/ch10/
 <span class="pv-sa pv-src" lang="sa">कथञ्चिद्यस्य वा हर्षः कोऽपि तेन त्वमीक्षितः॥१०.७॥</span><br />
 <span class="pv-iast">Kathañcidyasya vā harṣaḥ ko'pi tena tvamīkṣitaḥ||10.7||</span></p>
 
-<p class="pv-tr" markdown="1">Тобою (tena eva) <ruby>увиден<rp> (</rp><rt>dṛṣṭaḥ asi</rt><rp>)</rp></ruby> <ruby>тот, кто<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>от лицезрения Тебя<rp> (</rp><rt>bhavat-darśanāt</rt><rp>)</rp></ruby> <ruby>не помнит себя от радости<rp> (</rp><rt>ati-hṛṣyati</rt><rp>)</rp></ruby>; <ruby>а<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>у кого<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>есть<rp> (</rp><rt>kaḥ api</rt><rp>)</rp></ruby> <ruby>хоть какая-нибудь<rp> (</rp><rt>kathañcid</rt><rp>)</rp></ruby> <ruby>радость<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-harsa" class="pv-gl">harṣaḥ</a></rt><rp>)</rp></ruby> — <ruby>тем<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>Ты<rp> (</rp><rt>tvam</rt><rp>)</rp></ruby> <ruby>и увиден<rp> (</rp><rt>īkṣitaḥ</rt><rp>)</rp></ruby>||10.7||</p>
+<p class="pv-tr" markdown="1">By you (tena eva) <ruby>seen<rp> (</rp><rt>dṛṣṭaḥ asi</rt><rp>)</rp></ruby> <ruby>he who<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>from beholding You<rp> (</rp><rt>bhavat-darśanāt</rt><rp>)</rp></ruby> <ruby>does not remember himself for joy<rp> (</rp><rt>ati-hṛṣyati</rt><rp>)</rp></ruby>; <ruby>and<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>he who<rp> (</rp><rt>yasya</rt><rp>)</rp></ruby> <ruby>has<rp> (</rp><rt>kaḥ api</rt><rp>)</rp></ruby> <ruby>any at all<rp> (</rp><rt>kathañcid</rt><rp>)</rp></ruby> <ruby>joy<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-harsa" class="pv-gl">harṣaḥ</a></rt><rp>)</rp></ruby> — <ruby>by him<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>You<rp> (</rp><rt>tvam</rt><rp>)</rp></ruby> <ruby>are seen<rp> (</rp><rt>īkṣitaḥ</rt><rp>)</rp></ruby>||10.7||</p>
 
 <hr class="pv-rule" />
 
@@ -249,6 +248,6 @@ ru: /ksh/sv/ch10/
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Гимн 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter10). Строфы 10.1–10.26 переведены прямо с санскрита, для этого сайта: изложения, на которое можно было бы опереться, для них у источника нет.*
+*Sanskrit (Devanāgarī and IAST) has been carried over unchanged from the website of **Gabriel Pradīpaka**: [Hymn 10 — Avicchedabhaṅgākhyaṁ daśamaṁ stotram](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter10). Stanzas 10.1–10.26 have been translated directly from the Sanskrit, for this site: there is no exposition at the source on which one could rely for them.*
 
 <script src="/assets/js/pv-copy.js"></script>
