@@ -4,20 +4,32 @@
 #
 # Раздел, которого тут нет, попадает в «Институт»: туда же идут главная и
 # прочие страницы в корне, и стоят они первыми.
+#
+# `named` — то же имя на другом языке. Имя раздела стоит над каждой находкой и
+# в каждой строке палитры, и без второго имени английская страница подписана
+# по-русски: «Кашмирский шиваизм» над текстом, который читают по-английски
+# (VS-44). `title` — имя для всех, о чьём языке здесь не сказано.
+#
+# Именем раздела его же и находят: палитра ищет по названию страницы и по
+# названию раздела, а страницу, лежащую в разделе выше всех, зовёт его дверью.
+# Пока имя было одно, «kashmir» в английской палитре не находил ничего.
+#
+# У `nt` второго имени нет: «Natya talam» и по-английски то же самое.
 default:
   title: Институт
+  named: { en: Institute }
   order: 0
 
 sections:
-  art:     { title: Искусство,                     order: 1 }
-  dance:   { title: Натьяшастра,                   order: 2 }
-  nt:      { title: Natya talam,                   order: 3 }
-  ksh:     { title: Кашмирский шиваизм,            order: 4 }
-  theatre: { title: Театр,                         order: 5 }
-  yoga:    { title: Йога,                          order: 6 }
-  hoop:    { title: Обруч,                         order: 7 }
-  books:   { title: Книги,                         order: 8 }
-  ship:    { title: Теория плавания под парусами,  order: 9 }
+  art:     { title: Искусство,                     named: { en: Art },              order: 1 }
+  dance:   { title: Натьяшастра,                   named: { en: Nāṭyaśāstra },      order: 2 }
+  nt:      { title: Natya talam,                                                    order: 3 }
+  ksh:     { title: Кашмирский шиваизм,            named: { en: Kashmir Shaivism }, order: 4 }
+  theatre: { title: Театр,                         named: { en: Theatre },          order: 5 }
+  yoga:    { title: Йога,                          named: { en: Yoga },             order: 6 }
+  hoop:    { title: Обруч,                         named: { en: Hoop },             order: 7 }
+  books:   { title: Книги,                         named: { en: Books },            order: 8 }
+  ship:    { title: Теория плавания под парусами,  named: { en: Sailing theory },   order: 9 }
 
 # Указатели, собранные не Jekyll: он их не видит и собрать не может. Основной
 # указатель называет их, и движок идёт по этому перечню сам — так состав сайта
@@ -29,6 +41,7 @@ sections:
 shards:
   - url: /ship/search-index.json
     section: Теория плавания под парусами
+    named: { en: Sailing theory }
     order: 9
     defer: true
 
@@ -39,7 +52,12 @@ shards:
   # двух указателях был бы им же дважды.
   #
   # defer — санскрит незачем везти тому, кто ищет по-русски и в другом разделе.
+#
+# `named` здесь читает движок, а не Jekyll: указатель собирается один на оба
+# языка, и подписать сам файл заранее нельзя — второе имя выбирает тот, кто
+# знает, на каком языке читают (sitesearch/FORMAT.md).
   - url: /ksh/ta/search-index.json
     section: Кашмирский шиваизм
+    named: { en: Kashmir Shaivism }
     order: 4
     defer: true

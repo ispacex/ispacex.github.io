@@ -25,7 +25,7 @@ node tools/check-search.js # search: one term per word in either script, a typo 
 node tools/check-palette.js # ⌘K palette: the index is whole, jumps land, and a query the names miss reaches the text
 python3 tools/check-scripts.py # text: no word mixes two alphabets or is split by a hyphen (needs no build)
 python3 tools/check-markup.py # markup: no emphasis asterisk reaches the reader (reads the build)
-python3 tools/check-lang.py # language: an English page speaks English, captions inside tags included (reads the build)
+python3 tools/check-lang.py # language: an English page speaks English — its text, the captions inside its tags, and the section it is filed under in every index (reads the build)
 python3 tools/check-switch.py # language switch: a translated page has a way to its twin, both ways (reads the build)
 python3 tools/check-address.py # address: a page is named by the address its links use, not by its file name (reads the build)
 ```

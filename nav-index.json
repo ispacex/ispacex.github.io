@@ -42,7 +42,7 @@ talam», «# Monet». Ищется он и в разметке, и в готов
 {%- if p.path contains 'sitesearch/' -%}{% continue %}{% endif -%}
 {%- assign parts = p.url | split: '/' -%}
 {%- assign seg = parts[1] -%}
-{%- assign lang = 'ru' -%}
+{%- assign lang = p.lang | default: site.lang -%}
 {%- comment -%}
 Перевод лежит в `/en/…`, и раздел у него тот же, что у оригинала: «Тантралока»
 остаётся кашмирским шиваизмом, на каком бы языке её ни читали. Без этого первый
@@ -50,13 +50,22 @@ talam», «# Monet». Ищется он и в разметке, и в готов
 «Институт», а у того порядок 0, и английская «Тантралока» обходила русскую в
 палитре. Сломалось это ровно в тот день, когда появился перевод, и сказала об
 этом проверка, а не глаз.
+
+Пропускается не «en», а сегмент, равный языку самой страницы: раздел, который
+однажды назовут «en», от этого не пострадает, а страница, о языке которой не
+сказано ничего, остаётся там, где лежит. Правило то же, что и у поискового
+указателя (sitesearch/jekyll/search-index.json) — их два, а рассуждение одно.
 {%- endcomment -%}
-{%- if seg == 'en' -%}
-{%- assign lang = 'en' -%}
+{%- if lang and seg == lang and parts.size > 2 -%}
 {%- assign seg = parts[2] -%}
 {%- endif -%}
 {%- assign sec = conf.sections[seg] -%}
-{%- assign sectitle = sec.title | default: conf.default.title -%}
+{%- comment -%}
+Имя раздела — на языке страницы: оно стоит в каждой строке палитры, и над
+английской страницей русское имя было единственным русским словом в списке
+(VS-44). `named` — второе имя, `title` — имя для всех прочих языков.
+{%- endcomment -%}
+{%- assign sectitle = sec.named[lang] | default: sec.title | default: conf.default.named[lang] | default: conf.default.title -%}
 {%- assign secorder = sec.order | default: conf.default.order | default: 99 -%}
 {%- comment -%}
 Раздела в перечне нет — страница падает в «Институт». Это не раздел, а мешок

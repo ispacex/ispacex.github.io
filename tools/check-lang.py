@@ -31,15 +31,31 @@
 ## Что по-русски и должно быть таким
 
 Двое, и оба названы поимённо (`ALLOW`, `SKIP`). Что не названо — поломка.
+
+## Указатели
+
+Страницей дело не кончается. Над каждой находкой стоит имя раздела, и берётся
+оно не со страницы, а из указателя: над английской страницей стояло
+«Кашмирский шиваизм», и в палитре то же имя стояло в каждой строке (VS-44).
+Читателю это ровно такое же русское слово на английской странице, только
+написанное не в HTML, а в JSON, — поэтому считается здесь же.
+
+Указатели просматриваются все, что собрались: страница с `lang: en` называет
+свой раздел по-английски, а осколок (`shards`), подписанный по-русски, обязан
+нести второе имя — его выбирает движок, потому что файл один на оба языка
+(sitesearch/FORMAT.md).
 """
+import glob
 import html
+import json
 import os
 import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-SITE = os.path.join(ROOT, '_sitecheck', 'en')
+BUILD = os.path.join(ROOT, '_sitecheck')
+SITE = os.path.join(BUILD, 'en')
 
 HIDDEN = re.compile(r'(?is)<(script|style)\b.*?</\1>')
 COMMENT = re.compile(r'(?s)<!--.*?-->')
@@ -82,6 +98,45 @@ def pages():
                 yield os.path.join(base, name)
 
 
+def indexes():
+    """Указатели собранного сайта: поисковые (их несколько) и указатель палитры."""
+    found = sorted(glob.glob(os.path.join(BUILD, '**', 'search-index.json'),
+                             recursive=True))
+    nav = os.path.join(BUILD, 'nav-index.json')
+    if os.path.exists(nav):
+        found.append(nav)
+    return found
+
+
+def sections():
+    """Разделы, подписанные по-русски там, где читают по-английски."""
+    bad, shards, seen = [], [], 0
+    for path in indexes():
+        where = os.path.relpath(path, BUILD)
+        with open(path, encoding='utf-8') as fh:
+            data = json.load(fh)
+        for page in data.get('pages') or []:
+            seen += 1
+            if (page.get('lang') or '')[:2].lower() != 'en':
+                continue
+            if WORD.search(page.get('section') or ''):
+                bad.append('%s: %s — раздел «%s»'
+                           % (where, page.get('url'), page['section']))
+        # Осколок подписан один раз на оба языка: имя по-русски здесь не
+        # поломка, но второе имя к нему обязано быть.
+        for shard in data.get('shards') or []:
+            seen += 1
+            name = shard.get('section') or ''
+            if not WORD.search(name):
+                continue
+            other = (shard.get('named') or {}).get('en')
+            if not other or WORD.search(other):
+                shards.append('%s: осколок %s — «%s» без английского имени'
+                              % (where, shard.get('url'), name))
+    # Осколков единицы, страниц сотни: сказать сперва о немногом.
+    return shards + bad, seen
+
+
 def main():
     if not os.path.isdir(SITE):
         print('нет _sitecheck/en/ — сначала ./tools/build-local.sh')
@@ -99,19 +154,28 @@ def main():
             a, b = max(0, m.start() - 40), m.end() + 40
             found.append((where, ' '.join(body[a:b].split())))
 
-    if found:
-        pages_hit = len(set(w for w, _ in found))
+    named, records = sections()
+
+    if found or named:
         for where, near in found[:30]:
             print('%s: …%s…' % (where, near))
         if len(found) > 30:
             print('… и ещё %d' % (len(found) - 30))
+        for line in named[:20]:
+            print(line)
+        if len(named) > 20:
+            print('… и ещё %d' % (len(named) - 20))
         print('')
-        print('русских слов на английских страницах: %d на %d страницах'
-              % (len(found), pages_hit))
+        if found:
+            pages_hit = len(set(w for w, _ in found))
+            print('русских слов на английских страницах: %d на %d страницах'
+                  % (len(found), pages_hit))
+        if named:
+            print('разделов, подписанных по-русски над английским: %d' % len(named))
         return 1
 
-    print('английские страницы говорят по-английски — '
-          'просмотрено страниц: %d' % seen)
+    print('английские страницы говорят по-английски — просмотрено страниц: %d, '
+          'записей в указателях: %d' % (seen, records))
     return 0
 
 

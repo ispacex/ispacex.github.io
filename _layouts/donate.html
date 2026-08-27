@@ -153,7 +153,8 @@ a:active {
 
 <!-- Палитра перехода: страница отдельная, но и с неё надо уметь уйти.
      Куда вести за полным поиском и что написать в пустом поле — по языку
-     страницы, как в _layouts/default.html. -->
+     страницы, как в _layouts/default.html; свои же слова палитра берёт по
+     <html lang> сама. -->
 {%- if page.lang == 'en' -%}
 <script src="/sitesearch/palette.js" data-index="/nav-index.json" data-mount="#title" data-search="/en/search/" data-search-index="/search-index.json" data-placeholder="Where to? for example: Tantrāloka, glossary, sails" defer></script>
 {%- else -%}
