@@ -41,13 +41,30 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 называют вслух. Расплата за это одна: на конце слышно лёгкое придыхание,
 которого в написании над кнопкой нет.*
 
+<nav class="gl-toc nosearch" aria-label="Разделы словаря">
+<ul>
+<li><a href="#сознание-и-его-имена">Сознание и его имена</a> <span class="n">21</span></li>
+<li><a href="#сжатие-и-раскрытие">Сжатие и раскрытие</a> <span class="n">8</span></li>
+<li><a href="#вселенная-и-её-ступени">Вселенная и её ступени</a> <span class="n">11</span></li>
+<li><a href="#познающий-и-познаваемое">Познающий и познаваемое</a> <span class="n">10</span></li>
+<li><a href="#семь-познающих">Семь познающих</a> <span class="n">6</span></li>
+<li><a href="#узы">Узы</a> <span class="n">9</span></li>
+<li><a href="#пять-действий">Пять действий</a> <span class="n">13</span></li>
+<li><a href="#тело-дыхание-средоточия">Тело, дыхание, средоточия</a> <span class="n">8</span></li>
+<li><a href="#путь-и-вхождение">Путь и вхождение</a> <span class="n">10</span></li>
+<li><a href="#плод">Плод</a> <span class="n">7</span></li>
+<li><a href="#писание-учитель-милость">Писание, учитель, милость</a> <span class="n">8</span></li>
+</ul>
+</nav>
+
+
 <p><label for="gl-filter">Фильтр:</label>
 <input type="search" id="gl-filter" placeholder="начните вводить термин, например «чити» или «sankoca»" /></p>
 
 <p id="gl-voice" data-audio="/ksh/ph/audio/" data-store="ph-voice">Голос:
 <label><input type="radio" name="gl-voice" value="lekha" checked /> системный (Lekha, hi_IN)</label></p>
 
-## Сознание и его имена
+<h2 id="сознание-и-его-имена">Сознание и его имена</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -76,7 +93,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Сжатие и раскрытие
+<h2 id="сжатие-и-раскрытие">Сжатие и раскрытие</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -92,7 +109,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Вселенная и её ступени
+<h2 id="вселенная-и-её-ступени">Вселенная и её ступени</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -111,7 +128,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Познающий и познаваемое
+<h2 id="познающий-и-познаваемое">Познающий и познаваемое</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -129,7 +146,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Семь познающих
+<h2 id="семь-познающих">Семь познающих</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -143,7 +160,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Узы
+<h2 id="узы">Узы</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -160,7 +177,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Пять действий
+<h2 id="пять-действий">Пять действий</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -181,7 +198,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Тело, дыхание, средоточия
+<h2 id="тело-дыхание-средоточия">Тело, дыхание, средоточия</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -197,7 +214,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Путь и вхождение
+<h2 id="путь-и-вхождение">Путь и вхождение</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -215,7 +232,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Плод
+<h2 id="плод">Плод</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -230,7 +247,7 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 </table>
 </div>
 
-## Писание, учитель, милость
+<h2 id="писание-учитель-милость">Писание, учитель, милость</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">

@@ -13,8 +13,14 @@
 
 Озвучка сюда не входит: mp3 кладёт `audio.py`, и написание он берёт из этой же
 страницы — из столбца «Деванагари».
+
+Содержание собирается здесь же и из того же списка разделов, из которого растут
+сами разделы: набранное отдельно, оно разошлось бы с ними при первой же правке
+`words.py` — а разошедшееся содержание хуже отсутствующего, потому что врёт с
+виду уверенно (VS-30).
 """
 import os
+import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -67,19 +73,55 @@ title: "Pratyabhijñāhṛdayam: словарь терминов"
 висарга — и голос произносит именительный падеж, `śivaḥ`, которым слово и
 называют вслух. Расплата за это одна: на конце слышно лёгкое придыхание,
 которого в написании над кнопкой нет.*
+'''.replace('{sutras}', SUTRAS + SUTRAS_PAGE)
 
+# Фильтр и выбор голоса — уже органы управления таблицами, и стоять им прямо
+# над таблицами. Между ними и рассказом о словаре встаёт содержание: раздел
+# тут смысловой («Пять действий», «Узы»), и по одному их перечню видно, как
+# книга устроена, ещё до чтения статей.
+TOOLS = '''
 <p><label for="gl-filter">Фильтр:</label>
 <input type="search" id="gl-filter" placeholder="начните вводить термин, например «чити» или «sankoca»" /></p>
 
 <p id="gl-voice" data-audio="/ksh/ph/audio/" data-store="ph-voice">Голос:
 <label><input type="radio" name="gl-voice" value="lekha" checked /> системный (Lekha, hi_IN)</label></p>
-'''.replace('{sutras}', SUTRAS + SUTRAS_PAGE)
+'''
 
 TAIL = '''
 <p class="pv-pager nosearch" markdown="1">[← Оглавление](/ksh/ph/) · [Начало →](/ksh/ph/begin/)</p>
 
 <script src="/assets/js/glossary.js"></script>
 '''
+
+
+def section_id(title):
+    """Адрес раздела — тот же, что вывела бы сборка страниц, но поставленный явно.
+
+    Заголовок и строка содержания собираются здесь из одной и той же строки, и
+    адрес у них поэтому один. Считай его сборка сама — по своим правилам о
+    запятых и дефисах, которые меняются не с нами, — содержание и заголовки
+    могли бы разойтись молча, а ссылка в никуда с виду не отличается от рабочей.
+    """
+    kept = [c for c in title.lower() if c.isalnum() or c in ' -']
+    return re.sub(r'[\s-]+', '-', ''.join(kept).strip())
+
+
+def contents(sections):
+    """Содержание словаря: разделы и сколько в каждом статей.
+
+    Разделы тут смысловые — «Пять действий», «Узы», «Семь познающих», — и по
+    одному их перечню видно, как книга устроена, ещё до чтения статей. Счёт
+    статей рядом отвечает на второй вопрос: чего в этой книге много.
+
+    Из поиска содержание исключено (`nosearch`): те же названия стоят на
+    странице заголовками, и находка, попавшая в содержание, вела бы читателя не
+    к статье, а к строке о ней.
+    """
+    rows = ['<li><a href="#%s">%s</a> <span class="n">%d</span></li>'
+            % (section_id(title), title, len(group))
+            for title, group in sections]
+    return ('<nav class="gl-toc nosearch" aria-label="Разделы словаря">\n<ul>\n'
+            + '\n'.join(rows) + '\n</ul>\n</nav>\n')
 
 
 def label(slug):
@@ -114,9 +156,11 @@ def row(term, place, names):
 def main():
     names = {slug: name for _pid, slug, name in PARTS}
     links = words.links()
-    out = [HEAD]
+    out = [HEAD, contents(words.SECTIONS), TOOLS]
     for title, group in words.SECTIONS:
-        out.append('## %s\n' % title)
+        # Заголовок — разметкой, а не `##`: адрес ему нужен тот же, что стоит
+        # в содержании, и написан он поэтому здесь (см. section_id).
+        out.append('<h2 id="%s">%s</h2>\n' % (section_id(title), title))
         out.append('<div class="gl-wrap" markdown="0">\n<table class="gl">')
         out.append('<tr><th>Термин</th><th>Санскрит</th><th>Деванагари</th>'
                    '<th>Значение</th><th>Где в тексте</th></tr>')
@@ -127,8 +171,9 @@ def main():
 
     os.makedirs(OUT, exist_ok=True)
     open(os.path.join(OUT, 'index.md'), 'w', encoding='utf-8').write('\n'.join(out))
-    print('статей: %d, ссылок в текст: %d'
-          % (sum(1 for _ in words.terms()), sum(len(v) for v in links.values())))
+    print('разделов: %d, статей: %d, ссылок в текст: %d'
+          % (len(words.SECTIONS), sum(1 for _ in words.terms()),
+             sum(len(v) for v in links.values())))
 
 
 if __name__ == '__main__':
