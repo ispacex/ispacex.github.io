@@ -1,5 +1,5 @@
 ---
-title: "I need the source text to translate. Please provide the Russian text of 'Натьяшастра, Глава 9' that you'd like me to translate into English."
+title: "Nāṭyaśāstra, Chapter 9"
 lang: en
 ru: /dance/ns-ch9
 ---

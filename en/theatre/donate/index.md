@@ -1,7 +1,8 @@
 ---
-title: "Поддержать театр Артен"
+title: "Support the Arten Theatre"
 lang: en
 ru: /theatre/donate/
+layout: donate
 ---
 
 Theatre [Arten](https://www.instagram.com/arten_theatre) needs support!

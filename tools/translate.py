@@ -159,6 +159,24 @@ SKIP = ('_sitecheck/', 'sitesearch/', 'tools/', '.claude/', 'en/',
 # его на русский поиск, где английских находок нет по построению.
 BYHAND = ('/search/',)
 
+# Что во front matter принадлежит переводу, а не странице: заголовок он
+# переводит, язык объявляет, обратный адрес считает. Всё остальное — своё у
+# страницы, и до двойника обязано доехать.
+OURS = ('title', 'lang', 'ru')
+
+# А это не доедет никогда. `permalink` — это адрес: доехав, он заставил бы обе
+# страницы просить один и тот же, и Jekyll отдал бы его одной из двух, молча.
+NEVER = ('permalink',)
+
+# Поля, в которых лежит проза, а не признак: их переводим, а не переносим.
+# `description` читает `{% seo %}` — он уезжает в выдачу поисковика и в карточку
+# ссылки, то есть остаётся русским ровно там, где виден чаще самой страницы.
+PROSE = ('description',)
+
+# Строка front matter вида `имя: значение`. Продолжений и вложенности здесь не
+# бывает: front matter на этом сайте плоский (проверено по всем страницам).
+FMLINE = re.compile(r'^([A-Za-z_][\w-]*):\s*(.*)$')
+
 CYR = re.compile(r'[А-Яа-яЁё]')
 # Санскритская помета — та же, что маскируется при переводе. Здесь она нужна,
 # чтобы сличить её последовательность до и после.
@@ -236,6 +254,50 @@ def relink(text, have):
     return HREF.sub(lambda m: 'href="%s"' % swap(m.group(1)), text)
 
 
+def looks(en, ru):
+    """Похоже ли это на перевод строки, а не на разговор с моделью.
+
+    Проза, вернувшаяся не тем, чем была, видна глазами: абзац на странице
+    читают. Строка front matter не видна нигде — её читает механика, и потому
+    сличать её приходится здесь.
+
+    Четыре признака, и каждый нашёлся на сайте: пусто или метки не вернулись
+    (заголовок страницы пожертвований — модель приписала к нему `⟦0⟧`, которого
+    в исходнике не было); перевод в несколько строк; кириллица (модель
+    пересказывает исходник, цитируя его); длина не по чину (два заголовка глав
+    «Натьяшастры» уехали на сайт целым абзацем «I need the source text to
+    translate…»). Пятый — числа: номер главы в заголовке не украшение, по нему
+    читатель сверяет, туда ли попал, и по нему же главы выстраиваются в палитре.
+    """
+    if not en or not en.strip():
+        return False
+    if '\n' in en.strip():
+        return False
+    if CYR.search(en):
+        return False
+    if len(en) > 2 * len(ru) + 24:
+        return False
+    return re.findall(r'\d+', en) == re.findall(r'\d+', ru)
+
+
+def phrase(ru, cache, stats):
+    """Строка front matter по-английски: заголовок, описание. Не вышло — None.
+
+    Спрашивается дважды. Первый раз — общим наказом, тем же, каким переводится
+    проза: его ответы уже куплены, и переспрашивать все полторы сотни заголовков
+    ради трёх испорченных незачем. Ответ, на строку не похожий, отвергается, и
+    тогда — второй раз, назвав вещь своим именем (`kind='title'`): «это
+    заголовок страницы, а не просьба к тебе». Купится при этом только то, что и
+    правда испорчено.
+    """
+    got = translate(ru, LANG, cache, stats)
+    if looks(got, ru):
+        return got
+    stats['reask'] = stats.get('reask', 0) + 1
+    got = translate(ru, LANG, cache, stats, kind='title')
+    return got if looks(got, ru) else None
+
+
 def wanted(rel):
     """Куски страницы, которые пойдут в перевод. Порядок значим."""
     src = open(os.path.join(ROOT, rel), encoding='utf-8').read()
@@ -243,6 +305,10 @@ def wanted(rel):
     head, body = (m.group(1), src[m.end():]) if m else ('', src)
     title = TITLE.search(head)
     out = [title.group(1)] if title else []
+    for line in head.split('\n'):
+        f = FMLINE.match(line)
+        if f and f.group(1) in PROSE:
+            out.append(f.group(2).strip().strip('"'))
     for b in blocks(body):
         if b.strip() and CYR.search(b) and not FENCE.match(b.strip()):
             out.append(b)
@@ -314,9 +380,36 @@ def do(rel, cache, stats, dry=False):
     if title and dry:
         en_title = title.group(1)
     elif title:
-        en_title = translate(title.group(1), LANG, cache, stats) or title.group(1)
+        en_title = phrase(title.group(1), cache, stats)
+        if en_title is None:
+            stats['titles'] = stats.get('titles', 0) + 1
+            en_title = title.group(1)
     else:
         en_title = None
+
+    # Что страница объявила о себе сверх заголовка: `layout`, `search`, всё
+    # прочее. Раньше сюда не смотрели вовсе — шапка двойника собиралась с нуля,
+    # и объявленное молча пропадало. Так английская страница пожертвований
+    # потеряла `layout: donate`, а с ним и кнопки копирования крипто-адресов:
+    # адреса остались на ней текстом, и скопировать их стало нечем.
+    extra = []
+    for line in head.split('\n'):
+        f = FMLINE.match(line)
+        if not f:
+            continue
+        name, value = f.group(1), f.group(2)
+        if name in OURS or name in NEVER:
+            continue
+        if name in PROSE:
+            ru = value.strip().strip('"')
+            if not dry and CYR.search(ru):
+                got = phrase(ru, cache, stats)
+                if got is None:
+                    stats['fields'] = stats.get('fields', 0) + 1
+                value = '"%s"' % (got or ru).replace('"', "'")
+            extra.append('%s: %s' % (name, value))
+            continue
+        extra.append(line)
 
     done = []
     for b in blocks(body):
@@ -342,10 +435,10 @@ def do(rel, cache, stats, dry=False):
             stats['bold'] = stats.get('bold', 0) + 1
             got = None
         done.append(got if got is not None else b)
-    return en_title, '\n\n'.join(done)
+    return en_title, extra, '\n\n'.join(done)
 
 
-def write(rel, en_title, body, have):
+def write(rel, en_title, extra, body, have):
     dest = os.path.join(OUT, rel)
     os.makedirs(os.path.dirname(dest), exist_ok=True)
     head = '---\n'
@@ -362,7 +455,12 @@ def write(rel, en_title, body, have):
     # арифметика здесь однажды уже соврала: `index.md` она обращала в
     # «/index/», и переключатель с английской главной вёл в 404. Адрес
     # страницы и адрес её двойника — одно знание, и живёт оно в одном месте.
-    head += 'ru: %s\n---\n\n' % twin(rel)[len('/en'):]
+    head += 'ru: %s\n' % twin(rel)[len('/en'):]
+    # Своё у страницы — следом, чтобы сверху стояло сказанное переводом, а под
+    # ним перенесённое как есть.
+    for line in extra:
+        head += line + '\n'
+    head += '---\n\n'
     open(dest, 'w', encoding='utf-8').write(head + relink(body, have).rstrip() + '\n')
 
 
@@ -475,9 +573,9 @@ def main():
         print('куплено: %d' % warm(texts, cache, args.workers))
 
     for n, rel in enumerate(todo, 1):
-        en_title, body = do(rel, cache, stats, args.dry)
+        en_title, extra, body = do(rel, cache, stats, args.dry)
         if not args.dry:
-            write(rel, en_title, body, have)
+            write(rel, en_title, extra, body, have)
         if n % 20 == 0 or n == len(todo):
             print('%3d/%d  %s' % (n, len(todo), stats), flush=True)
 
@@ -485,13 +583,16 @@ def main():
         ru_title = title_of(rel)
         en_title = ru_title
         if ru_title and not args.dry:
-            got = translate(ru_title, LANG, cache, stats)
             # Заголовок у этих страниц — номер и имя: «глава 9», «афоризм 3»,
             # «строфы 3–4, часть 1». Номер тут не украшение: по нему читатель
             # сверяет, туда ли попал, и по нему же страницы выстраиваются в
             # палитре перехода. Пропал или переменился — заголовок остаётся
             # русским: русский заголовок хуже читается, неверный номер врёт.
-            if got and re.findall(r'\d+', got) == re.findall(r'\d+', ru_title):
+            # Правило это теперь общее с переведёнными страницами и живёт в
+            # `looks()`: разбор у заголовка один, на какой бы странице он ни
+            # стоял.
+            got = phrase(ru_title, cache, stats)
+            if got:
                 en_title = got
             else:
                 stats['titles'] = stats.get('titles', 0) + 1
@@ -512,7 +613,11 @@ def main():
     if stats.get('bold'):
         print('потеряли звёздочку и остались по-русски: %d' % stats['bold'])
     if stats.get('titles'):
-        print('заголовок потерял номер и остался русским: %d' % stats['titles'])
+        print('заголовок не дался и остался русским: %d' % stats['titles'])
+    if stats.get('fields'):
+        print('поле front matter не далось и осталось русским: %d' % stats['fields'])
+    if stats.get('reask'):
+        print('переспрошено заголовком: %d' % stats['reask'])
     return 0
 
 

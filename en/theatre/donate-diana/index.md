@@ -2,6 +2,7 @@
 title: "Support Diana Manukyan"
 lang: en
 ru: /theatre/donate-diana/
+layout: donate
 ---
 
 Support Diana Manukyan!

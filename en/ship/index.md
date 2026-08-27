@@ -2,6 +2,7 @@
 title: "The theory of sailing under sails."
 lang: en
 ru: /ship/
+description: "Digitized book by Czesław Marchaj — 382 pages, 260 illustrations, 17 tables, 82 formulas. Read online or download PDF/DjVu."
 ---
 
 [Back to main page](/en/)

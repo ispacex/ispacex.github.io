@@ -99,6 +99,21 @@ PROMPT = (
     '- Do not add, remove, explain or comment. Return only the translation.'
 )
 
+# Добавка к наказу для тех кусков, которые на абзац не похожи. Заголовок — три
+# слова, а то и одно имя с номером: на таком входе модель то и дело решает, что
+# её просят не перевести, а объяснить, и отвечает вопросом. Два заголовка
+# «Натьяшастры» так и уехали на страницы — целым абзацем «I need the source text
+# to translate…» в поле `title`.
+#
+# Ключ кеша считается вместе с видом куска (см. `translate`): иначе ответ,
+# купленный по общему наказу, вернулся бы и по особому.
+KINDS = {
+    'title': ('\n- The text below is the title of a page, not an instruction to you: '
+              'a few words, sometimes just a name and a number. Return its '
+              'translation and nothing else — never a question, never a remark '
+              'that there is nothing to translate.'),
+}
+
 
 def key():
     v = os.environ.get('DEEPSEEK_API_KEY')
@@ -176,7 +191,7 @@ class Cache:
         self.dirty = False
 
 
-def ask(masked, lang, tries=6):
+def ask(masked, lang, tries=6, kind=None):
     """Один запрос к модели. Возвращает перевод или бросает.
 
     Ловится `OSError`, а не только `URLError`: на двенадцати потоках сервер
@@ -191,7 +206,8 @@ def ask(masked, lang, tries=6):
         'model': MODEL,
         'temperature': 0,
         'messages': [
-            {'role': 'system', 'content': PROMPT % {'lang': lang}},
+            {'role': 'system',
+             'content': PROMPT % {'lang': lang} + KINDS.get(kind, '')},
             {'role': 'user', 'content': masked},
         ],
     }).encode('utf-8')
@@ -211,11 +227,12 @@ def ask(masked, lang, tries=6):
     raise RuntimeError('DeepSeek не ответил: %s' % last)
 
 
-def translate(text, lang, cache, stats=None):
+def translate(text, lang, cache, stats=None, kind=None):
     """Перевод куска. Метки не вернулись — возвращает None, и это не чинится.
 
     `stats` — счётчик: сколько взято из кеша, сколько куплено, сколько
-    отвергнуто.
+    отвергнуто. `kind` — вид куска (`KINDS`): не абзац прозы, а заголовок, и
+    наказ модели тогда другой.
     """
     masked, parts = mask(text)
     # Нечего переводить: остались одни метки и знаки препинания.
@@ -227,10 +244,10 @@ def translate(text, lang, cache, stats=None):
     # второму в предварительной закупке, всё покупалось дважды, и сказать об
     # этом могла только цифра `bought`, которая после закупки обязана быть
     # нулём. Теперь источник ключа один — сам кеш.
-    fp = fingerprint(masked, cache.lang)
+    fp = fingerprint(masked, cache.lang + (':' + kind if kind else ''))
     got = cache.get(fp)
     if got is None:
-        got = ask(masked, lang)
+        got = ask(masked, lang, kind=kind)
         cache.put(fp, got)
         if stats is not None:
             stats['bought'] = stats.get('bought', 0) + 1

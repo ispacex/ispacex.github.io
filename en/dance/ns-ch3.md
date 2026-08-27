@@ -1,9 +1,5 @@
 ---
-title: "I need to translate the text about Nāṭyaśāstra, Chapter 3 from Russian to English, following the rules provided. However, I notice that the user has only given me the title 'Натьяшастра, Глава 3' which translates to 'Nāṭyaśāstra, Chapter 3' - but there's no actual prose content to translate yet. The user seems to have provided just the heading or topic, not the full text to translate.
-
-Since there's no additional content provided beyond this title, I should translate what's given. The title 'Натьяшастра' is a Russian rendering of the Sanskrit word 'Nāṭyaśāstra' (नाट्यशास्त्र), so per the rules, I should convert it to the Latin spelling with diacritics: Nāṭyaśāstra. 'Глава 3' means 'Chapter 3' in Russian.
-
-Let me provide the translation of this title.Nāṭyaśāstra, Chapter 3"
+title: "Nāṭyaśāstra, Chapter 3"
 lang: en
 ru: /dance/ns-ch3
 ---
