@@ -42,9 +42,7 @@ The progenitor, after praising Śiva, spoke thus:
 
 10/ here, O most righteous of the twice-born, was shown that first scene created earlier, the "Burning of Tripura," called "dima" /depiction of the siege/.
 
-11/ A multitude of bhūtas was satisfied by the seen action and its performance.
-
-Then the great god /Śiva/, greatly pleased, spoke thus to the Progenitor:
+11/ The multitude of bhūtas was satisfied with the seen action and its performance, and the great god /Śiva/, very pleased, spoke thus to the Progenitor:
 
 12/ "Ah, Nāṭya, what has been created by you is good, O great-minded one! It leads to
 

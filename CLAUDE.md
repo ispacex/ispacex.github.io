@@ -23,7 +23,7 @@ No Gemfile is tracked — the site relies on GitHub Pages' built-in Jekyll with 
 ./tools/build-local.sh     # result in _sitecheck/, both index tiers included
 node tools/check-search.js # search: one term per word in either script, a typo gets an answer, and each reader gets their own language
 node tools/check-palette.js # ⌘K palette: the index is whole, jumps land, and a query the names miss reaches the text
-python3 tools/check-scripts.py # text: no word mixes two alphabets (needs no build)
+python3 tools/check-scripts.py # text: no word mixes two alphabets or is split by a hyphen (needs no build)
 ```
 
 The remote theme's gem is absent in the container, so the local build excludes

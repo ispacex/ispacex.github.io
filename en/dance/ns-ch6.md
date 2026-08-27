@@ -164,9 +164,7 @@ Satisfied **Love** is born from the following *vibhāvas:* spring, flowers, oint
 
 Deceived **Love**, however, should be represented by such *anubhāva*s as despair, exhaustion, suspicion, indignation, weariness, absorption in passionate longing, sleep and waking from sleep, the illness of madness and intoxication, languor, cooling, death, and the like.
 
-Here it is asked — if **the enjoyment of *sthāyibhāva* of Love**, then why
-
-But are its *bhāva* present in what is connected with **Suffering**?
+Here it is asked — if **enjoyment** is *sthāyibhāva* of **Love**, then why are its *bhāvas* present in what is connected with **Suffering**?
 
 Further it is said: it has already been stated earlier that **Love** is of two kinds, satisfied and deceived (although the creator of the "Science of Erotics" (*vaiśika śāstra*) has named 10 of its aspects). We, however, will speak of that which unites the *abhinaya* of these two *rasa*.
 

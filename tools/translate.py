@@ -604,7 +604,12 @@ def roster(todo):
     """
     path = os.path.join(ROOT, '_data', 'i18n.yml')
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    urls = sorted(set(twin(rel)[len('/en'):] for rel in todo) | set(BYHAND))
+    # Двойник считается по файлу, а не по намерению: страница, которую в этот
+    # заход не писали, попадает в список, только если её двойник уже лежит на
+    # месте с прошлого раза. Иначе список пообещал бы переключатель туда, где
+    # переключаться не на что.
+    made = [rel for rel in todo if os.path.exists(os.path.join(OUT, rel))]
+    urls = sorted(set(twin(rel)[len('/en'):] for rel in made) | set(BYHAND))
     with open(path, 'w', encoding='utf-8') as f:
         f.write('# Собирается `tools/translate.py`. Руками не править.\n')
         f.write('#\n# Адреса русских страниц, у которых есть английский двойник в /en/.\n')
@@ -635,14 +640,24 @@ def main():
 
     todo = [r[0] for r in rows if r[1] == 'ours']
     refs = [r[0] for r in rows if r[1] == 'source']
+    # Двойник есть и у страницы-заместителя: иначе ссылка на главу с английской
+    # заглавной раздела вела бы прямо в русский текст, ничем не предупредив.
+    #
+    # Считается это по всему сайту, и считается **до** того, как список сузили
+    # до заказанных страниц. Английское дерево от того, что переводят одну
+    # главу, не уменьшается: сузь состав здесь — и ссылки на прочие главы
+    # уедут в русский текст, а `_data/i18n.yml` объявит, что двойник есть у
+    # четырёх страниц из ста девяноста одной, и на остальных ста восьмидесяти
+    # семи пропадёт переключатель языка. Проверено дорого: прогон одной главы
+    # ровно это и сделал (VS-47).
+    whole = todo + refs
+    have = {twin(r)[len('/en'):] for r in whole} | set(BYHAND)
+
     if args.only:
         todo = [r for r in todo if r in args.only]
         refs = [r for r in refs if r in args.only]
         if not todo and not refs:
             sys.exit('таких страниц в переводе нет: %s' % ' '.join(args.only))
-    # Двойник есть и у страницы-заместителя: иначе ссылка на главу с английской
-    # заглавной раздела вела бы прямо в русский текст, ничем не предупредив.
-    have = {twin(r)[len('/en'):] for r in todo + refs} | set(BYHAND)
 
     cache, stats = Cache(CODE), {}
 
@@ -693,7 +708,7 @@ def main():
         print('со ссылкой на подлинник: %d' % len(refs))
     cache.save()
     if not args.dry:
-        print('в _data/i18n.yml: %d страниц' % roster(todo + refs))
+        print('в _data/i18n.yml: %d страниц' % roster(whole))
     print('готово: %s' % stats)
     if stats.get('lost'):
         print('вернулись без меток и остались по-русски: %d' % stats['lost'])
