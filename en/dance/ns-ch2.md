@@ -32,7 +32,7 @@ should consecrate the building **Nāṭya**?
 
 for the construction of the house of **Nāṭya**, first you should give its description.
 
-It seems the input is incomplete. Please provide the full text you'd like translated.
+   сание."
 
 4/ Having heard the questions of those sages, Bharata said: "Let it be heard that which
 
@@ -68,7 +68,7 @@ and it is as follows: 108, 64, and 32,
 
 10/ where - a large building accommodating 108 *hasta*, 64 - medium, and 32 - small.
 
-I'm sorry, but the text you provided appears to be incomplete or contains only a fragment ("лое,") that doesn't form a coherent sentence or context for translation. Could you please provide the full text you'd like me to translate from Russian into English?
+world,
 
 11/ Brahmā decreed: "Let a large building be for the gods, a medium one –
 
@@ -88,7 +88,7 @@ Let the performers of **Nāṭyaveda** know this.
 
 must be observed in all three forms of all three types of theatrical
 
-It seems like your message got cut off. Could you provide the full text you'd like me to translate?
+buildings.
 
 13/ Here are the names of its components: atom, dust particle, hair thickness, larva.
 
@@ -100,7 +100,7 @@ of the thumb, *hasta, daṇḍa*.
 
 hair, and 8 strands should be the size of a larva. The slightest insect-
 
-I'm unable to translate this text as it appears to be incomplete or unclear. The phrase "комое из 8 своих личинок должно состоять" doesn't form a coherent sentence in Russian, and there's no surrounding context to work with. Could you provide the full text you'd like translated?
+Each of its 8 larvae must consist of,
 
 15/ and 8 insects, as should be known, is already a grain of barley.
 
@@ -160,11 +160,7 @@ her plough and, once purified, mark it out with a measuring cord.
 
 The white measuring cord should be stretched under the influence of the constellation.
 
-The asterisks around **Пушья** indicate emphasis, so I'll keep the Markdown bold. The Russian text "вездия" appears to be a typo or fragment; I'll translate it as "stars" (assuming "звезды" was intended). The Sanskrit term "Пушья" becomes "Puṣya" with diacritics.
-
-**Translation:**
-
-stars **Puṣya**.
+vezdie **Puṣya**.
 
 28/ This very thread must be woven by sages from fibers of cotton and grass.
 
@@ -246,7 +242,7 @@ and to the good moon, proceed with the installation of the columns.
 
 This must be performed by the priest who possesses this knowledge, after three nights.
 
-I need more context to translate this. The input "поста." is incomplete—it appears to be a fragment (possibly "поста" meaning "post" or part of a word like "постановка" meaning "production/staging"). Please provide the full text you'd like translated.
+fast.
 
 46/ Thus, the installation of the columns should take place on the day indicated.
 
@@ -258,7 +254,7 @@ by pouring melted butter with mustard
 
 47/ and offer rice cooked in milk to the priests as food; the ritual must be performed by the participants
 
-вовать предметы только белого цвета.
+vovat objects only of white color.
 
 The base of the **Kṣatriya** Column should be adorned with flower garlands and
 
@@ -326,7 +322,7 @@ honey and milk are placed for enjoyment,
 
 Here is the main prayer, recited according to the rules when raising the co-
 
-I need the source text to translate. Please provide the Russian text you'd like me to translate into English.
+   лонн:
 
 61/ "As immovable as Mount Meru and the mighty Himavan, so may you remain unmoving.
 
@@ -346,7 +342,7 @@ attached to the 4 pillars, a proportionate *raṅgapīṭha*, 1.5 in height
 
 with garlands of various colors, incense, fragrances, and fabrics
 
-нями,
+nāmi,
 
 66/ as well as with gifts and sacrifices pleasing to the spirits.
 
@@ -364,7 +360,7 @@ To complete the ritual, one should construct a *mattavāraṇī*,
 
 Now we must carefully fill in the space designated for *raṅgaśīrṣa*.
 
-I'm sorry, but the text you provided appears to be incomplete or garbled. It starts with "ранство чёрной землей" which doesn't form a coherent sentence. Could you please provide the full text you'd like me to translate?
+   ранство чёрной землей.
 
 70/ For this purpose, carefully harness two white bulls to the plow and till the field.
 
@@ -372,9 +368,7 @@ the ground, having first cleared it of clods, grass, and stones.
 
 71/ Then the men—workers who have conquered bodily ailments—must
 
-I'm not able to translate this text as it appears to be incomplete or garbled. The source text "ренести эту землю, по частям, в новых, ранее не использованных, корзи-" seems to be a fragment (possibly "перенести эту землю, по частям, в новых, ранее не использованных, корзинах" — "to carry this earth, piece by piece, in new, previously unused baskets"), but it doesn't match the described context of Indian philosophy, dance, and theatre, and it's cut off mid-word.
-
-Could you provide the full text you'd like translated?
+carry this earth, piece by piece, in new, previously unused baskets.
 
 No, to the area prepared for *raṅgaśīrṣa*.
 
@@ -450,7 +444,7 @@ his sides must be equal to 32 *hasta*.
 
 The teachings, previously mentioned rules and auspicious signs for direct-
 
-I need the actual Russian text to translate. You've provided only the instruction and a fragment "гольного здания должны быть соблюдены" which appears incomplete. Please provide the full source text.
+the entire building must be observed.
 
 88/ The square building **Nāṭya** should be constructed according to the same laws. Having done
 
@@ -500,13 +494,13 @@ with a level floor and adorned with an altar.
 
 99/ But first, a *mattavāraṇī* of the specified size must be made, with a
 
-I need the source text to translate. Please provide the Russian text you'd like me to translate into English.
+with three columns near the altar.
 
 100/ The stage can be either raised or at ground level. In a rectangular
 
 The structure must be high, but in a square - even with
 
-I need the source text to translate. Please provide the Russian text you'd like me to translate into English.
+land.
 
 101/ Thus, according to these rules, one should erect a square building.
 

@@ -82,7 +82,7 @@ Bharata Muni
 
 29/ The four Dhātu (dhātu), [that is, the basic ways of producing sound on a stringed instrument]: Vistāra (vistāra), Karaṇa (karaṇa), Abhiddha (ābiddha), and Vyañjana (vyañjana).
 
-**Вистара**
+**Vistara**
 
 30/ Vistāra (vistāra, "expansion") is of four kinds according to its origin: Saṃghātaja (saṃghātaja), Samavāyaja (samavāyaja), Vistāraja (vistāraja), and Anubandhaja (anubandhaja).
 
@@ -96,7 +96,7 @@ Bharata Muni
 
 **Abhidhā**
 
-34/ Ābiddha (ābiddha, «разбивание») is of five kinds: Kṣepa (kṣepa), Pluta (pluta), Atipāta (atipāta), Atikīrṇa (atikīrṇa) and Anubandha (anubandha).
+34/ Ābiddha (ābiddha, “breaking”) is of five kinds: Kṣepa (kṣepa), Pluta (pluta), Atipāta (atipāta), Atikīrṇa (atikīrṇa), and Anubandha (anubandha).
 
 35/ [These five kinds] should be applied in playing the Vīṇā at the appropriate places in accordance with the nature of the [performed] melody.
 

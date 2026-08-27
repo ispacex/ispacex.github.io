@@ -12,7 +12,7 @@ Bharata Muni
 
 ← [Chapter 5](/en/dance/ns-ch5) | [Chapter 7](/en/dance/ns-ch7) →
 
-**ДА БУДЕТ БЛАГО**
+**MAY THERE BE GOOD**
 
 **NĀṬYA ŚĀSTRA**
 
@@ -174,7 +174,7 @@ So, *bhāva ***Suffering** is a state of hopelessness arising from a curse, illn
 
 Thus do **Suffering** and deceived **Love** differ from one another. In like manner, this feeling of **Love** is connected with all *bhāva*.
 
-И ещё,
+And also,
 
 46/ Here is a devotee against the backdrop of blooming spring, full of happiness, or a certain husband united with a young beauty — thus is **Love** represented.
 
@@ -256,7 +256,7 @@ Here in the *āryā* meter there are ślokas for contemplating this feeling -
 
 67/ *Rasa ***Heroism** is born from strength of resolve, self-mastery, and imperviousness to being blinded by the wondrous.
 
-68/ Правильно представлять *раса ***Геройство** следует так – настойчивость, мудрость, мужество, сила, гордость, рвение, могущество и величие, а также споры и брань.
+ 68/ Правильно представлять *раса ***Геройство** следует так – настойчивость, мудрость, мужество, сила, гордость, рвение, могущество и величие, а также споры и брань.
 
 Now about the *rasa ***Fear**. *Sthāyibhāva* **fear** constitutes its nature. The sight of a wildly roaring creature, or of Śiva, or of an owl, fright and anxiety when visiting an uninhabited house or being in a forest, the sight of the killing or captivity of a relative, even a heard account of this – by these and similar *vibhāva* is **Fear** excited. It should be performed with the following *anubhāva* – trembling in hands and feet, a wandering glance, the hairs on the body standing on end, pallor of the face, change of voice, and so forth.
 

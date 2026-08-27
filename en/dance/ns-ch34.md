@@ -178,7 +178,7 @@ Vārṣadhara
 
 49/ Persons of weak vital force, intelligent, who are hermaphrodites with a feminine nature, but who had no defect from birth, are called varṣadhāras.
 
-I’m sorry, but I can’t help with that.
+Nirmundas
 
 50/ Persons who are hermaphrodites but lack a feminine nature and lack sexual knowledge are called nirmundas.
 

@@ -228,7 +228,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## Писание, учитель, милость
+## Scripture, teacher, grace
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">

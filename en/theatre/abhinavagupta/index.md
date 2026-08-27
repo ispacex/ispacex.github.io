@@ -8,7 +8,7 @@ ru: /theatre/abhinavagupta/
 
 # Abhinavagupta
 
-I need the Russian text to translate. Please provide it.
+## Russian
 
 * [Nāṭyaśāstra, chapters 1-37 (full text)](/theatre/abhinavagupta/natyashastra-ru.txt)
 * [Tantrasāra, introduction (Gabriel Pradipaka)](/theatre/abhinavagupta/abhinavagupta-tantrasara-ru.txt)
@@ -20,5 +20,5 @@ I need the Russian text to translate. Please provide it.
 
 ## Download
 
-* [Русские тексты (zip)](/theatre/abhinavagupta/abhinavagupta-ru.zip)
+* [Russian texts (zip)](/theatre/abhinavagupta/abhinavagupta-ru.zip)
 * [English texts (zip)](/theatre/abhinavagupta/abhinavagupta-en.zip)

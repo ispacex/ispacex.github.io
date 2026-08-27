@@ -4,11 +4,11 @@ lang: en
 ru: /ksh/ph/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/ph/glossary/) · [Писания Трики](/en/ksh/scriptures/) · [Поиск по сайту](/en/search/) · [Вернуться на главную](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/ph/glossary/) · [Scriptures of Trika](/en/ksh/scriptures/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Pratyabhijñāhṛdayam
 
-*«Сердце Узнавания» — двадцать сутр Кшемараджи и его собственный разбор к ним*
+*«The Heart of Recognition» — twenty sūtras of Kṣemarāja and his own commentary on them*
 
 > **Source:** [sanskrit-trikashaivism.com](https://www.sanskrit-trikashaivism.com/en/pratyabhijnahrdayam-commentary-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/543)
 > — Sanskrit, transliteration, and English exposition belong to **Gabriel

@@ -4,6 +4,7 @@ lang: en
 ru: /ksh/pv/
 ---
 
+
 [КШ](/en/ksh/) · [Словарь терминов](/en/ksh/pv/glossary/) · [Поиск по сайту](/en/search/) · [Вернуться на главную](/en/)
 
 # Parātrīśikāvivaraṇa

@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/ta/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/ta/glossary/) · [Писания Трики](/en/ksh/scriptures/) · [Поиск по сайту](/en/search/) · [Тантралока у источника](https://www.sanskrit-trikashaivism.com/ru/node/581)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KSh](/en/ksh/) · [Glossary of terms](/en/ksh/ta/glossary/) · [Scriptures of Trika](/en/ksh/scriptures/) · [Site search](/en/search/) · [Tantrāloka at the source](https://www.sanskrit-trikashaivism.com/ru/node/581)</p>
 
 # Тантралока
 
@@ -29,13 +29,13 @@ in English, and from each of them there is a link there.
 
 <ul id="results"></ul>
 
-<p class="ta-hint nosearch"><em>Searches through all 5,849 stanzas and the translation of the first
-16 chapters; a hit leads directly to the stanza or its translation, not to the beginning of the chapter.
-You can search in Russian, in transliteration, and in Devanagari. Neither diacritics nor
-script matter: "srngara" will find śṛṅgāra, "matrka" — mātṛkā, and
-"шактипата" — śaktipāta. Several words —
-paragraphs containing all of them will be found. The same is also done by <a href="/en/search/">site
-search</a>, along with everything else.</em></p>
+<p class="ta-hint nosearch"><em>Ищет по всем 5 849 строфам и по переводу первых
+16 глав; находка ведёт прямо к строфе или к её переводу, а не в начало главы.
+Искать можно и по-русски, и в транслитерации, и деванагари. Ни диакритика, ни
+письменность не важны: «srngara» найдёт śṛṅgāra, «matrka» — mātṛkā, а
+«шактипата» — śaktipāta. Несколько слов —
+найдутся абзацы, где есть все они. То же самое находит и <a href="/en/search/">поиск
+по сайту</a>, вместе со всем остальным.</em></p>
 
 ## Chapters
 

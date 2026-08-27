@@ -140,7 +140,7 @@ Temporal and contextual rules
 
 189/ On the contrary, "bulls, elephants, lions and bears" require "heavy syllables that can be pronounced with force."
 
-Языковые предписания
+Language prescriptions
 
 190/ "The language used with dhruvā should be Śaurasenī." The exception is the "naṭkūṭa [class]," where "Māgadhī" becomes appropriate.
 

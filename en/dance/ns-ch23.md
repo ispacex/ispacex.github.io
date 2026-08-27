@@ -428,7 +428,7 @@ Goddesses
 
 154/ Men and women, having been brought into such a state, should present all psychological states (bhāva) of the gods in a human manner.
 
-**Санджива**
+**Sañjīva**
 
 155-156/ Directors should not prescribe unblinking eyes in the case of gods. For all psychological states and moods in this world are based on glances, and the meaning [of words] contained in glances is then represented by gestures. Thus should one know about body makeup pertaining to various characters.
 
@@ -462,7 +462,7 @@ Goddesses
 
 170/ Trees that grew on white soil and were cut down under the constellation Puṣya were recognized by the great Viśvakarmā as suitable for the flagstaff of Indra.
 
-**Джарджара**
+**Jarjara**
 
 171-172/ Some of these trees must be [worked into] a jarjara by a carpenter. A branch of a tree may also [become] a jarjara. But bamboo will be most suitable [for this work]. I will speak of its properties.
 

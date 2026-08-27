@@ -8,7 +8,7 @@ ru: /theatre/
 
 ## History of Theatre (Kuprina)
 
-Владислава Куприна
+Vladislava Kuprina
 
 The history of theatre
 

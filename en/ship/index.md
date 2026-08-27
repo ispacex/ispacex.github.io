@@ -9,9 +9,9 @@ description: "Digitized book by Czesław Marchaj — 382 pages, 260 illustration
 
 ## The Theory of Sailing
 
-Чеслав Мархай / Czesław Marchaj
+Czesław Marchaj
 
-I need the actual text to translate. Please provide the content.
+### Complete book
 
 * [Read the book (PDF)](pdf-viewer.html?pdf=https://theatre-th.s3.amazonaws.com/ship/theory.pdf&title=Теория плавания под парусами) — 4.7 MB
 * [Read the book (DjVu)](djvu-viewer.html)

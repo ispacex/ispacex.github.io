@@ -194,7 +194,7 @@ Ullopyaka
 
 142/ The form "must have no fewer than six and no more than twenty parts."
 
-Уттара
+Uttara
 
 143/ The uttara "must have a mukha and pratimukha".
 

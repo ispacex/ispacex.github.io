@@ -4,6 +4,7 @@ lang: en
 ru: /ksh/sv/ch15/
 ---
 
+
 <p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter15)</p>
 
 # Hymn 15 — Bhaktistotranāma pañcadaśaṁ stotram
@@ -62,7 +63,7 @@ ru: /ksh/sv/ch15/
 <span class="pv-sa pv-src" lang="sa">सुखदुःखात्मनोर्भक्ताः किमप्यास्वादयन्त्यहो॥१५.६॥</span><br />
 <span class="pv-iast">Sukhaduḥkhātmanorbhaktāḥ kimapyāsvādayantyaho||15.6||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>О<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>! <ruby>Преданные<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktāḥ</a></rt><rp>)</rp></ruby> <ruby>вкушают<rp> (</rp><rt>āsvādayanti</rt><rp>)</rp></ruby> <ruby>нечто<rp> (</rp><rt>kimapi</rt><rp>)</rp></ruby> — <ruby>внутри<rp> (</rp><rt>antaḥ</rt><rp>)</rp></ruby> <ruby>закона и беззакония<rp> (</rp><rt>dharma-adharma-ātmanoḥ</rt><rp>)</rp></ruby>, <ruby>действия и<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby> <ruby>знания<rp> (</rp><rt>kriyayoḥ jñānayoḥ</rt><rp>)</rp></ruby>, <ruby>счастья и горя<rp> (</rp><rt>sukha-duḥkha-ātmanoḥ</rt><rp>)</rp></ruby>||15.6||</p>
+<p class="pv-tr" markdown="1"><ruby>O<rp> (</rp><rt>aho</rt><rp>)</rp></ruby>! <ruby>The devoted<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-bhakta" class="pv-gl">bhaktāḥ</a></rt><rp>)</rp></ruby> <ruby>taste<rp> (</rp><rt>āsvādayanti</rt><rp>)</rp></ruby> <ruby>something<rp> (</rp><rt>kimapi</rt><rp>)</rp></ruby> — <ruby>within<rp> (</rp><rt>antaḥ</rt><rp>)</rp></ruby> <ruby>of law and lawlessness<rp> (</rp><rt>dharma-adharma-ātmanoḥ</rt><rp>)</rp></ruby>, <ruby>of action and<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby> <ruby>knowledge<rp> (</rp><rt>kriyayoḥ jñānayoḥ</rt><rp>)</rp></ruby>, <ruby>of happiness and sorrow<rp> (</rp><rt>sukha-duḥkha-ātmanoḥ</rt><rp>)</rp></ruby>||15.6||</p>
 
 <hr class="pv-rule" />
 

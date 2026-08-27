@@ -138,7 +138,7 @@ Prakaraṇa
 
 58/ Having examined the needs and action of the plot, one should place between two Acts the Introductory scenes, intended to compress the events in the Links (sandhi).
 
-I notice you've provided the word "Натика" but no surrounding text to translate. Could you please provide the full text you'd like me to translate from Russian into English?
+Nāṭika
 
 59/ In the play type Nāṭikā (Nāṭī), the producers should recognize a more or less well-known variety of these two (Nāṭaka and Prakaraṇa).
 
@@ -268,7 +268,7 @@ Mixed Prahasana
 
 111/ All the features of the Bhāṇa have been described by me according to tradition (āgama). [Now] I shall speak of the features of the Vīthi in the proper order.
 
-I need the source text to translate. Please provide the Russian text you'd like me to translate into English.
+Вити
 
 112-113/ Vīthi must have one Act and be performed by two or one person. It should include characters of the highest, middle, or lowest type, may contain [any of] the rasas, and is of thirteen kinds. Now I shall speak of the peculiarities of all of them.
 
@@ -362,7 +362,7 @@ Prachhedaka
 
 141/ When a [separated] woman, suffering from moonlight, prepares to go to her beloved, even if he has treated her badly, this is an [example of] Pracchedakā.
 
-Тримудхака
+Trimudhaka
 
 142/ A play adorned with even meters, abounding in heroic sentiments, and composed of words that are neither harsh nor grand, is called Trimudhaka.
 

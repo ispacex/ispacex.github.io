@@ -10,7 +10,7 @@ Here will be notes on Kashmiri Shaivism.
 
 ## KṢ
 
-[Поиск по сайту](/en/search/) · [Базовые принципы](/en/ksh/principles/) · [Parātrīśikāvivaraṇa](/en/ksh/pv/) · [Tantrasāra](/en/ksh/tantrasara/) · [Тантралока](/en/ksh/ta/) · [Śivastotrāvalī](/en/ksh/sv/) · [Pratyabhijñāhṛdayam](/en/ksh/ph/) · [Писания Трики: что есть по-русски](/en/ksh/scriptures/)
+[Site search](/en/search/) · [Basic principles](/en/ksh/principles/) · [Parātrīśikāvivaraṇa](/en/ksh/pv/) · [Tantrasāra](/en/ksh/tantrasara/) · [Tantrāloka](/en/ksh/ta/) · [Śivastotrāvalī](/en/ksh/sv/) · [Pratyabhijñāhṛdayam](/en/ksh/ph/) · [Trika scriptures: what is available in Russian](/en/ksh/scriptures/)
 
 *We carry within ourselves the creative charge of the universe, but due to certain circumstances we forget about it. // V. Dmitrieva.*
 
@@ -21,7 +21,7 @@ Here will be notes on Kashmiri Shaivism.
     * shame (lajjā)
     * disgust (jugupsā)
 
-### Основные понятия
+### Basic concepts
 
 * *Śaktipāta* – transmission of spiritual energy from teacher to student or directly from the Deity to a devotee. In KŚ, 7 levels of śaktipāta are distinguished:
     * *tīvra-tīvra-śaktipāta* — the so-called "Supreme Grace" — leads to immediate identification with Śiva and liberation; such a being subsequently becomes a siddha-master and bestows grace from his abode (Siddhaloka) directly into the hearts of worthy aspirants;

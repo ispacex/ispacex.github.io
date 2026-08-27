@@ -84,7 +84,7 @@ Apāsyandita — the reverse of Syandita Cārī (i.e., the other foot is extende
 
 29/ These are the Cārīs used in personal combat, as well as in Karaṇas. Now I will describe the aerial Cārīs.
 
-## Воздушные Чари
+## Air Chari
 
 30/ Atikrānta — the foot in Kuñcita, thrown upward, extended forward, and lowered to the ground.
 

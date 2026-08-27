@@ -63,7 +63,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
-from common.translate import Cache, translate
+from common.translate import Cache, mask, translate, unmask
 
 # Слово из двух алфавитов ловит `check-scripts.py` — та же проверка, что стоит
 # на сайте с давних пор. Здесь она нужна раньше: перевод рождает такие слова
@@ -280,6 +280,55 @@ def looks(en, ru):
     return re.findall(r'\d+', en) == re.findall(r'\d+', ru)
 
 
+def answered(en, ru):
+    """Похоже ли это на перевод куска, а не на разговор с моделью.
+
+    Кусок — не страница: страница режется по пустым строкам, и куском бывает
+    заголовок в два слова, строка таблицы или обрывок фразы («поста.», «лое,»,
+    «корзи-» — вторая глава «Натьяшастры» набрана с переносами). На таком входе
+    модель то и дело отвечает не переводом, и оба её ответа уезжали на страницу
+    как есть: исходник слово в слово (55 кусков) и её собственная реплика («I
+    need the source text to translate. Please provide the Russian text…» — это
+    стояло в `/en/ship/`, в `/en/theatre/abhinavagupta/` и в десяти местах
+    второй главы).
+
+    Признака два.
+
+    **Кириллица в ответе.** Считается по замаскированному: неприкосновенное до
+    модели не доходит и вернуться переведённым не может — в словарях внутри
+    тегов законно стоит русское (`data-alias="санкоча"`, `title="Афоризм 4"`), и
+    по неприкосновенному эта проверка ругалась бы на семь десятков безупречных
+    переводов. Считать надо по тому, что модель и правда видела.
+
+    **Длина не по чину.** Реплика о том, что текст неполон, длиннее самого
+    куска в разы: «Вити» — четыре знака, ответ — сто девять. Правило кусается
+    только на коротком входе, где такие ответы и живут: на куске в две тысячи
+    знаков вдвое длиннее не бывает ни перевода, ни отговорки. Проверено по всем
+    5841 купленным кускам: под правило попали тринадцать, и все тринадцать —
+    разговор, ни одного перевода.
+    """
+    if not en or not en.strip():
+        return False
+    if CYR.search(mask(en)[0]):
+        return False
+    return len(en) <= 2 * len(ru) + 20
+
+
+def unanswered(texts, cache):
+    """Из этих кусков — те, чей ответ переводом не был: их и переспрашивать."""
+    from common.translate import fingerprint
+    out = []
+    for t in texts:
+        masked, parts = mask(t)
+        got = cache.get(fingerprint(masked, cache.lang))
+        if got is None:
+            continue
+        back = unmask(got, parts)
+        if back is not None and not answered(back, t):
+            out.append(t)
+    return out
+
+
 def phrase(ru, cache, stats):
     """Строка front matter по-английски: заголовок, описание. Не вышло — None.
 
@@ -299,23 +348,30 @@ def phrase(ru, cache, stats):
 
 
 def wanted(rel):
-    """Куски страницы, которые пойдут в перевод. Порядок значим."""
+    """Куски страницы, которые пойдут в перевод: (строки шапки, куски текста).
+
+    Врозь потому, что спрашиваются они по-разному, когда ответ не годится:
+    строка шапки переспрашивается заголовком (`phrase`), кусок текста — куском
+    (`answered`). Свалив их в одну кучу, переспрашивали бы заголовок дважды и
+    оба раза не тем наказом.
+    """
     src = open(os.path.join(ROOT, rel), encoding='utf-8').read()
     m = FM.match(src)
     head, body = (m.group(1), src[m.end():]) if m else ('', src)
     title = TITLE.search(head)
-    out = [title.group(1)] if title else []
+    top = [title.group(1)] if title else []
     for line in head.split('\n'):
         f = FMLINE.match(line)
         if f and f.group(1) in PROSE:
-            out.append(f.group(2).strip().strip('"'))
+            top.append(f.group(2).strip().strip('"'))
+    out = []
     for b in blocks(body):
         if b.strip() and CYR.search(b) and not FENCE.match(b.strip()):
             out.append(b)
-    return out
+    return top, out
 
 
-def warm(texts, cache, workers=8):
+def warm(texts, cache, workers=8, kind=None):
     """Покупает всё, чего в кеше нет, — в несколько потоков.
 
     Кеш до и после — единственное, что связывает потоки, и пишут они в него
@@ -332,7 +388,7 @@ def warm(texts, cache, workers=8):
         # Ключ — у кеша, тот же, что берёт `translate()` при сборке. Пока
         # здесь стояло своё имя языка, закупка и сборка считали разные ключи, и
         # всё покупалось дважды.
-        fp = fingerprint(masked, cache.lang)
+        fp = fingerprint(masked, cache.lang + (':' + kind if kind else ''))
         if cache.get(fp) is None:
             need[fp] = masked
     if not need:
@@ -342,7 +398,7 @@ def warm(texts, cache, workers=8):
 
     def one(item):
         fp, masked = item
-        got = ask(masked, LANG)
+        got = ask(masked, LANG, kind=kind)
         with lock:
             cache.put(fp, got)
             done[0] += 1
@@ -421,6 +477,18 @@ def do(rel, cache, stats, dry=False):
             done.append(b)
             continue
         got = translate(b, LANG, cache, stats)
+        # Ответ, переводом не бывший: исходник слово в слово или реплика модели
+        # о том, что текст неполон. Спрашивается ещё раз — куском, а не прозой
+        # («это часть страницы, целого не будет»). Не далось и со второго —
+        # кусок остаётся русским: правило то же, что с метками. По-русски он
+        # хотя бы не врёт, а «Please provide the full text» врёт вдвойне —
+        # читателю нечего прислать, и присылать некому.
+        if got is not None and not answered(got, b):
+            stats['again'] = stats.get('again', 0) + 1
+            more = translate(b, LANG, cache, stats, kind='again')
+            got = more if more is not None and answered(more, b) else None
+            if got is None:
+                stats['stuck'] = stats.get('stuck', 0) + 1
         if got is not None and ruby and MARK.findall(got) != MARK.findall(b):
             stats['marks'] = stats.get('marks', 0) + 1
             got = None
@@ -567,10 +635,21 @@ def main():
     cache, stats = Cache(CODE), {}
 
     if not args.dry:
-        texts = [t for rel in todo for t in wanted(rel)]
-        texts += [t for t in (title_of(r) for r in refs) if t]
-        print('кусков %d, покупаем недостающие…' % len(texts), flush=True)
-        print('куплено: %d' % warm(texts, cache, args.workers))
+        heads, bodies = [], []
+        for rel in todo:
+            top, out = wanted(rel)
+            heads += top
+            bodies += out
+        heads += [t for t in (title_of(r) for r in refs) if t]
+        print('кусков %d, покупаем недостающие…' % (len(heads) + len(bodies)), flush=True)
+        print('куплено: %d' % warm(heads + bodies, cache, args.workers))
+        # Второй заход — за то, на что ответили не переводом. Он здесь, а не в
+        # сборке, по той же причине, по какой здесь первый: восемьдесят запросов
+        # подряд это восемьдесят дорог до сервера, а разом — одна.
+        again = unanswered(bodies, cache)
+        if again:
+            print('ответили не переводом: %d — переспрашиваем' % len(again), flush=True)
+            print('куплено переспросом: %d' % warm(again, cache, args.workers, kind='again'))
 
     for n, rel in enumerate(todo, 1):
         en_title, extra, body = do(rel, cache, stats, args.dry)
@@ -612,6 +691,10 @@ def main():
         print('дали слово из двух алфавитов и остались по-русски: %d' % stats['mixed'])
     if stats.get('bold'):
         print('потеряли звёздочку и остались по-русски: %d' % stats['bold'])
+    if stats.get('again'):
+        print('ответили не переводом и были переспрошены: %d' % stats['again'])
+    if stats.get('stuck'):
+        print('не дались и со второго раза, остались по-русски: %d' % stats['stuck'])
     if stats.get('titles'):
         print('заголовок не дался и остался русским: %d' % stats['titles'])
     if stats.get('fields'):

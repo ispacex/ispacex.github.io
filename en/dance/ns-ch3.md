@@ -104,7 +104,7 @@ ritual of worshipping the gods.
 
 a sip of water, arrange the divine images according to
 
-I need the source text to translate. Please provide the Russian text you'd like me to translate into English.
+to the rules.
 
 19/ Here should be red threads for amulets, incense with the scent of saffron, red flowers, and also a red fruit,
 
@@ -238,7 +238,7 @@ O Lord, the sacrifice, purified by prayer, according to the ritual.
 
 Shiva, may this offering be accepted by you, O Six-Faced One, with satisfaction.
 
-сердцем.
+heart.
 
 O great god Gaṇeśa, Greatest Yogi, Highest of all gods,
 
@@ -262,7 +262,7 @@ In the worlds, accept this my sacrifice, purified by mantra.
 
 accepted by Thee, O Lord, the offering presented by me, sanctified by prayer
 
-It seems like your message got cut off. Could you please provide the full text you'd like me to translate?
+sacred.
 
 56/ O Mouth of the gods, best of the celestials, Marked by smoke, Devourer
 
@@ -284,7 +284,7 @@ The offered.
 
 joy /by Śiva/, may my offering, made with humility, be accepted by you.
 
-I notice you've provided only "рением." which appears to be a fragment, not a complete text to translate. Could you please provide the full text you'd like me to translate from Russian into English?
+   рением.
 
 60/ Salutation to all pitṛ /ancestors/, — may they accept this offering. Salutation to all
 
@@ -322,7 +322,7 @@ hay, purified by prayer.
 
 67/ Salutation to the patronesses of **Nāṭya**, beginning with Brāhmī. By them, the enchanting ones,
 
-чистыми, да будет сегодня принята моя жертва.
+pure, may my sacrifice be accepted today.
 
 68/ May Rudra's weapon fully accept my offering, and also may Vishnu's weapon do so.
 
@@ -436,7 +436,7 @@ of diminishment and quickly becomes a plant or an animal.
 
 in the temple. Therefore, without honoring the gods of the stage, one should not even begin.
 
-I need the source text to translate. Please provide the Russian text you'd like me to translate.
+performances.
 
 98/ The gods, being respected, respect and honor in return, being honored. Therefore,
 

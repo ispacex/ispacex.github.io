@@ -8,7 +8,7 @@ ru: /theatre/patanjali/
 
 # Patañjali
 
-I need the Russian text to translate. Please provide it.
+## Russian
 
 * [Yoga Sūtras of Patañjali, 5 translations in parallel](/theatre/patanjali/patanjali-yoga-sutra-5-perevodov.txt) (Ostrovskaya, Rudoy, Vivekananda, Falkov, Svensson, Bailey)
 * [Yoga Sūtra, translation by Vivekananda and others](/theatre/patanjali/patanjali-yoga-sutra-vivekananda-i-dr.txt) (lib.ru)
@@ -20,5 +20,5 @@ I need the Russian text to translate. Please provide it.
 
 ## Download
 
-* [Русские тексты (zip)](/theatre/patanjali/patanjali-ru.zip)
+* [Russian texts (zip)](/theatre/patanjali/patanjali-ru.zip)
 * [English texts (zip)](/theatre/patanjali/patanjali-en.zip)

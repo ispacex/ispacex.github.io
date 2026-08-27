@@ -3,7 +3,7 @@ lang: en
 ru: /ksh/pashas/
 ---
 
-[КШ](/ksh)
+[KŚ](/ksh)
 
 ## Pāśa
 

@@ -292,7 +292,7 @@ After eating, the gait is interrupted.
 
 152/ The gait of birds, predators, and beasts is shown according to their nature.
 
-## Походка львов, медведей, обезьян
+## Gait of lions, bears, monkeys
 
 153–158/ They are shown as Viṣṇu depicted them:
 From Ālīḍha-sthāna, one hand on the knee, the other on the chest, gaze around, chin on the shoulder, steps — the legs rise five tāla.
