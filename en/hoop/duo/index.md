@@ -3,7 +3,7 @@ lang: en
 ru: /hoop/duo/
 ---
 
-[Back to top](/hoop)
+[Back to top](/en/hoop/)
 
 ## Duo
 
@@ -15,4 +15,4 @@ ru: /hoop/duo/
 
 {% include instagram.html id="reel/C7kBnCloeW4" %}
 
-See also: [Bird flow](/hoop/duo#bird-flow)
+See also: [Bird flow](/en/hoop/duo/#bird-flow)

@@ -245,10 +245,22 @@ def relink(text, have):
 
     Якорь отделяется и возвращается на место: `/ksh/ta/ch9/#v9.5` — та же
     страница, что `/ksh/ta/ch9/`, и без этого она бы не узналась.
+
+    Косая черта в конце тоже отделяется, и по той же причине. Для Jekyll
+    `/dance` и `/dance/` — одна страница, а сличение строка в строку считало
+    их разными, и написанное без черты двойника не находило. Так английский
+    читатель уходил в русский текст с восьмидесяти двух ссылок — включая **всю
+    навигацию английской главной**: девять разделов из девяти написаны там без
+    черты. Подставляется при этом тот вид адреса, что записан в `have`, а не
+    тот, что стоял в ссылке: у Jekyll он канонический, и лишнего перехода по
+    дороге не будет.
     """
+    canon = {u.rstrip('/'): u for u in have}
+
     def swap(url):
         base, sep, frag = url.partition('#')
-        return ('/en' + base + sep + frag) if base in have else url
+        twin = canon.get(base.rstrip('/'))
+        return ('/en' + twin + sep + frag) if twin else url
 
     text = LINK.sub(lambda m: '](%s)' % swap(m.group(1)), text)
     return HREF.sub(lambda m: 'href="%s"' % swap(m.group(1)), text)

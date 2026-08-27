@@ -4,7 +4,7 @@ lang: en
 ru: /theatre/1/
 ---
 
-[History of theatre](/theatre)
+[History of theatre](/en/theatre/)
 
 27.11
 

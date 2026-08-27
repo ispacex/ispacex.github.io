@@ -19,12 +19,12 @@ The main tasks of the institute:
 
 ---
 
-* [Art](/art)
-* [Natyashastra](/dance)
-  * [Natya talam](/nt)
-* [КШ](/ksh)
-* [Theatre](/theatre)
-* [Yoga](/yoga)
-* [Hoop](/hoop)
-* [Books](/books)
-* [Ship](/ship)
+* [Art](/en/art/)
+* [Natyashastra](/en/dance/)
+  * [Natya talam](/en/nt/)
+* [КШ](/en/ksh/)
+* [Theatre](/en/theatre/)
+* [Yoga](/en/yoga/)
+* [Hoop](/en/hoop/)
+* [Books](/en/books/)
+* [Ship](/en/ship/)

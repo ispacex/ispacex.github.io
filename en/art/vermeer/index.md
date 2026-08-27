@@ -5,7 +5,7 @@ ru: /art/vermeer/
 
 # Vermeer
 
-[Home](/art)
+[Home](/en/art/)
 
 ## Girl with a Pearl Earring (c. 1665)
 

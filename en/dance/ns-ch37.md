@@ -8,7 +8,7 @@ ru: /dance/ns-ch37
 
 Bharata Muni
 
-[Table of Contents](/dance)
+[Table of Contents](/en/dance/)
 
 Let there be beauty.
               Thus, the 37th chapter of the Nāṭya Śāstra, as told by the sage Bharata.

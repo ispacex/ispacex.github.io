@@ -5,7 +5,7 @@ ru: /art/pastels/gamma/
 
 # Pastels / Gamma
 
-[Home](/art)
+[Home](/en/art/)
 
 * 01 <code style="color : #f00">■</code> Red PW6, PR48:3
 * 02 Red-orange PO16

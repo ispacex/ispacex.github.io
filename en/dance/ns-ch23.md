@@ -8,7 +8,7 @@ ru: /dance/ns-ch23
 
 Bharata Muni
 
-[Table of Contents](/dance)
+[Table of Contents](/en/dance/)
 
 ← [Chapter 22](/en/dance/ns-ch22) | [Chapter 24](/en/dance/ns-ch24) →
 

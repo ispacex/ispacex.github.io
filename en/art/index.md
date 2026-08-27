@@ -9,7 +9,7 @@ ru: /art/
 
 [Back to main](/en/)
 
-* [Pigments](/art/pigments)
+* [Pigments](/en/art/pigments/)
 
 ## Oil pastels
 
@@ -21,8 +21,8 @@ ru: /art/
 
 ## Painters
 
-* [Vermeer](/art/vermeer)
-* [Monet](/art/monet)
+* [Vermeer](/en/art/vermeer/)
+* [Monet](/en/art/monet/)
 * [Nicholas Roerich](https://en.wikipedia.org/wiki/Nicholas_Roerich)
     - [Banner of Peace](https://en.wikipedia.org/wiki/Banner_of_Peace)
     - [Madonna Oriflamma](https://en.wikipedia.org/wiki/Banner_of_Peace#/media/File:Madonna_Oriflamma.jpg), "Lady of the Blazing Flame"

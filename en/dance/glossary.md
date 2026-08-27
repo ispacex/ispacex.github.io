@@ -6,7 +6,7 @@ ru: /dance/glossary
 
 # Glossary of Terms from the Nāṭyaśāstra
 
-[Table of contents](/dance) · [Back to main page](/en/)
+[Table of contents](/en/dance/) · [Back to main page](/en/)
 
 *Compiler's note: this glossary is not found in the treatise; it has been compiled for the Russian
 translation. The spelling is given in IAST (International Alphabet of Sanskrit

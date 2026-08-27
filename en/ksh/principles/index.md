@@ -5,7 +5,7 @@ ru: /ksh/principles/
 ---
 
 
-[КШ](/ksh) · [Вернуться на главную](/en/)
+[КШ](/en/ksh/) · [Вернуться на главную](/en/)
 
 ## Basic principles of KSh
 

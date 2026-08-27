@@ -3,7 +3,7 @@ lang: en
 ru: /hoop/elements/
 ---
 
-[Back to top](/hoop)
+[Back to top](/en/hoop/)
 
 ## Elements
 
@@ -15,7 +15,7 @@ ru: /hoop/elements/
 
 {% include instagram.html id="reel/C7XQRslohvc" %}
 
-See also: [Neck support](/hoop/duo#neck-support)
+See also: [Neck support](/en/hoop/duo/#neck-support)
 
 ### Swan Lion roll
 

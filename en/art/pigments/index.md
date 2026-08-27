@@ -7,7 +7,7 @@ ru: /art/pigments/
 
 # Pigments
 
-[Home](/art)
+[Home](/en/art/)
 
 ## Yellow
 

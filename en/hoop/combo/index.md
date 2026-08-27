@@ -3,7 +3,7 @@ lang: en
 ru: /hoop/combo/
 ---
 
-[Back to top](/hoop)
+[Back to top](/en/hoop/)
 
 ## Combo
 
