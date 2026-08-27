@@ -1,7 +1,6 @@
 ---
 title: "yoga"
 lang: en
-search: false
 ru: /yoga/
 ---
 

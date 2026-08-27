@@ -1,7 +1,6 @@
 ---
 title: "Institute of Inner Space Exploration"
 lang: en
-search: false
 ru: /
 ---
 
@@ -16,7 +15,7 @@ The main tasks of the institute:
 * conveying and restructuring the cultural code through works of art
 * preservation of humanity's cultural heritage (Pax culture)
 
-**[Site search](/search/)** — across all sections at once.
+**[Site search](/en/search/)** — across all sections at once.
 
 ---
 

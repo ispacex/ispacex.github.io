@@ -55,6 +55,9 @@ MARK = re.compile(r'\([A-Za-zĀ-ſḀ-ỿ\'\-\s.…|]+\)')
 ROW = re.compile(r'data-tts="([^"]+)"[^>]*>([^<]*)</td>')
 LINK = re.compile(r'\]\((?:/|https?://)[^)]*\)')
 SOURCE = re.compile(r'^source:\s*(\S+)\s*$', re.M)
+# Английская пара, написанная руками. Не перевод — сличать построчно нечего:
+# ссылок, помет и полужирных у неё столько, сколько нужно ей самой.
+BYHAND = re.compile(r'^byhand:\s*true\s*$', re.M)
 RU = re.compile(r'^ru:\s*(\S+)\s*$', re.M)
 TITLE = re.compile(r'^title:\s*"?(.*?)"?\s*$', re.M)
 BOLD = re.compile(r'\*\*')
@@ -80,7 +83,7 @@ def main():
         return 1
 
     lost_pages, missing, tts_bad, mark_bad, mark_soft, markup_bad = [], [], [], [], [], []
-    stubs, stub_bad, stub_ru_title = [], [], []
+    stubs, stub_bad, stub_ru_title, byhand = [], [], [], []
     for en_rel, ru_path in rows:
         en_path = os.path.join(EN, en_rel)
         en = open(en_path, encoding='utf-8').read()
@@ -88,6 +91,12 @@ def main():
             missing.append(en_rel)
             continue
         ru = open(ru_path, encoding='utf-8').read()
+
+        # Написанная руками: не перевод, а пара. Проверки ниже мерят, что
+        # уцелело от исходника при переводе, и к ней неприменимы все до одной.
+        if BYHAND.search(en[:en.index('---', 4)] if '---' in en[4:] else en):
+            byhand.append(en_rel)
+            continue
 
         # Страница-заместитель: текста нет, есть две ссылки, и обе обязаны быть
         # на месте. Пропала ссылка на подлинник — страница стала тупиком;
@@ -145,8 +154,8 @@ def main():
         if left:
             lost_pages.append((en_rel, len(left)))
 
-    print('страниц переведено: %d, из них со ссылкой на подлинник: %d'
-          % (len(rows), len(stubs)))
+    print('страниц переведено: %d, из них со ссылкой на подлинник: %d, '
+          'написано руками: %d' % (len(rows), len(stubs), len(byhand)))
 
     print('\nу заместителя порвана ссылка: %d' % len(stub_bad))
     for rel, why in stub_bad[:20]:

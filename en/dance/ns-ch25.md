@@ -1,7 +1,6 @@
 ---
 title: "Nāṭyaśāstra, Chapter 25"
 lang: en
-search: false
 ru: /dance/ns-ch25
 ---
 

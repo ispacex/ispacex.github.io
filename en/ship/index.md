@@ -1,7 +1,6 @@
 ---
 title: "The theory of sailing under sails."
 lang: en
-search: false
 ru: /ship/
 ---
 

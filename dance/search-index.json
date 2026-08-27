@@ -29,11 +29,20 @@ sitemap: false
 
 Порядок глав — их номер: у Jekyll восемнадцатая идёт раньше второй, а читателю
 нужен порядок трактата.
+
+Английский двойник главы попадает сюда сам: он лежит в `/en/dance/ns-ch…`, и
+отбор по `path contains` берёт его наравне с русской. Здесь ему не место, и не
+из-за языка: этот указатель ведёт к строфе по её номеру, а поиск по строфам —
+русская страница, других нет. Перевод ищется вместе со всем сайтом, куда он
+теперь и попадает (`/search-index.json`, языковая пометка у страницы). Возить же
+его копию ещё и сюда значило бы удвоить указатель ради выдачи, которую никто не
+откроет.
 {%- endcomment -%}
 {%- assign chapters = site.pages | where_exp: "p", "p.path contains 'dance/ns-ch'" -%}
 {"pages":[
 {%- assign firstchapter = true -%}
 {%- for ch in chapters -%}
+{%- if ch.lang -%}{% continue %}{% endif -%}
 {%- assign no = ch.path | split: 'ns-ch' | last | split: '.' | first | plus: 0 -%}
 {%- unless firstchapter %},{% endunless -%}
 {%- assign firstchapter = false -%}

@@ -1,11 +1,10 @@
 ---
 title: "Tantrasāra — a concise encyclopedia of Tantra"
 lang: en
-search: false
 ru: /ksh/tantrasara/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/tantrasara/glossary/) · [Site search](/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/tantrasara/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Tantrasāra
 
@@ -31,7 +30,7 @@ reads as something one should have started with.
 
 ## Why she lies here
 
-Then, [site search](/search/) searches the pages of this repository, not those of
+Then, [site search](/en/search/) searches the pages of this repository, not those of
 others. Text left behind a link will not enter the index in any way: a query
 for “*abhiṣeka*” or “descent of the Force” simply will not find the “Tantrasāra,” even though it is there.
 For it to be found, it must lie here.

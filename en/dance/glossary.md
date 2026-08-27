@@ -1,7 +1,6 @@
 ---
 title: "Nāṭyaśāstra: glossary of terms"
 lang: en
-search: false
 ru: /dance/glossary
 ---
 

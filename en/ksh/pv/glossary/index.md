@@ -1,11 +1,10 @@
 ---
 title: "Parātrīśikāvivaraṇa: glossary of terms"
 lang: en
-search: false
 ru: /ksh/pv/glossary/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Parātrīśikāvivaraṇa](/en/ksh/pv/) · [Site search](/search/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Parātrīśikāvivaraṇa](/en/ksh/pv/) · [Site search](/en/search/)</p>
 
 # Glossary of terms
 

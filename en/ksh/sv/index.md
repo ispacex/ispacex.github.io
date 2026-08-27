@@ -1,11 +1,10 @@
 ---
 title: "Śivastotrāvalī — hymns of Utpaladeva to Śiva"
 lang: en
-search: false
 ru: /ksh/sv/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Glossary of terms](/en/ksh/sv/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Śivastotrāvalī
 
@@ -74,7 +73,7 @@ and it cannot diverge from what lies on the page.
 
 ## Why is this here
 
-Then, for the same reason the "Tantrasāra](/en/ksh/tantrasara/)" was transferred: [site search](/search/) searches the pages of this repository, not others. The text left at the link is not in the index at all — a query for "*bhakti*" or "*saṁvinmaya*" simply will not find the "Śivastotrāvalī", even though it is there.
+Then, for the same reason the "Tantrasāra](/en/ksh/tantrasara/)" was transferred: [site search](/en/search/) searches the pages of this repository, not others. The text left at the link is not in the index at all — a query for "*bhakti*" or "*saṁvinmaya*" simply will not find the "Śivastotrāvalī", even though it is there.
 
 Moreover, neighboring pages refer to these hymns. In [«Tantrāloka» 13.290](/en/ksh/ta/ch13/#t13.290)
 Abhinavagupta quotes in full the stanza 13.11 — the one where Utpaladeva asks the Lord

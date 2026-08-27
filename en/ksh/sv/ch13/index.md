@@ -1,11 +1,10 @@
 ---
 title: "Śivastotrāvalī: Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram"
 lang: en
-search: false
 ru: /ksh/sv/ch13/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter13)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter13)</p>
 
 # Hymn 13 — Saṅgrahastotranāma trayodaśaṁ stotram
 

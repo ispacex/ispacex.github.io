@@ -1,7 +1,6 @@
 ---
 title: "Kashmir Shaivism"
 lang: en
-search: false
 ru: /ksh/
 ---
 
@@ -11,7 +10,7 @@ Here will be notes on Kashmiri Shaivism.
 
 ## KṢ
 
-[Поиск по сайту](/search/) · [Базовые принципы](/en/ksh/principles/) · [Parātrīśikāvivaraṇa](/en/ksh/pv/) · [Tantrasāra](/en/ksh/tantrasara/) · [Тантралока](/en/ksh/ta/) · [Śivastotrāvalī](/en/ksh/sv/) · [Pratyabhijñāhṛdayam](/en/ksh/ph/) · [Писания Трики: что есть по-русски](/en/ksh/scriptures/)
+[Поиск по сайту](/en/search/) · [Базовые принципы](/en/ksh/principles/) · [Parātrīśikāvivaraṇa](/en/ksh/pv/) · [Tantrasāra](/en/ksh/tantrasara/) · [Тантралока](/en/ksh/ta/) · [Śivastotrāvalī](/en/ksh/sv/) · [Pratyabhijñāhṛdayam](/en/ksh/ph/) · [Писания Трики: что есть по-русски](/en/ksh/scriptures/)
 
 *We carry within ourselves the creative charge of the universe, but due to certain circumstances we forget about it. // V. Dmitrieva.*
 

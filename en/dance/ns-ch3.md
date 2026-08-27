@@ -5,7 +5,6 @@ Since there's no additional content provided beyond this title, I should transla
 
 Let me provide the translation of this title.Nāṭyaśāstra, Chapter 3"
 lang: en
-search: false
 ru: /dance/ns-ch3
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: "Tantrāloka: dictionary of terms"
 lang: en
-search: false
 ru: /ksh/ta/glossary/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Tantrāloka](/en/ksh/ta/) · [Site search](/search/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Tantrāloka](/en/ksh/ta/) · [Site search](/en/search/)</p>
 
 # Glossary of terms
 

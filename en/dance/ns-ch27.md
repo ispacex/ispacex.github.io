@@ -1,7 +1,6 @@
 ---
 title: "Nāṭyaśāstra, Chapter 27"
 lang: en
-search: false
 ru: /dance/ns-ch27
 ---
 

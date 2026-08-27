@@ -1,11 +1,10 @@
 ---
 title: "Śivastotrāvalī: glossary of terms"
 lang: en
-search: false
 ru: /ksh/sv/glossary/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Site search](/search/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Site search](/en/search/)</p>
 
 # Glossary of terms
 

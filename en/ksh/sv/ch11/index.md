@@ -1,11 +1,10 @@
 ---
 title: "Śivastotrāvalī: Hymn 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram"
 lang: en
-search: false
 ru: /ksh/sv/ch11/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter11)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Śivastotrāvalī](/en/ksh/sv/) · [Словарь терминов](/en/ksh/sv/glossary/) · [Поиск по сайту](/en/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-shivastotraavalii/1005#Chapter11)</p>
 
 # Hymn 11 — Autsukyaviśvasitanāmaikādaśaṁ stotram
 

@@ -1,7 +1,6 @@
 ---
 title: "Theatre history: lecture 1"
 lang: en
-search: false
 ru: /theatre/1/
 ---
 

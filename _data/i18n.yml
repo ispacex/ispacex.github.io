@@ -3,7 +3,6 @@
 # Адреса русских страниц, у которых есть английский двойник в /en/.
 en:
   - "/"
-  - "/CLAUDE"
   - "/art/"
   - "/art/monet/"
   - "/art/pastels/gamma/"
@@ -185,6 +184,7 @@ en:
   - "/ksh/tantrasara/ch9/"
   - "/ksh/tantrasara/glossary/"
   - "/nt/"
+  - "/search/"
   - "/ship/"
   - "/theatre/"
   - "/theatre/1/"

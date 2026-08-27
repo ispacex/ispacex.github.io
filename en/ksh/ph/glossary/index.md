@@ -1,11 +1,10 @@
 ---
 title: "Pratyabhijñāhṛdayam: glossary of terms"
 lang: en
-search: false
 ru: /ksh/ph/glossary/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Pratyabhijñāhṛdayam](/en/ksh/ph/) · [Site search](/search/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Pratyabhijñāhṛdayam](/en/ksh/ph/) · [Site search](/en/search/)</p>
 
 # Glossary of terms
 

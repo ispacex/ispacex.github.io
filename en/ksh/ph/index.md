@@ -1,11 +1,10 @@
 ---
 title: "Pratyabhijñāhṛdayam — The Heart of Recognition, with commentary by Kṣemarāja"
 lang: en
-search: false
 ru: /ksh/ph/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/ph/glossary/) · [Писания Трики](/en/ksh/scriptures/) · [Поиск по сайту](/search/) · [Вернуться на главную](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/ph/glossary/) · [Писания Трики](/en/ksh/scriptures/) · [Поиск по сайту](/en/search/) · [Вернуться на главную](/en/)</p>
 
 # Pratyabhijñāhṛdayam
 
@@ -49,7 +48,7 @@ Sanskrit — devanāgarī and transliteration — has been carried over from the
 
 ## Why it lies here
 
-Then, for the same reason as the "Tantrasāra](/en/ksh/tantrasara/)": [site search](/search/) searches the pages of this repository, not others'. But here the reason is not only search — no Russian analysis exists, and it had to be made.
+Then, for the same reason as the "Tantrasāra](/en/ksh/tantrasara/)": [site search](/en/search/) searches the pages of this repository, not others'. But here the reason is not only search — no Russian analysis exists, and it had to be made.
 
 ## How to read these pages
 

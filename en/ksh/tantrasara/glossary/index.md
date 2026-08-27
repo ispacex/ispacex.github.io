@@ -1,11 +1,10 @@
 ---
 title: "Tantrasāra: glossary of terms"
 lang: en
-search: false
 ru: /ksh/tantrasara/glossary/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Tantrasāra](/en/ksh/tantrasara/) · [Site search](/search/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Tantrasāra](/en/ksh/tantrasara/) · [Site search](/en/search/)</p>
 
 # Glossary of terms
 

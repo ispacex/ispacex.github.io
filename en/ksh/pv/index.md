@@ -1,11 +1,10 @@
 ---
 title: "Parātrīśikāvivaraṇa — Abhinavagupta's commentary"
 lang: en
-search: false
 ru: /ksh/pv/
 ---
 
-[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/pv/glossary/) · [Поиск по сайту](/search/) · [Вернуться на главную](/en/)
+[КШ](/en/ksh/) · [Словарь терминов](/en/ksh/pv/glossary/) · [Поиск по сайту](/en/search/) · [Вернуться на главную](/en/)
 
 # Parātrīśikāvivaraṇa
 

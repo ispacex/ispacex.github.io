@@ -92,6 +92,17 @@
 Отличие 2: палитра перехода. Ради неё этот макет здесь и появился.
 Отличие 3: сломанная вставка analytics.js темы убрана — см. заголовок файла.
 {%- endcomment -%}
+{%- comment -%}
+Поиск и подсказка — на языке страницы. Палитра свой язык узнаёт сама, у <html
+lang>, и отбирает по нему названия; но куда вести за полным поиском и что
+написать в пустом поле, знает только тот, кто ставит тег. Английская страница,
+уводящая на русский поиск, отправляла бы читателя туда, где английских находок
+нет по построению.
+{%- endcomment -%}
+{%- if page.lang == 'en' -%}
+    <script src="{{ '/sitesearch/palette.js' | relative_url }}" data-index="/nav-index.json" data-mount="#title" data-search="/en/search/" data-search-index="/search-index.json" data-placeholder="Where to? for example: Tantrāloka, glossary, sails" defer></script>
+{%- else -%}
     <script src="{{ '/sitesearch/palette.js' | relative_url }}" data-index="/nav-index.json" data-mount="#title" data-search="/search/" data-search-index="/search-index.json" data-placeholder="Куда идём? например: Тантралока, словарь, паруса" defer></script>
+{%- endif -%}
   </body>
 </html>

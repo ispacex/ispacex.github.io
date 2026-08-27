@@ -38,45 +38,55 @@ const SITE = process.argv[2] || path.join(HERE, '_sitecheck');
 // ему не хватает одинаково.
 
 const { El, install } = require('./browser.js');
-const { nodes } = install(SITE, 'ru');
+install(SITE, 'ru');
 
 const SiteSearch = require(path.join(HERE, 'sitesearch', 'search.js'));
 
-// --- один запрос ------------------------------------------------------------
-
-const input = new El('input');
-input.value = '';
-const status = nodes.status = new El('p');
-const results = nodes.results = new El('ul');
-results.parentNode = new El('div');
-
-SiteSearch.mount({ input: input, status: status, results: results, repeats: 4,
-	sources: [{ url: '/search-index.json' }] });
+// --- читатель и его запрос --------------------------------------------------
+//
+// Читателей двое, русский и английский, и указатель у них один и тот же —
+// разной должна быть выдача. Поэтому движок здесь не один: у каждого свой, со
+// своим языком. Язык называется движку прямо, а не через <html lang>:
+// подставка держит один документ на всю проверку, а читателя надо двух.
 
 // Движок догружает куски текста и перерисовывает выдачу сам; здесь надо просто
 // дождаться, пока строка состояния перестанет обещать продолжение.
 const settled = (say) => say && !/Загружаю|ищу дальше|читаю дальше/.test(say);
 
-function ask(q) {
-	input.value = q;
-	results.children = [];
-	status.textContent = '';
-	input.fire('input');   // движок откладывает перерисовку на 120 мс
-	return new Promise((done) => {
-		const tick = () => {
-			if (!settled(status.textContent)) return setTimeout(tick, 40);
-			done({
-				say: status.textContent,
-				items: results.children.map((li) => ({
-					link: li.link,
-					where: li.children[0].textContent,
-					text: li.children[1].marked,
-				})),
-			});
-		};
-		setTimeout(tick, 200);
-	});
+function reader(lang) {
+	const input = new El('input');
+	input.value = '';
+	const status = new El('p');
+	const results = new El('ul');
+	results.parentNode = new El('div');
+
+	SiteSearch.mount({ input: input, status: status, results: results, repeats: 4,
+		lang: lang, sources: [{ url: '/search-index.json' }] });
+
+	return function ask(q) {
+		input.value = q;
+		results.children = [];
+		status.textContent = '';
+		input.fire('input');   // движок откладывает перерисовку на 120 мс
+		return new Promise((done) => {
+			const tick = () => {
+				if (!settled(status.textContent)) return setTimeout(tick, 40);
+				done({
+					say: status.textContent,
+					items: results.children.map((li) => ({
+						link: li.link,
+						where: li.children[0].textContent,
+						text: li.children[1].marked,
+					})),
+				});
+			};
+			setTimeout(tick, 200);
+		});
+	};
 }
+
+const ask = reader('ru');
+const askEn = reader('en');
 
 // --- сами проверки ----------------------------------------------------------
 
@@ -226,6 +236,40 @@ function aliasesOf(name, file) {
 	return bad.length;
 }
 
+/* Язык читателя. У 96 страниц сайта есть английский двойник, и лежат обе в
+   одном указателе: русская находка не должна выдаваться дважды, на двух
+   языках, — ровно этим перевод и был опасен, и ровно поэтому его из поиска
+   временно убирали целиком (VS-40).
+
+   Оговорка у английского читателя нарочная. «Тантралока» и книга Мархая языка
+   о себе не сообщают: строфы на санскрите и русский текст, которого никто не
+   переводил, лучше найти, чем не найти. Их и показывают обоим — а перечислены
+   они здесь поимённо, чтобы исключение оставалось перечнем, а не дырой. */
+const NEUTRAL = ['/ksh/ta/', '/ship/'];
+
+const TWO = ['śaktipāta', 'rasa', 'Abhinavagupta', 'раса'];
+
+async function langs() {
+	console.log('\nЯзык читателя (одна страница — одному из двух):');
+	let bad = 0;
+	for (const q of TWO) {
+		const ru = pagesOf((await ask(q)).items);
+		const en = pagesOf((await askEn(q)).items);
+		const strayRu = ru.filter((u) => u.startsWith('/en/'));
+		const strayEn = en.filter((u) => !u.startsWith('/en/') &&
+			!NEUTRAL.some((n) => u.startsWith(n)));
+		// Пустая выдача согласна с любым правилом и потому ничего не значит:
+		// у обоих читателей должно найтись хоть что-нибудь.
+		const ok = !strayRu.length && !strayEn.length && ru.length && en.length;
+		if (!ok) bad++;
+		console.log((ok ? '  ' : '✗ ') + ('«' + q + '»').padEnd(18) +
+			('ru ' + ru.length).padEnd(9) + ('en ' + en.length).padEnd(9) +
+			(strayRu.length ? '   по-русски выдано ' + strayRu.slice(0, 3).join(' ') : '') +
+			(strayEn.length ? '   по-английски выдано ' + strayEn.slice(0, 3).join(' ') : ''));
+	}
+	return bad;
+}
+
 (async () => {
 	let bad = 0;
 	for (const set of SETS) {
@@ -241,6 +285,7 @@ function aliasesOf(name, file) {
 				'страниц ' + String(p.length).padStart(3));
 		}
 	}
+	bad += await langs();
 	bad += folds();
 	bad += aliases();
 	bad += await typos();

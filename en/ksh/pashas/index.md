@@ -1,6 +1,5 @@
 ---
 lang: en
-search: false
 ru: /ksh/pashas/
 ---
 

@@ -21,7 +21,7 @@ No Gemfile is tracked — the site relies on GitHub Pages' built-in Jekyll with 
 ```bash
 # Build locally in Docker to check pages and measure the search index
 ./tools/build-local.sh     # result in _sitecheck/, both index tiers included
-node tools/check-search.js # search: one term per word in either script, and a typo gets an answer
+node tools/check-search.js # search: one term per word in either script, a typo gets an answer, and each reader gets their own language
 node tools/check-palette.js # ⌘K palette: the index is whole, jumps land, and a query the names miss reaches the text
 python3 tools/check-scripts.py # text: no word mixes two alphabets (needs no build)
 ```

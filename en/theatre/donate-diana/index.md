@@ -1,7 +1,6 @@
 ---
 title: "Support Diana Manukyan"
 lang: en
-search: false
 ru: /theatre/donate-diana/
 ---
 

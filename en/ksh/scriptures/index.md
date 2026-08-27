@@ -1,11 +1,10 @@
 ---
 title: "The scriptures of Trika in IAST: what is and what is not in Russian"
 lang: en
-search: false
 ru: /ksh/scriptures/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Site search](/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[KS](/en/ksh/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
 
 # Trika Scriptures: What Is and What Is Not
 

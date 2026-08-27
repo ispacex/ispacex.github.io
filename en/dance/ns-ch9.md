@@ -1,7 +1,6 @@
 ---
 title: "I need the source text to translate. Please provide the Russian text of 'Натьяшастра, Глава 9' that you'd like me to translate into English."
 lang: en
-search: false
 ru: /dance/ns-ch9
 ---
 
