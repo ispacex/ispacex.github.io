@@ -24,449 +24,215 @@ So, the second chapter in the **Nāṭyaśāstra** of Bharata.
 
 1/ Having heard Bharata's speech, the sages again addressed him: "O Noble One, now we wish to hear about the sacrifice performed on stage.
 
-2/ What is this ritual? What are the rules of worship? And how will people in the future
+2/ What is this ritual? What are the rules of worship? And how in the future should people consecrate the building of **Nāṭya**?
 
-should consecrate the building **Nāṭya**?
+3/ But since in this material world the magic of **Nāṭya** begins precisely with the construction of a house for **Nāṭya**, you should first give its description.
 
-3/ But since in this material world the magic of **Nāṭya** begins precisely with
+4/ Having heard the questions of those sages, Bharata said: "Let it be heard how the sacrifice is to be performed within the walls of **Nāṭya.**
 
-of building a house for **Nāṭya**, then first you should give its description.
+5/ However, since, unlike the gods, who create their heavenly abodes and gardens merely by thought of abodes and gardens, human purposeful labors must always be accompanied by effort, such is the becoming of all people living in the world,
 
-4/ Having heard the questions of those sages, Bharata said: "Let it be heard that which
+6/ then first learn in what manner the house for **Nāṭya** should be constructed, how its site should be chosen, how it should be consecrated, and in what way worship and the rite of sacrifice should be performed.
 
-how should the sacrifice be performed within the walls of **Nāṭya.**
+7/ Having examined the three forms of the theatre building created by the wise Viśvakarman, according to the teaching of the śāstras,
 
-5/ However, since, unlike the gods who create their heavenly abodes
+8/ rectangular, square, and triangular, whose sizes, respectively, are large, medium, and small,
 
-and gardens only by the thought of homes and gardens, human purposeful
-
-Works must always be accompanied by effort; such is the becoming of all.
-
-living in the world of people,
-
-6/ then first find out in what exact manner the house should be constructed for
-
-**Nāṭya**, how to choose a place for it, how it should be consecrated, and in what manner the worship and performance should be conducted
-
-ritual of sacrifice.
-
-7/ Having examined what was created by the wise Viśvakarman, according to the teachings of the śāstras,
-
-three forms of the theatre building -
-
-8/ rectangular, square, and triangular, whose dimensions, respectively,
-
-large, medium, and small,
-
-9/ whose proportion is determined by the relation of *hasta* - *daṇḍa* /cubit to staff/,
-
-and it is as follows: 108, 64, and 32,
+9/ whose proportion is determined by the relation of *hasta* - *daṇḍa* /cubit to staff/, and it is as follows - 108, 64 and 32,
 
 10/ where - containing 108 *hasta* - a large building, 64 - medium, and 32 - small,
 
-11/ Brahmā decreed: "Let a large building be for the gods, a medium one –
+11/ Brahmā established: "Let a large building be for the gods, a medium one for kings, and a small one—let all others possess." By tradition, of all buildings, the medium one is preferable. Here both recitation and singing are clearly audible. For each building, there exist three different ways of conducting the ceremony—for rectangular, square, and triangular forms, i.e., large, small, and medium. Let those performing **Nāṭyaveda** know this.
 
-for kings, and the small ones - let all others dispose of them."
+12/ The following proportion was established by Viśvakarman, and it is precisely this that must be observed in all three forms of all three types of theatre buildings.
 
-By tradition, of all buildings, the middle one is preferable. Here both recitation and singing are clearly audible. For each building there are three
+13/ Here are the names of its components: atom, dust particle, thickness of a hair, larva of the tiniest insect, the tiniest insect, a barley grain, the width of a thumb, *hasta, daṇḍa*.
 
-two different ways of conducting the ceremony - for rectangular and square
+14/ 8 atoms make up a speck of dust, 8 specks of dust, they say, make up the thickness of a hair, and 8 hairs should be the size of a larva. The tiniest insect should consist of 8 of its own larvae,
 
-and triangular forms, i.e., large, small, and medium.
+15/ and 8 insects, as should be known, are already a grain of barley. Also 8 barley grains are the thickness of a thumb. Likewise, 24 thumbs constitute a *hasta*,
 
-Let the performers of **Nāṭyaveda** know this.
+16/ and 4 *hasta*, they say, determine the *daṇḍa*. Based on these measurements, I will explain further.
 
-12/ The following proportion was established by Viśvakarman, and it is precisely this that it should be.
+17/ Let here, in this material world, the length of the building for **Nāṭya** be 64 *hasta*, and the width 32.
 
-must be observed in all three forms of all three types of theatrical
+18/ And henceforth, the organizers should not make a theatre building due to which the *bhāva* of the action taking place there would not be visible.
 
-buildings.
+19/ So, if a building is too long, the sound of the recited verse easily rises upward, and the voice, not soaring by nature, becomes quite unmelodious and harsh.
 
-13/ Here are the names of its components: atom, dust particle, hair thickness, larva.
+20/ And because the hall is too long, *abhinaya* and the subtlest movements of the pupils, accompanying various *bhāva*, will be indistinguishable.
 
-the tiniest insect, the tiniest insect, a barley grain, width
+21/ Therefore, of all forms of buildings for **Nāṭya**, the middle one is preferable. There both the spoken text and the singing will be clearly audible.
 
-of the thumb, *hasta, daṇḍa*.
+22/ I remind you that the gods create by thought, while man and his entire life are an achievement through physical exertion,
 
-14/8 atoms form a speck of dust, 8 specks of dust, they say, form its thickness.
+23/ and man must not compete with the gods in the ability to create. Here I give a description of the building **Nāṭya** only for people.
 
-hair, and 8 hairs must be the size of a larva. The tiniest insect must consist of its 8 larvae,
+24/ The organizer, you should first inspect the plot of land, and then, with good intentions, begin the measurement.
 
-15/ and 8 insects, as should be known, is already a grain of barley.
+25/ The site for the house **Nāṭya** should be chosen where the ground is level, stable, firm, and black in color, not pale.
 
-Also, 8 barley grains is the thickness of the thumb. Likewise,
+26/ Having first removed pieces of wood, potsherds, grass, and bushes, one should plow it with a plow and, once purified, mark it out with a measuring cord.
 
-24 great fingers - *hasta* constitute,
+27/ three northern constellations - **Saumya**, **Viśākhā** and **Revatī**, as well as **Hastī**, **Tiṣya** and **Anurādhā** are favorable for rituals connected with **Nāṭya**. And the white measuring cord should be stretched under the influence of the constellation **Puṣya**.
 
-16/ a 4 *hasta*, they say, determine *daṇḍa*. Based on these measurements,
+28/ This very thread must be woven by sages from cotton fibers, balbadja grass, sedge, and bark. Unbreakable it must be.
 
-I will continue explaining further.
+29/ If that thread is torn in half - the king's death is inevitable; if into three parts - expect rebellion among the people.
 
- 17/ Пусть здесь, в этом материальном мире, длина здания для **Натья**
+30/ if that thread breaks into four parts, it is believed that the death of the organizer of **Nāṭya** is inevitable, and, finally, if this white thread falls from the hands, then some loss in the country will certainly occur.
 
-will be 64 *hasta*, and the width 32.
-
-18/ And henceforth, the organizers must not make a theatre building,
-
-because of which the *bhāva* of the action taking place there will not be visible.
-
-19/ So, if the building is too long, the sound of the recited verse easily
-
-goes upward, and a voice that is by nature non-flying becomes quite unmelodious and
-
-becomes sharp.
-
-20/ And because of an overly long hall, *abhinaya* and the subtlest movements
-
-pupils, accompanying various *bhāva*, will be indistinguishable.
-
-21/ Therefore, of all forms of buildings for **Nāṭya**, the middle one is preferable.
-
-Both the spoken text and the singing will be clearly audible there.
-
-22/ Let me remind you that the gods create by thought, and man and all his life are
-
-achievement through physical exertion,
-
-23/ and man must not compete with the gods in the capacity for creation.
-
-Here I give a description of the building **Nāṭya** only for people.
-
-24/ The organizer, you should first inspect the plot of land, and then, with
-
-with the desire for good, begin the measurement.
-
-25/ The site for the house **Nāṭya** should be chosen where the ground is level,
-
-stable, firm, and black rather than pale in color.
-
-26/ Having first removed pieces of wood, shards, grass, and bushes, one should plow the ground.
-
-her plough and, once purified, mark it out with a measuring cord.
-
-27/ three northern constellations - **Saumya**, **Viśākhā** and **Revatī**, as well as **Hasti,**
-
-**Tiṣya** and **Anurādhā** are favorable for rituals connected with **Nāṭya.**
-
-The white measuring cord should be stretched under the influence of the constellation **Puṣya**.
-
-28/ This very thread must be woven by sages from fibers of cotton and grass.
-
-balbaja, sedge and bark. It must be unbreakable.
-
-29/ If that thread tears in two - the king's death is inevitable; if into three
-
-part - expect rebellion among the people,
-
-30/ if that thread breaks into four parts, it is considered inevitable
-
-death of the organizer of **Nāṭya**, and, finally, if this white thread falls out of
-
-hands, then some loss will certainly occur in the country.
-
-31/ Therefore, carefully stretching the thread, always hold it firmly. Measurements for the house of **Nāṭya** should be made with great care and
-
-carefully.
+31/ Therefore, carefully stretching the thread, always hold it firmly. Measurements for the house of **Nāṭya** should be made with great care and caution.
 
 32/ Now, on a day considered auspicious, and at the appropriate moment of a favorable lunar day,
 
-33/ after the Brahmins have made a water offering in the name of peace, that thread
+33/ after the Brahmans have made a libation of water in the name of peace, that thread should be stretched and a distance of 64 *hasta* measured. Then this length should be divided in half.
 
-should be stretched and measured at a distance of 64 *hasta*. Then this length
+34/ The far part should be divided in half once more, and the first of these two equal halves is the stage,
 
-You need to divide it in half.
+35/ And in the second part, the dressing rooms should be placed. Thus, having divided the stage into parts,
 
-34/ Let the far part be divided in half once more, and the first of these
+36/ under a lucky star and to the sound of conches, kettledrums, and drumbeats, begin laying the foundation of the building.
 
-of two equal halves - this is the stage,
+37/ However, before that, one should remove those who may cause harm—these are people not consecrated by sacrifice, tireless heretics,
 
-35/ And in the second part, the dressing rooms should be placed.
+38/ of low origin and dishonest. With the onset of night, one should offer a sacrifice to the four directions.
 
-Thus, having divided the stage into parts,
-
-36/ under a lucky star and to the sound of conches, kettledrums, and the beating of drums,
-
-Start laying the foundation of the building.
-
-37/ However, before that, those who may cause harm should be removed.
-
-these are people unsanctified by sacrifice, tireless heretics,
-
-38/ of low origin and dishonest.
-
-With the onset of night, one should offer sacrifice to the four directions of the world.
-
-39/ with various food and gifts, incense, as well as flowers, leaves and
-
-fruits. Food of white color - to the east, dark - to the south,
+39/ with various food and gifts, incense, as well as flowers, leaves, and fruits. White food - to the east, dark - to the south,
 
 40/ yellow - to the west, and red - to the north. Each cardinal direction and its corresponding deity
 
-41/ the offering is presented with the full recitation of mantras. At that, to the brahmins
+41/ the offering is presented with the full recitation of mantras. Along with this, the brahmins should be given rice cooked in milk with ghee,
 
-should give rice with ghee, cooked in milk,
+42/ to the king - a honey mixture, and to the organizer of **Nāṭya** - rice balls. And only after this, with a favorable alignment of the planets, should the foundation of the building be laid by the wise.
 
-42/ to the king - a honey mixture, and to the organizer of **Nāṭya** - rice balls.
+43/ At an auspicious moment and on a suitable day of the lunar calendar, having laid the foundation, one should begin the construction of the walls.
 
-And only after that, with the favorable alignment of the planets, the wise
+44/ Then, having completed the raising of the walls, under auspicious signs and a favorable moon, one should proceed to the installation of the columns.
 
-The foundation of the building must be laid.
+45/ Columns should be erected when the Moon is in the constellation **Rohiṇī** or **Śravaṇa**. This should be performed by a priest possessing this knowledge, after three nights of fasting.
 
-43/ At an auspicious moment and on a suitable day of the lunar calendar, having laid the foundation
+46/ Thus, the installation of the columns should take place on a day designated by astrological calculations and at sunrise. The foundation of the first column—the **Brahman** Column—should be consecrated with an offering of clarified butter with mustard.
 
-The foundation, one should begin erecting the walls.
+47/ and offer rice cooked in milk to the priests as food; only white objects must be used in the ritual. The base of the **Kṣatriya** Column should be adorned with flower garlands and cloths,
 
-44/ Then, having completed the construction of the walls, under auspicious signs
+48/ everything must be red, and the twice-born are given an offering of rice balls. The **Vaiśya** column is located in the northwest,
 
-and to the good moon, proceed with the installation of the columns.
+49/ to her everything yellow must be offered, and to the twice-born — rice with ghee. The **Śūdra** column — support in the northeast.
 
-45/ Columns should be installed when the Moon is in the constellation **Rohiṇī** or **Śravaṇa**.
+50/ Food prepared for the twice-born should be almost black in color — this is rice with a seasoning of sesame. At the base of the aforementioned Pillar **Brahman**, adorned with a white garland of flowers,
 
-This must be performed by the priest who possesses this knowledge, after three nights.
+51/ a golden earring should be placed. At the base of the column called **Kṣatriya**, copper is buried,
 
-fast.
+52/ to the base of the **Vaiśya** column silver is offered, to the base of the **Śūdra** column iron is granted.
 
-46/ Thus, the installation of the columns should take place on the day indicated.
+53/ And thus, at the base of each column a jewel is embedded. Now, on the day proclaimed blessed and auspicious, surely with the cry "victory!"
 
-astrological calculations and at sunrise.
-
-The base of the first column - the **Brahman** column - should be consecrated.
-
-by pouring melted butter with mustard
-
-47/ and offer rice cooked in milk to the priests as food; only white objects may participate in the ritual.
-
-The base of the **Kṣatriya** Column should be adorned with flower garlands and
-
-fabrics,
-
-48/ everything must be red, and the twice-born are given an offering of
-
-rice balls. The column of **Vaiśya** is located in the northwest,
-
-49/ to her everything yellow must be offered, and to the twice-born — rice with
-
-with melted butter. The column **Śūdra** is the support in the northeast.
-
-50/ Food prepared for the twice-born should be almost black.
-
-colors are rice with a sesame seed seasoning.
-
-At the base of the aforementioned **Brahman** Column, adorned with a white garland
-
-from flowers,
-
-51/ a golden earring should be set. At the base of the column called
-
-**Kṣatriy**, copper is buried,
-
-52/ to the base of the **Vaiśya** column silver is offered, to the base of the column
-
-**ŚŪDRA** is granted iron.
-
-53/ And thus, at the base of each column, a jewel is embedded.
-
-Now, on this day, proclaimed blessed and auspicious, with the cry of "victory!"
-
-54/ the rite of erecting the columns, previously adorned with flower garlands,
-
-must be performed with an unrestricted distribution of jewels and cows
-
-and clothing.
+54/ the rite of establishing the columns, previously adorned with flower garlands, should be performed with an unrestricted distribution of jewels, cows, and garments.
 
 55/ Now the columns should be raised. They must be set firmly, without shaking or tilting them.
 
-56/ Here is the evil that is possible when erecting columns: drought is inevitable,
+56/ Here is the evil that is possible during the erection of columns: drought is inevitable if a column totters, and with a tilt — the danger of pestilence,
 
-if the column wavers, when it leans - danger of plague,
+57/ and upon a concussion there will be very great danger from the enemy's army. Without these errors, the column should be set up for good fortune.
 
-57/ and in the event of a shock, there will be very great danger from the enemy army.
-
-Without these mistakes, the column should be installed for happiness.
-
-58/ Upon the consecration of the "Brahman" column, gifts must be made to the priests, and
-
-to the cows, and when erecting the column, the remnants of the sacrificial food should be
-
-give to the builders.
+58/ When consecrating the "Brahman" column, gifts must be made to the priests and cows, and when erecting the column, the remnants of the sacrificial food should be given to the builders.
 
 59/ As a reward to the priest and the king, the wise teacher in **Nāṭya** should offer honey and milk for enjoyment,
 
-60/ and among all the others, salted rice with sesame is distributed.
+60/ and among all the others, salted rice with sesame is distributed. Here is the main prayer, recited according to the rules when raising the columns:
 
-Here is the main prayer, recited according to the rules when raising the columns:
-
-61/ "As immovable as Mount Meru and the mighty Himavan, so may you remain unmoving.
-
-and deliver victory to the best of men."
+61/ "As immovable as Mount Meru and the mighty Himavan, so may you remain still and bring victory to the best of men."
 
 62/ Doors, walls, and dressing rooms should be constructed in the same manner, with the help of worship and ritual sacrifice.
 
 63/ Around the *raṅgapīṭha*, a *mattavāraṇī* should be built.
 
-attached to the 4 pillars, a proportionate *raṅgapīṭha*, 1.5 in height
-
-*Hasta*.
+64/ attached to the 4 pillars, a proportionate *raṅgapīṭha*, 1.5 *hasta* high.
 
 65/ *Raṅgamaṇḍapa* should be equal in height to these two and adorned with flower garlands of various colors, incense, fragrances, and fabrics,
 
-66/ as well as with gifts and sacrifices pleasing to the spirits.
-
-At the base of the columns, for good fortune, iron should be placed,
+66/ as well as with gifts and offerings pleasing to the spirits. Into the bases of the columns, for good fortune, iron should be placed,
 
 67/ and rice with sesame is given to the brahmin as food. Thus, after performing the ritual, one should construct the *mattavāraṇī*,
 
-68/ then, through the proper ritual and sacrifice, it must be done
+68/ then, through the proper ritual and sacrifice, the *raṅgapīṭha* should be made, and the *raṅgaśīrṣa*, furnished with six wooden supports.
 
-*raṅgapīṭha*, and *raṅgaśīrṣa*, equipped with six wooden supports.
+69/ Here, too, there should be two doors leading to the dressing room. Now one must carefully fill the space marked for *raṅgaśīrṣa* with black earth.
 
-69/ Here, too, there should be two doors leading to the dressing room.
-
-Now we must carefully fill the space designated for *raṅgaśīrṣa* with black earth.
-
-70/ For this purpose, carefully harness two white bulls to the plow and till the field.
-
-the ground, having first cleared it of clods, grass, and stones.
+70/ For this purpose, carefully harness two white bulls to the plow and till the earth, having first cleared it of clods, grass, and stones.
 
 71/ Then the men—workers who have overcome bodily ailments—must carry this earth, in parts, in new, previously unused baskets, to the site prepared for the *raṅgaśīrṣa*.
 
-72/ Thus, carefully and according to the rules, the *raṅgaśīrṣa* should be made. Its surface should not be like a tortoise shell /dome-shaped/ or a back
+72/ Thus, carefully and according to the rules, the *raṅgaśīrṣa* should be made. Its surface should not be like a turtle's shell /dome-shaped/ or a fish's back /pointed/.
 
-fish /pointed/.
+73/ *Raṅgaśīrṣa* should be smooth, clean, and even. The wise place precious stones here at the sacrifice—in the east, a diamond,
 
-73/ *Raṅgaśīrṣa* must be smooth, clean, and even. The wise lay it down
+74/ cat's eye - in the south, crystal - in the west, coral - in the north, and in the middle - gold.
 
-here at the sacrifice, precious stones -
+75/ Further, having made the *raṅgaśīrṣa*, it is necessary to construct the *dārukarma* /wooden decoration/, joined with the parts *uha* and *pratyuha*, using various crafts.
 
-on the east - a diamond,
-
-74/ cat's eye - in the south, crystal - in the west, coral - in the north, and in
-
-In the middle - gold.
-
-75/ Further, having made *raṅgaśīrṣa*, it is necessary to construct *darukarma* /the wooden one/.
-
-a decoration/, connected by *uha* and *pratyuha* details, using various craft arts.
-
-76/ Equipped with various *sañjāvana*, adorned with images of wild
-
-animals, she should be here fully ornamented.
+76/ Furnished with various *sañjāvana*, adorned with images of wild animals, she should remain here fully ornamented.
 
 77/ Also furnished with details of *nirvyūha* and kuhara, where numerous beautiful round windows are placed,
 
-78/ which should be stretched out in a line, like sitting doves, and
+78/ which should be stretched out in a line, like sitting doves, and adorned with columns resting on a well-tamped surface.
 
-adorned with columns resting on a well-compacted surface.
-
-79/ So, having performed *darukarma*, one should proceed to the construction of the walls.
-
-The door should not be made opposite another door or corner, window or protruding objects /coat rack?/, or column.
+79/ So, having performed *darukarma*, one should proceed to the construction of the walls. A door should not be made opposite another door or corner, window or protruding objects /hooks?/, or a column.
 
 80/ *Nāṭyamaṇḍapa* must be covered with a stone floor, and over it a wooden one.
 
-81/ A slight wind or calm creates a deep resonance, therefore
+81/ A slight breeze or calmness creates a deep resonance, therefore the *nātyamaṇḍapa* should be made by the organizers without drafts,
 
-*naṭyamaṇḍapa* should be built by the organizers without drafts,
+82/ and then the orchestra's sound will not lose its skill. Now, having made the walls according to the rules, they should be whitewashed.
 
-82/ and then the sound of the orchestra will not lose its artistry.
+83/ It is necessary to prepare lime and carefully distribute it over the entire surface of the previously cleaned walls.
 
-Now, having built the walls according to the rules, one should whitewash them.
+84/ Then the walls must be painted. This should be done in spring. The paintings should depict men and women,
 
-83/ It is necessary to prepare lime and carefully distribute it over
+85/ patterns of climbing plants and subjects that benefit the mind. Thus should the rectangular building **Nāṭya** be made by the organizers.
 
-to the entire surface of the previously cleaned walls.
-
-84/ Then the walls must be painted. This should be done in spring. In the paintings
-
-must be depicted men and women,
-
-85/ patterns of climbing plants and subjects that benefit the mind.
-
-Thus should the rectangular [stage] be made by the organizers.
-
-The building **Nāṭya**.
-
-86/ Now I will tell about the features of a square building. All
-
-his sides must be equal to 32 *hasta*.
+86/ Now I will tell about the features of a square building. All its sides must be equal to 32 *hasta*.
 
 87/ It should be located on favorable land. All, without exception, the previously mentioned rules and auspicious signs for a rectangular building must be observed.
 
-88/ The square building **Nāṭya** should be constructed according to the same laws. Having done
+88/ The square building **Nāṭya** should be constructed according to the same laws. Having made an even square and divided it with a measuring cord,
 
-even square and dividing it with a measuring cord,
+89/ a strong brick wall must be built around the entire perimeter. Inside, behind the *raṅgapīṭha*, the organizers of **Nāṭya** must place 10 sturdy columns.
 
-89/ around the entire perimeter, a sturdy brick wall must be built. Inside,
+90/ for supporting the maṇḍapa, and also a colonnade outside the auditorium, shaped like steps.
 
-behind the *raṅgapīṭha*, the organizers must place **Nāṭya **
+91/ The seats in the auditorium should be made of brick and wood, and arranged so that each successive row is one *hasta* higher than the one before.
 
-**  ** 10 powerful columns
+92/ The places for people observing the raṅgapīṭha should be made correctly. Another 6 other columns, as indicated, should be positioned according to the rules directly behind the seats.
 
-90/ for supporting the maṇḍapa, and also the colonnade outside the auditorium,
-
-having the form of steps.
-
-91/ The seats in the auditorium should be made of brick and wood,
-
-and are arranged so that each following row is one higher than the previous one.
-
-*Hasta*.
-
-92/ Places for people observing the rangapīṭha should be made properly.
-
-As specified, 6 other columns should be arranged according to the rules.
-
-directly behind the seats.
-
-93/ The knower should install 8 more sturdy [pillars] to support the *nāṭyamaṇḍapa*.
-
-columns located above those.
+93/ The knower should set up in support of the *nāṭyamaṇḍapa* another 8 sturdy columns, placed above those.
 
 94/ Now the stage should be made measuring 8 *hasta*.
 
-95/ Here, columns must be erected by experts to support the canopy.
+95/ Here, experts must erect columns to support the canopy. They should stand on the ground, and their tops adorned with female statues.
 
-They must stand on the ground, and their tops are adorned with female statues.
-
-96/ Then the makeup room must be made just as carefully. One of its
-
-The door should open onto the stage.
+96/ Then the dressing room should be made just as carefully. One of its doors should open onto the stage.
 
 97/ And the other door, for the entrance of spectators, should be made on the facade.
 
-98/ Thus, the *raṅgapīṭha* should be made eight *hasta* in size, square,
-
-with a level floor and adorned with an altar.
+98/ Thus, the *raṅgapīṭha* should be made eight *hasta* in size, square, with a level floor and adorned with an altar.
 
 99/ But first, a *mattavāraṇī* of the specified size must be made, with four columns near the altar.
 
-100/ The stage can be either raised or at ground level. In a rectangular
+100/ The stage can be either raised or at ground level. In a rectangular structure it should be high, but in a square one it should be level with the ground.
 
-The structure must be high, but in a square - even with
+101/ So, according to these rules, a square building should be constructed. Now I will tell about the peculiarities of a triangular building.
 
-land.
+102/ It should be built by the organizers of **Nāṭya** with three corners, and in the middle there should be a triangular stage.
 
-101/ Thus, according to these rules, one should erect a square building.
-
-Now I will tell you about the features of a triangular building.
-
-102/ It should be built by the **Nāṭya** organizers with three corners, in
-
-In the middle, however, there should be a triangular stage.
-
-103/ The door should be made where the corner of the building is. The other door –
-
-behind the stage.
+103/ The door should be made where the corner of the building is. The other door, however, is behind the stage.
 
 104/ All rules for establishing walls and columns for a square building apply also to a triangular one.
 
-105/ Exactly so, according to this description, the wise should make a house for **Nāṭya**.
+105/ Exactly so, according to this description, the wise should make a house for **Nāṭya**. Next I will speak about the rules for conducting worship.
 
-Next, I will speak about the rules for conducting worship.
-
-Such is the second chapter in Bharata's **Nāṭyaśāstra**, called
-
-**The construction of the Nāṭya building**.
+Such is the second chapter in Bharata's **Nāṭyaśāstra**, called **The Construction of the Nāṭya Building**.
 
 –
 

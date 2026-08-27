@@ -18,95 +18,51 @@ Bharata Muni
 
 **/THE SCIENCE OF THEATRE/**
 
-**   применённая просветлённым Бхаратой**
+**applied by the enlightened Bharata**
 
 So, the third chapter in the **Nāṭyaśāstra** of Bharata.
 
-1/ In this beautiful edifice of **Nāṭya**, entirely constructed in accordance with
+1/ In this beautiful building of **Nāṭya**, fully constructed according to the rules, one should place cows and twice-born continuously repeating prayers for seven days, thereby performing the sacrificial rite.
 
-with the rules, one should place cows for seven days and continuously
+2/ Then, when night falls, having sprinkled the body with water consecrated by prayer, let him take his place on the fore-stage of the theatre.
 
-repeating the prayers of the twice-born, thereby performing the sacrifice
+3/ the mentor of **Nāṭya** in new garments, having fasted for three nights, initiated, focused, possessed of a pure soul and the power of spiritual fire.
 
-obrjad.
+4/ Having bowed to the Great God, by whom all worlds are created, who is being itself, the progenitor of all born, as well as to Vishnu, Indra, and Guha /Shiva/,
 
-2/ Then, as night falls, having sprinkled the body with water consecrated by prayer,
+5/ Sarasvatī and Lakṣmī, Fortune, Wisdom, Courage and Memory, the Moon, the Sun and the winds, the guardians of the world /lokapāla/ and the Aśvins,
 
-Let it take its place on the proscenium of the theatre.
-
-3/ a mentor of **Nāṭya** in new clothes, having fasted for three nights, initiated,
-
-focused, possessing a pure soul and the power of spiritual fire.
-
-4/ Having bowed to the Great God, by whom all worlds are created, who himself
-
-existence, the progenitor of all born beings, as well as Viṣṇu, Indra, and Guha /Śiva/,
-
-5/ Sarasvatī and Lakṣmī, Fortune, Wisdom, Courage and Memory, the Moon, the Sun
-
-and the winds, the guardians of the world /lokapāla/ and the Aśvins,
-
-6/ Mitra, Fire, stern, varṇas, Rudras, Time and Strife, Death, Fate and
-
-Necessity,
+6/ Mitra, Fire, the stern, the varṇas, the Rudras, Time and Strife, Death, Fate and Necessity,
 
 7/ the weapon of Viṣṇu and of the king of the nāgas Vāsuki, Thunder, Lightning and the oceans /water and air/, the gandharvas, the apsaras and the holy sages,
 
-8/ of bhūtas, piśācas, yakṣas, guhyakas, and mighty lords, asuras and vighnas,
-
-that create obstacles to **Nāṭya**, as well as the other daityas and rākṣasas,
+8/ of bhūtas, piśācas, yakṣas, guhyakas and mighty lords, asuras and vighnas that create obstacles to **Nāṭya**, as well as the remaining daityas and rākṣasas,
 
 9/ also of young maidens **Nāṭya** and of crude deities.
 
-10/ Thus, having bowed to these, and to others, and also to the divine ṛṣis,
+10/ Thus, having bowed with folded hands to these, and to others as well, and also to the divine sages, thereby invoking them to occupy their respective places, he should pronounce the following:
 
-with hands folded in prayer, thereby summoning them to take their respective places, he should speak as follows:
+11/ "May this night, O lords, our offering be accepted by you, and may support for **Nāṭya** be granted from your retinue."
 
-11/ "May this night, gentlemen, our sacrifice be accepted by you, and may it be granted
+12/ And, having honored all the musical instruments gathered in one place, for the success of **Nāṭya**, one should bow to **Jarjara** in this manner:
 
-support for **Nāṭya** from your retinue".
-
-12/ And, having honored all the musical instruments gathered in one place, for the sake of
-
-For the success of **Nāṭya**, one should bow to **Jarjara** in this manner:
-
-13/ "O weapon of the great Indra, creation of all the gods, slayer of the danavas
-
-and destroying the vighnas,
+13/ "O weapon of the great Indra, creation of all gods, slayer of the danavas and destroyer of the vighnas,
 
 14/ bless the king with victory and doom the enemies to defeat, bow to the cows and brahmins, and strengthen **Nāṭya**!"
 
-15/ Thus, according to the rules, having performed the night service in the building of **Nāṭya**,
+15/ Thus, according to the rules, having performed the night service in the building of **Nāṭya**, with the arrival of day it should be continued.
 
-With the arrival of day, it should be continued.
+16/ Worship on stage should be conducted under the influence of three eastern constellations – **Ārdrā** /gentle/, **Maghā** /reward/, and **Yāmyā** /belonging to Yama/, or under the influence of the constellations **Āśleṣā** /embrace/ and **Mūla** /root/.
 
-16/ Worship on stage should be conducted under the influence of three eastern constellations – **Ārdrā** /gentle/, **Māghyā** /reward/, and **Yāmyā**
+17/ The teacher of **Nāṭya**, focused, initiated, and endowed with the power of spiritual fire, should light the lamp of the stage and perform the ritual of worshiping the gods.
 
-belonging to Yama, or under the influence of the asterism **Āśleṣā** /embrace/
-
-**Mūla** /foundation/.
-
-17/ The mentor of **Nāṭya**, focused, dedicated, and endowed with power
-
-of spiritual fire, the lamp of the stage must be lit, and performed
-
-ritual of worshipping the gods.
-
-18/ At the end of the day, in the harsh and terrible time of Yama, he must, having taken a ritual sip of water, arrange the divine images according to
-
-to the rules.
+18/ At the end of the day, in the harsh and terrible time of Yama, he must, having made a ritual sip of water, arrange the divine images according to the rules.
 
 19/ Here should be red threads for amulets, incense with the scent of saffron, red flowers, and also a red fruit,
 
-20/ and barley grains and mustard seeds, husked rice and whole rice grains,
+20/ and barley grains and mustard seeds, husked rice and whole rice grains, snake-flower flour and husked black mustard.
 
-the torment of the snake flower and the husked black mustard.
-
-21/ In the places corresponding to the different gods, all these should be placed.
-
-things. But first, in that place, according to the rules, one should draw
-
-ritual circle.
+21/ In the places corresponding to the different gods, all these things should be placed. But first, in that place, according to the rules, a ritual circle should be drawn.
 
 22/ That full circle should measure 16 *hasta* and have four entrances in four directions.
 
@@ -114,259 +70,130 @@ ritual circle.
 
 24/ First, Brahmā, seated on a lotus, should be placed in the center of that circle. The god Śiva, surrounded by bhūtas,
 
-25/ Nārāyaṇa and the great Indra, Skanda, the Sun, the Aśvins and the Moon, Sarasvatī and
-
-Lakshmi, Faith, and Wisdom should be placed in the east.
+25/ Nārāyaṇa and the great Indra, Skanda, the Sun, the Aśvins and the Moon, Sarasvatī and Lakṣmī, Faith and Wisdom should be placed in the east.
 
 26/ In the southeast — the god of fire together with his wife Svāhā, the universal gods with the gandharvas, rudras, and a multitude of serpents /sarpa/.
 
-27/ In the south, one should place Yama and Mitra, with a retinue of pitṛs and piśācas,
+27/ In the south, one should place Yama and Mitra, with a retinue of pitṛs, piśācas, uragas, and guhyakas.
 
-urāgas and guhyakas.
+28/ Rākṣasas and bhūtas should be placed in the southwest, and in the west – seas and oceans and Varuṇa, the lord of sea monsters.
 
-28/ Rākṣasas and bhūtas should be placed in the southwest, and in the west –
+29/ In the north-western direction, seven winds should be placed, and there let Garuda reside with all the feathered ones.
 
-seas and oceans, and Varuṇa - the lord of sea monsters.
+30/ On the northern side, one must place the Giver of Wealth /Kubera/, as well as the goddesses - patronesses of **Nāṭya** with yakṣas and guhyakas.
 
-29/ In the north-western direction, seven winds should be placed, and there also
+31/ And the northeast should be given to the leader of Shiva's retinue - Nandi, to the multitude of bhūtas, and to the holy sages.
 
-Let Garuḍa take his place with all the feathered ones.
+32/ Also, at the southern column the eternal youths /sanatkumāra/ and Dakṣa dwell, and at the northern one the gross deities have settled for worship.
 
-30/ On the northern side, one must place the Giver of Wealth /Kubera/, and
+33/ According to these rules, all deities that are to be propitiated should be placed in their appropriate places.
 
-also the goddesses - patronesses of **Nāṭya** with yakṣas and guhyakas.
+34/ Their images should be placed according to their merits, and according to these merits, each one should be honored.
 
-31/ And the northeast should be given to the leader of Śiva's retinue — Nandi,
+35/ To the gods one should offer a garland of white flowers, but to the gandharvas, the fire god, and the Sun, one of red.
 
-to the multitude of bhūtas and holy sages.
+36/ One should offer to the gods, in turn, incense, garlands, and frankincense, and then, according to the rules of worship, offer sacrificial food.
 
-32/ Also, near the southern column dwell the eternal youths /sanatkumāra/ and Dakṣa,
+37/ Brahma should be offered a honey drink, Sarasvatī - boiled rice, and Śiva, Viṣṇu, Indra, and other gods are treated to sweet balls.
 
-And at the northern one, the fierce deities are stationed for worship.
-
-33/ According to these rules, everything must be placed in appropriate places.
-
-deities who are to be propitiated.
-
-34/ Their images should be placed according to their merits, and
-
-According to these merits, each one must be honored.
-
-35/ To the gods one should offer a garland of white flowers, but to the gandharvas, the god
-
-fire and to the Sun from red ones.
-
-36/ One should offer to the gods incense, garlands, and fragrant smoke in turn, and then,
-
-according to the rules of worship, to offer sacrificial food.
-
-37/ To Brahmā, a honey drink should be offered; to Sarasvatī, cooked rice.
-
-And Śiva, Viṣṇu, Indra, and other gods are treated to sweet balls.
-
-38/ Offer rice porridge with ghee to the Devourer of Sacrifices /fire/,
-
-Offer molasses as a gift to the gods of the Moon and the Sun, and to the all-gods, gandharvas, and divine sages - sweet rice with milk.
+38/ Offer rice porridge with ghee to the Eater of sacrifices /fire/, present molasses as a gift to the gods of the Moon and the Sun, and to the all-gods, gandharvas, and divine sages—sweet rice with milk.
 
 39/ Yama and Mitra are honored with cakes and sweet balls, while the pitṛs, piśācas, and uragas may be satisfied with ghee and milk.
 
 40/ The multitude of bhūtas should be greeted with prepared meat seasoned with peas and crushed sesame, as well as wine.
 
-41/ The same rules govern the ritual for *mattavāraṇī*. Hosts of rākṣasas
+41/ The same rules govern the ritual for *mattavāraṇī*. Hosts of rākṣasas are also honored with boiled meat.
 
-also honor with boiled meat.
+42/ The dānavas should be served with offerings of wine and meat, while to the other hosts of deities the wise one will give cooked rice with sweets.
 
-42/ Offerings of wine and meat should be made to the dānavas, and to the remaining hosts.
-
-to the deities, the knowledgeable one will offer cooked rice with sweets.
-
-43/ Fish food should be given to the oceans and rivers, and for the worship of Varuṇa
-
-you need to serve rice with ghee.
+43/ Fish food should be given to the oceans and rivers, and for the worship of Varuṇa, rice with ghee should be offered.
 
 44/ Various succulent fruits should be offered as gifts to the holy sages, and to the winds and winged ones—a motley porridge.
 
-45/ Worshipping Kubéra with all his retinue, and each of the patronesses of **Nāṭya**,
+45/ Worshipping Kubéra with all his retinue, and each of the patronesses of **Nāṭya**, one should offer them cakes and a mixture of rice as food.
 
-they should be offered cakes and a mixture of rice as food.
+46/ Thus, a sacrifice of various foods must be performed, and this offering should be consecrated with the following prayer:
 
-46/ Thus, a sacrifice of various foods must be performed, and this
+47/ "O god of gods, possessor of the great portion, father of all worlds, accept fully this my sacrifice, purified by prayer.
 
-The sacrifice must be consecrated with the following prayer:
+48/ O god of gods, possessor of the great portion, lord of the gaṇas, destroyer of Tripura /Śiva/. O Lord, may the offering, purified by prayer, brought by me, be accepted by you.
 
-47/ "O god of gods, possessor of the great portion, father of all worlds, this my
+49/ O Nārāyaṇa /Viṣṇu/ all-pervading, he from whose navel grows the lotus, the highest of gods. May this sacrifice, purified by prayer, be accepted by you, O Lord.
 
-the sacrifice, purified by prayer, accept fully.
+50/ O lord of the immortals /Indra/, conqueror of enemy cities, O wielder of the Thunderbolt, O mighty one, may this offering, purified by prayer, be accepted by you, O Lord, according to the ritual.
 
-48/ O god of gods, possessor of the great share, lord of the gaṇas, destroyer
+51/ O Skanda, leader of the divine army, O fortunate one, beloved son of Śiva, may this offering be accepted by you, O Six-faced one, with a satisfied heart.
 
-Triputa /Śiva/. O Lord, may the offering, purified by prayer, brought by me, be accepted by you.
+O great god Gaṇeśa, greatest yogin, highest of all gods, accept the offering, O Lord, protector from obstacles, which always arise.
 
-49/ O Nārāyaṇa /Viṣṇu/ all-pervading, he from whose navel grows the lotus,
+52/ O goddess, she whose portion is great among the gods, O Sarasvatī, beloved of Hari, may the offering presented by me with humility be accepted by you, O mother.
 
-the highest of gods. May the sacrifice be accepted by you, O Lord,
+53/ O descendants of Pulastya, born for various reasons, kings of the Rākṣasas, possessed of great truth, accept my offering.
 
-purified by prayer.
+54/ O Beauty, Fortune, Thought and Wisdom, O goddesses, worshipped in all worlds, accept this my offering, purified by mantra.
 
-50/ O lord of the immortals /Indra/, conqueror of enemy cities,
+55/ O Maruta, who enlivens the world, who knows the virtues of all beings, may the offering presented by me, consecrated by prayer, be accepted by you, O Lord.
 
-O holder of the Lightning in hand, O mighty and powerful one, may it be accepted by you,
+56/ O mouth of the gods, best of the celestials, 
+Marked by smoke, devourer of the offering, may now be accepted by you, O Lord, the sacrifice offered with humility.
 
-O Lord, the sacrifice, purified by prayer, according to the ritual.
+57/ O best of all planets, brightly shining Creator of the day, may now, O Lord, be accepted by you the offering presented by me with devotion.
 
-51/ O Skanda, leader of the army of the gods, O fortunate one, beloved son
+58/ O Soma, lord of all planets, king of the twice-born, beloved of the world, may this offering, purified by prayer, presented by me, be accepted by you.
 
-Shiva, may this offering be accepted by you, O Six-Faced One, with satisfaction.
+59/ O each of you who command the hosts of deities, you who go before the Lord of joy /Śiva/, may my offering, brought with humility, be accepted by you.
 
-heart.
-
-O great god Gaṇeśa, Greatest Yogi, Highest of all gods,
-
-accept the offering, O Lord, protector from obstacles, which always arise/.
-
-52/ O goddess, whose portion is great among the gods, O Sarasvatī, beloved
-
-Hari, may the offering I have made be accepted by you, O mother.
-
-with humility.
-
-53/ O descendants of Pulastya, born for various reasons, kings of the Rākṣasas,
-
-possessing great truth, accept my offering.
-
-54/ O Beauty, Fortune, Thought and Wisdom, O goddesses, revered in all
-
-In the worlds, accept this my sacrifice, purified by mantra.
-
-55/ O Maruta, who enlivens the world, knowing the virtues of all beings, may it be
-
-Accepted by Thee, O Lord, the sacrifice offered by me, sanctified by prayer.
-
-56/ O Mouth of the gods, best of the celestials, Marked by smoke, Devourer
-
-The sacrifice, may it now be accepted by you, O Lord, the offering made with
-
-with humility.
-
-57/ O best of all planets, brightly shining Creator of the day, may it now be,
-
-O Lord, the offering I presented with devotion has been accepted by you.
-
-58/ O Soma, lord of all planets, king of the twice-born, beloved
-
-of the world, may this sacrifice, purified by prayer, offered by me, be accepted by you.
-
-59/ O each of you who command the hosts of deities, you who go before the Lord
-
-joy /by Śiva/, may my offering, made with humility, be accepted by you.
-
-60/ Salutation to all pitṛ /ancestors/, — may they accept this offering. Salutation to all
-
-bhūtam, to whom this offering is always pleasing. O Lord of the senses
-
-Praise to you, /god of love/! And to you this offering is eternal by law.
+60/ Homage to all the pitṛs /ancestors/, — may they accept this offering. Homage to all the bhūtas, to whom this offering is always pleasing. O Lord of the senses /god of love/, praise to you! And to you this offering is eternal by law.
 
 61/ O Nārada, O Tumburu, O Viśvāvasu, best of the gandharvas /bringing healing/, O you gandharvas, accept the sacrifice offered by me.
 
-62/ O two lords, revered in the world — Yama and noble Mitra, this my
+62/ O two lords, revered in the world — Yama and noble Mitra, accept this my offering, purified by prayer.
 
-the sacrifice, purified by prayer, accept.
+63/ Homage to the dwellers of the watery abyss, homage to the pannagas /serpent-like demons/. Venerable ones, destroyers of evil, may they direct good fortune **Nāṭya.**
 
-63/ Homage to the dwellers of the watery abyss, homage to the pannagas /serpent-like demons/.
+64/ The lord of all waters, the revered god Varuṇa, seated on the Swan, must be fully satisfied together with the ocean-sea, the river, and the stream.
 
-Venerable ones, destroyers of evil, may they direct good fortune to **Nāṭya.**
+65/ O son of Vinatā /Garuḍa/, possessed of great truth, lord of birds omnipresent, may the offering brought by me, purified by prayer, be accepted by you, O Lord.
 
-64/ The lord of all waters, the revered god Varuṇa, seated on the Swan,
+66/ The guardian of treasures, lord of the yakṣas, protector of the world, master of wealth /Kubera/, together with the guhyakas and yakṣas — must accept my offering.
 
-must be fully satisfied together with the sea-ocean, river, and
+67/ Salutation to the patronesses of **Nāṭya**, beginning with Brahmī. By them, charming and pure, may my offering be accepted today.
 
-stream.
+68/ May Rudra's weapon fully accept my offering, and may Vishnu's weapon also accept it, humbly presented by me.
 
-65/ O son of Vinatā /Garuḍa/, possessing great truth, lord of birds
+69/ O Bearer of the end /fate/, o Measurer of the term /time/, — two lords of all destructive forces, o Death, o Destiny, establishing the order of things, — may my sacrifice be accepted.
 
-all-pervading, may this sacrifice, offered by me, purified by prayer, be accepted by You, O Lord.
+70/ And these objects, conductors of divine forces, located in the *mattavāraṇī*, — may they accept my sacrifice, purified by prayer, favorably.
 
-66/ Guardian of treasures, lord of the yakṣas, protector of the world, sovereign of riches
+71/ And you, gandharvas, and gods connected with the ten directions, the sky, the airy space, and the earth — for you too is this sacrifice.
 
-/Kubera/, together with the guhyakas and yakṣas — must accept my offering.
+72/ Further, a pitcher filled with water and adorned with a flower garland should be placed in the center of the stage, and gold should also be laid there.
 
-67/ Salutation to the patronesses of **Nāṭya**, beginning with Brāhmī. By them, the enchanting ones,
+73/ Having covered all the musical instruments with cloths, one should perform the rite of sacrifice with incense, flowers, frankincense, food, and drink.
 
-pure, may my sacrifice be accepted today.
+74/ Having thus honored all the divine forces, one should pay special respect to **Jarjara**, the destroyer of obstacles.
 
-68/ May Rudra's weapon fully accept my offering, and also may Vishnu's weapon do so.
+75/ Her upper part should be covered with white cloth, the Rudra portion with blue, the Vishnu portion with yellow, the Skanda portion with red,
 
-will accept it, humbly offered by me.
+76/ the lower part is covered with variegated cloth. Incense, garlands, and ointments should be offered according to each, with the wish for their well-being.
 
-69/ O Bearer of the end /fate/, o Measurer of the term /time/, — two lords
+77/ Having done all this in exactly this way, with incense, garlands, and ointments, one should recite a prayer addressed to **Jarjara** for the eradication of obstacles:
 
-of all destructive forces, O Death, O Fate, establishing order
+78/ "O great power, O heart of lightning, O mighty in body, created by the gods under the guidance of Brahmā for the destruction of obstacles!
 
-of things, - may my sacrifice be accepted.
+79/ May Brahmā protect your head with the entire host of gods, the second part — the Destroyer (Śiva), the third — the Arouser of men (Viṣṇu),
 
-70/ And these objects, conductors of divine forces, located in *mattava-*
+80/ the fourth part — the Youth /Skanda/, and the fifth — the best of the pannagas. May they always protect you and, for the benefit of the gods, be gracious.
 
-*   rāṇī*, - may they graciously accept my offering, purified by prayer.
-
-71/ And you, gandharvas, and the gods associated with the ten directions,
-
-sky, airy space, and earth—"and for you this sacrifice."
-
-72/ Further, a pitcher filled with water and adorned with a flower garland should be
-
-be placed in the center of the stage, and gold should be laid there as well.
-
-73/ Having covered all the musical instruments with cloths, one should perform
-
-The ritual of offering incense, flowers, fragrant smoke, food, and drink.
-
-74/ Having thus honored all the divine forces, one should pay special
-
-respect for **Jarjara**, the destroyer of obstacles.
-
-75/ Her upper part should be covered with white cloth, the Rudra portion with blue, the part
-
-Vishnu - yellow, part of Skanda - red,
-
-76/ the part at the base is covered with variegated cloth. Incense, garlands, and
-
-The ointments should be offered according to each one, with the desire to do so.
-
-good.
-
-77/ Having done everything exactly in this way, with incense, garlands, and ointments,
-
-a prayer should be recited addressed to **Jarjara** for the eradication of
-
-obstacles:
-
-78/ "O great power, O heart of lightning, O mighty in body, created by the gods
-
-under the guidance of Brahmā for the destruction of obstacles!
-
-79/ May Brahmā protect your head with all the host of gods, the second part—
-
-Destroyer /Śiva/, the third - Exciter of people /Viṣṇu/,
-
-The fourth part — the Youth (Skanda), and the fifth — the best of the pannagas.
-
-They always protect you and, for the benefit of the gods, be gracious.
-
-81/ O destroyer of evil, born precisely under the constellation **Abhijit**
-
-The one that brings success and victory to the king!
+81/ O destroyer of evil, born precisely under the constellation **Abhijit** /victorious/, bringing success and victory to the king!"
 
 82/ Having honored **Jarjara**, and having completed all the sacrifice, one should make a libation to the fire, saying thus:
 
 83/ "O Eater of offerings! Wash with radiant glow the figures of the king and the dancing women—may their splendor increase!"
 
-84/ And torches, lit from the sacrificial fire, to the sound of musical instruments, should illuminate the king and the dancers. Then sprinkle them with water,
+84/ And torches, lit from the sacrificial fire, to the sound of musical instruments, should illuminate the king and the dancers. Then sprinkle them with water purified by prayer, saying thus:
 
-purified by prayer, saying thus:
-
-85/ "Born of a noble lineage and adorned with many virtues, -
-
-Let the qualities be preserved forever!"
+85/ "Born of a noble lineage and adorned with many virtues — may these qualities endure forever!"
 
 86/ Having spoken those words for the success of the leader, the wise one should utter a prayer in praise of **Nāṭya**:
 
@@ -374,9 +201,7 @@ Let the qualities be preserved forever!"
 
 88/ And, having performed, according to the rules, the sacrificial libation of oil, previously consecrated with a mantra, the teacher of **Nāṭya** should endeavor to break the vessel that held this oil.
 
-89/ If that pot does not break, there is danger for the master from an enemy.
-
-But if it breaks, the wise lord will destroy his enemies.
+89/ If that pot does not break, for the master there is danger from the enemy, but if it breaks, then the wise master will destroy the enemies.
 
 90/ So, if the pot is broken, let the teacher of **Nāṭya** take a burning torch and illuminate the entire stage with it.
 
@@ -386,45 +211,25 @@ But if it breaks, the wise lord will destroy his enemies.
 
 93/ Here, through lighting, one must achieve the visibility of broken, cut, burst, bloodied, and wounded bodies and objects. This is a sign of high mastery.
 
-94/ A correctly offered sacrifice to the stage, truly, must bring benefit.
-
-to the lord, to youths full of strength and to weakening elders, and also to all the people.
+94/ A correctly offered sacrifice to the stage, truly, should bring benefit to the master, to vigorous youths and weakening elders, as well as to all the people.
 
 95/ But an inaccuracy in the performance of the sacrifice or an error in the placement of the divine forces disgraces **Nāṭya** and brings harm to the leader.
 
-96/ The one who does not adhere to the rules of performing the sacrifice achieves only
+96/ One who does not adhere to the rules of performing the sacrifice attains only diminishment and quickly becomes a plant or an animal.
 
-of diminishment and quickly becomes a plant or an animal.
+97/ The ceremony of honoring the gods on stage is absolutely equal to the sacrifice in the temple. Therefore, without honoring the gods of the stage, one should not even begin the performance.
 
-97/ The ceremony of honoring the gods on stage is absolutely equal to a sacrifice.
-
-in the temple. Therefore, without honoring the gods of the stage, one should not even begin.
-
-performances.
-
-98/ The gods, being respected, respect and honor in return, being honored. Therefore,
-
-With all due care must the ritual of worshiping the stage be performed.
+98/ The gods, being respected, respect and honor in return, being honored. Therefore, with all due care must the ritual of worship of the stage be performed.
 
 99/ Fire fanned by the wind does not burn as quickly as an improperly performed ritual of sacrifice on stage.
 
 100/ The ritual of honoring the stage should be performed by a **Nāṭya** teacher, versed in the sciences, self-controlled, possessing the power of spiritual fire, having attained peace of mind, and initiated.
 
-101/ If anyone with a restless spirit, without prayer, offers a sacrifice,
+101/ If anyone with a restless spirit, without prayer, offers a sacrifice, avoiding the established rules, in that case, he is as if casting reason into the fire.
 
-avoiding established rules, in that case, he seems to throw
+102/ Thus, this ritual of worshiping the deities of the stage, the rules of which are described above, must be performed by the organizers of Nāṭya in a new building, before the beginning of the performance.
 
-mind into fire.
-
-102/ So, this ritual of worshiping the deities of the stage, the rules of which
-
-described above, must be performed by the organizers of Nāṭya in the new building,
-
-Before the beginning of the performance.
-
-Such is the third chapter in the **Nāṭyaśāstra** of Bharata, called
-
-**worship of the gods of the stage.**
+Such is the third chapter in the **Nāṭyaśāstra** of Bharata, called **worship of the gods of the stage.**
 
 –
 
