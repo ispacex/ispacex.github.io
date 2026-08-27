@@ -26,6 +26,7 @@ node tools/check-palette.js # ⌘K palette: the index is whole, jumps land, and 
 python3 tools/check-scripts.py # text: no word mixes two alphabets or is split by a hyphen (needs no build)
 python3 tools/check-markup.py # markup: no emphasis asterisk reaches the reader (reads the build)
 python3 tools/check-lang.py # language: an English page speaks English, captions inside tags included (reads the build)
+python3 tools/check-switch.py # language switch: a translated page has a way to its twin, both ways (reads the build)
 ```
 
 The remote theme's gem is absent in the container, so the local build excludes

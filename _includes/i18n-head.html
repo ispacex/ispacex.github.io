@@ -8,13 +8,21 @@ matter (`ru:`), его туда кладёт `tools/translate.py`. Русска�
 
 `x-default` указывает на русскую: она оригинал, и читателю, чей язык нам
 неизвестен, показывать надо её.
+
+Адрес берётся в том виде, в каком его пишут ссылки на сайте, — без `.html`:
+`page.url` даёт имя файла (`/dance/ns-ch5.html`), а обратный адрес английской
+страницы (`ru:`) записан без расширения, и врозь эти двое не сходятся ни
+между собой, ни со списком двойников. Тем же несовпадением переключатель
+пропал с 39 страниц (VS-49); здесь оно молчало вдвойне — поисковику о переводе
+не сообщали вовсе.
 {%- endcomment -%}
+{%- assign here = page.url | split: '.html' | first -%}
 {%- if page.ru -%}
 <link rel="alternate" hreflang="ru" href="{{ page.ru | absolute_url }}" />
-<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}" />
+<link rel="alternate" hreflang="en" href="{{ here | absolute_url }}" />
 <link rel="alternate" hreflang="x-default" href="{{ page.ru | absolute_url }}" />
-{%- elsif site.data.i18n.en contains page.url -%}
-<link rel="alternate" hreflang="ru" href="{{ page.url | absolute_url }}" />
-<link rel="alternate" hreflang="en" href="{{ page.url | prepend: '/en' | absolute_url }}" />
-<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}" />
+{%- elsif site.data.i18n.en contains here -%}
+<link rel="alternate" hreflang="ru" href="{{ here | absolute_url }}" />
+<link rel="alternate" hreflang="en" href="{{ here | prepend: '/en' | absolute_url }}" />
+<link rel="alternate" hreflang="x-default" href="{{ here | absolute_url }}" />
 {%- endif -%}

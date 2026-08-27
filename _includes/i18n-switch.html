@@ -4,9 +4,18 @@
 
 Показывается только там, где переключать есть на что. Страница без двойника
 молчит — ссылка на несуществующий перевод хуже её отсутствия.
+
+`page.url` — это имя файла, а не адрес, которым сайт сам себя зовёт: у
+`dance/ns-ch5.md` он `/dance/ns-ch5.html`, и только у `index.md` кончается
+косой чертой. А в списке двойников лежит адрес в том виде, в каком его пишут
+ссылки на сайте, — `/dance/ns-ch5`. Строки не совпадали, `contains` молчал, и
+переключателя не было на 39 страницах из 191: все главы «Натьяшастры», словарь
+танца и ещё несколько (VS-49). Поэтому сличаются не строки, а страницы:
+расширение снимается, как в `relink()` снимается косая черта.
 {%- endcomment -%}
+{%- assign here = page.url | split: '.html' | first -%}
 {%- if page.ru -%}
 <p class="pv-lang nosearch"><a href="{{ page.ru }}" hreflang="ru" lang="ru">Русский</a> · <strong>English</strong></p>
-{%- elsif site.data.i18n.en contains page.url -%}
-<p class="pv-lang nosearch"><strong>Русский</strong> · <a href="{{ page.url | prepend: '/en' }}" hreflang="en" lang="en">English</a></p>
+{%- elsif site.data.i18n.en contains here -%}
+<p class="pv-lang nosearch"><strong>Русский</strong> · <a href="{{ here | prepend: '/en' }}" hreflang="en" lang="en">English</a></p>
 {%- endif -%}
