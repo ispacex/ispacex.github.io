@@ -168,7 +168,7 @@ class PH(Book):
                          for name, key in links if s[key] is not None)
         return '<p class="pv-nav nosearch" markdown="1">Сразу на %s</p>' % row
 
-    def todo(self, n):
+    def todo(self, pid, n):
         return ('<p class="pv-todo">Эта часть переведена ещё не полностью: %d %s ниже '
                 'стоят по-английски — так, как они у источника. Санскрит, транслитерация '
                 'и сама сутра на месте.</p>'

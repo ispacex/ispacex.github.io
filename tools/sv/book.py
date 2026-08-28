@@ -143,7 +143,7 @@ class SV(Book):
                 len(at & set(tr[FROM_EN])),
                 len(at & set(tr[FROM_SA])))
 
-    def todo(self, n):
+    def todo(self, pid, n):
         return ('<p class="pv-todo">Ещё без перевода %d %s. У источника под ними стоит'
                 ' пометка «Untranslated»: английского изложения для них не написано, и'
                 ' перевод сюда придёт прямо с санскрита. Санскрит и транслитерация на'

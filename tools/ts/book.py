@@ -168,7 +168,7 @@ class TS(Book):
                          for name, key in links if s[key] is not None)
         return '<p class="pv-nav nosearch" markdown="1">Сразу на %s</p>' % row
 
-    def todo(self, n):
+    def todo(self, pid, n):
         return ('<p class="pv-todo">У источника %d %s этой главы %s по-английски — '
                 'так они здесь и стоят, в рамке. Санскрит и транслитерация на месте.</p>'
                 % (n, plural(n, 'абзац', 'абзаца', 'абзацев'),

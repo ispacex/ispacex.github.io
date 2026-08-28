@@ -34,7 +34,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 sys.path.insert(0, HERE)
 
-from common.parse import parse, DEVA
+from common.parse import parse, split
 from parts import HYMNS
 
 CHAPTER = re.compile(r'^Chapter (\d+) - ')
@@ -49,24 +49,21 @@ GAP = re.compile(r'^\*\*Untranslated\*\*$')
 NUM = re.compile(r'\|\|(\d+\.\d+)\|\|\s*$')
 
 
-def split(b):
-    """Абзац источника — строфа вместе с её транслитерацией; разводим надвое.
+def numbered(b):
+    """Строфу разводим надвое (см. `split`) и помечаем её номером.
 
-    Разводим только то, что сошлось: строки деванагари должны идти подряд и
-    первыми, а числом совпадать со строками латиницы. Абзац, устроенный иначе,
-    остаётся как был — он сам скажет о себе на странице, а тихо разъехавшаяся
-    строфа не скажет ничего.
+    Само разведение — общее, `common/parse.py`: так же устроен и источник
+    Mālinīvijayottaratantra. Номер же здесь свой — «13.11» в конце
+    транслитерации, — и берётся он тут.
     """
-    ls = [l for l in b['t'].split('\n') if l.strip()]
-    flags = ''.join('D' if DEVA.search(l) else 'i' for l in ls)
-    n = len(ls) // 2
-    if not re.fullmatch('D+i+', flags) or flags.count('D') != n:
+    pair = split(b)
+    if pair is None:
         return None
-    sa = {'k': b['k'], 't': '\n'.join(ls[:n]), 'c': b.get('c', False)}
-    num = NUM.search(ls[-1])
+    sa, ia = pair
+    num = NUM.search([l for l in ia['t'].split('\n') if l.strip()][-1])
     if num:
         sa['n'] = num.group(1)
-    return sa, {'k': 'iast', 't': '\n'.join(ls[n:]), 'c': b.get('c', False)}
+    return sa, ia
 
 
 def cut(bs):
@@ -95,7 +92,7 @@ def convert():
     for n, name, _, _ in HYMNS:
         bs, gaps, kept, at = [], 0, 0, None
         for b in chapters.get(n, []):
-            pair = split(b) if b['k'] in ('deva', 'deva-red') else None
+            pair = numbered(b) if b['k'] in ('deva', 'deva-red') else None
             if pair:
                 bs.extend(pair)
                 kept += 1
