@@ -1,3 +1,7 @@
+---
+title: "Dhruva talam"
+---
+
 ## Dhruva talam
 
 [Talam](/nt)

@@ -1,4 +1,5 @@
 ---
+title: "Combo"
 lang: en
 ru: /hoop/combo/
 ---

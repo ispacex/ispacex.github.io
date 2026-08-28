@@ -1,3 +1,7 @@
+---
+title: "Vermeer"
+---
+
 # Vermeer
 
 [Home](/art)

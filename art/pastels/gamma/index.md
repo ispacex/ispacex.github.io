@@ -1,3 +1,7 @@
+---
+title: "Pastels / Gamma"
+---
+
 # Pastels / Gamma
 
 [Home](/art)

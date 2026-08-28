@@ -1,4 +1,5 @@
 ---
+title: "Pastels / Gamma"
 lang: en
 ru: /art/pastels/gamma/
 ---

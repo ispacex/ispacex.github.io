@@ -1,4 +1,5 @@
 ---
+title: "Vermeer"
 lang: en
 ru: /art/vermeer/
 ---

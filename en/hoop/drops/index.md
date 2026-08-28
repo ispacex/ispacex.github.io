@@ -1,4 +1,5 @@
 ---
+title: "Drops"
 lang: en
 ru: /hoop/drops/
 ---

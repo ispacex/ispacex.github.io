@@ -1,3 +1,7 @@
+---
+title: "Mauritshuis"
+---
+
 # Mauritshuis
 
 [Home](/art)

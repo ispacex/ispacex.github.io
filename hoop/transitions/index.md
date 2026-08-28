@@ -1,3 +1,7 @@
+---
+title: "Transitions"
+---
+
 [Вернуться наверх](/hoop)
 
 ## Transitions

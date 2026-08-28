@@ -1,4 +1,5 @@
 ---
+title: "Hoop"
 lang: en
 ru: /hoop/
 ---

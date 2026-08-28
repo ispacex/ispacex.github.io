@@ -1,4 +1,5 @@
 ---
+title: "Pāśa"
 lang: en
 ru: /ksh/pashas/
 ---

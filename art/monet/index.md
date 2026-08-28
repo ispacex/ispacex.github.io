@@ -1,3 +1,7 @@
+---
+title: "Monet"
+---
+
 # Monet
 
 [Home](/art)

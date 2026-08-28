@@ -1,3 +1,7 @@
+---
+title: "Rupaka talam"
+---
+
 ## Rupaka talam
 
 [Talam](/nt)

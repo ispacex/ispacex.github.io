@@ -1,4 +1,5 @@
 ---
+title: "Natya talam"
 lang: en
 ru: /nt/
 ---

@@ -1,3 +1,7 @@
+---
+title: "Jampa talam"
+---
+
 ## Jampa talam
 
 [Talam](/nt)

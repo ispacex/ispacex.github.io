@@ -1,3 +1,7 @@
+---
+title: "Natya talam"
+---
+
 ## Natya talam
 
 [Вернуться на главную](/)

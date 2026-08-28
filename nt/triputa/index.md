@@ -1,3 +1,7 @@
+---
+title: "Triputa talam"
+---
+
 ## Triputa talam
 
 [Talam](/nt)

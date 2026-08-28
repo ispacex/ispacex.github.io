@@ -1,3 +1,7 @@
+---
+title: "Ata talam"
+---
+
 ## Ata talam
 
 [Talam](/nt)

@@ -1,4 +1,5 @@
 ---
+title: "Duo"
 lang: en
 ru: /hoop/duo/
 ---

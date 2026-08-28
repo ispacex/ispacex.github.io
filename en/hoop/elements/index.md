@@ -1,4 +1,5 @@
 ---
+title: "Elements"
 lang: en
 ru: /hoop/elements/
 ---

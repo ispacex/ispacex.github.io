@@ -1,4 +1,5 @@
 ---
+title: "Transitions"
 lang: en
 ru: /hoop/transitions/
 ---

@@ -1,3 +1,7 @@
+---
+title: "Eka talam"
+---
+
 ## Eka talam
 
 [Talam](/nt)

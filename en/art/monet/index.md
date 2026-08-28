@@ -1,4 +1,5 @@
 ---
+title: "Monet"
 lang: en
 ru: /art/monet/
 ---
