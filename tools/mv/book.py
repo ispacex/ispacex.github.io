@@ -32,9 +32,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 sys.path.insert(0, HERE)
 
+import words
 from common.page import Book, plural
 from convert import key
 from parts import PARTS, SRC, SRC_URL, INTRO
+
+GLOSSARY = '/ksh/mv/glossary/'
 
 # Заголовки источника внутри главы. Первый — «Chapter 7», и стоит он не над
 # главой (её название есть у страницы), а над первым десятком строф; остальные
@@ -63,6 +66,22 @@ class MV(Book):
         Book.__init__(self, here)
         self.cache = {}
         self.tr = {}
+        self.words = words.index()
+
+    # --- словарь ---
+
+    def link(self, word):
+        """Санскритское слово в подстрочнике — ссылка на статью словаря.
+
+        Слово стоит в падеже, и статью ему подбирает `words.find`. Чего в
+        словаре нет — остаётся простым текстом: сто с небольшим статей на 3406
+        помет, и большая часть помет — связки вроде `ca` и `api`.
+        """
+        term = words.find(word, self.words)
+        return GLOSSARY + '#t-' + words.keyof(term) if term else None
+
+    def crumbs(self):
+        return ' · [Словарь терминов](%s)' % GLOSSARY
 
     # --- блоки и перевод ---
 

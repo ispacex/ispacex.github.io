@@ -2,7 +2,7 @@
 title: "Mālinīvijayottaratantra: глава 10 — Abhiṣekādhikāraḥ"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Mālinīvijayottaratantra](/ksh/mv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-10-trika-scriptures-non-dual-shaivism-of-kashmir/841)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Mālinīvijayottaratantra](/ksh/mv/) · [Словарь терминов](/ksh/mv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-10-trika-scriptures-non-dual-shaivism-of-kashmir/841)</p>
 
 # Глава 10 — Abhiṣekādhikāraḥ
 

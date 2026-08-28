@@ -2,7 +2,7 @@
 title: "Mālinīvijayottaratantra: глава 18 — Paramavidyādhikāraḥ"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Mālinīvijayottaratantra](/ksh/mv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-18-trika-scriptures-non-dual-shaivism-of-kashmir/849)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Mālinīvijayottaratantra](/ksh/mv/) · [Словарь терминов](/ksh/mv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-18-trika-scriptures-non-dual-shaivism-of-kashmir/849)</p>
 
 # Глава 18 — Paramavidyādhikāraḥ
 

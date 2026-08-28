@@ -2,7 +2,7 @@
 title: "Mālinīvijayottaratantra: глава 20 — Sarvamantranirṇayaḥ"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Mālinīvijayottaratantra](/ksh/mv/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-20-trika-scriptures-non-dual-shaivism-of-kashmir/851)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Mālinīvijayottaratantra](/ksh/mv/) · [Словарь терминов](/ksh/mv/glossary/) · [Поиск по сайту](/search/) · [Эта часть у источника](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-20-trika-scriptures-non-dual-shaivism-of-kashmir/851)</p>
 
 # Глава 20 — Sarvamantranirṇayaḥ
 
