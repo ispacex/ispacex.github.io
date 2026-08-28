@@ -16,8 +16,6 @@ title: "Mālinīvijayottaratantra: глава 4"
 [Строфы 31–41](#s4) — [санскрит](#s4-sa) · [перевод](#s4-ru)
 </div>
 
-<p class="pv-todo">Эта глава переведена ещё не полностью: 120 абзацев ниже стоят по-английски — так, как они у источника. Санскрит и транслитерация на месте.</p>
-
 ## Строфы 1–10 {#s1}
 
 <p class="pv-copy nosearch pv-anchor" id="s1-sa"><button type="button" data-pv-copy="w1" data-pv-what="pv-sa">Копировать санскрит</button> <button type="button" data-pv-copy="w1" data-pv-what="pv-iast">Копировать транслитерацию</button></p>
@@ -25,7 +23,7 @@ title: "Mālinīvijayottaratantra: глава 4"
 <p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">अथ चतुर्थोऽधिकारः।</span><br />
 <span class="pv-iast">Atha Caturtho'dhikāraḥ|</span></p>
 
-<p class="pv-en pv-anchor" id="s1-ru" lang="en"><ruby>And now<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>the fourth<rp> (</rp><rt>caturthaḥ</rt><rp>)</rp></ruby> <ruby>chapter<rp> (</rp><rt>adhikāraḥ</rt><rp>)</rp></ruby>|</p>
+<p class="pv-tr" markdown="1"><ruby>И вот<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>четвёртая<rp> (</rp><rt>caturthaḥ</rt><rp>)</rp></ruby> <ruby>глава<rp> (</rp><rt>adhikāraḥ</rt><rp>)</rp></ruby>|</p>
 
 <hr class="pv-rule" />
 
@@ -34,9 +32,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">प्रणम्य क्रौञ्चहन्तारं पुनरूचुरिदं वचः॥१॥</span><br />
 <span class="pv-iast">Praṇamya krauñcahantāraṁ punarūcuridaṁ vacaḥ||1||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Then<rp> (</rp><rt>atha</rt><rp>)</rp></ruby>, <ruby>having listened<rp> (</rp><rt>upasaṁśrutya</rt><rp>)</rp></ruby> to this <em>(dissertation)</em> <span class="pv-w">(etad)</span>, <ruby>the sages<rp> (</rp><rt>munayaḥ</rt><rp>)</rp></ruby> —<ruby>looking pleased<rp> (</rp><rt>mudita-īkṣaṇāḥ</rt><rp>)</rp></ruby>—, <ruby>after bowing<rp> (</rp><rt>praṇamya</rt><rp>)</rp></ruby> to the annihilator of the Krauñca mountain <span class="pv-note">— i.e. to Kārttikeya —</span> <span class="pv-w">(krauñca-hantāram)</span>, <ruby>said<rp> (</rp><rt>ūcuḥ</rt><rp>)</rp></ruby> <ruby>nonetheless<rp> (</rp><rt>punar</rt><rp>)</rp></ruby> <ruby>these words<rp> (</rp><rt>idaṁ vacaḥ</rt><rp>)</rp></ruby>||1||</p>
+<p class="pv-tr pv-anchor" id="s1-ru" markdown="1"><ruby>Затем<rp> (</rp><rt>atha</rt><rp>)</rp></ruby>, <ruby>выслушав<rp> (</rp><rt>upasaṁśrutya</rt><rp>)</rp></ruby> это _(рассуждение)_ <span class="pv-w">(etad)</span>, <ruby>мудрецы<rp> (</rp><rt>munayaḥ</rt><rp>)</rp></ruby> — <ruby>с довольным взором<rp> (</rp><rt>mudita-īkṣaṇāḥ</rt><rp>)</rp></ruby> — <ruby>поклонились<rp> (</rp><rt>praṇamya</rt><rp>)</rp></ruby> сокрушителю горы Krauñca <span class="pv-note">— то есть Kārttikeya —</span> <span class="pv-w">(krauñca-hantāram)</span> <ruby>и сказали<rp> (</rp><rt>ūcuḥ</rt><rp>)</rp></ruby> <ruby>всё же<rp> (</rp><rt>punar</rt><rp>)</rp></ruby> <ruby>вот эти слова<rp> (</rp><rt>idaṁ vacaḥ</rt><rp>)</rp></ruby>||1||</p>
 
-<p class="pv-en" lang="en">All the great seers there listening to Kārttikeya, i.e. Sanatkumāra, Sanaka, Sanātana, Sanandana, Nārada, Agastya, Saṁvarta, Vasiṣṭha, etc., were very pleased with his exposition. Anyway, they had a question.</p>
+Все великие провидцы, слушавшие там Kārttikeya, — Sanatkumāra, Sanaka, Sanātana, Sanandana, Nārada, Agastya, Saṁvarta, Vasiṣṭha и прочие, — были весьма довольны его изложением. И всё же у них был вопрос.
 
 <hr class="pv-rule" />
 
@@ -45,9 +43,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">तत्प्रतिज्ञावताप्युक्तं किमर्थं मन्त्रलक्षणम्॥२॥</span><br />
 <span class="pv-iast">Tatpratijñāvatāpyuktaṁ kimarthaṁ mantralakṣaṇam||2||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Why<rp> (</rp><rt>kimartham</rt><rp>)</rp></ruby> <ruby>has it been said<rp> (</rp><rt>uktam</rt><rp>)</rp></ruby> by the Highest One <span class="pv-note">— Śiva —</span> <span class="pv-w">(parameṣṭhinā)</span> —by the One who has declared those <em>(teachings in previous chapters)</em> <span class="pv-w">(tad-pratijñāvatā api)</span>—, <ruby>when asked by the Goddess<rp> (</rp><rt>devyā pṛṣṭena</rt><rp>)</rp></ruby>, <ruby>that the method of Yoga's path<rp> (</rp><rt>yoga-mārga-vidhim</rt><rp>)</rp></ruby> <ruby>is characterized by Mantra<rp> (</rp><rt>mantra-lakṣaṇam</rt><rp>)</rp></ruby>?||2||</p>
+<p class="pv-tr" markdown="1"><ruby>Зачем<rp> (</rp><rt>kimartham</rt><rp>)</rp></ruby> <ruby>сказано<rp> (</rp><rt>uktam</rt><rp>)</rp></ruby> Высшим <span class="pv-note">— Śiva —</span> <span class="pv-w">(parameṣṭhinā)</span> — Тем, кто возвестил те _(учения в прежних главах)_ <span class="pv-w">(tad-pratijñāvatā api)</span>, — <ruby>на вопрос Богини<rp> (</rp><rt>devyā pṛṣṭena</rt><rp>)</rp></ruby>, <ruby>что способ пути Йоги<rp> (</rp><rt>yoga-mārga-vidhim</rt><rp>)</rp></ruby> <ruby>отмечен Мантрой<rp> (</rp><rt>mantra-lakṣaṇam</rt><rp>)</rp></ruby>?||2||</p>
 
-<p class="pv-en" lang="en">Śiva gave to understand before that the method of Yoga's path is characterized by Mantra. Well, they just want to know now why He affirmed that.</p>
+Śiva дал прежде понять, что способ пути Йоги отмечен Мантрой. Вот они и хотят теперь знать, почему Он это утверждал.
 
 <hr class="pv-rule" />
 
@@ -56,9 +54,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">इदमाह वचस्तेषां सन्देहविनिवृत्तये॥३॥</span><br />
 <span class="pv-iast">Idamāha vacasteṣāṁ sandehavinivṛttaye||3||</span></p>
 
-<p class="pv-en" lang="en">The great-minded <span class="pv-note">— i.e. possessing a great understanding —</span> <span class="pv-w">(mahā-matiḥ)</span> <ruby>Kārttikeya<rp> (</rp><rt>saḥ... kārtikeyaḥ</rt><rp>)</rp></ruby>, having been appropriately asked in this way <span class="pv-note">— lit. having been appropriately said in this way —</span> <span class="pv-w">(evam uktaḥ... samyak)</span> by them <span class="pv-note">— by the sages —</span> <span class="pv-w">(taiḥ)</span>, <ruby>said<rp> (</rp><rt>āha</rt><rp>)</rp></ruby> <ruby>these words<rp> (</rp><rt>idam... vacaḥ</rt><rp>)</rp></ruby> <ruby>to them<rp> (</rp><rt>teṣām</rt><rp>)</rp></ruby> in order to remove <em>(their)</em> <ruby>doubts<rp> (</rp><rt>sandeha-vinivṛttaye</rt><rp>)</rp></ruby>||3||</p>
+<p class="pv-tr" markdown="1"><ruby>Великий разумом<rp> (</rp><rt>mahā-matiḥ</rt><rp>)</rp></ruby> <ruby>Kārttikeya<rp> (</rp><rt>saḥ... kārtikeyaḥ</rt><rp>)</rp></ruby>, так подобающе вопрошённый <span class="pv-note">— букв. так подобающе сказанный —</span> <span class="pv-w">(evam uktaḥ... samyak)</span> ими <span class="pv-note">— мудрецами —</span> <span class="pv-w">(taiḥ)</span>, <ruby>молвил<rp> (</rp><rt>āha</rt><rp>)</rp></ruby> <ruby>вот эти слова<rp> (</rp><rt>idam... vacaḥ</rt><rp>)</rp></ruby> <ruby>им<rp> (</rp><rt>teṣām</rt><rp>)</rp></ruby>, дабы снять _(их)_ <ruby>сомнения<rp> (</rp><rt>sandeha-vinivṛttaye</rt><rp>)</rp></ruby>||3||</p>
 
-<p class="pv-en" lang="en">And now Kārttikeya, as he was appropriately addressed by the sages, is ready to answer, with great delight, to their question.</p>
+И вот Kārttikeya, подобающе вопрошённый мудрецами, готов с великой радостью ответить на их вопрос.
 
 <hr class="pv-rule" />
 
@@ -67,9 +65,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">यद्वस्तु ज्ञेयमित्युक्तं हेयत्वादिप्रसिद्धये॥४॥</span><br />
 <span class="pv-iast">Yadvastu jñeyamityuktaṁ heyatvādiprasiddhaye||4||</span></p>
 
-<p class="pv-en" lang="en"><em>(The sages)</em> <ruby>maintain<rp> (</rp><rt>icchanti</rt><rp>)</rp></ruby> <ruby>that Yoga<rp> (</rp><rt>yogam</rt><rp>)</rp></ruby> <ruby>is unity<rp> (</rp><rt>ekatvam</rt><rp>)</rp></ruby> <ruby>of a thing<rp> (</rp><rt>vastunaḥ</rt><rp>)</rp></ruby> <ruby>with another thing<rp> (</rp><rt>anyena vastunā</rt><rp>)</rp></ruby>. <em>(Yoga)</em> is said to be (iti uktam) <ruby>a reality<rp> (</rp><rt>vastu</rt><rp>)</rp></ruby> <ruby>which<rp> (</rp><rt>yad</rt><rp>)</rp></ruby> <ruby>is to be known<rp> (</rp><rt>jñeyam</rt><rp>)</rp></ruby> in order for <em>(a person)</em> <ruby>to be successful<rp> (</rp><rt>prasiddhaye</rt><rp>)</rp></ruby> <em>(in achieving)</em> avoidance, etc. <span class="pv-note">— i.e. in being able to avoid what is to be avoided, etc. —</span> <span class="pv-w">(heyatva-ādi)</span>||4||</p>
+<p class="pv-tr" markdown="1">_(Мудрецы)_ <ruby>держатся того<rp> (</rp><rt>icchanti</rt><rp>)</rp></ruby>, <ruby>что Йога<rp> (</rp><rt>yogam</rt><rp>)</rp></ruby> <ruby>есть единство<rp> (</rp><rt>ekatvam</rt><rp>)</rp></ruby> <ruby>одной вещи<rp> (</rp><rt>vastunaḥ</rt><rp>)</rp></ruby> <ruby>с другою<rp> (</rp><rt>anyena vastunā</rt><rp>)</rp></ruby>. _(Йогой)_ названо (iti uktam) <ruby>то сущее<rp> (</rp><rt>vastu</rt><rp>)</rp></ruby>, <ruby>которое<rp> (</rp><rt>yad</rt><rp>)</rp></ruby> <ruby>должно познать<rp> (</rp><rt>jñeyam</rt><rp>)</rp></ruby>, чтобы _(человек)_ <ruby>преуспел<rp> (</rp><rt>prasiddhaye</rt><rp>)</rp></ruby> _(в достижении)_ избегания и прочего <span class="pv-note">— то есть смог избегать того, чего должно избегать, и прочее —</span> <span class="pv-w">(heyatva-ādi)</span>||4||</p>
 
-<p class="pv-en" lang="en">In Trika Shaivism, Yoga is predominantly 'Union with Paramaśiva'. When the spiritual seeker finally attains the realization that 'he is Paramaśiva', this is real Union or Yoga. Anyway, in the second part of the aphorism, the word Yoga is used as 'the path to such Union'. With this meaning, it is obvious that without knowing Yoga is practically impossible to realize what must be accepted and what must be avoided. This question about acceptance and avoidance is only relevant till the moment of Union with Paramaśiva. After this realization, it is no longer important.</p>
+В Трике Йога — это прежде всего «Единение с Paramaśiva». Когда духовный искатель наконец осознаёт, что «он есть Paramaśiva», это и есть настоящее Единение, Йога. Впрочем, во второй половине сутры слово «Йога» употреблено как «путь к такому Единению». В этом смысле ясно, что, не зная Йоги, почти невозможно осознать, что́ надлежит принять и чего́ избегать. Вопрос этот о приятии и избегании важен только до мига Единения с Paramaśiva; после этого осознания он уже не важен.
 
 <hr class="pv-rule" />
 
@@ -78,9 +76,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">तत्प्रसिद्ध्यै शिवेनोक्तं ज्ञानं यदुपवर्णितम्॥५॥</span><br />
 <span class="pv-iast">Tatprasiddhyai śivenoktaṁ jñānaṁ yadupavarṇitam||5||</span></p>
 
-<p class="pv-en" lang="en">The double <em>(reality)</em> <span class="pv-note">— i.e. upādeya (what is acceptable) and heya (what is rejectable) —</span> <span class="pv-w">(dvi-rūpam api)</span> <ruby>cannot be perceived<rp> (</rp><rt>jñātum na śakyate</rt><rp>)</rp></ruby> <ruby>without<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>knowledge<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby> about that <span class="pv-note">— about Yoga —</span> <span class="pv-w">(tad)</span>. For <em>(a person)</em> to succeed in that <span class="pv-note">— in perceiving that double reality —</span> <span class="pv-w">(tad-prasiddhyai)</span>, <em>(such)</em> knowledge <em>(about Yoga)</em> <span class="pv-w">(jñānam)</span> <ruby>declared<rp> (</rp><rt>uktam</rt><rp>)</rp></ruby> <ruby>by Śiva<rp> (</rp><rt>śivena</rt><rp>)</rp></ruby> <ruby>was described minutely<rp> (</rp><rt>yad upavarṇitam</rt><rp>)</rp></ruby>||5||</p>
+<p class="pv-tr" markdown="1">Двойное _(сущее)_ <span class="pv-note">— то есть upādeya, приемлемое, и heya, отвергаемое —</span> <span class="pv-w">(dvi-rūpam api)</span> <ruby>невозможно воспринять<rp> (</rp><rt>jñātum na śakyate</rt><rp>)</rp></ruby> <ruby>без<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>знания<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby> о том <span class="pv-note">— о Йоге —</span> <span class="pv-w">(tad)</span>. Чтобы _(человек)_ в том преуспел <span class="pv-note">— в восприятии этого двойного сущего —</span> <span class="pv-w">(tad-prasiddhyai)</span>, _(такое)_ знание _(о Йоге)_ <span class="pv-w">(jñānam)</span>, <ruby>возвещённое<rp> (</rp><rt>uktam</rt><rp>)</rp></ruby> <ruby>Śiva<rp> (</rp><rt>śivena</rt><rp>)</rp></ruby>, <ruby>было описано подробно<rp> (</rp><rt>yad upavarṇitam</rt><rp>)</rp></ruby>||5||</p>
 
-<p class="pv-en" lang="en">As I said in my explanation of the previous stanza, it is completely obvious that without knowing Yoga is practically impossible to realize what is to be accepted and what is to be avoided. It is for this reason that Śiva put every effort into the task of describing such knowledge about Yoga so the people could succeed in perceiving that double reality.</p>
+Как я сказал в объяснении прежней строфы, совершенно ясно, что, не зная Йоги, почти невозможно осознать, что́ надлежит принять и чего́ избегать. Оттого Śiva и приложил все усилия к описанию этого знания о Йоге, чтобы люди преуспели в восприятии двойного этого сущего.
 
 <hr class="pv-rule" />
 
@@ -89,22 +87,22 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">न चाधिकारिता दीक्षां विना योगेऽस्ति शाङ्करे॥६॥</span><br />
 <span class="pv-iast">Na cādhikāritā dīkṣāṁ vinā yoge'sti śāṅkare||6||</span></p>
 
-<p class="pv-en" lang="en"><ruby>For the complete attainment<rp> (</rp><rt>saṁsiddhyai</rt><rp>)</rp></ruby> <ruby>of the Yoga<rp> (</rp><rt>yoga</rt><rp>)</rp></ruby> <ruby>with seed<rp> (</rp><rt>sa-bīja</rt><rp>)</rp></ruby>, <em>(to know)</em> about the characteristic_(s)_ <ruby>of the Mantra-s<rp> (</rp><rt>mantra-lakṣaṇam</rt><rp>)</rp></ruby> <em>(is)</em> enough (api alam). <em>(Nonetheless,)</em> <ruby>without<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>initiation<rp> (</rp><rt>dīkṣām</rt><rp>)</rp></ruby> there is no (na ca... asti) <ruby>qualification<rp> (</rp><rt>adhikāritā</rt><rp>)</rp></ruby> <ruby>in the Yoga of Śaṅkara<rp> (</rp><rt>yoge... śāṅkare</rt><rp>)</rp></ruby>||6||</p>
+<p class="pv-tr" markdown="1"><ruby>Для полного достижения<rp> (</rp><rt>saṁsiddhyai</rt><rp>)</rp></ruby> <ruby>Йоги<rp> (</rp><rt>yoga</rt><rp>)</rp></ruby> <ruby>с семенем<rp> (</rp><rt>sa-bīja</rt><rp>)</rp></ruby> _(знать)_ <ruby>о свойствах Мантр<rp> (</rp><rt>mantra-lakṣaṇam</rt><rp>)</rp></ruby> _(уже)_ довольно (api alam). _(И всё же)_ <ruby>без<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>посвящения<rp> (</rp><rt>dīkṣām</rt><rp>)</rp></ruby> нет (na ca... asti) <ruby>годности<rp> (</rp><rt>adhikāritā</rt><rp>)</rp></ruby> <ruby>к Йоге Śaṅkara<rp> (</rp><rt>yoge... śāṅkare</rt><rp>)</rp></ruby>||6||</p>
 
-<p class="pv-en" lang="en">Śiva does not exactly specify what he meant by 'Yoga with seed', but this expression could have the same meaning as the one given in Pātañjalayogasūtra-s (Section I):</p>
+Что именно Śiva разумел под «Йогой с семенем», Он прямо не оговаривает, но выражение это может значить то же, что и в «Йогасутрах» Патанджали (раздел I):
 
 <p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">ता एव सवीजः समाधिः॥४६॥</span><br />
 <span class="pv-iast">Tā eva savījaḥ samādhiḥ||46||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Only<rp> (</rp><rt>eva</rt><rp>)</rp></ruby> those _(four varieties of Samāpatti or Engrossment <span class="pv-note">— Savitarkā, Nirvitarkā, Savicārā and Nirvicārā —</span>)_ <span class="pv-w">(tāḥ)</span> <em>(constitute)</em> <ruby>Savījasamādhi<rp> (</rp><rt>savījaḥ samādhiḥ</rt><rp>)</rp></ruby> <em>(or the perfect concentration in which one uses a gross/subtle object or "vīja" as a support for his mind to become one-pointed)</em>||46||</p>
+<p class="pv-tr" markdown="1"><ruby>Только<rp> (</rp><rt>eva</rt><rp>)</rp></ruby> те _(четыре разновидности Samāpatti, поглощённости, — Savitarkā, Nirvitarkā, Savicārā и Nirvicārā)_ <span class="pv-w">(tāḥ)</span> _(и составляют)_ <ruby>Savījasamādhi<rp> (</rp><rt>savījaḥ samādhiḥ</rt><rp>)</rp></ruby> _(то есть совершенное сосредоточение, в котором для однонаправленности ума берут опорою грубый или тонкий предмет, «vīja»)_||46||</p>
 
-<p class="pv-en" lang="en">It is to be noted that 'bīja' is a more modern version of 'vīja'. The meaning is anyway the same. In his commentary on Pātañjalayogasūtra-s, Vyāsa specifies as follows (full comment): 'भाष्यम् — ताश्चतस्रः समापत्तयो वहिर्वस्तुवीजा इति समाधिरपि सवीजस्तत्र स्थूलेऽर्थे सवितर्को निर्वितर्कः सूक्ष्मेऽर्थे सविचारो निर्विचार इति चतुर्धोपसङ्ख्यातः समाधिरिति॥४६॥' - 'Bhāṣyam — Tāścatasraḥ samāpattayo vahirvastuvījā iti samādhirapi savījastatra sthūle'rthe savitarko nirvitarkaḥ sūkṣme'rthe savicāro nirvicāra iti caturdhopasaṅkhyātaḥ samādhiriti||46||<ruby>' - 'Commentary<rp> (</rp><rt>bhāṣyam</rt><rp>)</rp></ruby> — <ruby>Those<rp> (</rp><rt>tāḥ</rt><rp>)</rp></ruby> <ruby>four<rp> (</rp><rt>catasraḥ</rt><rp>)</rp></ruby> <ruby>absorptions<rp> (</rp><rt>samāpattayaḥ</rt><rp>)</rp></ruby> <span class="pv-note">— i.e. Savitarkā, Nirvitarkā, Savicārā and Nirvicārā —</span> <ruby>have external matter as their objects<rp> (</rp><rt>vahis-vastu-vījāḥ</rt><rp>)</rp></ruby>. <ruby>Thus<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>, <ruby>though<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <em>(they are)</em> 'samādhi-s' <span class="pv-note">— perfect concentrations —</span> <span class="pv-w">(samādhiḥ)</span>, they are with 'vīja' or 'seed' <span class="pv-note">— viz. with gross and subtle objects as a support for concentration —</span> <span class="pv-w">(sa-vījaḥ)</span>. <ruby>With respect to that<rp> (</rp><rt>tatra</rt><rp>)</rp></ruby>, 'samādhi' <span class="pv-note">— perfect concentration —</span> <span class="pv-w">(samādhiḥ iti)</span>, <ruby>due to an additional enumeration<rp> (</rp><rt>upasaṅkhyātaḥ</rt><rp>)</rp></ruby> <em>(occurring)</em> <ruby>in four ways<rp> (</rp><rt>caturdhā</rt><rp>)</rp></ruby>, <em>(appears as:)</em> 'Savitarka <em>(and)</em> <ruby>Nirvitarka<rp> (</rp><rt>savitarkaḥ nirvitarkaḥ</rt><rp>)</rp></ruby> —<ruby>in relation to a gross object<rp> (</rp><rt>sthūle arthe</rt><rp>)</rp></ruby>—, <em>(along with)</em> Savicāra <em>(and)</em> <ruby>Nirvicāra<rp> (</rp><rt>savicāraḥ nirvicāraḥ iti</rt><rp>)</rp></ruby>'||46||'.</p>
+Заметим, что «bīja» — более поздний вид слова «vīja». Смысл при этом тот же. В своём толковании на «Йогасутры» Вьяса говорит так (полное толкование): «भाष्यम् — ताश्चतस्रः समापत्तयो वहिर्वस्तुवीजा इति समाधिरपि सवीजस्तत्र स्थूलेऽर्थे सवितर्को निर्वितर्कः सूक्ष्मेऽर्थे सविचारो निर्विचार इति चतुर्धोपसङ्ख्यातः समाधिरिति॥४६॥» — «Bhāṣyam — Tāścatasraḥ samāpattayo vahirvastuvījā iti samādhirapi savījastatra sthūle’rthe savitarko nirvitarkaḥ sūkṣme’rthe savicāro nirvicāra iti caturdhopasaṅkhyātaḥ samādhiriti||46||» — <ruby>«Толкование<rp> (</rp><rt>bhāṣyam</rt><rp>)</rp></ruby> — <ruby>Те<rp> (</rp><rt>tāḥ</rt><rp>)</rp></ruby> <ruby>четыре<rp> (</rp><rt>catasraḥ</rt><rp>)</rp></ruby> <ruby>поглощённости<rp> (</rp><rt>samāpattayaḥ</rt><rp>)</rp></ruby> <span class="pv-note">— то есть Savitarkā, Nirvitarkā, Savicārā и Nirvicārā —</span> <ruby>имеют предметом внешнюю вещь<rp> (</rp><rt>vahis-vastu-vījāḥ</rt><rp>)</rp></ruby>. <ruby>Стало быть<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>, <ruby>хотя<rp> (</rp><rt>api</rt><rp>)</rp></ruby> _(они и)_ «samādhi», <ruby>совершенные сосредоточения<rp> (</rp><rt>samādhiḥ</rt><rp>)</rp></ruby>, они с «vīja», с «семенем» <span class="pv-note">— то есть с грубыми и тонкими предметами как опорою сосредоточения —</span> <span class="pv-w">(sa-vījaḥ)</span>. <ruby>Что до этого<rp> (</rp><rt>tatra</rt><rp>)</rp></ruby>, «samādhi», <ruby>совершенное сосредоточение<rp> (</rp><rt>samādhiḥ iti</rt><rp>)</rp></ruby>, <ruby>по добавочному перечислению<rp> (</rp><rt>upasaṅkhyātaḥ</rt><rp>)</rp></ruby> _(идущему)_ <ruby>четверояко<rp> (</rp><rt>caturdhā</rt><rp>)</rp></ruby>, _(является как)_: «Savitarka _(и)_ <ruby>Nirvitarka<rp> (</rp><rt>savitarkaḥ nirvitarkaḥ</rt><rp>)</rp></ruby> — <ruby>о грубом предмете<rp> (</rp><rt>sthūle arthe</rt><rp>)</rp></ruby>, — _(а с ними)_ Savicāra _(и)_ <ruby>Nirvicāra<rp> (</rp><rt>savicāraḥ nirvicāraḥ iti</rt><rp>)</rp></ruby>»||46||».
 
-<p class="pv-en" lang="en">Some might think that there are some typos above because in the Patañjali's aphorism 46 and in the first portion of the Vyāsa's commentary I wrote 'Savitarkā, Nirvitarkā, Savicārā and Nirvicārā' (all in feminine gender denoted by that long 'a' at the end of each of those four terms), while in the final part of the commentary I wrote 'Savitarka, Nirvitarka, Savicāra and Nirvicāra' (all in masculine gender denoted by that short 'a' at the end of each of those four terms... though this could also denote neuter gender... but it is not the case here!). However, there is no typo at all. At first, all the words are in feminine gender because they are related to 'samāpatti' or 'engrossment', which is feminine in gender, while in the last part of the commentary Vyāsa is connecting the same four words with 'samādhi' (perfect concentration), which is masculine in gender instead. So, everything is OK.</p>
+Кто-нибудь может подумать, что выше есть описки: в сутре 46 Патанджали и в первой части толкования Вьясы я написал «Savitarkā, Nirvitarkā, Savicārā и Nirvicārā» (всё в женском роде, на что указывает долгое «a» в конце каждого из четырёх слов), а в конце толкования — «Savitarka, Nirvitarka, Savicāra и Nirvicāra» (всё в мужском роде, на что указывает краткое «a» в конце… хотя оно могло бы указывать и на средний род, но не в этом случае!). Однако никакой описки нет. Сперва все слова в женском роде, ибо связаны с «samāpatti», поглощённостью, а это слово женского рода; в конце же толкования Вьяса связывает те же четыре слова с «samādhi», совершенным сосредоточением, а это слово рода мужского. Так что всё в порядке.
 
-<p class="pv-en" lang="en">I will summarize now the meaning of this extremely technical terms: <strong><em>(1)</em></strong> In Savitarkasamādhi you concentrate on gross objects such as 'the <ruby>external objects', 'the powers of perception'<rp> (</rp><rt>Jñānendriya-s</rt><rp>)</rp></ruby> or on the 'limited knower" himself, which are all gross. Anyway, you use words like an aid to concentration. And because words appear in your concentration, there is space in your experience. _<strong>(2)</strong><em> In Nirvitarkasamādhi you again concentrate on the same gross objects but this time you do not use words like a help. This prevents space from appearing and your experience of such concentration is completely pure. </em><strong>(3)</strong>_ In Savicārasamādhi you concentrate on subtle elements such as Tanmātra-s (subtle elements, tattva-s 27 to 31 in Trika Shaivism), ego, intellect or even in Prakṛti <span class="pv-note">— tattva 13 in Trika Shaivism —</span>, and at the same time you use words as an extra help. Anyway, you cannot concentrate on Prakṛti, on the origin of the whole material universe, without merging into her first. So, once you have returned from being merged into Prakṛti, you can practice Savicārasamādhi on her. But, I repeat, you can never do that before merging into her due to her being the origin of all the objects, subtle or gross. _<strong>(4)</strong>_ In Nirvicārasamādhi you concentrate on the same subtle objects, but because there is no resorting to words, you enjoy pure space-less concentration on such subtle objects. For example, when you concentrate so on the Tanmātra-s, you do not experience space but only time. OK, enough of revealing what should be kept secret.</p>
+Сведу теперь воедино смысл этих крайне мудрёных слов. **_(1)_** В Savitarkasamādhi ты сосредоточиваешься на грубых предметах: <ruby>на внешних предметах, на силах восприятия<rp> (</rp><rt>Jñānendriya</rt><rp>)</rp></ruby> или на самом ограниченном познающем — всё это грубое. При этом ты пользуешься словами как подспорьем для сосредоточения. А так как слова являются в твоём сосредоточении, в твоём переживании есть пространство. _**(2)**_ В Nirvitarkasamādhi ты сосредоточиваешься на тех же грубых предметах, но словами уже не пользуешься. Это не даёт появиться пространству, и переживание такого сосредоточения совершенно чисто. _**(3)**_ В Savicārasamādhi ты сосредоточиваешься на тонких вещах: на Tanmātra (тонких стихиях, таттвах с 27 по 31 в Трике), на самости, на разуме и даже на Prakṛti (тринадцатой таттве в Трике), — и при этом берёшь себе в помощь слова. Правда, сосредоточиться на Prakṛti, на истоке всей вещественной вселенной, нельзя, не растворившись в ней сперва. И вот, вернувшись из растворения в Prakṛti, ты можешь упражняться в Savicārasamādhi о ней. Но, повторю, до растворения в ней этого сделать нельзя никогда — ведь она исток всех предметов, тонких и грубых. _**(4)**_ В Nirvicārasamādhi ты сосредоточиваешься на тех же тонких предметах, но, поскольку к словам не прибегаешь, наслаждаешься чистым, лишённым пространства сосредоточением на них. Например, сосредоточившись так на Tanmātra, ты не переживаешь пространства, а переживаешь одно лишь время. Ну, довольно открывать то, что следует хранить в тайне.
 
-<p class="pv-en" lang="en">To attain proficiency regarding this Sabījayoga or Yoga with seed (with object), to know about the characteristics of the Mantra-s is more than enough. In other words, initiation is not required. But in the Yoga of our Lord Śiva that is not enough, i.e. initiation is required and no way to bypass this.</p>
+Чтобы стать искусным в этой Sabījayoga, Йоге с семенем, с предметом, знания о свойствах Мантр более чем довольно. Иначе говоря, посвящения не требуется. А вот в Йоге Господа нашего Śiva этого недостаточно: посвящение нужно, и обойти это никак нельзя.
 
 <hr class="pv-rule" />
 
@@ -113,9 +111,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">द्विविधा सा प्रकर्तव्या तेन चैतदुदाहृतम्॥७॥</span><br />
 <span class="pv-iast">Dvividhā sā prakartavyā tena caitadudāhṛtam||7||</span></p>
 
-<p class="pv-en" lang="en">It <span class="pv-note">— viz. initiation —</span> <span class="pv-w">(sā ca)</span> <ruby>is said to be<rp> (</rp><rt>nigadyate</rt><rp>)</rp></ruby> <ruby>twofold<rp> (</rp><rt>dvedhā</rt><rp>)</rp></ruby> according <ruby>to the division of knowledge and action<rp> (</rp><rt>kriyā-jñana-vibhedena</rt><rp>)</rp></ruby>. <em>(And)</em> it <span class="pv-note">— initiation —</span> <span class="pv-w">(sā)</span>, <ruby>in its two forms<rp> (</rp><rt>dvividhā</rt><rp>)</rp></ruby>, <ruby>must be performed<rp> (</rp><rt>prakartavyā</rt><rp>)</rp></ruby>. <ruby>This<rp> (</rp><rt>etad</rt><rp>)</rp></ruby> <ruby>is what He declares<rp> (</rp><rt>tena ca... udāhṛtam</rt><rp>)</rp></ruby>||7||</p>
+<p class="pv-tr" markdown="1">Оно <span class="pv-note">— посвящение —</span> <span class="pv-w">(sā ca)</span> <ruby>названо<rp> (</rp><rt>nigadyate</rt><rp>)</rp></ruby> <ruby>двойственным<rp> (</rp><rt>dvedhā</rt><rp>)</rp></ruby> <ruby>по делению на знание и действие<rp> (</rp><rt>kriyā-jñana-vibhedena</rt><rp>)</rp></ruby>. _(И)_ оно <span class="pv-note">— посвящение —</span> <span class="pv-w">(sā)</span> <ruby>в обоих своих обликах<rp> (</rp><rt>dvividhā</rt><rp>)</rp></ruby> <ruby>должно быть совершено<rp> (</rp><rt>prakartavyā</rt><rp>)</rp></ruby>. <ruby>Это<rp> (</rp><rt>etad</rt><rp>)</rp></ruby> <ruby>Он и возвещает<rp> (</rp><rt>tena ca... udāhṛtam</rt><rp>)</rp></ruby>||7||</p>
 
-<p class="pv-en" lang="en">I will explain this stanza along with the next stanza.</p>
+Эту строфу я объясню вместе со следующей.
 
 <hr class="pv-rule" />
 
@@ -124,9 +122,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">अपि मन्त्राधिकारित्वं मुक्तिश्च शिवदीक्षया॥८॥</span><br />
 <span class="pv-iast">Api mantrādhikāritvaṁ muktiśca śivadīkṣayā||8||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Through this initiation by Śiva<rp> (</rp><rt>anayā... śiva-dīkṣayā</rt><rp>)</rp></ruby> <ruby>appears<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> not only (na ca... ekam eva) <ruby>qualification for Yoga<rp> (</rp><rt>yoga-adhikāritvam</rt><rp>)</rp></ruby> <ruby>but also<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>authority regarding the Mantra-s<rp> (</rp><rt>mantra-adhikāritvam</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>Liberation<rp> (</rp><rt>muktiḥ</rt><rp>)</rp></ruby>||8||</p>
+<p class="pv-tr" markdown="1"><ruby>Этим посвящением от Śiva<rp> (</rp><rt>anayā... śiva-dīkṣayā</rt><rp>)</rp></ruby> <ruby>является<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> не только (na ca... ekam eva) <ruby>годность к Йоге<rp> (</rp><rt>yoga-adhikāritvam</rt><rp>)</rp></ruby>, <ruby>но и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>право на Мантры<rp> (</rp><rt>mantra-adhikāritvam</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>Освобождение<rp> (</rp><rt>muktiḥ</rt><rp>)</rp></ruby>||8||</p>
 
-<p class="pv-en" lang="en">Abhinavagupta partially elucidates this topic from 16.291 to 16.301 in his Tantrāloka. I will make a slight effort now and I will translate these stanzas for you:</p>
+Абхинавагупта отчасти проясняет этот предмет в «Тантралоке», с 16.291 по 16.301. Приложу небольшое усилие и переведу для вас эти строфы:
 
 <p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">न चाधिकारिता दीक्षां विना योगेऽस्ति शाङ्करे।</span><br />
 <span class="pv-iast">Na cādhikāritā dīkṣāṁ vinā yoge'sti śāṅkare|</span><br />
@@ -173,29 +171,29 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">सोऽपि यत्रैव युक्तः स्यात्तन्मयत्वं प्रपद्यते॥३०१॥</span><br />
 <span class="pv-iast">So'pi yatraiva yuktaḥ syāttanmayatvaṁ prapadyate||301||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Without<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>initiation<rp> (</rp><rt>dīkṣām</rt><rp>)</rp></ruby> there is no (na ca... asti) <ruby>qualification<rp> (</rp><rt>adhikāritā</rt><rp>)</rp></ruby> <ruby>in the Yoga of Śaṅkara<rp> (</rp><rt>yoge... śāṅkare</rt><rp>)</rp></ruby>. It <span class="pv-note">— viz. initiation —</span> <span class="pv-w">(sā ca)</span> <ruby>is said to be<rp> (</rp><rt>nigadyate</rt><rp>)</rp></ruby> <ruby>twofold<rp> (</rp><rt>dvedhā</rt><rp>)</rp></ruby> according <ruby>to the division of knowledge and action<rp> (</rp><rt>kriyā-jñana-vibhedena</rt><rp>)</rp></ruby>.</p>
+<p class="pv-tr" markdown="1"><ruby>Без<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>посвящения<rp> (</rp><rt>dīkṣām</rt><rp>)</rp></ruby> нет (na ca... asti) <ruby>годности<rp> (</rp><rt>adhikāritā</rt><rp>)</rp></ruby> <ruby>к Йоге Śaṅkara<rp> (</rp><rt>yoge... śāṅkare</rt><rp>)</rp></ruby>. Оно <span class="pv-note">— посвящение —</span> <span class="pv-w">(sā ca)</span> <ruby>названо<rp> (</rp><rt>nigadyate</rt><rp>)</rp></ruby> <ruby>двойственным<rp> (</rp><rt>dvedhā</rt><rp>)</rp></ruby> <ruby>по делению на знание и действие<rp> (</rp><rt>kriyā-jñana-vibhedena</rt><rp>)</rp></ruby>.</p>
 
-<p class="pv-en" lang="en"><em>(And)</em> it <span class="pv-note">— initiation —</span> <span class="pv-w">(sā)</span>, <ruby>in its two forms<rp> (</rp><rt>dvividhā</rt><rp>)</rp></ruby>, <ruby>must be performed<rp> (</rp><rt>prakartavyā</rt><rp>)</rp></ruby>. <ruby>This<rp> (</rp><rt>etad</rt><rp>)</rp></ruby> <ruby>is what He declares<rp> (</rp><rt>tena ca... udāhṛtam</rt><rp>)</rp></ruby>. <ruby>Through this initiation by Śiva<rp> (</rp><rt>anayā... śiva-dīkṣayā</rt><rp>)</rp></ruby> <ruby>appears<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> not only (na ca... ekam eva) <ruby>qualification for Yoga<rp> (</rp><rt>yoga-adhikāritvam</rt><rp>)</rp></ruby> <ruby>but also<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>authority regarding the Mantra-s<rp> (</rp><rt>mantra-adhikāritvam</rt><rp>)</rp></ruby> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>Liberation<rp> (</rp><rt>muktiḥ</rt><rp>)</rp></ruby>.</p>
+<p class="pv-tr" markdown="1">_(И)_ оно <span class="pv-note">— посвящение —</span> <span class="pv-w">(sā)</span> <ruby>в обоих своих обликах<rp> (</rp><rt>dvividhā</rt><rp>)</rp></ruby> <ruby>должно быть совершено<rp> (</rp><rt>prakartavyā</rt><rp>)</rp></ruby>. <ruby>Это<rp> (</rp><rt>etad</rt><rp>)</rp></ruby> <ruby>Он и возвещает<rp> (</rp><rt>tena ca... udāhṛtam</rt><rp>)</rp></ruby>. <ruby>Этим посвящением от Śiva<rp> (</rp><rt>anayā... śiva-dīkṣayā</rt><rp>)</rp></ruby> <ruby>является<rp> (</rp><rt>bhavet</rt><rp>)</rp></ruby> не только (na ca... ekam eva) <ruby>годность к Йоге<rp> (</rp><rt>yoga-adhikāritvam</rt><rp>)</rp></ruby>, <ruby>но и<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>право на Мантры<rp> (</rp><rt>mantra-adhikāritvam</rt><rp>)</rp></ruby> <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>Освобождение<rp> (</rp><rt>muktiḥ</rt><rp>)</rp></ruby>.</p>
 
-<p class="pv-en" lang="en">By means of that <em>(statement)</em> <span class="pv-w">(anena)</span>, this was also (tad api) <ruby>expressed<rp> (</rp><rt>proktam</rt><rp>)</rp></ruby>: <ruby>The diligent yogī<rp> (</rp><rt>yogī... ādṛtaḥ</rt><rp>)</rp></ruby>, in order to attain unity with the <em>(Supreme)</em> <ruby>Principle<rp> (</rp><rt>tattva-aikya-siddhaye</rt><rp>)</rp></ruby>, <ruby>should take refuge<rp> (</rp><rt>āśrayet</rt><rp>)</rp></ruby> <ruby>in the Root-mantra<rp> (</rp><rt>mantram... mūlam</rt><rp>)</rp></ruby> till he gets to Nirvikalpasamādhi <span class="pv-note">— the Highest State devoid of thoughts —</span> <span class="pv-note">— lit. as far as Nirvikalpa —</span> <span class="pv-w">(nirvikalpa-antam)</span>.</p>
+<p class="pv-tr" markdown="1">Тем _(словом)_ <span class="pv-w">(anena)</span> сказано и (tad api) <ruby>вот что<rp> (</rp><rt>proktam</rt><rp>)</rp></ruby>: <ruby>усердный йогин<rp> (</rp><rt>yogī... ādṛtaḥ</rt><rp>)</rp></ruby>, дабы достичь единства с _(Высшим)_ <ruby>Началом<rp> (</rp><rt>tattva-aikya-siddhaye</rt><rp>)</rp></ruby>, <ruby>должен прибегнуть<rp> (</rp><rt>āśrayet</rt><rp>)</rp></ruby> <ruby>к Корню-мантре<rp> (</rp><rt>mantram... mūlam</rt><rp>)</rp></ruby>, покуда не дойдёт до Nirvikalpasamādhi <span class="pv-note">— Высшего Состояния, лишённого мыслей —</span> <span class="pv-note">— букв. до Nirvikalpa —</span> <span class="pv-w">(nirvikalpa-antam)</span>.</p>
 
-<p class="pv-en" lang="en"><ruby>While practicing the Mantra<rp> (</rp><rt>mantra-abhyāsena</rt><rp>)</rp></ruby>, the one promoting <span class="pv-note">— i.e. the yogī —</span> <span class="pv-w">(prasādhayan)</span> <ruby>either worldly enjoyment or Liberation<rp> (</rp><rt>bhogam vā mokṣam vā api</rt><rp>)</rp></ruby>, <ruby>should receive<rp> (</rp><rt>gṛhṇīta</rt><rp>)</rp></ruby> <ruby>initiation<rp> (</rp><rt>dīkṣām</rt><rp>)</rp></ruby> <ruby>from a spiritual teacher<rp> (</rp><rt>daiśikāt</rt><rp>)</rp></ruby> <ruby>for getting qualification or authority<rp> (</rp><rt>adhikāritā-labdhyai</rt><rp>)</rp></ruby> regarding that <span class="pv-note">— regarding the attainment of worldly enjoyment or regarding the attainment of Liberation —</span> <span class="pv-w">(tatra)</span>.</p>
+<p class="pv-tr" markdown="1"><ruby>Упражняясь в Мантре<rp> (</rp><rt>mantra-abhyāsena</rt><rp>)</rp></ruby>, тот, кто добивается <span class="pv-note">— то есть йогин —</span> <span class="pv-w">(prasādhayan)</span> <ruby>мирского наслаждения или Освобождения<rp> (</rp><rt>bhogam vā mokṣam vā api</rt><rp>)</rp></ruby>, <ruby>должен принять<rp> (</rp><rt>gṛhṇīta</rt><rp>)</rp></ruby> <ruby>посвящение<rp> (</rp><rt>dīkṣām</rt><rp>)</rp></ruby> <ruby>от духовного наставника<rp> (</rp><rt>daiśikāt</rt><rp>)</rp></ruby>, <ruby>чтобы обрести годность, право<rp> (</rp><rt>adhikāritā-labdhyai</rt><rp>)</rp></ruby> на то <span class="pv-note">— на достижение мирского наслаждения или Освобождения —</span> <span class="pv-w">(tatra)</span>.</p>
 
-<p class="pv-en" lang="en"><ruby>On that account<rp> (</rp><rt>tena</rt><rp>)</rp></ruby>, <ruby>in the case of this disciple endowed with Guru<rp> (</rp><rt>asya... yuktasya guruṇā śiśoḥ</rt><rp>)</rp></ruby>, through <ruby>the power of Yoga and knowledge of Mantra<rp> (</rp><rt>mantra-jñāna-yoga-balāt</rt><rp>)</rp></ruby>, whatever (yad yad) <ruby>he promotes<rp> (</rp><rt>prasādhayet</rt><rp>)</rp></ruby>, <ruby>that<rp> (</rp><rt>tad</rt><rp>)</rp></ruby> <ruby>takes place<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby>. <em>(And this is true)</em> <ruby>even<rp> (</rp><rt>api</rt><rp>)</rp></ruby> with reference to other realities <span class="pv-note">— viz. regarding other things than worldly enjoyment and Liberation —</span> <span class="pv-w">(anya-tattve)</span>.</p>
+<p class="pv-tr" markdown="1"><ruby>Оттого<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>у этого ученика, наделённого Гуру<rp> (</rp><rt>asya... yuktasya guruṇā śiśoḥ</rt><rp>)</rp></ruby>, <ruby>силою Йоги и знания Мантры<rp> (</rp><rt>mantra-jñāna-yoga-balāt</rt><rp>)</rp></ruby> всё, чего (yad yad) <ruby>он ни добивается<rp> (</rp><rt>prasādhayet</rt><rp>)</rp></ruby>, <ruby>то<rp> (</rp><rt>tad</rt><rp>)</rp></ruby> <ruby>и сбывается<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby>. _(И это верно)_ <ruby>даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> о других сущих <span class="pv-note">— то есть не только о мирском наслаждении и Освобождении —</span> <span class="pv-w">(anya-tattve)</span>.</p>
 
-<p class="pv-en" lang="en"><ruby>Because<rp> (</rp><rt>hi</rt><rp>)</rp></ruby> <ruby>initiation<rp> (</rp><rt>dīkṣā</rt><rp>)</rp></ruby> <ruby>is useful<rp> (</rp><rt>upayujyeta</rt><rp>)</rp></ruby> <ruby>in the preparation or formation<rp> (</rp><rt>saṁskriyāyām</rt><rp>)</rp></ruby> of this <em>(disciple)</em> <span class="pv-w">(asya)</span>. <em>(Nonetheless, when)</em> <ruby>he<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> is <em>(already)</em> <ruby>prepared or formed<rp> (</rp><rt>saṁskṛtaḥ</rt><rp>)</rp></ruby>, <em>(having transformed himself into a)</em> <ruby>wise person<rp> (</rp><rt>budhaḥ</rt><rp>)</rp></ruby>, <ruby>obtains<rp> (</rp><rt>labhate</rt><rp>)</rp></ruby> <ruby>worldly enjoyment<rp> (</rp><rt>bhogam</rt><rp>)</rp></ruby> <ruby>or<rp> (</rp><rt>vā... vā</rt><rp>)</rp></ruby> <ruby>Liberation<rp> (</rp><rt>mokṣam</rt><rp>)</rp></ruby> by his own strength <span class="pv-note">— i.e. by himself —</span> (sva-balena eva).</p>
+<p class="pv-tr" markdown="1"><ruby>Ибо<rp> (</rp><rt>hi</rt><rp>)</rp></ruby> <ruby>посвящение<rp> (</rp><rt>dīkṣā</rt><rp>)</rp></ruby> <ruby>полезно<rp> (</rp><rt>upayujyeta</rt><rp>)</rp></ruby> <ruby>в приготовлении, в образовании<rp> (</rp><rt>saṁskriyāyām</rt><rp>)</rp></ruby> этого _(ученика)_ <span class="pv-w">(asya)</span>. _(Но когда)_ <ruby>он<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> _(уже)_ <ruby>приготовлен, образован<rp> (</rp><rt>saṁskṛtaḥ</rt><rp>)</rp></ruby>, _(обратившись в)_ <ruby>мудрого<rp> (</rp><rt>budhaḥ</rt><rp>)</rp></ruby>, <ruby>он обретает<rp> (</rp><rt>labhate</rt><rp>)</rp></ruby> <ruby>мирское наслаждение<rp> (</rp><rt>bhogam</rt><rp>)</rp></ruby> <ruby>или<rp> (</rp><rt>vā... vā</rt><rp>)</rp></ruby> <ruby>Освобождение<rp> (</rp><rt>mokṣam</rt><rp>)</rp></ruby> собственной силою <span class="pv-note">— то есть сам —</span> (sva-balena eva).</p>
 
-<p class="pv-en" lang="en"><ruby>For that reason<rp> (</rp><rt>tena</rt><rp>)</rp></ruby>, the one <span class="pv-note">— i.e. the aforesaid disciple —</span> <ruby>who was previously<rp> (</rp><rt>prāk... bhavan</rt><rp>)</rp></ruby> <ruby>a follower of conventions<rp> (</rp><rt>samayī</rt><rp>)</rp></ruby> <ruby>or<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>a spiritual son<rp> (</rp><rt>putrakaḥ</rt><rp>)</rp></ruby>, he is not like this <em>(anymore)</em> <span class="pv-w">(na tāvān syāt)</span> but (api tu) <ruby>he is someone who delights in his own strength<rp> (</rp><rt>sva-bala-ucitaḥ</rt><rp>)</rp></ruby> <em>(and)</em> who <ruby>is powerful due to the Yoga of Knowledge, etc.<rp> (</rp><rt>vijñāna-yoga-ādi-balī</rt><rp>)</rp></ruby>.</p>
+<p class="pv-tr" markdown="1"><ruby>Потому<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>тот --названный ученик, — кто прежде был<rp> (</rp><rt>prāk... bhavan</rt><rp>)</rp></ruby> <ruby>samayī, следующим уставам<rp> (</rp><rt>samayī</rt><rp>)</rp></ruby>, <ruby>или<rp> (</rp><rt>vā</rt><rp>)</rp></ruby> <ruby>putraka, духовным сыном<rp> (</rp><rt>putrakaḥ</rt><rp>)</rp></ruby>, <ruby>уже не таков<rp> (</rp><rt>na tāvān syāt</rt><rp>)</rp></ruby>, а (api tu) <ruby>есть тот, кто радуется собственной силе<rp> (</rp><rt>sva-bala-ucitaḥ</rt><rp>)</rp></ruby> _(и)_ <ruby>мощен Йогой Знания и прочим<rp> (</rp><rt>vijñāna-yoga-ādi-balī</rt><rp>)</rp></ruby>.</p>
 
-<p class="pv-en" lang="en"><ruby>But<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> <ruby>the one who<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <em>(is)</em> <ruby>destitute of the Yoga of Knowledge, etc.<rp> (</rp><rt>vijñāna-yoga-ādi-vandhyaḥ</rt><rp>)</rp></ruby>, <ruby>he<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <em>(is)</em> <ruby>like<rp> (</rp><rt>yathā</rt><rp>)</rp></ruby> <ruby>a blind person<rp> (</rp><rt>andhaḥ</rt><rp>)</rp></ruby> in the <em>(spiritual)</em> <ruby>path<rp> (</rp><rt>pathi</rt><rp>)</rp></ruby>. As regards <em>(the attainment of)</em> worldly enjoyment and Liberation (bhoge muktau ca), <ruby>he is<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> <ruby>dependent on the spiritual teacher<rp> (</rp><rt>daiśika-āyattaḥ eva</rt><rp>)</rp></ruby> <ruby>in every way<rp> (</rp><rt>sarvathā</rt><rp>)</rp></ruby>.</p>
+<p class="pv-tr" markdown="1"><ruby>А<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> <ruby>тот, кто<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>лишён Йоги Знания и прочего<rp> (</rp><rt>vijñāna-yoga-ādi-vandhyaḥ</rt><rp>)</rp></ruby>, <ruby>тот<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <ruby>как<rp> (</rp><rt>yathā</rt><rp>)</rp></ruby> <ruby>слепец<rp> (</rp><rt>andhaḥ</rt><rp>)</rp></ruby> на _(духовном)_ <ruby>пути<rp> (</rp><rt>pathi</rt><rp>)</rp></ruby>. Что до _(обретения)_ мирского наслаждения и Освобождения (bhoge muktau ca), <ruby>он<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> <ruby>всецело<rp> (</rp><rt>sarvathā</rt><rp>)</rp></ruby> <ruby>зависит от духовного наставника<rp> (</rp><rt>daiśika-āyattaḥ eva</rt><rp>)</rp></ruby>.</p>
 
-<p class="pv-en" lang="en"><ruby>Isolated<rp> (</rp><rt>ca kevalā</rt><rp>)</rp></ruby> <ruby>initiation<rp> (</rp><rt>dīkṣā</rt><rp>)</rp></ruby>, <ruby>even<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>without<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>innate<rp> (</rp><rt>nijam</rt><rp>)</rp></ruby> <ruby>inner<rp> (</rp><rt>āntaram</rt><rp>)</rp></ruby> <ruby>knowledge<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby>, <em>(is)</em> <ruby>'giver of Liberation'<rp> (</rp><rt>mocikā eva</rt><rp>)</rp></ruby>. This has already been spoken about <span class="pv-note">— i.e. proved —</span> (iti kathitam) <ruby>before<rp> (</rp><rt>purā</rt><rp>)</rp></ruby> <ruby>by means of reasoning and revealed scripture<rp> (</rp><rt>yuktyā ca āgamataḥ</rt><rp>)</rp></ruby>.</p>
+<p class="pv-tr" markdown="1"><ruby>Одно<rp> (</rp><rt>ca kevalā</rt><rp>)</rp></ruby> <ruby>посвящение<rp> (</rp><rt>dīkṣā</rt><rp>)</rp></ruby>, <ruby>даже<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>без<rp> (</rp><rt>vinā</rt><rp>)</rp></ruby> <ruby>прирождённого<rp> (</rp><rt>nijam</rt><rp>)</rp></ruby> <ruby>внутреннего<rp> (</rp><rt>āntaram</rt><rp>)</rp></ruby> <ruby>знания<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby>, _(есть)_ <ruby>«дающее Освобождение»<rp> (</rp><rt>mocikā eva</rt><rp>)</rp></ruby>. Об этом уже сказано <span class="pv-note">— то есть доказано —</span> (iti kathitam) <ruby>прежде<rp> (</rp><rt>purā</rt><rp>)</rp></ruby> <ruby>доводом и откровением писания<rp> (</rp><rt>yuktyā ca āgamataḥ</rt><rp>)</rp></ruby>.</p>
 
-<p class="pv-en" lang="en"><ruby>But<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> <ruby>with regard to<rp> (</rp><rt>apekṣya</rt><rp>)</rp></ruby> the process <span class="pv-note">— lit. 'action' as well as 'aim' —</span> of initiation producing union <em>(with the Supreme Principle)</em> <span class="pv-w">(dīkṣā-kṛtām eva... yojanikām)</span>, <ruby>the disciple<rp> (</rp><rt>śiśuḥ</rt><rp>)</rp></ruby> <ruby>who<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>clearly<rp> (</rp><rt>sphuṭībhūtyai</rt><rp>)</rp></ruby> <ruby>now<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>takes refuge in<rp> (</rp><rt>āśritaḥ</rt><rp>)</rp></ruby> <em>(both)</em> <ruby>Yoga<rp> (</rp><rt>yogam</rt><rp>)</rp></ruby> <em>(and)</em> <ruby>Knowledge<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby> proper to that <span class="pv-note">— to the attainment of worldly enjoyment and/or Liberation —</span> <span class="pv-w">(tad-ucitam)</span>, <ruby>becomes absorbed<rp> (</rp><rt>saḥ api... yuktaḥ syāt</rt><rp>)</rp></ruby> in That, <em>(in the Supreme Principle)</em> <span class="pv-note">— lit. in Which —</span> (yatra eva) <em>(and)</em> <ruby>attains<rp> (</rp><rt>prapadyate</rt><rp>)</rp></ruby> <ruby>identification with That<rp> (</rp><rt>tad-mayatvam</rt><rp>)</rp></ruby>||292-301||</p>
+<p class="pv-tr" markdown="1"><ruby>А<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> <ruby>что до<rp> (</rp><rt>apekṣya</rt><rp>)</rp></ruby> действия <span class="pv-note">— букв. «действия», а равно «цели» —</span> посвящения, производящего единение _(с Высшим Началом)_ <span class="pv-w">(dīkṣā-kṛtām eva... yojanikām)</span>, — <ruby>ученик<rp> (</rp><rt>śiśuḥ</rt><rp>)</rp></ruby>, <ruby>который<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>ради ясности<rp> (</rp><rt>sphuṭībhūtyai</rt><rp>)</rp></ruby> <ruby>ныне<rp> (</rp><rt>atha</rt><rp>)</rp></ruby> <ruby>прибегает<rp> (</rp><rt>āśritaḥ</rt><rp>)</rp></ruby> _(и к)_ <ruby>Йоге<rp> (</rp><rt>yogam</rt><rp>)</rp></ruby>, _(и к)_ <ruby>Знанию<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby>, подобающим тому <span class="pv-note">— достижению мирского наслаждения и/или Освобождения —</span> <span class="pv-w">(tad-ucitam)</span>, <ruby>становится погружён<rp> (</rp><rt>saḥ api... yuktaḥ syāt</rt><rp>)</rp></ruby> в То, _(в Высшее Начало)_ <span class="pv-note">— букв. в Которое —</span> (yatra eva), _(и)_ <ruby>обретает<rp> (</rp><rt>prapadyate</rt><rp>)</rp></ruby> <ruby>тождество с Тем<rp> (</rp><rt>tad-mayatvam</rt><rp>)</rp></ruby>||292-301||</p>
 
-<p class="pv-en" lang="en">The first two stanzas and a half here are the same as 6b (last half of the stanza 6), 7 and 8 in Mālinīvijayottaratantra. It is usual for Abhinavagupta to copy stanzas of Mālinīvijayottaratantra and then paste them into Tantrāloka in order to explain them in depth. Despite Jñāna and Yoga are spoken about as similarly important, in Trika Shaivism the emphasis is on Jñāna always. By Yoga it is meant practices in which kriyā or action is predominant. Yes, there is also some confusion here because there is a Yoga of Knowledge, but I suppose that the point is clear.</p>
+Первые две с половиной строфы здесь — те же, что 6b (вторая половина строфы 6), 7 и 8 в Mālinīvijayottaratantra. Абхинавагупта обыкновенно берёт строфы Mālinīvijayottaratantra и вставляет их в «Тантралоку», чтобы разобрать их вглубь. И хотя о Jñāna и Yoga говорится как о равно важных, в Трике упор всегда на Jñāna. Под Yoga здесь разумеются упражнения, в которых преобладает kriyā, действие. Да, некоторая путаница тут есть, ведь существует и Йога Знания, — но мысль, полагаю, ясна.
 
-<p class="pv-en" lang="en">So, the final purport is that initiation is not only for being able to do spiritual practices properly (e.g. repetitions of mantra-s) but also for being able to study Śiva's scriptures such as the present. The Tantrāloka's stanzas here are so straightforward and simple that they do not require an explanation.</p>
+Итог, стало быть, таков: посвящение нужно не только затем, чтобы уметь как должно совершать духовные упражнения (повторять мантры и прочее), но и затем, чтобы уметь изучать писания Śiva, вроде нынешнего. Строфы «Тантралоки» здесь так прямы и просты, что объяснения не требуют.
 
 <hr class="pv-rule" />
 
@@ -204,9 +202,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">इदमाह पुनर्वाक्यमम्बा मुनिवरोत्तमाः॥९॥</span><br />
 <span class="pv-iast">Idamāha punarvākyamambā munivarottamāḥ||9||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Oh you, the best of the sages<rp> (</rp><rt>muni-vara-uttamāḥ</rt><rp>)</rp></ruby>, <ruby>after listening to<rp> (</rp><rt>śrutvā ca</rt><rp>)</rp></ruby> <ruby>this<rp> (</rp><rt>etad</rt><rp>)</rp></ruby> <ruby>statement<rp> (</rp><rt>vākyam</rt><rp>)</rp></ruby> <ruby>from the Lord<rp> (</rp><rt>pateḥ</rt><rp>)</rp></ruby>, the Mother <span class="pv-note">— i.e. the Great Goddess who is asking Śiva in this Tantra —</span> <span class="pv-w">(ambā)</span>, (<em>though)</em> having the hair of the body erect <em>(with Joy)</em> <span class="pv-w">(romāñcita-śarīriṇī)</span>, <ruby>said<rp> (</rp><rt>āha</rt><rp>)</rp></ruby> <ruby>notwithstanding<rp> (</rp><rt>punar</rt><rp>)</rp></ruby> <ruby>these words<rp> (</rp><rt>idam... vākyam</rt><rp>)</rp></ruby>||9||</p>
+<p class="pv-tr" markdown="1"><ruby>О вы, лучшие из мудрецов<rp> (</rp><rt>muni-vara-uttamāḥ</rt><rp>)</rp></ruby>, <ruby>выслушав<rp> (</rp><rt>śrutvā ca</rt><rp>)</rp></ruby> <ruby>это<rp> (</rp><rt>etad</rt><rp>)</rp></ruby> <ruby>слово<rp> (</rp><rt>vākyam</rt><rp>)</rp></ruby> <ruby>Господа<rp> (</rp><rt>pateḥ</rt><rp>)</rp></ruby>, Матерь <span class="pv-note">— то есть Великая Богиня, вопрошающая Śiva в этой Тантре —</span> <span class="pv-w">(ambā)</span>, _(хотя)_ и с поднявшимися _(от Радости)_ <ruby>волосками на теле<rp> (</rp><rt>romāñcita-śarīriṇī</rt><rp>)</rp></ruby>, <ruby>молвила<rp> (</rp><rt>āha</rt><rp>)</rp></ruby> <ruby>всё же<rp> (</rp><rt>punar</rt><rp>)</rp></ruby> <ruby>вот эти слова<rp> (</rp><rt>idam... vākyam</rt><rp>)</rp></ruby>||9||</p>
 
-<p class="pv-en" lang="en"><ruby>And now Śakti<rp> (</rp><rt>the Power of Śiva</rt><rp>)</rp></ruby> is ready to ask Him for something.</p>
+И вот Śakti, Сила Śiva, готова о чём-то Его спросить.
 
 <hr class="pv-rule" />
 
@@ -215,18 +213,18 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">कलाः पदानि मन्त्राश्च यथावदवधारिताः॥१०॥</span><br />
 <span class="pv-iast">Kalāḥ padāni mantrāśca yathāvadavadhāritāḥ||10||</span></p>
 
-<p class="pv-en" lang="en"><ruby>In the undivided Body of Mālinī<rp> (</rp><rt>abhinna-mālinī-kāye</rt><rp>)</rp></ruby>, <ruby>tattva-s<rp> (</rp><rt>tattvāni</rt><rp>)</rp></ruby>, <ruby>bhuvana-s<rp> (</rp><rt>bhuvanāni</rt><rp>)</rp></ruby>, <ruby>kalā-s<rp> (</rp><rt>kalāḥ</rt><rp>)</rp></ruby>, <ruby>pada-s<rp> (</rp><rt>padāni</rt><rp>)</rp></ruby> and (ca... ca) <ruby>mantra-s<rp> (</rp><rt>mantrāḥ</rt><rp>)</rp></ruby> are duly <span class="pv-note">— exactly —</span> <ruby>determined<rp> (</rp><rt>yathāvat avadhāritāḥ</rt><rp>)</rp></ruby>||10||</p>
+<p class="pv-tr" markdown="1"><ruby>В неделимом Теле Mālinī<rp> (</rp><rt>abhinna-mālinī-kāye</rt><rp>)</rp></ruby> <ruby>таттвы<rp> (</rp><rt>tattvāni</rt><rp>)</rp></ruby>, <ruby>bhuvana<rp> (</rp><rt>bhuvanāni</rt><rp>)</rp></ruby>, <ruby>kalā<rp> (</rp><rt>kalāḥ</rt><rp>)</rp></ruby>, <ruby>pada<rp> (</rp><rt>padāni</rt><rp>)</rp></ruby> и (ca... ca) <ruby>мантры<rp> (</rp><rt>mantrāḥ</rt><rp>)</rp></ruby> <ruby>установлены как должно — в точности<rp> (</rp><rt>yathāvat avadhāritāḥ</rt><rp>)</rp></ruby>||10||</p>
 
-<p class="pv-en" lang="en">While the well-known Mātṛkā arrangement of the Sanskrit alphabet is based on separating vowels from consonants as shown in my explanation under the stanza 16 of the third chapter, i.e. like this:</p>
+Тогда как известное расположение Mātṛkā санскритской азбуки отделяет гласные от согласных, как показано в моём объяснении под строфой 16 третьей главы, то есть вот так:
 
 <p class="pv-iast"><strong>a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṁ aḥ</strong><br />
 <strong>ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha kṣa</strong></p>
 
-<p class="pv-en" lang="en">the Mālinī arrangement joins vowels and consonants together, i.e. it mixes them like this:</p>
+расположение Mālinī соединяет гласные и согласные вместе, то есть перемешивает их вот так:
 
 <p class="pv-iast"><strong>na ṛ ṝ ḷ ḹ tha ca dha ī ṇa u ū ba ka kha ga gha ṅa i a va bha ya ḍa ḍha ṭha jha ña ja ra ṭa pa cha la ā sa aḥ ha ṣa kṣa ma śa aṁ ta e ai o au da pha</strong></p>
 
-<p class="pv-en" lang="en"><ruby>All the principles<rp> (</rp><rt>tattva-s</rt><rp>)</rp></ruby>, <ruby>worlds<rp> (</rp><rt>bhuvana-s</rt><rp>)</rp></ruby>, <ruby>primeval powers<rp> (</rp><rt>kalā-s</rt><rp>)</rp></ruby>, <ruby>words<rp> (</rp><rt>pada-s</rt><rp>)</rp></ruby> and mantra-s lie in a specific position in Mālinī like flowers in a garland. The way they are positioned in Mālinī will be explained in depth later.</p>
+Все начала (таттвы), <ruby>миры<rp> (</rp><rt>bhuvana</rt><rp>)</rp></ruby>, <ruby>первичные силы<rp> (</rp><rt>kalā</rt><rp>)</rp></ruby>, <ruby>слова<rp> (</rp><rt>pada</rt><rp>)</rp></ruby> и мантры лежат в Mālinī каждое на своём месте, как цветы в венке. Как именно они там расставлены, будет подробно объяснено дальше.
 
 ## Строфы 11–20 {#s2}
 
@@ -235,9 +233,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">तस्या अङ्गे यथैतानि संस्थितानि तथा वद॥११॥</span><br />
 <span class="pv-iast">Tasyā aṅge yathaitāni saṁsthitāni tathā vada||11||</span></p>
 
-<p class="pv-en pv-anchor" id="s2-ru" lang="en"><ruby>Oh God<rp> (</rp><rt>deva</rt><rp>)</rp></ruby>, You have <em>(already)</em> <ruby>told me<rp> (</rp><rt>tvayā uktā... mama</rt><rp>)</rp></ruby> <em>(about)</em> <ruby>Mālinī<rp> (</rp><rt>mālinī</rt><rp>)</rp></ruby>, <ruby>which<rp> (</rp><rt>yā</rt><rp>)</rp></ruby> contains consonants <em>(and vowels)</em> <ruby>mixed<rp> (</rp><rt>bhinna-yoniḥ tu</rt><rp>)</rp></ruby>. <em>(Now,)</em> tell <em>(me)</em> <span class="pv-w">(vada)</span> <ruby>how<rp> (</rp><rt>yathā... tathā</rt><rp>)</rp></ruby> these <em>(realities)</em> <span class="pv-note">— viz. tattva-s, bhuvana-s, etc. —</span> <span class="pv-w">(etāni)</span> <ruby>are situated<rp> (</rp><rt>saṁsthitāni</rt><rp>)</rp></ruby> in Her Body <span class="pv-note">— in the Body of Mālinī —</span> <span class="pv-w">(tasyā aṅge)</span>||11||</p>
+<p class="pv-tr pv-anchor" id="s2-ru" markdown="1"><ruby>О Бог<rp> (</rp><rt>deva</rt><rp>)</rp></ruby>, Ты _(уже)_ <ruby>поведал мне<rp> (</rp><rt>tvayā uktā... mama</rt><rp>)</rp></ruby> _(о)_ <ruby>Mālinī<rp> (</rp><rt>mālinī</rt><rp>)</rp></ruby>, <ruby>в которой<rp> (</rp><rt>yā</rt><rp>)</rp></ruby> согласные _(и гласные)_ <ruby>смешаны<rp> (</rp><rt>bhinna-yoniḥ tu</rt><rp>)</rp></ruby>. _(Теперь)_ скажи _(мне)_ <span class="pv-w">(vada)</span>, <ruby>как<rp> (</rp><rt>yathā... tathā</rt><rp>)</rp></ruby> эти _(сущие)_ <span class="pv-note">— таттвы, bhuvana и прочее —</span> <span class="pv-w">(etāni)</span> <ruby>расположены<rp> (</rp><rt>saṁsthitāni</rt><rp>)</rp></ruby> в Её Теле <span class="pv-note">— в Теле Mālinī —</span> <span class="pv-w">(tasyā aṅge)</span>||11||</p>
 
-<p class="pv-en" lang="en">As I said under the previous stanza, all this will be explained in depth later.</p>
+Как я сказал под прежней строфой, всё это будет подробно объяснено дальше.
 
 <hr class="pv-rule" />
 
@@ -250,9 +248,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">उवाच मधुरां वाचमिमामक्लेशिताशयाम्॥१३॥</span><br />
 <span class="pv-iast">Uvāca madhurāṁ vācamimāmakleśitāśayām||13||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Being thus addressed<rp> (</rp><rt>evam uktaḥ</rt><rp>)</rp></ruby> <ruby>by the Great Goddess<rp> (</rp><rt>mahā-devyā</rt><rp>)</rp></ruby>, <ruby>Bhairava<rp> (</rp><rt>bhairavaḥ</rt><rp>)</rp></ruby> —<ruby>the Giver of numerous enjoyments<rp> (</rp><rt>bhūri-bhoga-daḥ</rt><rp>)</rp></ruby>, who illuminates other regions <span class="pv-note">— or the space —</span> with the continuous flow <em>(of rays)</em> coming from the shining moon <em>(of His Supreme State)</em> <span class="pv-w">(sphurat-himāṁśu-santāna-prakāśita-dik-antaraḥ)</span> <em>(and)</em> whose instruction is desired <ruby>by the series of most eminent gods and demons<rp> (</rp><rt>sura-asura-śiras-mauli-mālā-lalita-śāsanaḥ</rt><rp>)</rp></ruby>— <ruby>said<rp> (</rp><rt>uvāca</rt><rp>)</rp></ruby> <ruby>these sweet words<rp> (</rp><rt>madhurām vācam imām</rt><rp>)</rp></ruby> whose meaning is not difficult to understand <span class="pv-note">— or, more literally, 'whose meaning is not related to kleśa-s or afflictions' —</span> <span class="pv-w">(akleśitāśayām)</span>||12-13||</p>
+<p class="pv-tr" markdown="1"><ruby>Так вопрошённый<rp> (</rp><rt>evam uktaḥ</rt><rp>)</rp></ruby> <ruby>Великой Богиней<rp> (</rp><rt>mahā-devyā</rt><rp>)</rp></ruby>, <ruby>Bhairava<rp> (</rp><rt>bhairavaḥ</rt><rp>)</rp></ruby> — <ruby>Дающий несчётные наслаждения<rp> (</rp><rt>bhūri-bhoga-daḥ</rt><rp>)</rp></ruby>, Тот, кто освещает иные края <span class="pv-note">— или пространство —</span> непрерывным потоком _(лучей)_, идущим от сияющей луны _(Его Высшего Состояния)_ <span class="pv-w">(sphurat-himāṁśu-santāna-prakāśita-dik-antaraḥ)</span>, _(и)_ Тот, чьего наставления <ruby>жаждет череда виднейших богов и демонов<rp> (</rp><rt>sura-asura-śiras-mauli-mālā-lalita-śāsanaḥ</rt><rp>)</rp></ruby>, — <ruby>молвил<rp> (</rp><rt>uvāca</rt><rp>)</rp></ruby> <ruby>вот эти сладкие слова<rp> (</rp><rt>madhurām vācam imām</rt><rp>)</rp></ruby>, чей смысл понять нетрудно <span class="pv-note">— или, ближе к букве, «чей смысл не связан с kleśa, с терзаниями» —</span> <span class="pv-w">(akleśitāśayām)</span>||12-13||</p>
 
-<p class="pv-en" lang="en">Bhairava = Śiva. His sweet words have a meaning which is not related to kleśa-s or afflictions. These kleśa-s are five in number and Patañjali has mentioned and explained them by means of 7 aphorisms (from II.3 to II.9) of his Yogasūtra-s. Their names are: ignorance, egoism, attachment, aversion and fear of death. In other words, the sweet words of Lord Śiva are not ignorant, are not full of selfishness, they do not generate attachment or aversion, and they are immortal, i.e. beyond the clutches of death.</p>
+Bhairava = Śiva. У сладких Его слов смысл, не связанный с kleśa, с терзаниями. Kleśa этих пять, и Патанджали называет и объясняет их семью сутрами (со II.3 по II.9) своих «Йогасутр». Имена их: неведение, самость, привязанность, отвращение и страх смерти. Иначе говоря, сладкие слова Господа Śiva не невежественны, не полны себялюбия, не порождают ни привязанности, ни отвращения и бессмертны, то есть неподвластны хватке смерти.
 
 <hr class="pv-rule" />
 
@@ -261,9 +259,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">तदङ्गे सम्प्रवक्ष्यामि सर्वमेतद्यथा स्थितम्॥१४॥</span><br />
 <span class="pv-iast">Tadaṅge sampravakṣyāmi sarvametadyathā sthitam||14||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Oh Goddess<rp> (</rp><rt>devi</rt><rp>)</rp></ruby>, <ruby>I will explain<rp> (</rp><rt>sampravakṣyāmi</rt><rp>)</rp></ruby> <ruby>how<rp> (</rp><rt>yathā</rt><rp>)</rp></ruby> all this <span class="pv-note">— i.e. tattva-s, bhuvana-s, etc. —</span> (sarvam etad) <ruby>remains<rp> (</rp><rt>sthitam</rt><rp>)</rp></ruby> <ruby>in the body of Mālinī<rp> (</rp><rt>mālinī... tad-aṅge</rt><rp>)</rp></ruby>, which <span class="pv-note">— i.e. Mālinī —</span> <span class="pv-w">(yā)</span> <ruby>has certainly been mentioned<rp> (</rp><rt>kathitā... tu</rt><rp>)</rp></ruby> <ruby>by Me<rp> (</rp><rt>mayā</rt><rp>)</rp></ruby> as containing consonants <em>(and vowels)</em> <ruby>mixed<rp> (</rp><rt>bhinna-yoniḥ</rt><rp>)</rp></ruby>||14||</p>
+<p class="pv-tr" markdown="1"><ruby>О Богиня<rp> (</rp><rt>devi</rt><rp>)</rp></ruby>, <ruby>я изложу<rp> (</rp><rt>sampravakṣyāmi</rt><rp>)</rp></ruby>, <ruby>как<rp> (</rp><rt>yathā</rt><rp>)</rp></ruby> всё это <span class="pv-note">— таттвы, bhuvana и прочее —</span> (sarvam etad) <ruby>пребывает<rp> (</rp><rt>sthitam</rt><rp>)</rp></ruby> <ruby>в теле Mālinī<rp> (</rp><rt>mālinī... tad-aṅge</rt><rp>)</rp></ruby>, которая <span class="pv-note">— то есть Mālinī —</span> <span class="pv-w">(yā)</span> <ruby>названа<rp> (</rp><rt>kathitā... tu</rt><rp>)</rp></ruby> <ruby>Мною<rp> (</rp><rt>mayā</rt><rp>)</rp></ruby> как содержащая согласные _(и гласные)_ <ruby>смешанно<rp> (</rp><rt>bhinna-yoniḥ</rt><rp>)</rp></ruby>||14||</p>
 
-<p class="pv-en" lang="en">Now, Śiva is about to explain the positioning of all this in the body of the goddess Mālinī. Listen up!</p>
+И вот Śiva готов объяснить расположение всего этого в теле богини Mālinī. Слушайте!
 
 <hr class="pv-rule" />
 
@@ -272,9 +270,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">त्रयोविंशत्यबादीनि प्रधानान्तानि लक्षयेत्॥१५॥</span><br />
 <span class="pv-iast">Trayoviṁśatyabādīni pradhānāntāni lakṣayet||15||</span></p>
 
-<p class="pv-en" lang="en">The earth category <span class="pv-note">— viz. Pṛthivī —</span> <span class="pv-w">(dharā-tattvam)</span> <ruby>is mentioned<rp> (</rp><rt>uddiṣṭam</rt><rp>)</rp></ruby> as <em>(residing)</em> <ruby>in 'pha'<rp> (</rp><rt>phe</rt><rp>)</rp></ruby>. <em>(Next,)</em> <ruby>from 'da'<rp> (</rp><rt>da-ādi</rt><rp>)</rp></ruby> <ruby>up to 'jha'<rp> (</rp><rt>jha-ānte</rt><rp>)</rp></ruby>, <ruby>one should mark<rp> (</rp><rt>lakṣayet</rt><rp>)</rp></ruby>, <ruby>in regular order<rp> (</rp><rt>anupūrvaśas</rt><rp>)</rp></ruby>, twenty-three <em>(categories)</em> <span class="pv-w">(trayas-viṁśati)</span>, <ruby>beginning with<rp> (</rp><rt>ādīni</rt><rp>)</rp></ruby> the water element <span class="pv-note">— category 35 —</span> <span class="pv-w">(aba)</span> <em>(and)</em> <ruby>ending in<rp> (</rp><rt>antāni</rt><rp>)</rp></ruby> Pradhāna <span class="pv-note">— also called Prakṛti, the category 13 —</span> <span class="pv-w">(pradhāna)</span>||15||</p>
+<p class="pv-tr" markdown="1">Таттва земли <span class="pv-note">— то есть Pṛthivī —</span> <span class="pv-w">(dharā-tattvam)</span> <ruby>названа<rp> (</rp><rt>uddiṣṭam</rt><rp>)</rp></ruby> _(пребывающей)_ <ruby>в «pha»<rp> (</rp><rt>phe</rt><rp>)</rp></ruby>. _(Дальше)_ <ruby>от «da»<rp> (</rp><rt>da-ādi</rt><rp>)</rp></ruby> <ruby>до «jha»<rp> (</rp><rt>jha-ānte</rt><rp>)</rp></ruby> <ruby>должно отметить<rp> (</rp><rt>lakṣayet</rt><rp>)</rp></ruby>, <ruby>в должном порядке<rp> (</rp><rt>anupūrvaśas</rt><rp>)</rp></ruby>, двадцать три _(таттвы)_ <span class="pv-w">(trayas-viṁśati)</span>, <ruby>начиная с<rp> (</rp><rt>ādīni</rt><rp>)</rp></ruby> стихии воды <span class="pv-note">— тридцать пятой таттвы —</span> <span class="pv-w">(aba)</span> _(и)_ <ruby>кончая<rp> (</rp><rt>antāni</rt><rp>)</rp></ruby> Pradhāna <span class="pv-note">— называемой также Prakṛti, тринадцатой таттвой —</span> <span class="pv-w">(pradhāna)</span>||15||</p>
 
-<p class="pv-en" lang="en">I will explain the relationship of letters and tattva-s when Śiva is finished with His exposition on this important topic.</p>
+Связь букв и таттв я объясню, когда Śiva окончит Своё изложение этого важного предмета.
 
 <hr class="pv-rule" />
 
@@ -283,9 +281,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">इङ्घेषु त्रयं विद्याद्विद्यातः सकलावधि॥१६॥</span><br />
 <span class="pv-iast">Iṅgheṣu trayaṁ vidyādvidyātaḥ sakalāvadhi||16||</span></p>
 
-<p class="pv-en" lang="en">Seven <em>(categories)</em> <span class="pv-w">(sapta)</span> —Puruṣa <span class="pv-note">— category 12 —</span>, <ruby>etc.<rp> (</rp><rt>puruṣa-ādīni</rt><rp>)</rp></ruby>—, as before <span class="pv-note">— i.e. following the same reasoning —</span> <span class="pv-w">(pūrva-vat)</span>, <em>(reside)</em> in <ruby>the group of seven letters starting with 'ṭha'<rp> (</rp><rt>ṭha-ādau ca saptake</rt><rp>)</rp></ruby>. <em>(Afterward,)</em> <ruby>in 'i', 'ṅa' and 'gha'<rp> (</rp><rt>i-ṅ-gheṣu</rt><rp>)</rp></ruby> <em>(dwelling in the categories)</em> from Sadvidyā <span class="pv-note">— category 5 —</span> <span class="pv-w">(vidyāt vidyātaḥ)</span> up to the furthest limit known as Sakala or All <span class="pv-note">— i.e. Sadāśiva, category 3 —</span> <span class="pv-w">(sakala-avadhi)</span>||16||</p>
+<p class="pv-tr" markdown="1">Семь _(таттв)_ <span class="pv-w">(sapta)</span> — Puruṣa <span class="pv-note">— двенадцатая —</span> <ruby>и прочие<rp> (</rp><rt>puruṣa-ādīni</rt><rp>)</rp></ruby> — <ruby>так же, как прежде<rp> (</rp><rt>pūrva-vat</rt><rp>)</rp></ruby>, _(пребывают)_ <ruby>в семерице букв, начинающейся с «ṭha»<rp> (</rp><rt>ṭha-ādau ca saptake</rt><rp>)</rp></ruby>. _(Затем)_ в «i», «ṅa» <ruby>и «gha»<rp> (</rp><rt>i-ṅ-gheṣu</rt><rp>)</rp></ruby> _(пребывают таттвы)_ от Sadvidyā <span class="pv-note">— пятой —</span> <span class="pv-w">(vidyāt vidyātaḥ)</span> до крайнего предела, зовущегося Sakala, Всё <span class="pv-note">— то есть Sadāśiva, третьей таттвы —</span> <span class="pv-w">(sakala-avadhi)</span>||16||</p>
 
-<p class="pv-en" lang="en">I will explain the relationship of letters and tattva-s when Śiva is finished with His exposition on this important topic.</p>
+Связь букв и таттв я объясню, когда Śiva окончит Своё изложение этого важного предмета.
 
 <hr class="pv-rule" />
 
@@ -298,22 +296,23 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">विद्यात्रयविभागेन यथेदानीं तथा शृणु॥१८॥</span><br />
 <span class="pv-iast">Vidyātrayavibhāgena yathedānīṁ tathā śṛṇu||18||</span></p>
 
-<p class="pv-en" lang="en">The group of sixteen <em>(letters)</em> <span class="pv-w">(ṣoḍaśa)</span> starting with the letter 'ga' and ending in <em>(the letter)</em> <ruby>'na'<rp> (</rp><rt>ga-kāra-ādi-na-antān</rt><rp>)</rp></ruby> <ruby>should be considered<rp> (</rp><rt>lakṣayet</rt><rp>)</rp></ruby> <em>(to be residing)</em> in the Śiva category <span class="pv-note">— in the first one —</span> <span class="pv-w">(śiva-tattve)</span>. <ruby>Oh Beautiful One<rp> (</rp><rt>sundari</rt><rp>)</rp></ruby>, <ruby>kalā-s<rp> (</rp><rt>kalāḥ</rt><rp>)</rp></ruby>, <ruby>mantra-s<rp> (</rp><rt>mantrāḥ</rt><rp>)</rp></ruby> and (ca... ca) <ruby>bhuvana-s<rp> (</rp><rt>bhuvanāni</rt><rp>)</rp></ruby> <ruby>must be understood<rp> (</rp><rt>veditavyāni</rt><rp>)</rp></ruby> <ruby>as before<rp> (</rp><rt>pūrva-vat</rt><rp>)</rp></ruby> according to the division <ruby>of the letters whose number amounts to that<rp> (</rp><rt>tad-saṅkhya-arṇa-vibhedataḥ</rt><rp>)</rp></ruby>. <ruby>So<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby>, <ruby>listen<rp> (</rp><rt>śṛṇu</rt><rp>)</rp></ruby> <ruby>now<rp> (</rp><rt>idānīm</rt><rp>)</rp></ruby> <em>(to my dissertation about this)</em> <ruby>according to the division of the three Vidyā-s<rp> (</rp><rt>vidyā-traya-vibhāgena yathā</rt><rp>)</rp></ruby>||17-18||</p>
+<p class="pv-tr" markdown="1">Шестнадцать _(букв)_ <span class="pv-w">(ṣoḍaśa)</span>, начиная с буквы «ga» и кончая _(буквой)_ <ruby>«na»<rp> (</rp><rt>ga-kāra-ādi-na-antān</rt><rp>)</rp></ruby>, <ruby>должно почитать<rp> (</rp><rt>lakṣayet</rt><rp>)</rp></ruby> _(пребывающими)_ в таттве Śiva <span class="pv-note">— в первой —</span> <span class="pv-w">(śiva-tattve)</span>. <ruby>О Прекрасная<rp> (</rp><rt>sundari</rt><rp>)</rp></ruby>, <ruby>kalā<rp> (</rp><rt>kalāḥ</rt><rp>)</rp></ruby>, <ruby>мантры<rp> (</rp><rt>mantrāḥ</rt><rp>)</rp></ruby> и (ca... ca) <ruby>bhuvana<rp> (</rp><rt>bhuvanāni</rt><rp>)</rp></ruby> <ruby>должно понимать<rp> (</rp><rt>veditavyāni</rt><rp>)</rp></ruby> <ruby>как прежде<rp> (</rp><rt>pūrva-vat</rt><rp>)</rp></ruby>, по <ruby>делению букв, число которых доходит до того же<rp> (</rp><rt>tad-saṅkhya-arṇa-vibhedataḥ</rt><rp>)</rp></ruby>. <ruby>Итак<rp> (</rp><rt>tathā</rt><rp>)</rp></ruby>, <ruby>слушай<rp> (</rp><rt>śṛṇu</rt><rp>)</rp></ruby> <ruby>ныне<rp> (</rp><rt>idānīm</rt><rp>)</rp></ruby> _(моё рассуждение об этом)_ <ruby>по делению трёх Vidyā<rp> (</rp><rt>vidyā-traya-vibhāgena yathā</rt><rp>)</rp></ruby>||17-18||</p>
 
-<p class="pv-en" lang="en">And now that Śiva has finished explaining the relationship of letters and tattva-s, I proceed to explain this topic by using two charts. In the chart 1 you have the positioning of the tattva-s in Mātṛkā, while in the chart 2 you have the positioning of the tattva-s in Mālinī:</p>
+А теперь, когда Śiva окончил объяснять связь букв и таттв, я разберу этот предмет двумя таблицами. В Таблице 1 — расположение таттв в Mātṛkā, в Таблице 2 — расположение таттв в Mālinī:
 
-<table><caption><b>Chart 1: The positioning of tattva-s or categories in Mātṛkā</b></caption>
+<table>
+<caption><b>Таблица 1: расположение таттв в Mātṛkā</b></caption>
 	<tbody>
 		<tr class="center tableborder">
-			<td class="cellborder4solid bggreenlight stylebigfont"><b>Number</b></td>
-			<td class="cellborder4solid bghomepagback stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in IAST)</b></td>
-			<td class="cellborder4solid bgpinklight stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in devanāgarī)</b></td>
+			<td class="cellborder4solid bggreenlight stylebigfont"><b>Номер</b></td>
+			<td class="cellborder4solid bghomepagback stylebigfont"><b>Таттва<br />
+			(разряд вселенского проявления — в IAST)</b></td>
+			<td class="cellborder4solid bgpinklight stylebigfont"><b>Таттва<br />
+			(разряд вселенского проявления — на деванагари)</b></td>
 			<td class="cellborder4solid bgyellowcommon stylebigfont"><b>Varṇa<br />
-			(letter - in IAST)</b></td>
+			(буква — в IAST)</b></td>
 			<td class="cellborder4solid bghome4back_var stylebigfont"><b>Varṇa<br />
-			(letter - in devanāgarī)</b></td>
+			(буква — на деванагари)</b></td>
 		</tr>
 		<tr class="center">
 			<td class="cellborder4solid" colspan="5">
@@ -597,7 +596,7 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bggreenlight stylebigfont"><b>27</b></td>
 			<td class="cellborder4solid bghomepagback stylebigfont"><span class="styledeepred">Śabda</span></td>
 			<td class="cellborder4solid bgpinklight stylebigfont"><span class="unicodesfontblack">शब्द</span></td>
-			<td class="cellborder4solid bgyellowcommon stylebigfont">&ntilde;a</td>
+			<td class="cellborder4solid bgyellowcommon stylebigfont">ña</td>
 			<td class="cellborder4solid bghome4back_var stylebigfont"><span class="unicodesfontblack">ञ</span></td>
 		</tr>
 		<tr class="center">
@@ -667,24 +666,26 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bgyellowcommon stylebigfont">ka</td>
 			<td class="cellborder4solid bghome4back_var stylebigfont"><span class="unicodesfontblack">क</span></td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">You can read more information about this from the Kṣemarāja's commentary on II.7 in his Śivasūtravimarśinī. And there is a full explanation on his commentary in First Steps (4), First Steps (5) and First Steps - 1.</p>
+Больше об этом можно прочесть в толковании Кшемараджи на II.7 в его Śivasūtravimarśinī. А полное объяснение этого толкования есть в «Первых шагах (4)», «Первых шагах (5)» и «Первых шагах — 1».
 
-<p class="pv-en" lang="en">And now, a similar table but showing the positioning of tattva-s in Mālinī:</p>
+А теперь такая же таблица, но с расположением таттв в Mālinī:
 
-<table><caption><b>Chart 2: The positioning of tattva-s or categories in Mālinī</b></caption>
+<table>
+<caption><b>Таблица 2: расположение таттв в Mālinī</b></caption>
 	<tbody>
 		<tr class="center tableborder">
-			<td class="cellborder4solid bggreenlight stylebigfont"><b>Number</b></td>
-			<td class="cellborder4solid bgbrownish stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in IAST)</b></td>
-			<td class="cellborder4solid bgpinklight stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in devanāgarī)</b></td>
+			<td class="cellborder4solid bggreenlight stylebigfont"><b>Номер</b></td>
+			<td class="cellborder4solid bgbrownish stylebigfont"><b>Таттва<br />
+			(разряд вселенского проявления — в IAST)</b></td>
+			<td class="cellborder4solid bgpinklight stylebigfont"><b>Таттва<br />
+			(разряд вселенского проявления — на деванагари)</b></td>
 			<td class="cellborder4solid bgyellowverylight stylebigfont"><b>Varṇa<br />
-			(letter - in IAST)</b></td>
+			(буква — в IAST)</b></td>
 			<td class="cellborder4solid bgwhite stylebigfont"><b>Varṇa<br />
-			(letter - in devanāgarī)</b></td>
+			(буква — на деванагари)</b></td>
 		</tr>
 		<tr class="center">
 			<td class="cellborder4solid" colspan="5">
@@ -807,7 +808,7 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bggreenlight stylebigfont"><b>14</b></td>
 			<td class="cellborder4solid bgbrownish stylebigfont"><span class="styledeepred">Buddhi</span></td>
 			<td class="cellborder4solid bgpinklight stylebigfont"><span class="unicodesfontcrimson">बुद्धि</span></td>
-			<td class="cellborder4solid bgyellowverylight stylebigfont">&ntilde;a</td>
+			<td class="cellborder4solid bgyellowverylight stylebigfont">ña</td>
 			<td class="cellborder4solid bgwhite stylebigfont"><span class="unicodesfontcrimson">ञ</span></td>
 		</tr>
 		<tr class="center">
@@ -980,17 +981,18 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bgyellowverylight stylebigfont">pha</td>
 			<td class="cellborder4solid bgwhite stylebigfont"><span class="unicodesfontcrimson">फ</span></td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">And now Śiva is ready to describe the relationship <ruby>between tattva-s/kalā-s and the pada-s<rp> (</rp><rt>words</rt><rp>)</rp></ruby> of the mantra-s of the three Vidyā-s (which were described in chapter 3). Just in case your memory is not strong enough, I will write these three mantra-s for you:</p>
+И вот Śiva готов описать связь между таттвами и kalā, с одной стороны, и pada, словами мантр трёх Vidyā (описанных в главе 3), с другой. На случай, если память ваша не крепка, напишу для вас эти три мантры:
 
-<p class="pv-en" lang="en">ॐ अघोरे ह्रीः परमघोरे हुं घोररूपे हः घोरमुखि भीम भीषणे वम पिब हे रुरु रर फट् हुं हः फट् - Oṁ aghore hrīḥ paramaghore huṁ ghorarūpe haḥ ghoramukhi bhīma bhīṣaṇe vama piba he ruru rara phaṭ huṁ haḥ phaṭ [Mantra of the Parāparāvidyā (Supreme - nonSupreme Level)]</p>
+ॐ अघोरे ह्रीः परमघोरे हुं घोररूपे हः घोरमुखि भीम भीषणे वम पिब हे रुरु रर फट् हुं हः फट् — Oṁ aghore hrīḥ paramaghore huṁ ghorarūpe haḥ ghoramukhi bhīma bhīṣaṇe vama piba he ruru rara phaṭ huṁ haḥ phaṭ [мантра Parāparāvidyā (высший — не-высший уровень)]
 
-<p class="pv-en" lang="en">ह्रीः हूं फट् - Hrīḥ hūṁ phaṭ [Mantra of the Aparāvidyā (nonSupreme Level)]</p>
+ह्रीः हूं फट् — Hrīḥ hūṁ phaṭ [мантра Aparāvidyā (не-высший уровень)]
 
-<p class="pv-en" lang="en">सौः - Sauḥ [Mantra of the Parāvidyā (Supreme Level)]</p>
+सौः — Sauḥ [мантра Parāvidyā (высший уровень)]
 
-<p class="pv-en" lang="en">OK, it is enough with this.</p>
+Ну, об этом довольно.
 
 <hr class="pv-rule" />
 
@@ -999,9 +1001,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">सकले तु परिज्ञेयं पञ्चैकार्णद्वयं द्वये॥१९॥</span><br />
 <span class="pv-iast">Sakale tu parijñeyaṁ pañcaikārṇadvayaṁ dvaye||19||</span></p>
 
-<p class="pv-en" lang="en"><em>(At first, Śiva will use the Mantra of the Parāparāvidyā —'Oṁ aghore hrīḥ paramaghore huṁ ghorarūpe haḥ ghoramukhi bhīma bhīṣaṇe vama piba he ruru rara phaṭ huṁ haḥ phaṭ'— which was revealed by Himself in the last chapter:)</em> <ruby>The word<rp> (</rp><rt>padam</rt><rp>)</rp></ruby> composed of one letter <span class="pv-note">— i.e. 'Oṁ' —</span> <span class="pv-w">(eka-arṇam)</span> <em>(resides)</em> in the One who is without parts <span class="pv-note">— in the Śiva category, the first one —</span> <span class="pv-w">(niṣkale)</span>, <em>(while)</em> the two <em>(words)</em> <span class="pv-w">(dvayam)</span> <ruby>composed of three letters<rp> (</rp><rt>tri-arṇa</rt><rp>)</rp></ruby> <em>(and)</em> <ruby>one letter<rp> (</rp><rt>eka-arṇa</rt><rp>)</rp></ruby> <span class="pv-note">— i.e. 'aghore' and 'hrīḥ', respectively —</span> <ruby>are to be understood<rp> (</rp><rt>parijñeyam</rt><rp>)</rp></ruby> <em>(as dwelling)</em> in Sakala <span class="pv-note">— Sadāśiva, category 3 —</span> <span class="pv-w">(sakale)</span> <ruby>indeed<rp> (</rp><rt>tu</rt><rp>)</rp></ruby>. <em>(And)</em> the two <em>(words)</em> composed of five letters and one letter <span class="pv-note">— viz. 'paramaghore' and 'huṁ' —</span> <span class="pv-w">(pañca-eka-arṇa-dvayam)</span> <em>(are residing)</em> in the <em>(other)</em> two <em>(divine categories)</em> <span class="pv-note">— Īśvara and Sadvidyā, categories 4 and 5 —</span> <span class="pv-w">(dvaye)</span>||19||</p>
+<p class="pv-tr" markdown="1">_(Сперва Śiva возьмёт мантру Parāparāvidyā — «Oṁ aghore hrīḥ paramaghore huṁ ghorarūpe haḥ ghoramukhi bhīma bhīṣaṇe vama piba he ruru rara phaṭ huṁ haḥ phaṭ», — которую Сам открыл в прошлой главе:)_ <ruby>Слово<rp> (</rp><rt>padam</rt><rp>)</rp></ruby>, составленное из одной буквы --то есть «Oṁ»-- <span class="pv-w">(eka-arṇam)</span>, _(пребывает)_ <ruby>в Том, кто без частей --в таттве Śiva, первой--<rp> (</rp><rt>niṣkale</rt><rp>)</rp></ruby>, _(а)_ два _(слова)_ <span class="pv-w">(dvayam)</span>, <ruby>составленные из трёх букв<rp> (</rp><rt>tri-arṇa</rt><rp>)</rp></ruby> _(и)_ <ruby>одной буквы<rp> (</rp><rt>eka-arṇa</rt><rp>)</rp></ruby> --то есть «aghore» и «hrīḥ», — <ruby>должно понимать<rp> (</rp><rt>parijñeyam</rt><rp>)</rp></ruby> _(пребывающими)_ <ruby>в Sakala --Sadāśiva, третьей таттве--<rp> (</rp><rt>sakale</rt><rp>)</rp></ruby> <span class="pv-w">(tu)</span>. _(А)_ два _(слова)_, составленные из пяти букв и одной буквы --то есть «paramaghore» и «huṁ»-- <span class="pv-w">(pañca-eka-arṇa-dvayam)</span>, _(пребывают)_ в _(двух других)_ двух _(божественных таттвах)_ --<ruby>Īśvara и Sadvidyā, четвёртой и пятой--<rp> (</rp><rt>dvaye</rt><rp>)</rp></ruby>||19||</p>
 
-<p class="pv-en" lang="en">I will explain all this under the aphorism 23.</p>
+Всё это я объясню под двадцать третьей сутрой.
 
 <hr class="pv-rule" />
 
@@ -1010,9 +1012,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">चतुरक्षरमेकं च कालादिद्वितये मतम्॥२०॥</span><br />
 <span class="pv-iast">Caturakṣaramekaṁ ca kālādidvitaye matam||20||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Also<rp> (</rp><rt>ca</rt><rp>)</rp></ruby>, the two <em>(words)</em> consisting of four letters and one letter <span class="pv-note">— i.e. 'ghorarūpe' and 'haḥ' —</span> <span class="pv-w">(catur-eka-akṣare dve)</span> <ruby>are to be considered<rp> (</rp><rt>mate</rt><rp>)</rp></ruby> <em>(to be dwelling)</em> in the triad which starts with Māyā <span class="pv-note">— viz. Māyā, Kalā and Niyati, categories 6, 7 and 11, respectively —</span> <span class="pv-w">(māyā-ādi-tritaye)</span>. The single <em>(word)</em> composed of four letters <span class="pv-note">— i.e. 'ghoramukhi ' —</span> <span class="pv-w">(catur-akṣaram ekam ca)</span> <ruby>is to be considered<rp> (</rp><rt>matam</rt><rp>)</rp></ruby> <em>(to be residing)</em> in the couple <em>(of categories)</em> beginning with Kāla <span class="pv-note">— viz. Kāla and Vidyā, categories 10 and 8 —</span> <span class="pv-w">(kāla-ādi-dvitaye)</span>||20||</p>
+<p class="pv-tr" markdown="1"><ruby>И<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> два _(слова)_, состоящие из четырёх букв и одной буквы <span class="pv-note">— то есть «ghorarūpe» и «haḥ» —</span> <span class="pv-w">(catur-eka-akṣare dve)</span>, <ruby>должно почитать<rp> (</rp><rt>mate</rt><rp>)</rp></ruby> _(пребывающими)_ в троице, начинающейся с Māyā <span class="pv-note">— то есть Māyā, Kalā и Niyati, таттвы 6, 7 и 11 —</span> <span class="pv-w">(māyā-ādi-tritaye)</span>. Одно _(слово)_, составленное из четырёх букв <span class="pv-note">— то есть «ghoramukhi» —</span> <span class="pv-w">(catur-akṣaram ekam ca)</span>, <ruby>должно почитать<rp> (</rp><rt>matam</rt><rp>)</rp></ruby> _(пребывающим)_ в двоице _(таттв)_, начинающейся с Kāla <span class="pv-note">— то есть Kāla и Vidyā, таттвы 10 и 8 —</span> <span class="pv-w">(kāla-ādi-dvitaye)</span>||20||</p>
 
-<p class="pv-en" lang="en">I will explain all this under the aphorism 23.</p>
+Всё это я объясню под двадцать третьей сутрой.
 
 ## Строфы 21–30 {#s3}
 
@@ -1021,9 +1023,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">बुद्धौ देवाष्टकव्याप्त्या पदं द्व्यक्षरमिष्यते॥२१॥</span><br />
 <span class="pv-iast">Buddhau devāṣṭakavyāptyā padaṁ dvyakṣaramiṣyate||21||</span></p>
 
-<p class="pv-en pv-anchor" id="s3-ru" lang="en"><em>(The word)</em> composed of two letters <span class="pv-note">— i.e. 'bhīma' —</span> <span class="pv-w">(dvi-arṇam)</span> <ruby>is mentioned<rp> (</rp><rt>uddiṣṭam</rt><rp>)</rp></ruby> <em>(as residing)</em> in Rañjaka <span class="pv-note">— viz. Rāga, the category 9 —</span> <span class="pv-w">(rañjake)</span>. <em>(The word)</em> consisting of three letters <span class="pv-note">— i.e. 'bhīṣaṇe' —</span> <span class="pv-w">(tri-arṇam)</span> <ruby>is regarded<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> as <em>(dwelling)</em> in Pradhāna <span class="pv-note">— viz. in Prakṛti, category 13 —</span> <span class="pv-w">(pradhāne)</span>. <ruby>By penetrating the group of eight gods<rp> (</rp><rt>deva-aṣṭaka-vyāptyā</rt><rp>)</rp></ruby>, <ruby>the word<rp> (</rp><rt>padam</rt><rp>)</rp></ruby> consisting of two letters <span class="pv-note">— i.e. 'vama' —</span> <span class="pv-w">(dvi-akṣaram)</span> <ruby>is regarded<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> as <em>(residing)</em> in Buddhi <span class="pv-note">— viz. intellect, category 14 —</span> <span class="pv-w">(buddhau)</span>||21||</p>
+<p class="pv-tr pv-anchor" id="s3-ru" markdown="1">_(Слово)_, составленное из двух букв <span class="pv-note">— то есть «bhīma» —</span> <span class="pv-w">(dvi-arṇam)</span>, <ruby>названо<rp> (</rp><rt>uddiṣṭam</rt><rp>)</rp></ruby> _(пребывающим)_ в Rañjaka <span class="pv-note">— то есть Rāga, девятой таттве —</span> <span class="pv-w">(rañjake)</span>. _(Слово)_, состоящее из трёх букв <span class="pv-note">— то есть «bhīṣaṇe» —</span> <span class="pv-w">(tri-arṇam)</span>, <ruby>почитается<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> _(пребывающим)_ в Pradhāna <span class="pv-note">— то есть в Prakṛti, тринадцатой таттве —</span> <span class="pv-w">(pradhāne)</span>. <ruby>Проникая в собрание восьми богов<rp> (</rp><rt>deva-aṣṭaka-vyāptyā</rt><rp>)</rp></ruby>, <ruby>слово<rp> (</rp><rt>padam</rt><rp>)</rp></ruby>, состоящее из двух букв <span class="pv-note">— то есть «vama» —</span> <span class="pv-w">(dvi-akṣaram)</span>, <ruby>почитается<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> _(пребывающим)_ в Buddhi <span class="pv-note">— то есть в разуме, четырнадцатой таттве —</span> <span class="pv-w">(buddhau)</span>||21||</p>
 
-<p class="pv-en" lang="en">I will explain all this under the aphorism 23.</p>
+Всё это я объясню под двадцать третьей сутрой.
 
 <hr class="pv-rule" />
 
@@ -1032,9 +1034,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">विद्यापदानि चत्वारि सार्धवर्णं तु पञ्चमम्॥२२॥</span><br />
 <span class="pv-iast">Vidyāpadāni catvāri sārdhavarṇaṁ tu pañcamam||22||</span></p>
 
-<p class="pv-en" lang="en"><ruby>After that<rp> (</rp><rt>tatas</rt><rp>)</rp></ruby>, <ruby>by penetrating the eight groups five times<rp> (</rp><rt>pañca-aṣṭaka-vyāptyā</rt><rp>)</rp></ruby>, <em>(the next)</em> four words of the <em>(Parāparā)</em><ruby>vidyā<rp> (</rp><rt>vidyā-padāni catvāri</rt><rp>)</rp></ruby> —composed of two, one, two and two letters <span class="pv-note">— i.e. ''piba, 'he', 'ruru' and 'rara' —</span> <span class="pv-w">(dvi-eka-dvi-dvi-akṣarāṇi)</span> <ruby>indeed<rp> (</rp><rt>tu</rt><rp>)</rp></ruby>— <em>(plus)</em> the fifth <em>(word)</em> <span class="pv-w">(pañcamam)</span> consisting of one letter and a half <span class="pv-note">— i.e. 'phaṭ ' —</span> <span class="pv-w">(sa-ardha-varṇam tu)</span>, _(should be understood as residing in all the tattva-s from Ahaṅkāra <span class="pv-note">— category 15 —</span> down to Āpas <span class="pv-note">— category 35 —</span>)_||22||</p>
+<p class="pv-tr" markdown="1"><ruby>Затем<rp> (</rp><rt>tatas</rt><rp>)</rp></ruby>, <ruby>проникая в восемь собраний пятикратно<rp> (</rp><rt>pañca-aṣṭaka-vyāptyā</rt><rp>)</rp></ruby>, _(следующие)_ четыре слова _(Parāparā)_<ruby>vidyā<rp> (</rp><rt>vidyā-padāni catvāri</rt><rp>)</rp></ruby> — состоящие из двух, одной, двух и двух букв --то есть «piba», «he», «ruru» и «rara»-- <span class="pv-w">(dvi-eka-dvi-dvi-akṣarāṇi)</span> <span class="pv-w">(tu)</span> — _(да)_ пятое _(слово)_ <span class="pv-w">(pañcamam)</span>, состоящее из полутора букв --то есть «phaṭ»-- <span class="pv-w">(sa-ardha-varṇam tu)</span>, _(должно понимать пребывающими во всех таттвах от Ahaṅkāra --пятнадцатой-- вниз до Āpas --тридцать пятой)_||22||</p>
 
-<p class="pv-en" lang="en">I will explain all this under the aphorism 23.</p>
+Всё это я объясню под двадцать третьей сутрой.
 
 <hr class="pv-rule" />
 
@@ -1043,22 +1045,23 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">पराङ्गे सर्वमन्यच्च वर्णमन्त्रकलादिकम्॥२३॥</span><br />
 <span class="pv-iast">Parāṅge sarvamanyacca varṇamantrakalādikam||23||</span></p>
 
-<p class="pv-en" lang="en">The three <em>(words)</em> <span class="pv-w">(trīṇi)</span> composed of one, one and one and a half letters <span class="pv-note">— i.e. 'huṁ', 'haḥ' and 'phaṭ' —</span> <span class="pv-w">(eka-eka-sa-ardha-varṇāni)</span> truly <em>(reside)</em> <ruby>in the Pṛthivī category<rp> (</rp><rt>tattve tu pārthive</rt><rp>)</rp></ruby>. All the other (sarvam anyat ca), viz. <em>(all the remaining)</em> <ruby>varṇa-s, mantra-s, kalā-s, etc.<rp> (</rp><rt>varṇa-mantra-kalā-ādikam</rt><rp>)</rp></ruby> <em>(dwell)</em> <ruby>in the body of Parā<rp> (</rp><rt>parā-aṅge</rt><rp>)</rp></ruby>||23||</p>
+<p class="pv-tr" markdown="1">Три _(слова)_ <span class="pv-w">(trīṇi)</span>, составленные из одной, одной и полутора букв <span class="pv-note">— то есть «huṁ», «haḥ» и «phaṭ» —</span> <span class="pv-w">(eka-eka-sa-ardha-varṇāni)</span>, поистине _(пребывают)_ <ruby>в таттве Pṛthivī<rp> (</rp><rt>tattve tu pārthive</rt><rp>)</rp></ruby>. Всё прочее (sarvam anyat ca), то есть _(все остальные)_ <ruby>varṇa, мантры, kalā и прочее<rp> (</rp><rt>varṇa-mantra-kalā-ādikam</rt><rp>)</rp></ruby>, _(пребывает)_ <ruby>в теле Parā<rp> (</rp><rt>parā-aṅge</rt><rp>)</rp></ruby>||23||</p>
 
-<p class="pv-en" lang="en">And now a didactic chart showing the teachings of the aphorisms 19 to 23 in action:</p>
+А теперь наглядная таблица, показывающая учение сутр 19–23 в действии:
 
-<table><caption><b>Chart 3: Relationship between the pada-s or words of the Parāparāvidyā&#39;s mantra and the tattva-s or categories of universal manifestation</b></caption>
+<table>
+<caption><b>Таблица 3: связь между pada, словами мантры Parāparāvidyā, и таттвами, разрядами вселенского проявления</b></caption>
 	<tbody>
 		<tr class="center tableborder">
-			<td class="cellborder4solid bggreylight stylebigfont"><b>Number</b></td>
-			<td class="cellborder4solid bghomepagback stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in IAST)</b></td>
-			<td class="cellborder4solid bgorangeverylight stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in devanāgarī)</b></td>
+			<td class="cellborder4solid bggreylight stylebigfont"><b>Номер</b></td>
+			<td class="cellborder4solid bghomepagback stylebigfont"><b>Таттва<br />
+			(разряд вселенского проявления — в IAST)</b></td>
+			<td class="cellborder4solid bgorangeverylight stylebigfont"><b>Таттва<br />
+			(разряд вселенского проявления — на деванагари)</b></td>
 			<td class="cellborder4solid bgyellowcommon stylebigfont"><b>Pada<br />
-			(word - in IAST)</b></td>
+			(слово — в IAST)</b></td>
 			<td class="cellborder4solid bgskybluelight stylebigfont"><b>Pada<br />
-			(word - in devanāgarī)</b></td>
+			(слово — на деванагари)</b></td>
 		</tr>
 		<tr class="center">
 			<td class="cellborder4solid" colspan="5">
@@ -1298,13 +1301,14 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bgyellowcommon stylebigfont">huṁ haḥ phaṭ</td>
 			<td class="cellborder4solid bgskybluelight stylebigfont"><span class="unicodesfontblack">हुं हः फट्</span></td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">There are many things that look confusing here, but Abhinavagupta gives... more or less... a clarification about this topic starting in Tantrāloka 16.206. The Great Guru assigns all the realities of the universe on the body of his disciple in order to purify him from dualistic viewpoints. He does so by assigning the sounds connected with those realities on the body of the disciple. For example, there are eight realities called: water, fire, air, space/ether (four gross elements), Tanmātra-s, Indriya-s <span class="pv-w">(Jñānendriya-s and Karmendriya-s —Powers of perception and action, respectively—)</span>, <ruby>Manas<rp> (</rp><rt>mind</rt><rp>)</rp></ruby> <ruby>and Ahaṅkāra<rp> (</rp><rt>ego</rt><rp>)</rp></ruby>. These are in all 8 realities, while the sounds associated with all the tattva-s from water (tattva 35) up to ego (tattva 15) <ruby>are 5 in number<rp> (</rp><rt>viz. piba he ruru rara phaṭ</rt><rp>)</rp></ruby>. But because five sounds must be repeated five times on each of these 8 groups, so 8 x 5 = 40. That is why Śiva says in the aphorism 22 of this chapter: 'by penetrating the eight groups five times'. OK, all this is very complex then. In Tantrāloka, Abhinavagupta sheds more light, and you also have my explanation of his words.</p>
+Многое здесь выглядит сбивчиво, но Абхинавагупта даёт — более или менее — прояснение этого предмета начиная с «Тантралоки» 16.206. Великий Гуру прилагает все сущие вселенной к телу своего ученика, чтобы очистить его от двойственных взглядов. Делает он это, прилагая к телу ученика звуки, связанные с этими сущими. Например, есть восемь сущих: вода, огонь, воздух, пространство-эфир (четыре грубые стихии), Tanmātra, Indriya (Jñānendriya и Karmendriya — Силы восприятия и действия), Manas (ум) и Ahaṅkāra (самость). Итого 8 сущих, а звуков, связанных со всеми таттвами от воды (тридцать пятой) вверх до самости (пятнадцатой), — <ruby>пять<rp> (</rp><rt>piba he ruru rara phaṭ</rt><rp>)</rp></ruby>. Но так как пять звуков надо повторить пять раз над каждым из этих 8 собраний, выходит 8 × 5 = 40. Оттого Śiva и говорит в сутре 22 этой главы: «проникая в восемь собраний пятикратно». Да, всё это очень сложно. В «Тантралоке» Абхинавагупта проливает больше света, а к его словам есть и моё объяснение.
 
-<p class="pv-en" lang="en">Perhaps in my translation of the respective specification of the relation between the tattva-s 6 to 12, something could look weird with the numbering there. You could have been expecting Śiva to follow the sequence of numbers 6, 7, 8, 9, 10, 11 and 12 in the process of assigning the respective words of the Parāparāvidyā's mantra, but He mixes the things a little bit. Besides, <ruby>He does not assign any word to the tattva 12<rp> (</rp><rt>Puruṣa</rt><rp>)</rp></ruby>. Also, I assigned 'aghore' to Śakti (category 2) <ruby>while Śiva seems to assign 'aghore' to Sadāśiva<rp> (</rp><rt>along with the word 'hrīḥ'</rt><rp>)</rp></ruby>. So, why did I assign the words like this? Maybe because I developed a rich imagination? No, because of Abhinavagupta:</p>
+Возможно, в моём переводе указаний о связи таттв с 6-й по 12-ю нумерация покажется вам странной. Вы ждали бы, что Śiva будет придавать слова мантры Parāparāvidyā по порядку чисел: 6, 7, 8, 9, 10, 11, 12, — а Он их слегка перемешивает. <ruby>К тому же таттве 12<rp> (</rp><rt>Puruṣa</rt><rp>)</rp></ruby> Он не придаёт никакого слова. Ещё я придал «aghore» к Śakti (второй таттве), тогда как Śiva, кажется, придаёт «aghore» к Sadāśiva (вместе со словом «hrīḥ»). Почему же я распределил слова именно так? Не оттого ли, что у меня разыгралось воображение? Нет — оттого, что так у Абхинавагупты:
 
-<p class="pv-en" lang="en">Abhinavagupta assigns in his Tantrāloka the words of the Parāparāvidyā's mantra in a specific way. As always with Abhinavagupta, what should be simpler becomes more complicated. Why am I saying this here? Because apart from assigning the words in an order which breaks the logical sequence of numbers, he analyzes the relationship between the tattva-s and the mantra of Parāparāvidyā... but in the opposite direction, i.e. from the last word of such mantra up to the first one. This is because the Parāparāvidyā is the mirror where Consciousness reflects Itself projecting a reflection, if you will excuse my repetition, that appears as the universe. Parāparāvidyā resides in Sadāśiva, in the category 3. But, please, do not go mad about this now because it is another complex subject-matter I explain elsewhere. All these changes by Abhinavagupta make the things more complicated, obviously. Anyway, I suppose that you can understand this topic after all. I will translate for you those three aphorisms and a half <span class="pv-w">(from 16.213 to 16.215 <span class="pv-note">— plus the first half of 16.216 —</span> in Tantrāloka)</span> now in which the way of assigning words by Abhinavagupta is clear and show why I did it so in the above chart:</p>
+Абхинавагупта в своей «Тантралоке» придаёт слова мантры Parāparāvidyā по-своему. Как всегда у Абхинавагупты, то, что должно бы стать проще, становится сложнее. Почему я так говорю? Потому что, помимо того что он придаёт слова в порядке, ломающем последовательность чисел, он разбирает связь между таттвами и мантрой Parāparāvidyā в обратную сторону — от последнего слова этой мантры к первому. А так потому, что Parāparāvidyā есть зеркало, в котором Сознание отражает Само Себя, отбрасывая отражение (прости за повтор), являющееся как вселенная. Parāparāvidyā пребывает в Sadāśiva, в третьей таттве. Но, пожалуйста, не сходите с ума об этом сейчас: это ещё один сложный предмет, который я объясняю в другом месте. Все эти перемены у Абхинавагупты, ясное дело, всё усложняют. И всё же, полагаю, предмет этот вы в итоге поймёте. Переведу вам сейчас те три с половиной сутры (с 16.213 по 16.215, да первая половина 16.216 «Тантралоки»), где способ Абхинавагупты придавать слова виден ясно и откуда видно, почему я так и сделал в таблице выше:
 
 <p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">परापराया वैलोम्याद्धरायां स्यात्पदत्रयम्।</span><br />
 <span class="pv-iast">Parāparāyā vailomyāddharāyāṁ syātpadatrayam|</span><br />
@@ -1321,13 +1325,13 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">एकोनविंशतिः सेयं पदानां स्यात्परापरा।</span><br />
 <span class="pv-iast">Ekonaviṁśatiḥ seyaṁ padānāṁ syātparāparā|</span></p>
 
-<p class="pv-en" lang="en"><ruby>Due to reverseness<rp> (</rp><rt>vailomyāt</rt><rp>)</rp></ruby> of Parāparā <span class="pv-note">— Supreme and nonSupreme —</span> <span class="pv-w">(parāparāyāḥ)</span>, a group of three words <span class="pv-note">— viz. 'phaṭ', 'haḥ' and 'huṁ' —</span> <span class="pv-w">(pada-trayam)</span> <ruby>is to be found<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> in Dharā <span class="pv-note">— i.e. in Pṛthivī —category 36— —</span> <span class="pv-w">(dharāyām)</span>. <ruby>After that<rp> (</rp><rt>tatas</rt><rp>)</rp></ruby>, from Jala <span class="pv-note">— i.e. Āpas, category 35 —</span> <span class="pv-w">(jalāt)</span> up to Ahaṅkāra <span class="pv-note">— category 15 —</span> <span class="pv-w">(ahaṅkāre)</span> <ruby>there is a connection<rp> (</rp><rt>samāśrayāt</rt><rp>)</rp></ruby> <ruby>of five words<rp> (</rp><rt>padāni pañca</rt><rp>)</rp></ruby> with the eight groups five times <span class="pv-note">— the eight groups are: 'water, fire, air, space/ether (four gross elements), Tanmātra-s, Indriya-s <span class="pv-w">(Jñānendriya-s and Karmendriya-s —Powers of perception and action, respectively—)</span>, <ruby>Manas<rp> (</rp><rt>mind</rt><rp>)</rp></ruby> <ruby>and Ahaṅkāra<rp> (</rp><rt>ego</rt><rp>)</rp></ruby>' —</span> <span class="pv-w">(pañca-aṣṭaka)</span>.</p>
+<p class="pv-tr" markdown="1"><ruby>По обратности<rp> (</rp><rt>vailomyāt</rt><rp>)</rp></ruby> Parāparā <span class="pv-note">— Высшей и не-Высшей —</span> <span class="pv-w">(parāparāyāḥ)</span>, троица слов <span class="pv-note">— то есть «phaṭ», «haḥ» и «huṁ» —</span> <span class="pv-w">(pada-trayam)</span> <ruby>находится<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> в Dharā <span class="pv-note">— то есть в Pṛthivī, тридцать шестой таттве —</span> <span class="pv-w">(dharāyām)</span>. <ruby>Затем<rp> (</rp><rt>tatas</rt><rp>)</rp></ruby> от Jala <span class="pv-note">— то есть Āpas, тридцать пятой —</span> <span class="pv-w">(jalāt)</span> до Ahaṅkāra <span class="pv-note">— пятнадцатой —</span> <span class="pv-w">(ahaṅkāre)</span> <ruby>есть связь<rp> (</rp><rt>samāśrayāt</rt><rp>)</rp></ruby> <ruby>пяти слов<rp> (</rp><rt>padāni pañca</rt><rp>)</rp></ruby> с восемью собраниями пятикратно <span class="pv-note">— восемь собраний суть: вода, огонь, воздух, пространство-эфир (четыре грубые стихии), Tanmātra, Indriya (Jñānendriya и Karmendriya — Силы восприятия и действия), Manas (ум) и Ahaṅkāra (самость) —</span> <span class="pv-w">(pañca-aṣṭaka)</span>.</p>
 
-<p class="pv-en" lang="en"><em>(Next,)</em> the group of three <em>(words)</em> <span class="pv-note">— viz. 'vama', 'bhīṣaṇe' and 'bhīma' —</span> <span class="pv-w">(trayam)</span> is <em>(residing)</em> <ruby>three times<rp> (</rp><rt>traye</rt><rp>)</rp></ruby> in this which is called <em>(the aggregate)</em> of Buddhi, Prakṛti, Puruṣa and Rāga <span class="pv-note">— categories 14, 13, 12 and 9 —</span> <span class="pv-w">(dhī-mūla-puṁ-rāga-ākhye)</span>. <ruby>But<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> one word <span class="pv-note">— viz. 'ghoramukhi' —</span> <span class="pv-w">(ekam)</span> <em>(dwells)</em> in the group of two, i.e. in Kāla and Vidyā <span class="pv-note">— lit. impure knower —</span> <span class="pv-note">— categories 10 and 8 —</span> <span class="pv-w">(aśuddha-vit-kāla-dvaye)</span> <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>in Niyati<rp> (</rp><rt>niyāmake</rt><rp>)</rp></ruby> one word <span class="pv-note">— viz. 'haḥ' —</span> <span class="pv-w">(ekam)</span> <em>(resides)</em>.</p>
+<p class="pv-tr" markdown="1">_(Дальше)_ троица _(слов)_ <span class="pv-note">— то есть «vama», «bhīṣaṇe» и «bhīma» —</span> <span class="pv-w">(trayam)</span> _(пребывает)_ <ruby>трижды<rp> (</rp><rt>traye</rt><rp>)</rp></ruby> в том, что зовётся _(совокупностью)_ Buddhi, Prakṛti, Puruṣa и Rāga <span class="pv-note">— таттв 14, 13, 12 и 9 —</span> <span class="pv-w">(dhī-mūla-puṁ-rāga-ākhye)</span>. <ruby>А<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> одно слово <span class="pv-note">— то есть «ghoramukhi» —</span> <span class="pv-w">(ekam)</span> _(пребывает)_ в двоице, то есть в Kāla и Vidyā <span class="pv-note">— букв. нечистом познающем —</span> <span class="pv-note">— таттвах 10 и 8 —</span> <span class="pv-w">(aśuddha-vit-kāla-dvaye)</span>, <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>в Niyati<rp> (</rp><rt>niyāmake</rt><rp>)</rp></ruby> _(пребывает)_ одно слово <span class="pv-note">— то есть «haḥ» —</span> <span class="pv-w">(ekam)</span>.</p>
 
-<p class="pv-en" lang="en"><ruby>And<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>here<rp> (</rp><rt>iha</rt><rp>)</rp></ruby> one word <span class="pv-note">— viz. 'ghorarūpe' —</span> (ekam padam) is said <em>(to reside)</em> <span class="pv-w">(uktam)</span> in the couple of Māyā and Kalā <span class="pv-note">— categories 6 and 7 —</span> <span class="pv-w">(kalā-māyā-dvaye)</span>. <em>(Next,)</em> a group of five <em>(words)</em> <span class="pv-note">— viz. 'huṁ', 'paramaghore', 'hrīḥ', 'aghore' and 'Oṁ' —</span> <span class="pv-w">(pada-pañcakam)</span> <em>(dwell)</em> <ruby>in succession<rp> (</rp><rt>kramāt</rt><rp>)</rp></ruby> in Sadvidyā, Īśvara, Sadāśiva, Śakti and Śiva <span class="pv-note">— categories 5, 4, 3, 2 and 1 —</span> <span class="pv-w">(vidyā-īśvara-sadā-śakti-śiveṣu)</span>. Parāparā_(vidyā's mantra)_ <span class="pv-w">(parāparā)</span> is <em>(then)</em> <span class="pv-w">(syāt)</span> <ruby>this which consists of nineteen<rp> (</rp><rt>ekonaviṁśatiḥ sā iyam</rt><rp>)</rp></ruby> <ruby>words<rp> (</rp><rt>padānām</rt><rp>)</rp></ruby>||213-216a||</p>
+<p class="pv-tr" markdown="1"><ruby>И<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>здесь<rp> (</rp><rt>iha</rt><rp>)</rp></ruby> одно слово <span class="pv-note">— то есть «ghorarūpe» —</span> (ekam padam) названо _(пребывающим)_ <span class="pv-w">(uktam)</span> в двоице Māyā и Kalā <span class="pv-note">— таттвах 6 и 7 —</span> <span class="pv-w">(kalā-māyā-dvaye)</span>. _(Дальше)_ пятерица _(слов)_ <span class="pv-note">— то есть «huṁ», «paramaghore», «hrīḥ», «aghore» и «Oṁ» —</span> <span class="pv-w">(pada-pañcakam)</span> _(пребывает)_ <ruby>по порядку<rp> (</rp><rt>kramāt</rt><rp>)</rp></ruby> в Sadvidyā, Īśvara, Sadāśiva, Śakti и Śiva <span class="pv-note">— таттвах 5, 4, 3, 2 и 1 —</span> <span class="pv-w">(vidyā-īśvara-sadā-śakti-śiveṣu)</span>. _(Мантра)_ Parāparā_(vidyā)_ <span class="pv-w">(parāparā)</span> _(и)_ <ruby>есть<rp> (</rp><rt>syāt</rt><rp>)</rp></ruby> <ruby>то, что состоит из девятнадцати<rp> (</rp><rt>ekonaviṁśatiḥ sā iyam</rt><rp>)</rp></ruby> <ruby>слов<rp> (</rp><rt>padānām</rt><rp>)</rp></ruby>||213-216a||</p>
 
-<p class="pv-en" lang="en">OK, the topic about Parāparāvidyā and the tattva-s has been explained to a certain extent then. It is enough for now!</p>
+Ну вот, предмет о Parāparāvidyā и таттвах в некоторой мере объяснён. Пока довольно!
 
 <hr class="pv-rule" />
 
@@ -1336,26 +1340,27 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">अपरायाः समाख्याता व्याप्तिरेषा विलोमतः॥२४॥</span><br />
 <span class="pv-iast">Aparāyāḥ samākhyātā vyāptireṣā vilomataḥ||24||</span></p>
 
-<p class="pv-en" lang="en">Two eggs <span class="pv-note">— i.e. Pṛthivī and Prakṛti eggs —</span> <span class="pv-w">(aṇḍa-dvayam)</span> <ruby>are pervaded<rp> (</rp><rt>vyāptam</rt><rp>)</rp></ruby> by one and a half <em>(letters)</em> <span class="pv-note">— i.e. by 'Phaṭ' —</span> <span class="pv-w">(sa-ardhena)</span>, <em>(while)</em> the <em>(other)</em> two <em>(remaining eggs)</em> <span class="pv-note">— i.e. Māyā and Śakti eggs —</span> <span class="pv-w">(dvayam)</span> <em>(are pervaded)</em> <ruby>separately<rp> (</rp><rt>pṛthak</rt><rp>)</rp></ruby> by <em>(two sounds)</em> consisting of one letter each <span class="pv-note">— viz. 'Hūṁ' and 'Hrīḥ' —</span> <span class="pv-w">(eka-ekena)</span>. <ruby>This<rp> (</rp><rt>eṣā</rt><rp>)</rp></ruby> <ruby>pervasion<rp> (</rp><rt>vyāptiḥ</rt><rp>)</rp></ruby> of Aparā_(vidyā)_ <span class="pv-w">(aparāyāḥ)</span> <ruby>has been proclaimed<rp> (</rp><rt>samākhyātā</rt><rp>)</rp></ruby> <ruby>in the reverse order<rp> (</rp><rt>vilomataḥ</rt><rp>)</rp></ruby> <span class="pv-note">— because the right order for this mantra is 'Hrīḥ hūṁ phaṭ' —</span>||24||</p>
+<p class="pv-tr" markdown="1">Два яйца <span class="pv-note">— то есть яйца Pṛthivī и Prakṛti —</span> <span class="pv-w">(aṇḍa-dvayam)</span> <ruby>пронизаны<rp> (</rp><rt>vyāptam</rt><rp>)</rp></ruby> полутора _(буквами)_ <span class="pv-note">— то есть «Phaṭ» —</span> <span class="pv-w">(sa-ardhena)</span>, _(а)_ _(другие)_ два _(оставшихся яйца)_ <span class="pv-note">— то есть яйца Māyā и Śakti —</span> <span class="pv-w">(dvayam)</span> _(пронизаны)_ <ruby>порознь<rp> (</rp><rt>pṛthak</rt><rp>)</rp></ruby> _(двумя звуками)_, состоящими каждый из одной буквы <span class="pv-note">— то есть «Hūṁ» и «Hrīḥ» —</span> <span class="pv-w">(eka-ekena)</span>. <ruby>Это<rp> (</rp><rt>eṣā</rt><rp>)</rp></ruby> <ruby>проникновение<rp> (</rp><rt>vyāptiḥ</rt><rp>)</rp></ruby> Aparā_(vidyā)_ <span class="pv-w">(aparāyāḥ)</span> <ruby>возвещено<rp> (</rp><rt>samākhyātā</rt><rp>)</rp></ruby> <ruby>в обратном порядке<rp> (</rp><rt>vilomataḥ</rt><rp>)</rp></ruby> <span class="pv-note">— ибо верный порядок этой мантры «Hrīḥ hūṁ phaṭ» —</span>||24||</p>
 
-<p class="pv-en" lang="en">And the relationship between the words of the Aparāvidyā's mantra <span class="pv-note">— viz. 'Hrīḥ hūṁ phaṭ' —</span> and the tattva-s is ready to be exhibited in the chart 4:</p>
+А связь между словами мантры Aparāvidyā — «Hrīḥ hūṁ phaṭ» — и таттвами готова показаться в Таблице 4:
 
-<table><caption><b>Chart 4: Relationship between the pada-s or words of the Aparāvidyā&#39;s mantra and the tattva-s (categories of universal manifestation) along with the eggs containing such tattva-s</b></caption>
+<table>
+<caption><b>Таблица 4: связь между pada, словами мантры Aparāvidyā, и таттвами (разрядами вселенского проявления), а с ними и яйцами, эти таттвы вмещающими</b></caption>
 	<tbody>
 		<tr class="center tableborder">
-			<td class="cellborder4solid bggreylight stylebigfont"><b>Number</b></td>
+			<td class="cellborder4solid bggreylight stylebigfont"><b>Номер</b></td>
 			<td class="cellborder4solid bggreen99cc stylebigfont styleyellow"><b>Kalā<br />
 			(primeval powers)</b></td>
-			<td class="cellborder4solid bggreenverylight stylebigfont"><b>Egg<br />
+			<td class="cellborder4solid bggreenverylight stylebigfont"><b>Яйцо<br />
 			(associated with a particular Kalā)</b></td>
 			<td class="cellborder4solid bghomepagback stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in IAST)</b></td>
+			(разряд вселенского проявления — в IAST)</b></td>
 			<td class="cellborder4solid bgorangeverylight stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in devanāgarī)</b></td>
+			(разряд вселенского проявления — на деванагари)</b></td>
 			<td class="cellborder4solid bgyellowcommon stylebigfont"><b>Pada<br />
-			(word - in IAST)</b></td>
+			(слово — в IAST)</b></td>
 			<td class="cellborder4solid bgskybluelight stylebigfont"><b>Pada<br />
-			(word - in devanāgarī)</b></td>
+			(слово — на деванагари)</b></td>
 		</tr>
 		<tr class="center">
 			<td class="cellborder4solid" colspan="7">
@@ -1577,9 +1582,10 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bghomepagback stylebigfont"><span class="styledeepred">Pṛthivī</span></td>
 			<td class="cellborder4solid bgorangeverylight stylebigfont"><span class="unicodesfontblack">पृथिवी</span></td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">Good!</p>
+Хорошо!
 
 <hr class="pv-rule" />
 
@@ -1588,26 +1594,27 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">सर्वातीतं विसर्गेण पराया व्याप्तिरिष्यते॥२५॥</span><br />
 <span class="pv-iast">Sarvātītaṁ visargeṇa parāyā vyāptiriṣyate||25||</span></p>
 
-<p class="pv-en" lang="en"><ruby>The penetration<rp> (</rp><rt>vyāptiḥ</rt><rp>)</rp></ruby> <ruby>is impelled<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> <ruby>by Parā<rp> (</rp><rt>parāyā</rt><rp>)</rp></ruby> <em>(as follows:)</em> _<strong>(1)</strong>_ The group of three eggs <span class="pv-note">— viz. Pṛthivī, Prakṛti and Māyā, covering the tattva-s or categories 6 to 36 —</span> <span class="pv-w">(aṇḍa-trayam)</span> <em>(is)</em> <ruby>penetrated<rp> (</rp><rt>vyāptam</rt><rp>)</rp></ruby> <ruby>by the letter "Sa"<rp> (</rp><rt>sa-arṇena</rt><rp>)</rp></ruby>; _<strong>(2)</strong><em> The fourth </em>(egg called "Śakti")_ <span class="pv-w">(caturthakam)</span> <ruby>is penetrated<rp> (</rp><rt>vyāptam</rt><rp>)</rp></ruby> by the trident <span class="pv-note">— the vowel "au" —</span> <span class="pv-w">(triśūlena)</span>; _<strong>(3)</strong>_ <ruby>That which is beyond all<rp> (</rp><rt>sarva-atītam</rt><rp>)</rp></ruby> <em>(is penetrated)</em> <ruby>by Visarga<rp> (</rp><rt>visargeṇa</rt><rp>)</rp></ruby> <span class="pv-note">— which results in 'Sauḥ', the mantra of the Parāvidyā —</span>||25||</p>
+<p class="pv-tr" markdown="1"><ruby>Проникновение<rp> (</rp><rt>vyāptiḥ</rt><rp>)</rp></ruby> <ruby>движимо<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> <ruby>Parā<rp> (</rp><rt>parāyā</rt><rp>)</rp></ruby> _(так:)_ _**(1)**_ троица яиц <span class="pv-note">— то есть Pṛthivī, Prakṛti и Māyā, покрывающие таттвы с 6 по 36 —</span> <span class="pv-w">(aṇḍa-trayam)</span> <ruby>пронизана<rp> (</rp><rt>vyāptam</rt><rp>)</rp></ruby> <ruby>буквой «Sa»<rp> (</rp><rt>sa-arṇena</rt><rp>)</rp></ruby>; _**(2)**_ четвёртое _(яйцо, зовущееся «Śakti»)_ <span class="pv-w">(caturthakam)</span> <ruby>пронизано<rp> (</rp><rt>vyāptam</rt><rp>)</rp></ruby> трезубцем <span class="pv-note">— гласной «au» —</span> <span class="pv-w">(triśūlena)</span>; _**(3)**_ <ruby>то, что за пределами всего<rp> (</rp><rt>sarva-atītam</rt><rp>)</rp></ruby>, _(пронизано)_ <ruby>Visarga<rp> (</rp><rt>visargeṇa</rt><rp>)</rp></ruby> <span class="pv-note">— откуда и выходит «Sauḥ», мантра Parāvidyā —</span>||25||</p>
 
-<p class="pv-en" lang="en">And finally now a chart showing the penetration by Parāvidyā:</p>
+И наконец таблица, показывающая проникновение Parāvidyā:
 
-<table><caption><b>Chart 5: Relationship between the pada-s or words of the Parāvidyā&#39;s mantra and the tattva-s (categories of universal manifestation) along with the eggs containing such tattva-s</b></caption>
+<table>
+<caption><b>Таблица 5: связь между pada, словами мантры Parāvidyā, и таттвами (разрядами вселенского проявления), а с ними и яйцами, эти таттвы вмещающими</b></caption>
 	<tbody>
 		<tr class="center tableborder">
-			<td class="cellborder4solid bggreylight stylebigfont"><b>Number</b></td>
+			<td class="cellborder4solid bggreylight stylebigfont"><b>Номер</b></td>
 			<td class="cellborder4solid bgred9 stylebigfont stylewhite"><b>Kalā<br />
 			(primeval powers)</b></td>
-			<td class="cellborder4solid bgpinklight stylebigfont"><b>Egg<br />
+			<td class="cellborder4solid bgpinklight stylebigfont"><b>Яйцо<br />
 			(associated with a particular Kalā)</b></td>
 			<td class="cellborder4solid bghomepagback stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in IAST)</b></td>
+			(разряд вселенского проявления — в IAST)</b></td>
 			<td class="cellborder4solid bggreylight stylebigfont"><b>Tattva<br />
-			(category of universal manifestation - in devanāgarī)</b></td>
+			(разряд вселенского проявления — на деванагари)</b></td>
 			<td class="cellborder4solid bgyellowcommon stylebigfont"><b>Pada<br />
-			(word - in IAST)</b></td>
+			(слово — в IAST)</b></td>
 			<td class="cellborder4solid bgbrownish stylebigfont"><b>Pada<br />
-			(word - in devanāgarī)</b></td>
+			(слово — на деванагари)</b></td>
 		</tr>
 		<tr class="center">
 			<td class="cellborder4solid" colspan="7">
@@ -1827,9 +1834,10 @@ title: "Mālinīvijayottaratantra: глава 4"
 			<td class="cellborder4solid bghomepagback stylebigfont"><span class="styledeepred">Pṛthivī</span></td>
 			<td class="cellborder4solid bggreylight stylebigfont"><span class="unicodesfontblack">पृथिवी</span></td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">In this way, I have shown in a very clear way the penetration of the three Vidyā-s such as taught by venerable Śiva.</p>
+Так я вполне ясно показал проникновение трёх Vidyā, как учил достопочтенный Śiva.
 
 <hr class="pv-rule" />
 
@@ -1838,9 +1846,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">आत्मनो वा परेषां वा नान्यथा तदवाप्यते॥२६॥</span><br />
 <span class="pv-iast">Ātmano vā pareṣāṁ vā nānyathā tadavāpyate||26||</span></p>
 
-<p class="pv-en" lang="en">All this <em>(which has been mentioned)</em> (etad sarvam) <ruby>should be recognized and ascertained<rp> (</rp><rt>parijñeyam</rt><rp>)</rp></ruby> by the yogī <ruby>who desires his own welfare or that of others<rp> (</rp><rt>yoginā hitam icchatā ātmanaḥ vā pareṣām vā</rt><rp>)</rp></ruby>. <ruby>Otherwise<rp> (</rp><rt>anyathā</rt><rp>)</rp></ruby>, that <em>(welfare)</em> <span class="pv-w">(tad)</span> <ruby>is not obtained<rp> (</rp><rt>na... avāpyate</rt><rp>)</rp></ruby>||26||</p>
+<p class="pv-tr" markdown="1">Всё это _(сказанное)_ (etad sarvam) <ruby>должно распознать и установить<rp> (</rp><rt>parijñeyam</rt><rp>)</rp></ruby> <ruby>йогину, желающему блага себе или другим<rp> (</rp><rt>yoginā hitam icchatā ātmanaḥ vā pareṣām vā</rt><rp>)</rp></ruby>. <ruby>Иначе<rp> (</rp><rt>anyathā</rt><rp>)</rp></ruby> оно _(благо)_ <span class="pv-w">(tad)</span> <ruby>не обретается<rp> (</rp><rt>na... avāpyate</rt><rp>)</rp></ruby>||26||</p>
 
-<p class="pv-en" lang="en">By putting all these pada-s or words on different parts of the body of the disciple, the Guru dissolves every trace of duality in him <span class="pv-note">— in the disciple —</span>. This is certainly for the welfare of the disciple and of the entire world.</p>
+Прилагая все эти pada, слова, к разным частям тела ученика, Гуру растворяет в нём всякий след двойственности. Это, конечно, ко благу и ученика, и всего мира.
 
 <hr class="pv-rule" />
 
@@ -1849,9 +1857,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">पृथक्त्वात्तत्र बोद्धव्यं फलकाङ्क्षिभिः॥२७॥</span><br />
 <span class="pv-iast">Pṛthaktvāttatra boddhavyaṁ phalakāṅkṣibhiḥ||27||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Oh Consort of Śaṅkara<rp> (</rp><rt>śāṅkari</rt><rp>)</rp></ruby>, both <em>(the state of)</em> jñānī and <em>(the state of)</em> yogī <span class="pv-w">(dvau eva... jñānī yogī ca)</span> <ruby>are known<rp> (</rp><rt>jñeyau</rt><rp>)</rp></ruby> <ruby>as givers of Liberation<rp> (</rp><rt>mokṣa-dau</rt><rp>)</rp></ruby>. <em>(However,)</em> <ruby>under those circumstances<rp> (</rp><rt>tatra</rt><rp>)</rp></ruby>, <em>(this topic about jñānī and yogī)</em> <ruby>must be understood<rp> (</rp><rt>boddhavyam</rt><rp>)</rp></ruby> <ruby>separately<rp> (</rp><rt>pṛthaktvāt</rt><rp>)</rp></ruby> <ruby>by the ones who are desirous of fruits<rp> (</rp><rt>phala-kāṅkṣibhiḥ</rt><rp>)</rp></ruby>||27||</p>
+<p class="pv-tr" markdown="1"><ruby>О Спутница Śaṅkara<rp> (</rp><rt>śāṅkari</rt><rp>)</rp></ruby>, оба <span class="pv-note">— и _(состояние)_ jñānī, и _(состояние)_ йогина —</span> <span class="pv-w">(dvau eva... jñānī yogī ca)</span> <ruby>известны<rp> (</rp><rt>jñeyau</rt><rp>)</rp></ruby> <ruby>как дающие Освобождение<rp> (</rp><rt>mokṣa-dau</rt><rp>)</rp></ruby>. _(Но)_ <ruby>при этом<rp> (</rp><rt>tatra</rt><rp>)</rp></ruby> _(предмет о jñānī и йогине)_ <ruby>должно понимать<rp> (</rp><rt>boddhavyam</rt><rp>)</rp></ruby> <ruby>порознь<rp> (</rp><rt>pṛthaktvāt</rt><rp>)</rp></ruby> <ruby>тем, кто желает плодов<rp> (</rp><rt>phala-kāṅkṣibhiḥ</rt><rp>)</rp></ruby>||27||</p>
 
-<p class="pv-en" lang="en">As I said before, both paths are equally important but in Trika Shaivism the path of Jñāna is emphasized. So, now Śiva is about to explain this topic by separating those two paths to Liberation.</p>
+Как я говорил раньше, оба пути равно важны, но в Трике упор на путь Jñāna. И вот Śiva готов объяснить этот предмет, разделив два эти пути к Освобождению.
 
 <hr class="pv-rule" />
 
@@ -1860,9 +1868,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">चिन्तामयमथान्यच्च भावनामयमेव च॥२८॥</span><br />
 <span class="pv-iast">Cintāmayamathānyacca bhāvanāmayameva ca||28||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Knowledge<rp> (</rp><rt>jñānam tad</rt><rp>)</rp></ruby> <ruby>is said to be<rp> (</rp><rt>proktam</rt><rp>)</rp></ruby> <ruby>threefold<rp> (</rp><rt>trividham</rt><rp>)</rp></ruby>. <ruby>There<rp> (</rp><rt>tatra</rt><rp>)</rp></ruby>, the first <em>(kind of knowledge)</em> <span class="pv-w">(ādyam)</span> <ruby>is regarded as<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> <ruby>'śruta' or 'heard'<rp> (</rp><rt>śrutam</rt><rp>)</rp></ruby>. Then the other (atha anyat ca) <em>(kind of knowledge is called)</em> <ruby>'cintāmaya' or 'consisting of thoughts'<rp> (</rp><rt>cintā-mayam</rt><rp>)</rp></ruby>; and <em>(finally the third kind of knowledge is known as)</em> <span class="pv-w">(ca)</span> <ruby>'bhāvanāmaya' or 'consisting of contemplation'<rp> (</rp><rt>bhāvanā-mayam eva</rt><rp>)</rp></ruby>||28||</p>
+<p class="pv-tr" markdown="1"><ruby>Знание<rp> (</rp><rt>jñānam tad</rt><rp>)</rp></ruby> <ruby>названо<rp> (</rp><rt>proktam</rt><rp>)</rp></ruby> <ruby>троичным<rp> (</rp><rt>trividham</rt><rp>)</rp></ruby>. <ruby>Там<rp> (</rp><rt>tatra</rt><rp>)</rp></ruby> первое _(знание)_ <span class="pv-w">(ādyam)</span> <ruby>почитается<rp> (</rp><rt>iṣyate</rt><rp>)</rp></ruby> «śruta», <ruby>«услышанным»<rp> (</rp><rt>śrutam</rt><rp>)</rp></ruby>. Затем другое (atha anyat ca) _(знание зовётся)_ «cintāmaya», <ruby>«состоящее из мыслей»<rp> (</rp><rt>cintā-mayam</rt><rp>)</rp></ruby>; а _(третье знание известно как)_ <span class="pv-w">(ca)</span> «bhāvanāmaya», <ruby>«состоящее из созерцания»<rp> (</rp><rt>bhāvanā-mayam eva</rt><rp>)</rp></ruby>||28||</p>
 
-<p class="pv-en" lang="en">I will explain this under the stanza 31.</p>
+Это я объясню под тридцать первой строфой.
 
 <hr class="pv-rule" />
 
@@ -1875,9 +1883,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">तद्वच्चिन्तामयं ज्ञानं द्विरूपमुपदिश्यते॥३०॥</span><br />
 <span class="pv-iast">Tadvaccintāmayaṁ jñānaṁ dvirūpamupadiśyate||30||</span></p>
 
-<p class="pv-en" lang="en">'Śruta' <em>(knowledge)</em> <span class="pv-w">(śrutam)</span> <ruby>is considered to be<rp> (</rp><rt>matam</rt><rp>)</rp></ruby> <ruby>knowledge<rp> (</rp><rt>parijñānam</rt><rp>)</rp></ruby> <ruby>about the dispersed meaning of the scriptures<rp> (</rp><rt>śāstra-arthasya... vikṣiptasya</rt><rp>)</rp></ruby>. <em>(For example,)</em> <ruby>'this<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>here<rp> (</rp><rt>atra</rt><rp>)</rp></ruby>, <ruby>this<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> there <span class="pv-note">— lit. here —</span> (atra iti)', <em>(and also,)</em> <ruby>'this<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>is useful<rp> (</rp><rt>upayujyate</rt><rp>)</rp></ruby> <ruby>here<rp> (</rp><rt>atra</rt><rp>)</rp></ruby>'. <ruby>Likewise<rp> (</rp><rt>tad-vat</rt><rp>)</rp></ruby>, <ruby>after having systematically studied<rp> (</rp><rt>ālocya... ānupūrvyā vyavasthitam</rt><rp>)</rp></ruby> all the meaning_(s)_ <ruby>of the scriptures<rp> (</rp><rt>sarvam... śāstra-artham</rt><rp>)</rp></ruby>, the <em>(type of)</em> <ruby>knowledge<rp> (</rp><rt>jñāna</rt><rp>)</rp></ruby> —<ruby>which is indicated<rp> (</rp><rt>upadiśyate</rt><rp>)</rp></ruby> <ruby>as having a double form<rp> (</rp><rt>dvirūpam</rt><rp>)</rp></ruby>— <em>(is called)</em> <ruby>'cintāmaya'<rp> (</rp><rt>cintāmayam</rt><rp>)</rp></ruby>||29-30||</p>
+<p class="pv-tr" markdown="1">«Śruta» _(знание)_ <span class="pv-w">(śrutam)</span> <ruby>почитается<rp> (</rp><rt>matam</rt><rp>)</rp></ruby> <ruby>знанием<rp> (</rp><rt>parijñānam</rt><rp>)</rp></ruby> <ruby>о рассеянном смысле писаний<rp> (</rp><rt>śāstra-arthasya... vikṣiptasya</rt><rp>)</rp></ruby>. _(Например:)_ <ruby>«это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>здесь<rp> (</rp><rt>atra</rt><rp>)</rp></ruby>, <ruby>это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> там <span class="pv-note">— букв. здесь —</span> (atra iti)», _(а также)_ <ruby>«это<rp> (</rp><rt>idam</rt><rp>)</rp></ruby> <ruby>годится<rp> (</rp><rt>upayujyate</rt><rp>)</rp></ruby> <ruby>здесь<rp> (</rp><rt>atra</rt><rp>)</rp></ruby>». <ruby>Так же<rp> (</rp><rt>tad-vat</rt><rp>)</rp></ruby>, <ruby>последовательно изучив<rp> (</rp><rt>ālocya... ānupūrvyā vyavasthitam</rt><rp>)</rp></ruby> <ruby>весь смысл писаний<rp> (</rp><rt>sarvam... śāstra-artham</rt><rp>)</rp></ruby>, _(тот род)_ <ruby>знания<rp> (</rp><rt>jñāna</rt><rp>)</rp></ruby>, <ruby>которое указано<rp> (</rp><rt>upadiśyate</rt><rp>)</rp></ruby> <ruby>как двуобразное<rp> (</rp><rt>dvirūpam</rt><rp>)</rp></ruby>, _(зовётся)_ <ruby>«cintāmaya»<rp> (</rp><rt>cintāmayam</rt><rp>)</rp></ruby>||29-30||</p>
 
-<p class="pv-en" lang="en">I will explain this under the stanza 31.</p>
+Это я объясню под тридцать первой строфой.
 
 ## Строфы 31–41 {#s4}
 
@@ -1886,57 +1894,59 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">सुनिष्पन्ने ततस्तस्मिञ्जायते भावनामयम्॥३१॥</span><br />
 <span class="pv-iast">Suniṣpanne tatastasmiñjāyate bhāvanāmayam||31||</span></p>
 
-<p class="pv-en pv-anchor" id="s4-ru" lang="en">In that <em>('cintāmaya' knowledge)</em> <span class="pv-w">(tatra)</span> —which is divided into 'manda' <span class="pv-note">— lit. slow —</span> and 'svabhyasta' <span class="pv-note">— lit. which has been practiced a lot —</span> <span class="pv-w">(manda-su-abhyasta-bhedena)</span>— <em>(such knowledge)</em> <ruby>is called<rp> (</rp><rt>ucyate</rt><rp>)</rp></ruby> <ruby>'svabhyasta'<rp> (</rp><rt>svabhyastam</rt><rp>)</rp></ruby> <em>(when it has been internally elaborated for long)</em>. <ruby>Afterward<rp> (</rp><rt>tatas</rt><rp>)</rp></ruby>, when that <em>('svabhyasta' knowledge)</em> <ruby>has been fully accomplished<rp> (</rp><rt>su-niṣpanne... tasmin</rt><rp>)</rp></ruby>, <ruby>arises<rp> (</rp><rt>jāyate</rt><rp>)</rp></ruby> <em>(the third kind of knowledge known as)</em> <ruby>'bhāvanāmaya'<rp> (</rp><rt>bhāvanāmayam</rt><rp>)</rp></ruby>||31||</p>
+<p class="pv-tr pv-anchor" id="s4-ru" markdown="1">В нём _(в знании «cintāmaya»)_ <span class="pv-w">(tatra)</span> — которое делится на «manda» <span class="pv-note">— букв. медленное —</span> и «svabhyasta» <span class="pv-note">— букв. многократно упражнённое —</span> <span class="pv-w">(manda-su-abhyasta-bhedena)</span> — _(такое знание)_ <ruby>зовётся<rp> (</rp><rt>ucyate</rt><rp>)</rp></ruby> <ruby>«svabhyasta»<rp> (</rp><rt>svabhyastam</rt><rp>)</rp></ruby> _(когда долго вынашивалось внутри)_. <ruby>Затем<rp> (</rp><rt>tatas</rt><rp>)</rp></ruby>, когда оно _(знание «svabhyasta»)_ <ruby>вполне свершилось<rp> (</rp><rt>su-niṣpanne... tasmin</rt><rp>)</rp></ruby>, <ruby>рождается<rp> (</rp><rt>jāyate</rt><rp>)</rp></ruby> _(третий род знания, зовущийся)_ <ruby>«bhāvanāmaya»<rp> (</rp><rt>bhāvanāmayam</rt><rp>)</rp></ruby>||31||</p>
 
-<p class="pv-en" lang="en">All these kinds of knowledge have been explained to a certain extent by Abhinavagupta in the chapter 13 of his Tantrāloka. He is not entering into a great detail anyway, according to my reading and understanding of the last portion of chapter 13. But nothing is better than a didactic chart to understand these things that are always complicated. The topic is even more complex, this chart being only a massive simplification for you to understand:</p>
+Все эти роды знания в некоторой мере объяснены Абхинавагуптой в тринадцатой главе его «Тантралоки». В большие подробности он, впрочем, не вдаётся — так я читаю и понимаю последнюю часть тринадцатой главы. Но нет ничего лучше наглядной таблицы, чтобы понять эти всегда непростые вещи. Предмет ещё сложнее, а таблица эта — лишь громадное упрощение ради вашего понимания:
 
-<table><caption><b>Chart 6: The path of J&ntilde;āna or Knowledge</b></caption>
+<table>
+<caption><b>Таблица 6: путь Jñāna, Знания</b></caption>
 	<tbody class="center middle">
 		<tr>
-			<td class="cellborder4solid bgorangeverylight"><b>TYPES OF KNOWLEDGE<br />
-			-in IAST- </b></td>
-			<td class="cellborder4solid bgorangeverylight"><b>TYPES OF KNOWLEDGE<br />
-			-in devanāgarī- </b></td>
-			<td class="cellborder4solid bgyellowcommon"><b>SUBTYPES OF KNOWLEDGE<br />
-			-in IAST- </b></td>
-			<td class="cellborder4solid bgyellowcommon"><b>SUBTYPES OF KNOWLEDGE<br />
-			-in devanāgarī-</b></td>
-			<td class="cellborder4solid bgskybluelight"><b>EXPLANATION</b></td>
+			<td class="cellborder4solid bgorangeverylight"><b>РОДЫ ЗНАНИЯ<br />
+			— в IAST — </b></td>
+			<td class="cellborder4solid bgorangeverylight"><b>РОДЫ ЗНАНИЯ<br />
+			— на деванагари — </b></td>
+			<td class="cellborder4solid bgyellowcommon"><b>ПОДРОДЫ ЗНАНИЯ<br />
+			— в IAST — </b></td>
+			<td class="cellborder4solid bgyellowcommon"><b>ПОДРОДЫ ЗНАНИЯ<br />
+			— на деванагари —</b></td>
+			<td class="cellborder4solid bgskybluelight"><b>ПОЯСНЕНИЕ</b></td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bghomepagback"><span class="stylebigfontnames"><b>Śruta</b><br />
-			-lit. &#39;heard&#39;-</span></td>
+			— букв. «услышанное» —</span></td>
 			<td class="cellborder4solid bghomepagback"><span class="unicodesfontblack">श्रुत</span></td>
 			<td class="cellborder4solid bgwhite stylebigfont">&mdash;</td>
 			<td class="cellborder4solid bgwhite stylebigfont">&mdash;</td>
-			<td class="cellborder4solid bgbrownish">It is knowledge about the dispersed meaning of the scriptures. For example: &#39;this here, this there, this is useful here&#39;. The one receiving knowledge is constantly occupied in hearing scriptures of Śiva and collecting many data to be found there. If the same person is engaged in other scriptures at the same time, he will not get anything of either Trika scriptures or non-Trika scriptures, such as Abhinavagupta establishes in the last half of the stanza 317 and the first half of the stanza 318, in the chapter 13.</td>
+			<td class="cellborder4solid bgbrownish">Это знание о рассеянном смысле писаний. Например: «это здесь, это там, это годится здесь». Принимающий знание непрестанно занят слушанием писаний Śiva и сбором множества сведений, какие там есть. А если тот же человек занят при этом и другими писаниями, он не получит ничего — ни из писаний Трики, ни из прочих, как устанавливает Абхинавагупта во второй половине строфы 317 и первой половине строфы 318 тринадцатой главы.</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bghomepagback" rowspan="2"><span class="stylebigfontnames"><b>Cintāmaya</b><br />
-			-lit. &#39;consisting of thoughts&#39;-</span></td>
+			— букв. «состоящее из мыслей» —</span></td>
 			<td class="cellborder4solid bghomepagback" rowspan="2"><span class="unicodesfontblack">चिन्तामय</span></td>
 			<td class="cellborder4mixed bgwhite stylebigfont">Manda<br />
-			-lit. slow-</td>
+			— букв. медленное —</td>
 			<td class="cellborder4mixed bgwhite stylebigfont"><span class="unicodesfontblack">मन्द</span></td>
-			<td class="cellborder4mixed bgbrownish">After hearing scriptures for long, he starts to develop some serious thoughts about the different meanings to be found in such treatises. The process is anyway starting very slowly.</td>
+			<td class="cellborder4mixed bgbrownish">Долго слушав писания, он начинает вынашивать серьёзные мысли о разных смыслах, какие в этих трактатах есть. Дело это, впрочем, движется поначалу очень медленно.</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bgwhite stylebigfont">Svabhyasta<br />
-			-lit. which has been practiced a lot-</td>
+			— букв. многократно упражнённое —</td>
 			<td class="cellborder4solid bgwhite stylebigfont"><span class="unicodesfontblack">स्वभ्यस्त</span></td>
-			<td class="cellborder4solid bgbrownish">Now, this is the knowledge possessed by a scholar, who has not only heard for long but he has also studied for long with the help of his strong intellect. If he develops Yoga too, he will become Sadāśiva and attain mastery over the tattva-s.</td>
+			<td class="cellborder4solid bgbrownish">А это знание учёного мужа, который не только долго слушал, но и долго изучал с помощью сильного своего разума. А если он разовьёт в себе и Йогу, он станет Sadāśiva и обретёт власть над таттвами.</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bghomepagback"><span class="stylebigfontnames"><b>Bhāvanāmaya</b><br />
-			-lit. consisting of contemplation-</span></td>
+			— букв. состоящее из созерцания —</span></td>
 			<td class="cellborder4solid bghomepagback"><span class="unicodesfontblack">भावनामय</span></td>
 			<td class="cellborder4solid bgwhite stylebigfont">&mdash;</td>
 			<td class="cellborder4solid bgwhite stylebigfont">&mdash;</td>
-			<td class="cellborder4solid bgbrownish">This is the knowledge by a Great J&ntilde;ānī or &#39;Knower of the Highest Reality&#39; who has not only intellectual knowledge but also a direct experience of identification with the Supreme Lord who is even beyond Sadāśiva.</td>
+			<td class="cellborder4solid bgbrownish">Это знание великого Jñānī, «Знатока Высшей Реальности», у которого есть не только умственное знание, но и прямое переживание тождества с Высшим Господом, который даже за пределами Sadāśiva.</td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">OK, it is enough.</p>
+Ну, довольно.
 
 <hr class="pv-rule" />
 
@@ -1949,46 +1959,48 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">योगी चतुर्विधो देवि यथावत्प्रतिपद्यते॥३३॥</span><br />
 <span class="pv-iast">Yogī caturvidho devi yathāvatpratipadyate||33||</span></p>
 
-<p class="pv-en" lang="en"><em>(Finally,)</em> <ruby>having attained<rp> (</rp><rt>samāsādya</rt><rp>)</rp></ruby> <ruby>'union'<rp> (</rp><rt>yogam</rt><rp>)</rp></ruby> from which <span class="pv-note">— i.e. from 'bhāvanāmaya' —</span> <span class="pv-w">(yatas)</span>, <ruby>the yogī<rp> (</rp><rt>yogī</rt><rp>)</rp></ruby> <ruby>gets<rp> (</rp><rt>labhet</rt><rp>)</rp></ruby> <ruby>the fruit of Yoga<rp> (</rp><rt>yoga-phalam</rt><rp>)</rp></ruby>. <em>(And)</em> <ruby>in this way<rp> (</rp><rt>evam</rt><rp>)</rp></ruby>, <ruby>according to the divisions of knowledge<rp> (</rp><rt>vijñāna-bhedena</rt><rp>)</rp></ruby>, <em>(the classification of)</em> <ruby>jñānī<rp> (</rp><rt>jñānī</rt><rp>)</rp></ruby> <ruby>is said to be<rp> (</rp><rt>proktaḥ</rt><rp>)</rp></ruby> <ruby>fourfold<rp> (</rp><rt>caturvidhaḥ</rt><rp>)</rp></ruby>: _<strong>(1)</strong>_ 'samprāpta' <span class="pv-note">— lit. gotten —</span> <span class="pv-w">(samprāptaḥ)</span>, _<strong>(2)</strong>_ 'ghaṭamāna' <span class="pv-note">— lit. taking place —</span> <span class="pv-w">(ghaṭamānaḥ ca)</span>, _<strong>(3)</strong>_ 'siddha' <span class="pv-note">— lit. accomplished —</span> <span class="pv-w">(siddhaḥ)</span>, <ruby>or else<rp> (</rp><rt>anyathā</rt><rp>)</rp></ruby> _<strong>(4)</strong>_ 'siddhatama' <span class="pv-note">— lit. the most accomplished —</span> <span class="pv-w">(siddhatamaḥ)</span>. <ruby>Oh Goddess<rp> (</rp><rt>devi</rt><rp>)</rp></ruby>, <ruby>the yogī<rp> (</rp><rt>yogī</rt><rp>)</rp></ruby> <em>(treading the path of the jñānī)</em> is <em>(then)</em> <ruby>duly considered to be<rp> (</rp><rt>yathāvat pratipadyate</rt><rp>)</rp></ruby> <ruby>fourfold<rp> (</rp><rt>caturvidhaḥ</rt><rp>)</rp></ruby>||32-33||</p>
+<p class="pv-tr" markdown="1">_(И наконец,)_ <ruby>обретя<rp> (</rp><rt>samāsādya</rt><rp>)</rp></ruby> <ruby>«единение»<rp> (</rp><rt>yogam</rt><rp>)</rp></ruby>, из которого <span class="pv-note">— то есть из «bhāvanāmaya» —</span> <span class="pv-w">(yatas)</span> <ruby>йогин<rp> (</rp><rt>yogī</rt><rp>)</rp></ruby> <ruby>получает<rp> (</rp><rt>labhet</rt><rp>)</rp></ruby> <ruby>плод Йоги<rp> (</rp><rt>yoga-phalam</rt><rp>)</rp></ruby>. _(И)_ <ruby>так<rp> (</rp><rt>evam</rt><rp>)</rp></ruby>, <ruby>по делению знания<rp> (</rp><rt>vijñāna-bhedena</rt><rp>)</rp></ruby>, _(разряд)_ <ruby>jñānī<rp> (</rp><rt>jñānī</rt><rp>)</rp></ruby> <ruby>назван<rp> (</rp><rt>proktaḥ</rt><rp>)</rp></ruby> <ruby>четвероякий<rp> (</rp><rt>caturvidhaḥ</rt><rp>)</rp></ruby>: _**(1)**_ «samprāpta» <span class="pv-note">— букв. полученный —</span> <span class="pv-w">(samprāptaḥ)</span>, _**(2)**_ «ghaṭamāna» <span class="pv-note">— букв. совершающийся —</span> <span class="pv-w">(ghaṭamānaḥ ca)</span>, _**(3)**_ «siddha» <span class="pv-note">— букв. свершившийся —</span> <span class="pv-w">(siddhaḥ)</span> <ruby>либо<rp> (</rp><rt>anyathā</rt><rp>)</rp></ruby> _**(4)**_ «siddhatama» <span class="pv-note">— букв. свершившийся более всех —</span> <span class="pv-w">(siddhatamaḥ)</span>. <ruby>О Богиня<rp> (</rp><rt>devi</rt><rp>)</rp></ruby>, <ruby>йогин<rp> (</rp><rt>yogī</rt><rp>)</rp></ruby> _(идущий путём jñānī)_ <ruby>почитается как должно<rp> (</rp><rt>yathāvat pratipadyate</rt><rp>)</rp></ruby> <ruby>четверояким<rp> (</rp><rt>caturvidhaḥ</rt><rp>)</rp></ruby>||32-33||</p>
 
-<p class="pv-en" lang="en">With another chart plus my explanation, the topic will be very clear:</p>
+С ещё одной таблицей и моим объяснением предмет станет вполне ясен:
 
-<table><caption><b>Chart 7: Types of j&ntilde;ānī-s or knowers</b></caption>
+<table>
+<caption><b>Таблица 7: роды jñānī, знатоков</b></caption>
 	<tbody class="center middle">
 		<tr>
-			<td class="cellborder4solid bggreen99cc"><b><span class="styleyellow">TYPES OF J&Ntilde;ĀNĪ-S OR KNOWERS<br />
-			-in IAST-</span></b></td>
-			<td class="cellborder4solid bggreen99cc"><b><span class="styleyellow">TYPES OF J&Ntilde;ĀNĪ-S OR KNOWERS<br />
-			-in devanāgarī-</span></b></td>
-			<td class="cellborder4solid bggrey9"><b><span class="stylewhite">EXPLANATION</span></b></td>
+			<td class="cellborder4solid bggreen99cc"><b><span class="styleyellow">РОДЫ JÑĀNĪ, ЗНАТОКОВ<br />
+			— в IAST —</span></b></td>
+			<td class="cellborder4solid bggreen99cc"><b><span class="styleyellow">РОДЫ JÑĀNĪ, ЗНАТОКОВ<br />
+			— на деванагари —</span></b></td>
+			<td class="cellborder4solid bggrey9"><b><span class="stylewhite">ПОЯСНЕНИЕ</span></b></td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bggreenverylight"><span class="stylebigfontnames"><b>Samprāpta</b><br />
-			-lit. &#39;gotten&#39;-</span></td>
+			— букв. «полученный» —</span></td>
 			<td class="cellborder4solid bggreenverylight stylebigfont"><span class="unicodesfontblack">सम्प्राप्त</span></td>
-			<td class="cellborder4solid bgwhite">He has received initiation from a genuine Guru belonging to a genuine lineage of previous Guru-s (pāramparya).</td>
+			<td class="cellborder4solid bgwhite">Он получил посвящение от подлинного Гуру, принадлежащего к подлинной череде прежних Гуру (pāramparya).</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bggreenverylight"><span class="stylebigfontnames"><b>Ghaṭamāna</b><br />
-			-lit. &#39;taking place&#39;-</span></td>
+			— букв. «совершающийся» —</span></td>
 			<td class="cellborder4solid bggreenverylight stylebigfont"><span class="unicodesfontblack">घटमान</span></td>
-			<td class="cellborder4solid bgwhite">He is trying to concentrate his mind on the Highest Reality over and over again.</td>
+			<td class="cellborder4solid bgwhite">Он снова и снова пытается сосредоточить ум на Высшей Реальности.</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bggreenverylight"><span class="stylebigfontnames"><b>Siddha</b><br />
-			-lit. &#39;accomplished&#39;-</span></td>
+			— букв. «свершившийся» —</span></td>
 			<td class="cellborder4solid bggreenverylight stylebigfont"><span class="unicodesfontblack">सिद्ध</span></td>
-			<td class="cellborder4mixed bgwhite">He finally succeeded in concentrating his mind, in a permanent way, on the Highest Reality.</td>
+			<td class="cellborder4mixed bgwhite">Ему наконец удалось сосредоточить ум на Высшей Реальности постоянно.</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bggreenverylight"><span class="stylebigfontnames"><b>Siddhatama</b><br />
-			-lit. &#39;the most accomplished&#39;-</span></td>
+			— букв. «свершившийся более всех» —</span></td>
 			<td class="cellborder4solid bggreenverylight stylebigfont"><span class="unicodesfontblack">सिद्धतम</span></td>
-			<td class="cellborder4solid bgwhite">He became completely identified with the Great Lord after losing his limited individuality.</td>
+			<td class="cellborder4solid bgwhite">Он стал совершенно тождествен Великому Господу, утратив ограниченную свою отдельность.</td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">This classification is very simple to understand.</p>
+Разряд этот понять очень просто.
 
 <hr class="pv-rule" />
 
@@ -2013,42 +2025,44 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">सुसिद्धः स तु बोद्धव्यः सदाशिवसमः प्रिये॥३८॥</span><br />
 <span class="pv-iast">Susiddhaḥ sa tu boddhavyaḥ sadāśivasamaḥ priye||38||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Yoga<rp> (</rp><rt>yogaḥ</rt><rp>)</rp></ruby> <ruby>is said to be<rp> (</rp><rt>samudāhṛtaḥ</rt><rp>)</rp></ruby> <ruby>threefold<rp> (</rp><rt>trividhaḥ</rt><rp>)</rp></ruby> <ruby>like the word 'samāveśa'<rp> (</rp><rt>samāveśa-ukti-vat</rt><rp>)</rp></ruby>. In it <span class="pv-note">— in Yoga —</span> <span class="pv-w">(tatra)</span>, _<strong>(1)</strong><em> </em>(the subdivision of)<em> Yoga </em>(called)_ 'prāpta' <span class="pv-note">— lit. <em>(Yoga)</em> which has been obtained —</span> <span class="pv-w">(prāpta-yogaḥ)</span> is the <ruby>one in which the teachings have been obtained<rp> (</rp><rt>prāpta-upadeśaḥ tu... yaḥ</rt><rp>)</rp></ruby> by means of the uninterrupted succession of Guru-s and disciples <em>(in a tradition)</em> <span class="pv-w">(pāramparya-krameṇa)</span> —it <span class="pv-note">— this first type of Yoga —</span> <span class="pv-w">(saḥ)</span> <ruby>is also considered<rp> (</rp><rt>vijñeyaḥ... api</rt><rp>)</rp></ruby> <ruby>by the sages<rp> (</rp><rt>manīṣibhiḥ</rt><rp>)</rp></ruby> <ruby>to be threefold<rp> (</rp><rt>trividhaḥ</rt><rp>)</rp></ruby>—. _<strong>(2)</strong><em> </em>(The second subdivision of Yoga is the one)_ <ruby>which<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>causes<rp> (</rp><rt>karoti</rt><rp>)</rp></ruby> <em>(the appearance of)</em> <ruby>an mental effort<rp> (</rp><rt>cetasaḥ ghaṭanam</rt><rp>)</rp></ruby> <em>(even if)</em> <ruby>the mind is moving away<rp> (</rp><rt>calitasya</rt><rp>)</rp></ruby> from the <em>(Supreme)</em> <ruby>Principle<rp> (</rp><rt>tattvāt</rt><rp>)</rp></ruby> over and over again (punar punar). <ruby>The sages<rp> (</rp><rt>manīṣiṇaḥ</rt><rp>)</rp></ruby> think that that is (tam icchanti) 'ghaṭamāna' <span class="pv-note">— lit. <em>(Yoga)</em> which is taking place —</span> <span class="pv-w">(ghaṭamānam)</span>. <strong><em>(3)</em></strong> <em>(When the yogī)</em> clings with <em>(his)</em> <ruby>mind to<rp> (</rp><rt>cetasā... avalambate</rt><rp>)</rp></ruby> That <span class="pv-note">— i.e. to the Supreme Principle —</span> only (tad eva) <em>(and)</em> to no other second <em>(support)</em> <span class="pv-w">(na anyat dvitīyam)</span>, <ruby>then<rp> (</rp><rt>tadā</rt><rp>)</rp></ruby> <em>(this third subdivision of)</em> <ruby>Yoga<rp> (</rp><rt>yogaḥ</rt><rp>)</rp></ruby> <ruby>is known as<rp> (</rp><rt>jñeyaḥ</rt><rp>)</rp></ruby> <ruby>a Yoga which is 'siddha' or 'accomplished'<rp> (</rp><rt>siddha-yogaḥ</rt><rp>)</rp></ruby> <ruby>by the ones who desire the fruits of Yoga<rp> (</rp><rt>yoga-phala-arthibhiḥ</rt><rp>)</rp></ruby>. <ruby>The one who<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby>, <ruby>in whatever place and whatever condition<rp> (</rp><rt>yatra tatra eva... yathā tathā</rt><rp>)</rp></ruby>, <ruby>keeps enjoying<rp> (</rp><rt>saṁsthitaḥ api... bhuñjānaḥ</rt><rp>)</rp></ruby> <ruby>again and again<rp> (</rp><rt>punar</rt><rp>)</rp></ruby> the fruit of that <em>(Yoga called 'siddha')</em> <span class="pv-note">— i.e. the fruit is nothing but the Supreme Principle —</span> <span class="pv-w">(tad-phalam)</span>, is in no way abandoned by It <span class="pv-note">— by the Supreme Principle —</span> <span class="pv-w">(tena hīyate na kathañcana)</span>. <ruby>He<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <ruby>is certainly to be understood<rp> (</rp><rt>tu boddhavyaḥ</rt><rp>)</rp></ruby> as being a 'Susiddha' <span class="pv-note">— lit. Very accomplished —</span> <span class="pv-w">(su-siddhaḥ)</span>. <ruby>Oh dear One<rp> (</rp><rt>priye</rt><rp>)</rp></ruby>, <ruby>he is just like Sadāśiva<rp> (</rp><rt>sadāśiva-samaḥ</rt><rp>)</rp></ruby>||34-38||</p>
+<p class="pv-tr" markdown="1"><ruby>Йога<rp> (</rp><rt>yogaḥ</rt><rp>)</rp></ruby> <ruby>названа<rp> (</rp><rt>samudāhṛtaḥ</rt><rp>)</rp></ruby> <ruby>троичной<rp> (</rp><rt>trividhaḥ</rt><rp>)</rp></ruby>, <ruby>как и слово «samāveśa»<rp> (</rp><rt>samāveśa-ukti-vat</rt><rp>)</rp></ruby>. В ней <span class="pv-note">— в Йоге —</span> <span class="pv-w">(tatra)</span> _**(1)**_ _(подразделение)_ Йоги, _(зовущееся)_ «prāpta» <span class="pv-note">— букв. _(Йога)_, которая получена —</span> <span class="pv-w">(prāpta-yogaḥ)</span>, <ruby>есть та, в которой учение получено<rp> (</rp><rt>prāpta-upadeśaḥ tu... yaḥ</rt><rp>)</rp></ruby> непрерывною чередою Гуру и учеников _(в предании)_ <span class="pv-w">(pāramparya-krameṇa)</span> — и его <span class="pv-note">— первый этот род Йоги —</span> <span class="pv-w">(saḥ)</span> <ruby>мудрые<rp> (</rp><rt>manīṣibhiḥ</rt><rp>)</rp></ruby> <ruby>тоже почитают<rp> (</rp><rt>vijñeyaḥ... api</rt><rp>)</rp></ruby> <ruby>троичным<rp> (</rp><rt>trividhaḥ</rt><rp>)</rp></ruby>. _**(2)**_ _(Второе подразделение Йоги — то,)_ <ruby>которое<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> <ruby>вызывает<rp> (</rp><rt>karoti</rt><rp>)</rp></ruby> _(появление)_ <ruby>умственного усилия<rp> (</rp><rt>cetasaḥ ghaṭanam</rt><rp>)</rp></ruby>, _(даже когда)_ ум снова и снова (punar punar) <ruby>отходит<rp> (</rp><rt>calitasya</rt><rp>)</rp></ruby> от _(Высшего)_ <ruby>Начала<rp> (</rp><rt>tattvāt</rt><rp>)</rp></ruby>. <ruby>Мудрые<rp> (</rp><rt>manīṣiṇaḥ</rt><rp>)</rp></ruby> держатся того, что это (tam icchanti) «ghaṭamāna» <span class="pv-note">— букв. _(Йога)_, которая совершается —</span> <span class="pv-w">(ghaṭamānam)</span>. **_(3)_** _(Когда йогин)_ <ruby>держится умом<rp> (</rp><rt>cetasā... avalambate</rt><rp>)</rp></ruby> только (tad eva) Того <span class="pv-note">— то есть Высшего Начала —</span> _(и)_ никакой второй _(опоры)_ <span class="pv-w">(na anyat dvitīyam)</span>, <ruby>тогда<rp> (</rp><rt>tadā</rt><rp>)</rp></ruby> _(это третье подразделение)_ <ruby>Йоги<rp> (</rp><rt>yogaḥ</rt><rp>)</rp></ruby> <ruby>известно<rp> (</rp><rt>jñeyaḥ</rt><rp>)</rp></ruby> как Йога «siddha», <ruby>«свершившаяся»<rp> (</rp><rt>siddha-yogaḥ</rt><rp>)</rp></ruby>, <ruby>тем, кто желает плодов Йоги<rp> (</rp><rt>yoga-phala-arthibhiḥ</rt><rp>)</rp></ruby>. <ruby>Тот, кто<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby>, <ruby>в каком бы месте и в каком бы состоянии ни был<rp> (</rp><rt>yatra tatra eva... yathā tathā</rt><rp>)</rp></ruby>, <ruby>вновь и вновь<rp> (</rp><rt>punar</rt><rp>)</rp></ruby> вкушает <span class="pv-w">(saṁsthitaḥ api... bhuñjānaḥ)</span> плод той _(Йоги, зовущейся «siddha»)_ <span class="pv-note">— а плод этот есть не что иное, как Высшее Начало —</span> <span class="pv-w">(tad-phalam)</span>, никак не оставляем Им <span class="pv-note">— Высшим Началом —</span> <span class="pv-w">(tena hīyate na kathañcana)</span>. <ruby>Его<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <ruby>должно понимать<rp> (</rp><rt>tu boddhavyaḥ</rt><rp>)</rp></ruby> как «Susiddha» <span class="pv-note">— букв. весьма свершившийся —</span> <span class="pv-w">(su-siddhaḥ)</span>. <ruby>О дорогая<rp> (</rp><rt>priye</rt><rp>)</rp></ruby>, <ruby>он подобен Sadāśiva<rp> (</rp><rt>sadāśiva-samaḥ</rt><rp>)</rp></ruby>||34-38||</p>
 
-<p class="pv-en" lang="en">Now, the path of Yoga is classified in three ways. But regarding why the word 'samāveśa' is triple... in my opinion because it consists of two prefixes plus the original noun, like this: 'sam + ā + veśa'. Veśa means 'entrance', but with the addition of those two prefixes the final meaning is 'absorption'.</p>
+Итак, путь Йоги делится натрое. А почему слово «samāveśa» тройственно — на мой взгляд, потому, что оно состоит из двух приставок и самого слова: «sam + ā + veśa». Veśa значит «вхождение», но с этими двумя приставками итоговый смысл — «погружение».
 
-<p class="pv-en" lang="en">Again, a didactic chart will be very useful in showing these three kinds of Yoga:</p>
+И снова наглядная таблица очень пригодится, чтобы показать эти три рода Йоги:
 
-<table><caption><b>Chart 8: The path of Yoga</b></caption>
+<table>
+<caption><b>Таблица 8: путь Йоги</b></caption>
 	<tbody class="center middle">
 		<tr>
-			<td class="cellborder4solid bgblueintense"><b><span class="styleyellow">TYPES OF YOGA<br />
-			-in IAST-</span></b></td>
-			<td class="cellborder4solid bgblueintense"><b><span class="styleyellow">TYPES OF YOGA<br />
-			-in devanāgarī-</span></b></td>
-			<td class="cellborder4solid bgyellowintense"><b>EXPLANATION</b></td>
+			<td class="cellborder4solid bgblueintense"><b><span class="styleyellow">РОДЫ ЙОГИ<br />
+			— в IAST —</span></b></td>
+			<td class="cellborder4solid bgblueintense"><b><span class="styleyellow">РОДЫ ЙОГИ<br />
+			— на деванагари —</span></b></td>
+			<td class="cellborder4solid bgyellowintense"><b>ПОЯСНЕНИЕ</b></td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bgskybluelight"><span class="stylebigfontnames"><b>Prāpta</b><br />
-			-lit. &#39;gotten&#39;-</span></td>
+			— букв. «полученная» —</span></td>
 			<td class="cellborder4solid bgskybluelight stylebigfont"><span class="unicodesfontblack">प्राप्त</span></td>
-			<td class="cellborder4solid bgyellowverylight">In this kind of Yoga the teachings are gotten through an uninterrupted succession of Guru-s and disciples in a genuine lineage (pāramparya)</td>
+			<td class="cellborder4solid bgyellowverylight">В этом роде Йоги учение получают непрерывною чередою Гуру и учеников в подлинной череде (pāramparya)</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bgskybluelight"><span class="stylebigfontnames"><b>Ghaṭamāna</b><br />
-			-lit. &#39;taking place&#39;-</span></td>
+			— букв. «совершающаяся» —</span></td>
 			<td class="cellborder4solid bgskybluelight stylebigfont"><span class="unicodesfontblack">घटमान</span></td>
-			<td class="cellborder4solid bgyellowverylight">In the second sort of Yoga, a mental effort appears. Effort about what? About concentrating the mind on the Supreme Principle (the Highest Reality).</td>
+			<td class="cellborder4solid bgyellowverylight">Во втором роде Йоги является умственное усилие. Усилие о чём? О сосредоточении ума на Высшем Начале, на Высшей Реальности.</td>
 		</tr>
 		<tr>
 			<td class="cellborder4solid bgskybluelight"><span class="stylebigfontnames"><b>Siddha</b><br />
-			-lit. &#39;accomplished&#39;-</span></td>
+			— букв. «свершившаяся» —</span></td>
 			<td class="cellborder4solid bgskybluelight stylebigfont"><span class="unicodesfontblack">सिद्ध</span></td>
-			<td class="cellborder4solid bgyellowverylight">In the third and last type of Yoga, there is a permanent focus on the Supreme Principle without the aid of any other support (e.g. without the repetition of a mantra, etc.). The person who attained this Yoga is called Siddha, and his state reaches only up to Sadāśiva. Consequently, he has attained mastery over all the tattva-s from Sadāśiva (tattva 3) down to the earth element (tattva 36).</td>
+			<td class="cellborder4solid bgyellowverylight">В третьем и последнем роде Йоги есть постоянная сосредоточенность на Высшем Начале без всякой иной опоры — без повторения мантры и прочего. Достигшего этой Йоги зовут Siddha, и состояние его доходит лишь до Sadāśiva. А потому он обрёл власть над всеми таттвами от Sadāśiva (третьей) вниз до стихии земли (тридцать шестой).</td>
 		</tr>
-	</tbody></table>
+	</tbody>
+</table>
 
-<p class="pv-en" lang="en">It is enough, I suppose.</p>
+Полагаю, довольно.
 
 <hr class="pv-rule" />
 
@@ -2057,9 +2071,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">ज्ञानिनां योगिनां चैव सिद्धो योगविदुत्तमः॥३९॥</span><br />
 <span class="pv-iast">Jñānināṁ yogināṁ caiva siddho yogaviduttamaḥ||39||</span></p>
 
-<p class="pv-en" lang="en"><ruby>The importance<rp> (</rp><rt>vaiśiṣṭyam</rt><rp>)</rp></ruby> of these <em>(stages in Jñāna and Yoga)</em> <span class="pv-w">(eteṣām)</span> <ruby>is said to go<rp> (</rp><rt>samudāhṛtam</rt><rp>)</rp></ruby> <ruby>from lowest to highest<rp> (</rp><rt>uttara-uttara</rt><rp>)</rp></ruby>. <ruby>Among the jñānī-s and yogī-s<rp> (</rp><rt>jñāninām yoginām ca eva</rt><rp>)</rp></ruby>, the <em>(Su)</em><ruby>siddha<rp> (</rp><rt>siddhaḥ</rt><rp>)</rp></ruby> <em>(is)</em> <ruby>the highest knower of Yoga<rp> (</rp><rt>yoga-vit-uttamaḥ</rt><rp>)</rp></ruby>||39||</p>
+<p class="pv-tr" markdown="1"><ruby>Важность<rp> (</rp><rt>vaiśiṣṭyam</rt><rp>)</rp></ruby> этих _(ступеней в Jñāna и Йоге)_ <span class="pv-w">(eteṣām)</span> <ruby>названа<rp> (</rp><rt>samudāhṛtam</rt><rp>)</rp></ruby> <ruby>идущей от низшей к высшей<rp> (</rp><rt>uttara-uttara</rt><rp>)</rp></ruby>. <ruby>Среди jñānī и йогинов<rp> (</rp><rt>jñāninām yoginām ca eva</rt><rp>)</rp></ruby> _(Su)_<ruby>siddha<rp> (</rp><rt>siddhaḥ</rt><rp>)</rp></ruby> _(есть)_ <ruby>высший знаток Йоги<rp> (</rp><rt>yoga-vit-uttamaḥ</rt><rp>)</rp></ruby>||39||</p>
 
-<p class="pv-en" lang="en">The Susiddha (lit. very accomplished) is the highest knower of Yoga. Though the topic is confusing in both Mālinīvijayottaratantra and Tantrāloka (read the last part of the chapter 13), in my <ruby>opinion the Susiddha is the Siddhatama really<rp> (</rp><rt>the highest jñānī</rt><rp>)</rp></ruby>... and this is confirmed by Jayaratha <ruby>in his commentary under the aphorism 331<rp> (</rp><rt>chapter 13 in Tantrāloka</rt><rp>)</rp></ruby> <span class="pv-note">— Jayaratha is the author of Viveka, the great commentary on Tantrāloka —</span>. I am not quoting that portion here or the explanation will be long like a Bible. Remember that you can also call the path of Jñāna: 'the Yoga of Jñāna'. Because the Siddha, i.e. the yogī who reached the highest stage in Yoga only attained the state of Sadāśiva and the resulting mastery over all the tattva-s, as explained previously. Anyway, he is the Siddha and not the Susiddha. This is based on the constant teaching about the preeminence of Jñāna (the path where you use knowledge and not active practices) over Yoga (the path where you use action, i.e. active practices) in Trika Shaivism. <ruby>As in the highest tattva-s<rp> (</rp><rt>in Śiva and Śakti</rt><rp>)</rp></ruby> Yoga cannot be practiced at all (because there is no universe but only Aham), Yoga is useless here. But Jñāna can effectively penetrate into this level, hence its superiority over Yoga. All in all, the attainment of Liberation is a matter of 'becoming spiritually intelligent' and not of 'practicing'. Abhinavagupta confirms this in an indirect way by 13.329-332 in his Tantrāloka:</p>
+Susiddha (букв. весьма свершившийся) — высший знаток Йоги. Хотя предмет этот сбивчив и в Mālinīvijayottaratantra, и в «Тантралоке» (прочтите последнюю часть тринадцатой главы), на мой взгляд Susiddha и есть, по сути, Siddhatama, высший jñānī, — и это подтверждает Джаяратха в толковании под сутрой 331 (тринадцатая глава «Тантралоки»); Джаяратха — создатель Viveka, великого толкования на «Тантралоку». Того места я здесь не привожу, иначе объяснение выйдет длиною с Библию. Помните, что путь Jñāna можно назвать и «Йогой Jñāna». Ибо Siddha, то есть йогин, дошедший до высшей ступени в Йоге, достиг лишь состояния Sadāśiva и следующей из него власти над всеми таттвами, как объяснено выше. И всё же он Siddha, а не Susiddha. Основано это на постоянном учении Трики о превосходстве Jñāna — пути, где употребляют знание, а не деятельные упражнения, — над Йогой, путём, где употребляют действие, деятельные упражнения. А так как в высших таттвах, в Śiva и Śakti, упражняться в Йоге нельзя вовсе (ибо вселенной там нет, есть одно Aham), Йога здесь бесполезна. А Jñāna может проникнуть и на этот уровень — отсюда её превосходство над Йогой. В общем, обретение Освобождения есть дело «поумнения духом», а не «упражнения». Абхинавагупта косвенно подтверждает это в 13.329–332 своей «Тантралоки»:
 
 <p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">योगी तु प्राप्ततत्तत्त्वसिद्धिरप्युत्तमे पदे।</span><br />
 <span class="pv-iast">Yogī tu prāptatattattvasiddhirapyuttame pade|</span><br />
@@ -2078,15 +2092,15 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">यतश्च मोक्षदः प्रोक्तः स्वभ्यस्तज्ञानवान्बुधैः॥३३२॥</span><br />
 <span class="pv-iast">Yataśca mokṣadaḥ proktaḥ svabhyastajñānavānbudhaiḥ||332||</span></p>
 
-<p class="pv-en" lang="en"><ruby>The yogī<rp> (</rp><rt>yogī tu</rt><rp>)</rp></ruby> who has achieved accomplishment <ruby>regarding those tattva-s or categories<rp> (</rp><rt>prāpta-tad-tattva-siddhiḥ api</rt><rp>)</rp></ruby> leads <em>(other people)</em> <span class="pv-w">(yojakaḥ)</span> —by means of his knowership which has <ruby>been acquired after a lot of yogic practice—<rp> (</rp><rt>su-abhyasta-jñānitvāt eva</rt><rp>)</rp></ruby> toward the most elevated state of Sadāśiva, etc. <em>(at the most)</em> <span class="pv-w">(uttame pade... sadāśiva-ādye)</span>.</p>
+<p class="pv-tr" markdown="1"><ruby>Йогин<rp> (</rp><rt>yogī tu</rt><rp>)</rp></ruby>, <ruby>достигший свершения в тех таттвах<rp> (</rp><rt>prāpta-tad-tattva-siddhiḥ api</rt><rp>)</rp></ruby>, ведёт _(других людей)_ <span class="pv-w">(yojakaḥ)</span> — <ruby>знанием, обретённым долгим упражнением в Йоге<rp> (</rp><rt>su-abhyasta-jñānitvāt eva</rt><rp>)</rp></ruby>, — к высочайшему состоянию Sadāśiva и прочему _(и не выше)_ <span class="pv-w">(uttame pade... sadāśiva-ādye)</span>.</p>
 
-<p class="pv-en" lang="en"><ruby>Accomplishment<rp> (</rp><rt>yā siddhiḥ... sā</rt><rp>)</rp></ruby> <ruby>produced by Yoga<rp> (</rp><rt>yoga-jā</rt><rp>)</rp></ruby> <ruby>with respect to inferior tattva-s or categories<rp> (</rp><rt>adhareṣu ca tattveṣu</rt><rp>)</rp></ruby>, <ruby>though<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>being<rp> (</rp><rt>sthitā</rt><rp>)</rp></ruby> <em>(a means to get such things)</em> <ruby>as money and wife<rp> (</rp><rt>dhana-dāra-vat</rt><rp>)</rp></ruby>, <ruby>is not<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>a means<rp> (</rp><rt>upāyaḥ</rt><rp>)</rp></ruby> <ruby>for the Liberation<rp> (</rp><rt>vimocanāyām</rt><rp>)</rp></ruby> of this <em>(yogī)</em> <span class="pv-w">(asya)</span>.</p>
+<p class="pv-tr" markdown="1"><ruby>Свершение<rp> (</rp><rt>yā siddhiḥ... sā</rt><rp>)</rp></ruby>, <ruby>рождённое Йогой<rp> (</rp><rt>yoga-jā</rt><rp>)</rp></ruby> <ruby>в низших таттвах<rp> (</rp><rt>adhareṣu ca tattveṣu</rt><rp>)</rp></ruby>, <ruby>хотя<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>и есть<rp> (</rp><rt>sthitā</rt><rp>)</rp></ruby> _(средство обрести такое,)_ <ruby>как деньги и жена<rp> (</rp><rt>dhana-dāra-vat</rt><rp>)</rp></ruby>, <ruby>не есть<rp> (</rp><rt>na</rt><rp>)</rp></ruby> <ruby>средство<rp> (</rp><rt>upāyaḥ</rt><rp>)</rp></ruby> <ruby>к Освобождению<rp> (</rp><rt>vimocanāyām</rt><rp>)</rp></ruby> этого _(йогина)_ <span class="pv-w">(asya)</span>.</p>
 
-<p class="pv-en" lang="en"><ruby>But<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> <em>(when)</em> <ruby>the one<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby> <ruby>who<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> has acquired accomplishment from the entire course <em>(of his path of Yoga)</em> <span class="pv-w">(utpanna-samasta-adhva-siddhiḥ)</span> <em>(becomes)</em> <ruby>undoubtedly<rp> (</rp><rt>hi</rt><rp>)</rp></ruby> <ruby>Sadāśiva<rp> (</rp><rt>sadāśivaḥ</rt><rp>)</rp></ruby> <ruby>in person<rp> (</rp><rt>sākṣāt</rt><rp>)</rp></ruby> <em>(at the most, then)</em> <ruby>how<rp> (</rp><rt>katham</rt><rp>)</rp></ruby> <em>(can)</em> <ruby>he<rp> (</rp><rt>eṣaḥ</rt><rp>)</rp></ruby>, <ruby>having achieved the state of Guru<rp> (</rp><rt>gurutām vrajan</rt><rp>)</rp></ruby>, <ruby>liberate<rp> (</rp><rt>mocayet</rt><rp>)</rp></ruby> <ruby>mortals<rp> (</rp><rt>martyān</rt><rp>)</rp></ruby>?</p>
+<p class="pv-tr" markdown="1"><ruby>А<rp> (</rp><rt>tu</rt><rp>)</rp></ruby> _(когда)_ <ruby>тот<rp> (</rp><rt>saḥ</rt><rp>)</rp></ruby>, <ruby>кто<rp> (</rp><rt>yaḥ</rt><rp>)</rp></ruby> обрёл свершение на всём пути _(своей Йоги)_ <span class="pv-w">(utpanna-samasta-adhva-siddhiḥ)</span>, <ruby>несомненно<rp> (</rp><rt>hi</rt><rp>)</rp></ruby> _(становится)_ <ruby>самим<rp> (</rp><rt>sākṣāt</rt><rp>)</rp></ruby> <ruby>Sadāśiva<rp> (</rp><rt>sadāśivaḥ</rt><rp>)</rp></ruby> _(и не более, — то)_ <ruby>как<rp> (</rp><rt>katham</rt><rp>)</rp></ruby> <ruby>он<rp> (</rp><rt>eṣaḥ</rt><rp>)</rp></ruby>, <ruby>достигши состояния Гуру<rp> (</rp><rt>gurutām vrajan</rt><rp>)</rp></ruby>, <ruby>освободит<rp> (</rp><rt>mocayet</rt><rp>)</rp></ruby> <ruby>смертных<rp> (</rp><rt>martyān</rt><rp>)</rp></ruby>?</p>
 
-<p class="pv-en" lang="en"><ruby>For that reason<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>it has been declared<rp> (</rp><rt>uktam</rt><rp>)</rp></ruby> in Mālinīvijayottaratantra <span class="pv-note">— in 4.40 —</span> <span class="pv-w">(mālinī-tantre)</span> <ruby>by the sages<rp> (</rp><rt>budhaiḥ</rt><rp>)</rp></ruby>, <ruby>after pondering over<rp> (</rp><rt>vicārya</rt><rp>)</rp></ruby> Knowledge and Yoga <span class="pv-note">— lit. Knowledge and State of a yogī —</span> <span class="pv-w">(jñāna-yogite)</span>, that (yatas ca) the one <span class="pv-note">— i.e. the great being —</span> who has Bhāvanāmayajñāna or Knowledge obtained from contemplation <span class="pv-note">— lit. Knowledge who has been practiced a lot —</span> <span class="pv-w">(su-abhyasta-jñānavān)</span> <ruby>is said to be<rp> (</rp><rt>proktaḥ</rt><rp>)</rp></ruby> <ruby>bestower of Liberation<rp> (</rp><rt>mokṣa-daḥ</rt><rp>)</rp></ruby>||330-332||</p>
+<p class="pv-tr" markdown="1"><ruby>Оттого<rp> (</rp><rt>tena</rt><rp>)</rp></ruby> <ruby>и сказано<rp> (</rp><rt>uktam</rt><rp>)</rp></ruby> в Mālinīvijayottaratantra --в 4.40-- <span class="pv-w">(mālinī-tantre)</span> <ruby>мудрыми<rp> (</rp><rt>budhaiḥ</rt><rp>)</rp></ruby>, <ruby>по размышлении<rp> (</rp><rt>vicārya</rt><rp>)</rp></ruby> о Знании и Йоге --букв. <ruby>Знании и состоянии йогина--<rp> (</rp><rt>jñāna-yogite</rt><rp>)</rp></ruby>, что (yatas ca) тот --то есть великое существо, — у кого есть Bhāvanāmayajñāna, Знание, обретённое созерцанием --букв. <ruby>Знание, многократно упражнённое--<rp> (</rp><rt>su-abhyasta-jñānavān</rt><rp>)</rp></ruby>, <ruby>назван<rp> (</rp><rt>proktaḥ</rt><rp>)</rp></ruby> <ruby>дарующим Освобождение<rp> (</rp><rt>mokṣa-daḥ</rt><rp>)</rp></ruby>||330-332||</p>
 
-<p class="pv-en" lang="en">Note that by 'svabhyastajñānavān' Abhinavagupta is not referring to the yogī who has merely svabhyasta knowledge, which belongs to the Cintāmaya class (see chart 6 above), which is not the highest class of knowledge. This yogī can only lead people to Sadāśiva at the most, as established in aphorism 331. <ruby>So, Abhinavagupta is referring to the jñānī<rp> (</rp><rt>jñānavān or knower</rt><rp>)</rp></ruby> who has attained Bhāvanāmaya-Jñāna or direct knowledge gained through samādhi or trance. And because Abhinavagupta wrote 'svabhyastajñānavān' instead of 'bhāvanāmayajñānavān', all this confusion has emerged. These are the things that make Abhinavagupta both a source of Light and a source of confusion many times. Abhinavagupta's books are then not intended for tender rookies in Trika Shaivism but for advanced students endowed with monumental patience and perseverance.</p>
+Заметьте, что под «svabhyastajñānavān» Абхинавагупта разумеет не йогина, у которого есть лишь знание svabhyasta, относящееся к разряду Cintāmaya (см. Таблицу 6 выше), а это не высший разряд знания. Такой йогин может привести людей самое большее к Sadāśiva, как установлено в сутре 331. Стало быть, Абхинавагупта разумеет jñānī (jñānavān, знатока), достигшего Bhāvanāmaya-Jñāna, прямого знания, обретённого в samādhi. А из-за того, что Абхинавагупта написал «svabhyastajñānavān» вместо «bhāvanāmayajñānavān», вся эта путаница и вышла. Вот такие вещи и делают Абхинавагупту разом источником Света и источником путаницы. Книги Абхинавагупты, стало быть, писаны не для нежных новичков в Трике, а для продвинутых учеников, наделённых чудовищным терпением и упорством.
 
 <hr class="pv-rule" />
 
@@ -2095,9 +2109,9 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">यतश्च मोक्षदः प्रोक्तः स्वभ्यस्तज्ञानवान्बुधैः॥४०॥</span><br />
 <span class="pv-iast">Yataśca mokṣadaḥ proktaḥ svabhyastajñānavānbudhaiḥ||40||</span></p>
 
-<p class="pv-en" lang="en"><em>(Why?)</em> <ruby>Because<rp> (</rp><rt>yatas</rt><rp>)</rp></ruby> <ruby>his<rp> (</rp><rt>asya</rt><rp>)</rp></ruby> <ruby>Knowledge<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby> is indeed (api asti) free from the <ruby>fruits of the Yoga being practiced previously<rp> (</rp><rt>pūrvaḥ yoga-phala-ujjhitaḥ</rt><rp>)</rp></ruby>; <ruby>and<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>because<rp> (</rp><rt>yatas</rt><rp>)</rp></ruby> <ruby>he is giver of Liberation<rp> (</rp><rt>mokṣa-daḥ</rt><rp>)</rp></ruby>, <ruby>he is proclaimed<rp> (</rp><rt>proktaḥ</rt><rp>)</rp></ruby> <ruby>by the wise<rp> (</rp><rt>budhaiḥ</rt><rp>)</rp></ruby> as one whose knowledge is extremely elaborated <span class="pv-note">— lit. practiced a lot —</span> <span class="pv-w">(su-abhyasta-jñānavān)</span>||40||</p>
+<p class="pv-tr" markdown="1">_(Почему?)_ <ruby>Потому что<rp> (</rp><rt>yatas</rt><rp>)</rp></ruby> <ruby>его<rp> (</rp><rt>asya</rt><rp>)</rp></ruby> <ruby>Знание<rp> (</rp><rt>jñānam</rt><rp>)</rp></ruby> (api asti) свободно <ruby>от плодов Йоги, которой он упражнялся прежде<rp> (</rp><rt>pūrvaḥ yoga-phala-ujjhitaḥ</rt><rp>)</rp></ruby>; <ruby>и<rp> (</rp><rt>ca</rt><rp>)</rp></ruby> <ruby>потому что<rp> (</rp><rt>yatas</rt><rp>)</rp></ruby> <ruby>он даёт Освобождение<rp> (</rp><rt>mokṣa-daḥ</rt><rp>)</rp></ruby>, <ruby>он назван<rp> (</rp><rt>proktaḥ</rt><rp>)</rp></ruby> <ruby>мудрыми<rp> (</rp><rt>budhaiḥ</rt><rp>)</rp></ruby> тем, чьё знание крайне выношено <span class="pv-note">— букв. многократно упражнено —</span> <span class="pv-w">(su-abhyasta-jñānavān)</span>||40||</p>
 
-<p class="pv-en" lang="en">The Abhinavagupta's commentary on this stanza in Tantrāloka is the one given above (in 13.332 quoted in my explanation about the last aphorism... look up!).</p>
+Толкование Абхинавагупты на эту строфу в «Тантралоке» — то самое, что дано выше (13.332, приведённое в моём объяснении к прошлой сутре, — смотрите вверх!).
 
 <hr class="pv-rule" />
 
@@ -2106,19 +2120,19 @@ title: "Mālinīvijayottaratantra: глава 4"
 <span class="pv-sa pv-src" lang="sa">तन्त्रार्थमुपसंहृत्य समासाद्योगिनां हितम्॥४१॥</span><br />
 <span class="pv-iast">Tantrārthamupasaṁhṛtya samāsādyogināṁ hitam||41||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Thus<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>, <ruby>Oh You who are worshiped by the Yogī-s<rp> (</rp><rt>yogi-pūjite</rt><rp>)</rp></ruby>, all this (etad... sarvam) which has been spoken <em>(by Me)</em> <span class="pv-w">(kathitam)</span> <em>(and)</em> <ruby>which is to be learned<rp> (</rp><rt>vijñeyam</rt><rp>)</rp></ruby>, <ruby>because it briefly summarizes<rp> (</rp><rt>upasaṁhṛtya samāsāt</rt><rp>)</rp></ruby> <ruby>the meaning of the Tantra-s<rp> (</rp><rt>tantra-artham</rt><rp>)</rp></ruby>, <em>(is always)</em> <ruby>for the good<rp> (</rp><rt>hitam</rt><rp>)</rp></ruby> <ruby>of the yogī-s<rp> (</rp><rt>yoginām</rt><rp>)</rp></ruby>||41||</p>
+<p class="pv-tr" markdown="1"><ruby>Итак<rp> (</rp><rt>iti</rt><rp>)</rp></ruby>, <ruby>о Ты, почитаемая Йогинами<rp> (</rp><rt>yogi-pūjite</rt><rp>)</rp></ruby>, всё это (etad... sarvam), сказанное _(Мною)_ <span class="pv-w">(kathitam)</span> _(и)_ <ruby>подлежащее изучению<rp> (</rp><rt>vijñeyam</rt><rp>)</rp></ruby>, — <ruby>ибо оно кратко сводит воедино<rp> (</rp><rt>upasaṁhṛtya samāsāt</rt><rp>)</rp></ruby> <ruby>смысл Тантр<rp> (</rp><rt>tantra-artham</rt><rp>)</rp></ruby> — _(всегда)_ <ruby>ко благу<rp> (</rp><rt>hitam</rt><rp>)</rp></ruby> <ruby>йогинов<rp> (</rp><rt>yoginām</rt><rp>)</rp></ruby>||41||</p>
 
 <p class="pv-pair pv-c" data-pv="w1"><span class="pv-sa pv-src" lang="sa">इति श्रीमालिनीविजयोत्तरे तन्त्रे चतुर्थोऽधिकारः॥४॥</span><br />
 <span class="pv-iast">Iti śrīmālinīvijayottare tantre caturtho'dhikāraḥ||4||</span></p>
 
-<p class="pv-en" lang="en"><ruby>Here ends<rp> (</rp><rt>iti</rt><rp>)</rp></ruby> <ruby>the fourth chapter<rp> (</rp><rt>caturthaḥ adhikāraḥ</rt><rp>)</rp></ruby> <ruby>in venerable Mālinīvijayottaratantra<rp> (</rp><rt>śrī-mālinī-vijaya-uttare tantre</rt><rp>)</rp></ruby><strong>||4||</strong></p>
+<p class="pv-tr" markdown="1"><ruby>Здесь кончается<rp> (</rp><rt>iti</rt><rp>)</rp></ruby> <ruby>четвёртая глава<rp> (</rp><rt>caturthaḥ adhikāraḥ</rt><rp>)</rp></ruby> <ruby>достопочтенной Mālinīvijayottaratantra<rp> (</rp><rt>śrī-mālinī-vijaya-uttare tantre</rt><rp>)</rp></ruby>**||4||**</p>
 
-<p class="pv-en" lang="en">And no doubt that the teachings of the Supreme Lord are always for the welfare of the yogī-s. Who could raise doubts about that? OK, this chapter 4 is now finished.</p>
+И нет сомнения, что учение Высшего Господа всегда ко благу йогинов. Кто стал бы в этом сомневаться? Ну вот, четвёртая глава закончена.
 
 <p class="pv-pager nosearch" markdown="1">[← Глава 3 — Mantroddhārādhikāraḥ](/ksh/mv/ch3/) · [Глава 5 — Bhuvanādhvādhikāraḥ →](/ksh/mv/ch5/)</p>
 
 ---
 
-*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Глава 4](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-4-trika-scriptures-non-dual-shaivism-of-kashmir/835). Английского изложения для этой главы у него нет — под каждой строфой стоит пометка «Untranslated yet», — поэтому нет и перевода: переводить не с чего, а строить догадки о том, что предписывает обряд, хуже, чем не переводить вовсе.*
+*Санскрит (деванагари и IAST) перенесён без изменений с сайта **Габриэля Pradīpaka**: [Глава 4](https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-chapter-4-trika-scriptures-non-dual-shaivism-of-kashmir/835). Перевод сделан здесь, по его английскому изложению: по-русски этой тантры нет нигде.*
 
 <script src="/assets/js/pv-copy.js"></script>

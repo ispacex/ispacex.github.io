@@ -14,7 +14,7 @@ sys.path.insert(0, HERE)
 
 from book import MV
 from common.page import plural
-from convert import key
+from convert import keys
 from parts import CHAPTERS
 
 book = MV()
@@ -28,9 +28,11 @@ for (_, n, _, about), (pid, slug, title) in zip(CHAPTERS, book.parts):
     # Что на странице ждёт перевода: пустое место под строфой — там, где
     # изложения нет и у источника; английский абзац — там, где оно есть.
     blank = sum(1 for b in bs if b['k'] == 'gap')
-    prose = sum(1 for b in bs if b['k'] in ('text', 'list', 'table') and key(b))
-    done = sum(1 for b in bs if b['k'] in ('text', 'list', 'table')
-               and key(b) in book._tr(pid))
+    # Считается по ключам, а не по блокам: у списка из семи пунктов ключей
+    # семь, и переведённым он становится не с первого из них.
+    ks = [k for b in bs for k in keys(b)]
+    tr = book._tr(pid)
+    prose, done = len(ks), sum(1 for k in ks if k in tr)
     state = ('изложения нет и у источника' if blank else
              'переведена' if done >= prose else
              'переведено %d из %d абзацев' % (done, prose) if done else

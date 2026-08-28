@@ -46,7 +46,7 @@ sys.path.insert(0, HERE)
 from common.check import verify
 from common.page import SA_KINDS, pairing
 from book import MV
-from convert import key
+from convert import key, keys
 from parts import CHAPTERS
 
 CYR = re.compile(r'[А-Яа-яЁё]')
@@ -62,16 +62,11 @@ def source(book, pid):
     """
     d = {}
     for b in book.blocks(pid):
-        k = key(b)
-        if not k:
-            continue
+        ks = keys(b)
         if b['k'] == 'list':
-            for j, x in enumerate(b['items']):
-                d['%s/%d' % (k, j + 1)] = x
-        elif b['k'] == 'table':
-            d['%s/html' % k] = ''
+            d.update(zip(ks, b['items']))
         else:
-            d[k] = b.get('t', '')
+            d.update(dict.fromkeys(ks, b.get('t', '')))
     return d
 
 
