@@ -39,13 +39,29 @@ visarga is appended — and the voice pronounces the nominative case, `śivaḥ`
 named aloud. The only price for this is: at the end a slight aspiration is heard,
 which is not present in the spelling above the button.*
 
+<nav class="gl-toc nosearch" aria-label="Dictionary sections">
+<ul>
+<li><a href="#сознание-и-его-имена">Consciousness and its names</a> <span class="n">21</span></li>
+<li><a href="#сжатие-и-раскрытие">Contraction and expansion</a> <span class="n">8</span></li>
+<li><a href="#вселенная-и-её-ступени">The universe and its stages</a> <span class="n">11</span></li>
+<li><a href="#познающий-и-познаваемое">The knower and the known</a> <span class="n">10</span></li>
+<li><a href="#семь-познающих">Seven knowers</a> <span class="n">6</span></li>
+<li><a href="#узы">Bonds</a> <span class="n">9</span></li>
+<li><a href="#пять-действий">Five actions</a> <span class="n">13</span></li>
+<li><a href="#тело-дыхание-средоточия">Body, breath, centers</a> <span class="n">8</span></li>
+<li><a href="#путь-и-вхождение">Path and entry</a> <span class="n">10</span></li>
+<li><a href="#плод">Fruit</a> <span class="n">7</span></li>
+<li><a href="#писание-учитель-милость">Scripture, teacher, grace</a> <span class="n">8</span></li>
+</ul>
+</nav>
+
 <p><label for="gl-filter">Filter:</label>
 <input type="search" id="gl-filter" placeholder="start typing a term, for example “chiti” or “sankoca”" /></p>
 
 <p id="gl-voice" data-audio="/ksh/ph/audio/" data-store="ph-voice">Voice:
 <label><input type="radio" name="gl-voice" value="lekha" checked /> system (Lekha, hi_IN)</label></p>
 
-## Consciousness and its names
+<h2 id="сознание-и-его-имена">Consciousness and its names</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -74,7 +90,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## Compression and expansion
+<h2 id="сжатие-и-раскрытие">Compression and expansion</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -90,7 +106,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## The universe and its levels
+<h2 id="вселенная-и-её-ступени">The universe and its levels</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -109,7 +125,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## The knower and the knowable
+<h2 id="познающий-и-познаваемое">The knower and the knowable</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -127,21 +143,21 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## Seven knowers
+<h2 id="семь-познающих">Seven knowers</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
-<tr><th>Term</th><th>Sanskrit</th><th>Devanāgarī</th><th>Meaning</th><th>Where in the text</th></tr>
-<tr id="t-sakala" data-alias="сакала"><td class="term">Sakala</td><td class="skt" data-tts="sakala">sakala</td><td class="deva">सकल</td>“with parts” — a bound being who has all three impurities: an ordinary person.<td></td><td class="where"><a href="/en/ksh/ph/s14/#g-pada" title="Aphorism 14">14</a> · <a href="/en/ksh/ph/s18/#g-kriya" title="Aphorism 18">18</a> · <a href="/en/ksh/ph/s3/#g-prakasha" title="Aphorism 3">3</a></td></tr>
-<tr id="t-pralayakala" data-alias="пралаякала пралаякевалин"><td class="term">Pralayākala</td><td class="skt" data-tts="pralayakala">pralayākala</td><td class="deva">प्रलयाकल</td><td>one who knows emptiness: he who has no māyic impurity but sleeps in dissolution.</td><td class="where"><a href="/en/ksh/ph/s3/#g-prakasha" title="Aphorism 3">3</a></td></tr>
-<tr id="t-vijnanakala" data-alias="виджнянакала виджнанакала"><td class="term">Vijñānākala</td><td class="skt" data-tts="vijnanakala">vijñānākala</td><td class="deva">विज्ञानाकल</td><td>pure Consciousness without doing: he has only the first impurity left. Above māyā and below Pure Vidyā.</td><td class="where"><a href="/en/ksh/ph/s3/#g-prakasha" title="Aphorism 3">3</a> · <a href="/en/ksh/ph/s5/#g-anashritashiva" title="Aphorism 5">5</a> · <a href="/en/ksh/ph/s8/#g-vijnanakala" title="Aphorism 8">8</a></td></tr>
-<tr id="t-pashu" data-alias="пашу"><td class="term">Paśu</td><td class="skt" data-tts="pashu">paśu</td><td class="deva">पशु</td><td>“cattle” — a bound being taken as tied. Not abuse: the word speaks of bonds, not of worth. Its counterpart is <code>pati</code>, the Lord.</td><td class="where"><a href="/en/ksh/ph/s12/#g-camatkara" title="Aphorism 12">12</a> · <a href="/en/ksh/ph/s17/#g-vikasa" title="Aphorism 17">17</a> · <a href="/en/ksh/ph/s18/#g-vidya" title="Aphorism 18">18</a></td></tr>
-<tr id="t-pati" data-alias="пати"><td class="term">Pati</td><td class="skt" data-tts="pati">pati</td><td class="deva">पति</td><td>The Lord — the same being, but one who has recognised itself. The state of <code>pati</code> and the state of <code>paśu</code> differ not in nature, but in whether it is visible.</td><td class="where"><a href="/en/ksh/ph/s12/#g-camatkara" title="Aphorism 12">12</a> · <a href="/en/ksh/ph/s5/#g-jnana" title="Aphorism 5">5</a></td></tr>
-<tr id="t-bhumika" data-alias="бхумика"><td class="term">Bhūmikā</td><td class="skt" data-tts="bhumika">bhūmikā</td><td class="deva">भूमिका</td><td>“role” — that which an actor plays. The eighth sūtra speaks through them of philosophical schools: all of them are roles of one and the same Consciousness.</td><td class="where"><a href="/en/ksh/ph/s10/#g-vikasa" title="Aphorism 10">10</a> · <a href="/en/ksh/ph/s12/#g-vimarsha" title="Aphorism 12">12</a> · <a href="/en/ksh/ph/s13/#g-cetana" title="Aphorism 13">13</a></td></tr>
+<tr><th>The term</th><th>Sanskrit</th><th>Devanāgarī</th><th>Meaning</th><th>Where in the text</th></tr>
+<tr id="t-sakala" data-alias="сакала"><td class="term">Sakala</td><td class="skt" data-tts="sakala">sakala</td><td class="deva">सकल</td><td>"with parts" — a bound being who has all three impurities: an ordinary person.</td><td class="where"><a href="/en/ksh/ph/s14/#g-pada" title="Aphorism 14">14</a> · <a href="/en/ksh/ph/s18/#g-kriya" title="Aphorism 18">18</a> · <a href="/en/ksh/ph/s3/#g-prakasha" title="Aphorism 3">3</a></td></tr>
+<tr id="t-pralayakala" data-alias="пралаякала пралаякевалин"><td class="term">Pralayākala</td><td class="skt" data-tts="pralayakala">pralayākala</td><td class="deva">प्रलयाकल</td><td>knower of emptiness: one who has no māyic dirt, but who sleeps in dissolution.</td><td class="where"><a href="/en/ksh/ph/s3/#g-prakasha" title="Aphorism 3">3</a></td></tr>
+<tr id="t-vijnanakala" data-alias="виджнянакала виджнанакала"><td class="term">Vijñānākala</td><td class="skt" data-tts="vijnanakala">vijñānākala</td><td class="deva">विज्ञानाकल</td><td>pure Consciousness without action: it retains only the first impurity. Above māyā and below Pure Vidyā.</td><td class="where"><a href="/en/ksh/ph/s3/#g-prakasha" title="Aphorism 3">3</a> · <a href="/en/ksh/ph/s5/#g-anashritashiva" title="Aphorism 5">5</a> · <a href="/en/ksh/ph/s8/#g-vijnanakala" title="Aphorism 8">8</a></td></tr>
+<tr id="t-pashu" data-alias="пашу"><td class="term">Paśu</td><td class="skt" data-tts="pashu">paśu</td><td class="deva">पशु</td><td>“cattle” — a bound being taken as tied. Not abuse: the word speaks of bonds, not of worth. Its counterpart — <code>pati</code>, O Lord.</td><td class="where"><a href="/en/ksh/ph/s12/#g-camatkara" title="Aphorism 12">12</a> · <a href="/en/ksh/ph/s17/#g-vikasa" title="Aphorism 17">17</a> · <a href="/en/ksh/ph/s18/#g-vidya" title="Aphorism 18">18</a></td></tr>
+<tr id="t-pati" data-alias="пати"><td class="term">Pati</td><td class="skt" data-tts="pati">pati</td><td class="deva">पति</td><td>The Lord is the same being, but one that has recognized itself. The state <code>pati</code> and the state <code>paśu</code> differ not by nature, but by whether it is visible.</td><td class="where"><a href="/en/ksh/ph/s12/#g-camatkara" title="Aphorism 12">12</a> · <a href="/en/ksh/ph/s5/#g-jnana" title="Aphorism 5">5</a></td></tr>
+<tr id="t-bhumika" data-alias="бхумика"><td class="term">Bhūmikā</td><td class="skt" data-tts="bhumika">bhūmikā</td><td class="deva">भूमिका</td><td>"role" — that which the actor plays. The eighth sutra speaks of the philosophical schools: they are all roles of the same Consciousness.</td><td class="where"><a href="/en/ksh/ph/s10/#g-vikasa" title="Aphorism 10">10</a> · <a href="/en/ksh/ph/s12/#g-vimarsha" title="Aphorism 12">12</a> · <a href="/en/ksh/ph/s13/#g-cetana" title="Aphorism 13">13</a></td></tr>
 </table>
 </div>
 
-## Bonds
+<h2 id="узы">Bonds</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -158,7 +174,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## Five Actions
+<h2 id="пять-действий">Five actions</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -179,7 +195,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## Body, breath, focal points
+<h2 id="тело-дыхание-средоточия">Body, breath, focal points</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -195,7 +211,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## The Path and the Entry
+<h2 id="путь-и-вхождение">The path and the entry</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -213,7 +229,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## The Fruit
+<h2 id="плод">Fruit</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">
@@ -228,7 +244,7 @@ which is not present in the spelling above the button.*
 </table>
 </div>
 
-## Scripture, teacher, grace
+<h2 id="писание-учитель-милость">Scripture, teacher, grace</h2>
 
 <div class="gl-wrap" markdown="0">
 <table class="gl">

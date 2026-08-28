@@ -260,7 +260,7 @@ ru: /ksh/sv/ch17/
 <span class="pv-sa pv-src" lang="sa">जायते शीतलस्वादु भवत्पूजामहासरः॥१७.२८॥</span><br />
 <span class="pv-iast">Jāyate śītalasvādu bhavatpūjāmahāsaraḥ||17.28||</span></p>
 
-<p class="pv-tr" markdown="1"><ruby>O Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>in others<rp> (</rp><rt>keṣām api</rt><rp>)</rp></ruby> <ruby>in the longing to contemplate, see, and touch Thee<rp> (</rp><rt>tvat-dhyāna-darśana-sparśa-tṛṣi</rt><rp>)</rp></ruby> <ruby>is born<rp> (</rp><rt>jāyate</rt><rp>)</rp></ruby> <ruby>a cool and sweet<rp> (</rp><rt>śītala-svādu</rt><rp>)</rp></ruby>great lake of worship of Thee<ruby> (<rp></rp><rt>bhavat-pūjā-mahā-saraḥ</rt><rp>)</rp></ruby>||17.28||</p>
+<p class="pv-tr" markdown="1"><ruby>The Lord<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-prabhu" class="pv-gl">prabho</a></rt><rp>)</rp></ruby>, <ruby>For others<rp> (</rp><rt>keṣām api</rt><rp>)</rp></ruby> <ruby>in the thirst to behold, see, and touch You<rp> (</rp><rt>tvat-dhyāna-darśana-sparśa-tṛṣi</rt><rp>)</rp></ruby> <ruby>is born<rp> (</rp><rt>jāyate</rt><rp>)</rp></ruby> <ruby>cool and sweet<rp> (</rp><rt>śītala-svādu</rt><rp>)</rp></ruby> <ruby>great lake of reverence for You<rp> (</rp><rt>bhavat-pūjā-mahā-saraḥ</rt><rp>)</rp></ruby>||17.28||</p>
 
 <hr class="pv-rule" />
 
@@ -377,7 +377,7 @@ ru: /ksh/sv/ch17/
 <span class="pv-sa pv-src" lang="sa">वितन्यमाना लभते प्रतिष्ठां त्वयि कामपि॥१७.४१॥</span><br />
 <span class="pv-iast">Vitanyamānā labhate pratiṣṭhāṁ tvayi kāmapi||17.41||</span></p>
 
-<p class="pv-tr" markdown="1">And<ruby><rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>worship<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-arcana" class="pv-gl">arcā</a></rt><rp>)</rp></ruby> <ruby>of a disconnected form<rp> (</rp><rt>asambaddha-rūpa</rt><rp>)</rp></ruby>, <ruby>performed<rp> (</rp><rt>vitanyamānā</rt><rp>)</rp></ruby> by those <ruby>whom nothing restrains in the madness of devotion<rp> (</rp><rt>bhakti-unmāda-nirargalaiḥ</rt><rp>)</rp></ruby>, <ruby>attains<rp> (</rp><rt>labhate</rt><rp>)</rp></ruby> <ruby>in You<rp> (</rp><rt>tvayi</rt><rp>)</rp></ruby> <ruby>some<rp> (</rp><rt>kām api</rt><rp>)</rp></ruby> <ruby>support<rp> (</rp><rt>pratiṣṭhām</rt><rp>)</rp></ruby>||17.41||</p>
+<p class="pv-tr" markdown="1"><ruby>And.<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>veneration<rp> (</rp><rt><a href="/en/ksh/sv/glossary/#t-arcana" class="pv-gl">arcā</a></rt><rp>)</rp></ruby> <ruby>of incoherent appearance<rp> (</rp><rt>asambaddha-rūpa</rt><rp>)</rp></ruby>, <ruby>performed<rp> (</rp><rt>vitanyamānā</rt><rp>)</rp></ruby> those <ruby>whom nothing holds in the madness of devotion<rp> (</rp><rt>bhakti-unmāda-nirargalaiḥ</rt><rp>)</rp></ruby>, <ruby>acquires<rp> (</rp><rt>labhate</rt><rp>)</rp></ruby> <ruby>in You<rp> (</rp><rt>tvayi</rt><rp>)</rp></ruby> <ruby>a certain<rp> (</rp><rt>kām api</rt><rp>)</rp></ruby> <ruby>support<rp> (</rp><rt>pratiṣṭhām</rt><rp>)</rp></ruby>||17.41||</p>
 
 <hr class="pv-rule" />
 

@@ -197,7 +197,7 @@ ru: /ksh/sv/ch5/
 <span class="pv-sa pv-src" lang="sa">त्वच्चिन्तामदिरामदतरलीकृतहृदय एव स्याम्॥५.२१॥</span><br />
 <span class="pv-iast">Tvaccintāmadirāmadataralīkṛtahṛdaya eva syām||5.21||</span></p>
 
-<p class="pv-tr" markdown="1">And<ruby>I<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>wandering<rp> (</rp><rt>vicaran</rt><rp>)</rp></ruby> <ruby>through the stages of yoga<rp> (</rp><rt>yoga-daśāsu</rt><rp>)</rp></ruby>, <ruby>and<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>abiding in aversion from sense objects<rp> (</rp><rt>viṣaya-vyāvṛtti-vartamānaḥ</rt><rp>)</rp></ruby>, — <ruby>may I be<rp> (</rp><rt>syām</rt><rp>)</rp></ruby> <ruby>ever the same<rp> (</rp><rt>eva</rt><rp>)</rp></ruby>, <ruby>whose heart trembles with the intoxication of the wine of thought of Thee<rp> (</rp><rt>tvat-cintā-madirā-mada-taralī-kṛta-hṛdayaḥ</rt><rp>)</rp></ruby>||5.21||</p>
+<p class="pv-tr" markdown="1"><ruby>And.<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>wandering<rp> (</rp><rt>vicaran</rt><rp>)</rp></ruby> <ruby>along the steps of yoga<rp> (</rp><rt>yoga-daśāsu</rt><rp>)</rp></ruby>, <ruby>and<rp> (</rp><rt>api</rt><rp>)</rp></ruby> <ruby>being in aversion to sense objects<rp> (</rp><rt>viṣaya-vyāvṛtti-vartamānaḥ</rt><rp>)</rp></ruby>, — <ruby>Let there be<rp> (</rp><rt>syām</rt><rp>)</rp></ruby> <ruby>I am still the same.<rp> (</rp><rt>eva</rt><rp>)</rp></ruby>, <ruby>whose heart trembles with the intoxication of wine, thoughts of You<rp> (</rp><rt>tvat-cintā-madirā-mada-taralī-kṛta-hṛdayaḥ</rt><rp>)</rp></ruby>||5.21||</p>
 
 <hr class="pv-rule" />
 
