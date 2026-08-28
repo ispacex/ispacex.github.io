@@ -27,8 +27,8 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 
-from common.terms import (PLACES, count, find, hits, index as _index, keyof,  # noqa: F401
-                          markup, slug, stem, t, targets, terms as _terms)
+from common.terms import (PLACES, count, dump, find, hits, index as _index,  # noqa: F401
+                          keyof, markup, slug, stem, t, targets, terms as _terms)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 

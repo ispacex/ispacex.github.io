@@ -39,8 +39,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 sys.path.insert(0, HERE)
 
-from common.terms import (PLACES, count, find, hits, index as _index, keyof,  # noqa: F401
-                          markup, slug, stem, t, targets, terms as _terms)
+from common.terms import (PLACES, count, dump, find, hits, index as _index,  # noqa: F401
+                          keyof, markup, slug, stem, t, targets, terms as _terms)
 from parts import PARTS
 
 GLOSSARY = '/ksh/ph/glossary/'

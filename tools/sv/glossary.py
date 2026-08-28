@@ -110,6 +110,9 @@ def main():
 
     os.makedirs(OUT, exist_ok=True)
     open(os.path.join(OUT, 'index.md'), 'w', encoding='utf-8').write('\n'.join(out))
+    # Те же статьи, вторым файлом: подсказка при наведении на слово в
+    # подстрочнике берёт их оттуда, не таща сюда читателя (common/terms.dump).
+    words.dump(OUT, words.SECTIONS)
     print('статей: %d, ссылок в гимны: %d'
           % (sum(1 for _ in words.terms()), sum(len(v) for v in links.values())))
 

@@ -29,6 +29,7 @@ python3 tools/check-lang.py # language: an English page speaks English — its t
 python3 tools/check-switch.py # language switch: a translated page has a way to its twin, both ways (reads the build)
 python3 tools/check-address.py # address: a page is named by the address its links use, not by its file name (reads the build)
 python3 tools/check-frontmatter.py # front matter: every page has one, so the local build sees the same pages the reader does (needs no build)
+python3 tools/check-gloss.py # glossary tooltip: every Sanskrit word linked to the glossary has an article to show on hover (reads the build)
 ```
 
 Every `.md` that is a page carries front matter, and the check above says so.
@@ -36,6 +37,13 @@ GitHub Pages runs `jekyll-optional-front-matter` and makes a page out of a
 headerless `.md` anyway; the container has no such plugin and copies the file
 as is. A page without front matter is therefore live but absent from
 `_sitecheck` — and every other check runs over `_sitecheck` (VS-43).
+
+Hovering a Sanskrit word in the interlinear gloss shows its dictionary article
+in place (`assets/js/gloss.js`, VS-35). It reads
+`/ksh/<section>/glossary/terms.json`, written by the same `tools/*/glossary.py`
+that writes the glossary page — never by hand. The English twin next to the
+translated glossary is extracted from that translated page, so both languages
+say what their own glossary says.
 
 The remote theme's gem is absent in the container, so the local build excludes
 `assets/css/style.scss` — that changes how a page looks, not its markup or what
