@@ -33,7 +33,13 @@ for (_, n, _, about), (pid, slug, title) in zip(CHAPTERS, book.parts):
     ks = [k for b in bs for k in keys(b)]
     tr = book._tr(pid)
     prose, done = len(ks), sum(1 for k in ks if k in tr)
-    state = ('изложения нет и у источника' if blank else
+    # Три состояния у глав 1–4 и три у глав 5–23, и совпадать им нельзя:
+    # «переведена» с английского изложения и «переведена с санскрита» — разной
+    # крепости слова, и оглавление обязано их различать.
+    state = ('переведена с санскрита' if blank and done >= prose else
+             'переведено %d из %d строф, прямо с санскрита' % (done, prose)
+             if blank and done else
+             'изложения нет и у источника, перевода пока нет' if blank else
              'переведена' if done >= prose else
              'переведено %d из %d абзацев' % (done, prose) if done else
              'перевода пока нет')

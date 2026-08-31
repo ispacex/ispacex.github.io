@@ -4,8 +4,12 @@
     python3 show.py 1          # что осталось в первой главе
     python3 show.py 1 --json   # то же, готовым куском для ru/1.json
 
-Служебный скрипт для самой работы перевода: страницы он не трогает. Главы, у
-которых изложения нет вовсе (5–23), молчат: переводить там нечего.
+Служебный скрипт для самой работы перевода: страницы он не трогает.
+
+В главах 5–23 английского абзаца под строфой нет вовсе — там пустое место
+(блок `gap`), и переводится не изложение, а сама строфа. Поэтому под ключом
+здесь печатается то, что этот ключ подписывает: у главы 1–4 английский абзац
+Габриэля, у главы 5–23 — транслитерация строфы, к которой пусто.
 """
 import json, os, sys
 
@@ -16,6 +20,14 @@ sys.path.insert(0, HERE)
 from book import MV
 from convert import key
 
+def verse(bs, i):
+    """Транслитерация ближайшей строфы над пустым местом."""
+    for b in reversed(bs[:i]):
+        if b['k'] == 'iast':
+            return b['t']
+    return ''
+
+
 if __name__ == '__main__':
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     as_json = '--json' in sys.argv
@@ -24,10 +36,14 @@ if __name__ == '__main__':
     for pid in args:
         bs, tr = b.blocks(pid), b.load(pid)
         for i, x in enumerate(bs):
-            if x['k'] not in ('text', 'list', 'table') or tr(i, x) is not None:
+            if x['k'] not in ('text', 'list', 'table', 'gap') or tr(i, x) is not None:
                 continue
             k = key(x)
-            if x['k'] == 'text':
+            if x['k'] == 'gap':
+                # Пустому месту подписывать нечего собою: печатаем строфу, под
+                # которой оно стоит, — её и предстоит перевести.
+                out[k] = verse(bs, i)
+            elif x['k'] == 'text':
                 out[k] = x['t']
             elif x['k'] == 'list':
                 for j, item in enumerate(x['items']):

@@ -356,7 +356,11 @@ def sections(blocks, tr):
         after = max(x for x in (i, sec['sa'], sec['iast']) if x is not None)
         for j in range(after + 1, end):
             b = blocks[j]
-            if b['k'] != 'text':
+            # `gap` — пустое место там, где изложения нет и у источника.
+            # Перевод в него приходит прямо с санскрита и встаёт на странице
+            # таким же абзацем, как перевод изложения, — значит, и на якорь
+            # «перевод» в оглавлении страницы годится так же.
+            if b['k'] not in ('text', 'gap'):
                 continue
             v = tr(j, b) or ''
             # Кириллицы должно быть много: среди абзацев попадается IAST,
@@ -370,7 +374,11 @@ def sections(blocks, tr):
             sec['iast'] = sec['ru'] = None
         if sec['ru'] is None and sec['sa'] is not None:
             for j in range(after + 1, end):
-                if blocks[j]['k'] == 'text':
+                b = blocks[j]
+                # Пустое место без перевода на странице не появляется вовсе:
+                # якорь на него встал бы в никуда, а ссылка в оглавлении
+                # страницы вела бы мимо.
+                if b['k'] == 'text' or (b['k'] == 'gap' and tr(j, b) is not None):
                     sec['ru'] = j
                     break
         out.append(sec)
