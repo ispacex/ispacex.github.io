@@ -25,3 +25,4 @@ title: "Inner space exploration institute"
 * [Hoop](/hoop)
 * [Books](/books)
 * [Ship](/ship)
+* [Цветная метабиблиотека](/metalibrary/) — пересчёт к лекции Р. В. Михайлова
