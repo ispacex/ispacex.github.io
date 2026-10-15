@@ -28,3 +28,4 @@ The main tasks of the institute:
 * [Hoop](/en/hoop/)
 * [Books](/en/books/)
 * [Ship](/en/ship/)
+* [Coloured metalibrary](/metalibrary/en/) — a recomputation for R. Mikhailov's lecture
