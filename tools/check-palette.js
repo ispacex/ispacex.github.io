@@ -94,6 +94,12 @@ const WANT = [
 	['scriptures of trika', null, 'ru'],
 	['scriptures of trika', '/en/ksh/scriptures/', 'en'],
 	['tantraloka', '/en/ksh/ta/', 'en'],
+	// Раздел, у которого первой написана английская страница: она лежит без
+	// приставки, русская — в `/ru/`. Каждому читателю — своя.
+	['математика', '/ru/math/'],
+	['метабиблиотеки', '/ru/math/libraries/'],
+	['mathematics', '/math/', 'en'],
+	['metalibraries', '/math/libraries/', 'en'],
 ];
 
 function jumps(pages) {

@@ -7,7 +7,7 @@ ru: /art/
 
 ## Pigments
 
-[Back to main](/en/)
+[Back to main](/)
 
 * [Pigments](/en/art/pigments/)
 

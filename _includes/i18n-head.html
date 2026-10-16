@@ -6,8 +6,11 @@ matter (`ru:`), его туда кладёт `tools/translate.py`. Русска�
 знать не может: она написана раньше и о переводе не подозревает. Поэтому список
 переведённого собирается тем же скриптом в `_data/i18n.yml`.
 
-`x-default` указывает на русскую: она оригинал, и читателю, чей язык нам
-неизвестен, показывать надо её.
+`x-default` указывает на ту из двух, что лежит без языковой приставки в
+адресе. У разделов, переведённых в `/en/`, это русская: она оригинал. У
+главной и «Математики» — английская (`/`, `/math/`): их русские двойники лежат
+в `/ru/` и знают английский адрес сами (`en:` во front matter), а читателя, чей
+язык неизвестен, главная встречает по-английски.
 
 Адрес берётся в том виде, в каком его пишут ссылки на сайте, — без `.html`:
 `page.url` отдавал имя файла (`/dance/ns-ch5.html`), а обратный адрес
@@ -23,9 +26,18 @@ matter (`ru:`), его туда кладёт `tools/translate.py`. Русска�
 {%- endcomment -%}
 {%- assign here = page.url | split: '.html' | first -%}
 {%- if page.ru -%}
+{%- assign prefix = here | slice: 0, 4 -%}
 <link rel="alternate" hreflang="ru" href="{{ page.ru | absolute_url }}" />
 <link rel="alternate" hreflang="en" href="{{ here | absolute_url }}" />
+{%- if prefix == '/en/' %}
 <link rel="alternate" hreflang="x-default" href="{{ page.ru | absolute_url }}" />
+{%- else %}
+<link rel="alternate" hreflang="x-default" href="{{ here | absolute_url }}" />
+{%- endif -%}
+{%- elsif page.en -%}
+<link rel="alternate" hreflang="ru" href="{{ here | absolute_url }}" />
+<link rel="alternate" hreflang="en" href="{{ page.en | absolute_url }}" />
+<link rel="alternate" hreflang="x-default" href="{{ page.en | absolute_url }}" />
 {%- elsif site.data.i18n.en contains here -%}
 <link rel="alternate" hreflang="ru" href="{{ here | absolute_url }}" />
 <link rel="alternate" hreflang="en" href="{{ here | prepend: '/en' | absolute_url }}" />

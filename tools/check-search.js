@@ -247,7 +247,15 @@ function aliasesOf(name, file) {
    они здесь поимённо, чтобы исключение оставалось перечнем, а не дырой. */
 const NEUTRAL = ['/ksh/ta/', '/ship/'];
 
-const TWO = ['śaktipāta', 'rasa', 'Abhinavagupta', 'раса'];
+/* Язык страницы — тот, что она объявила, а не приставка в адресе. Приставки
+   хватало, пока английское лежало только в `/en/`; у главной и «Математики»
+   английская лежит без приставки (`/`, `/math/`), а русская — в `/ru/`.
+   Объявленный язык записан в указателе палитры, его и читаем. */
+const LANG = new Map(JSON.parse(fs.readFileSync(path.join(SITE, 'nav-index.json'), 'utf8'))
+	.pages.map((p) => [p.url, p.lang]));
+const isEn = (u) => (LANG.get(u) || (u.startsWith('/en/') ? 'en' : 'ru')).startsWith('en');
+
+const TWO = ['śaktipāta', 'rasa', 'Abhinavagupta', 'раса', 'Lean'];
 
 async function langs() {
 	console.log('\nЯзык читателя (одна страница — одному из двух):');
@@ -255,8 +263,8 @@ async function langs() {
 	for (const q of TWO) {
 		const ru = pagesOf((await ask(q)).items);
 		const en = pagesOf((await askEn(q)).items);
-		const strayRu = ru.filter((u) => u.startsWith('/en/'));
-		const strayEn = en.filter((u) => !u.startsWith('/en/') &&
+		const strayRu = ru.filter(isEn);
+		const strayEn = en.filter((u) => !isEn(u) &&
 			!NEUTRAL.some((n) => u.startsWith(n)));
 		// Пустая выдача согласна с любым правилом и потому ничего не значит:
 		// у обоих читателей должно найтись хоть что-нибудь.

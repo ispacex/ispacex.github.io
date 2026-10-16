@@ -4,7 +4,7 @@ lang: en
 ru: /books/
 ---
 
-[Back to main page](/en/)
+[Back to main page](/)
 
 ## Books
 

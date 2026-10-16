@@ -4,7 +4,7 @@ title: "Natya talam"
 
 ## Natya talam
 
-[Вернуться на главную](/)
+[Вернуться на главную](/ru/)
 
 * [Rupaka](/nt/rupaka/) 10
 * [Matya](/nt/matya/) 101

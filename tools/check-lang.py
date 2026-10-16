@@ -91,11 +91,28 @@ def text(page):
     return html.unescape(TAG.sub(' ', page)) + ' ' + html.unescape(labels)
 
 
+ENGLISH = re.compile(r'<html lang="en')
+
+
 def pages():
-    for base, _, names in os.walk(SITE):
+    """Английские страницы: всё в `en/` и всякая страница с `<html lang="en">`.
+
+    Вторые — главная (`/`) и «Математика» (`/math/`): у этих пар первой
+    написана английская, и лежит она без приставки, а русская — в `/ru/`.
+    """
+    for base, dirs, names in os.walk(BUILD):
+        dirs[:] = sorted(d for d in dirs if d != 'sitesearch')
+        inside = os.path.relpath(base, SITE).split(os.sep)[0] != '..'
         for name in sorted(names):
-            if name.endswith('.html'):
-                yield os.path.join(base, name)
+            if not name.endswith('.html'):
+                continue
+            path = os.path.join(base, name)
+            if inside:
+                yield path
+                continue
+            with open(path, encoding='utf-8', errors='replace') as fh:
+                if ENGLISH.search(fh.read(2048)):
+                    yield path
 
 
 def indexes():

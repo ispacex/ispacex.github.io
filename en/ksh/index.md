@@ -6,7 +6,7 @@ ru: /ksh/
 
 Here will be notes on Kashmiri Shaivism.
 
-[Back to main](/en/)
+[Back to main](/)
 
 ## Kashmir Shaivism
 

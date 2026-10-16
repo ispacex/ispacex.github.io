@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/principles/
 ---
 
-[Kashmir Shaivism](/en/ksh/) · [Back to main page](/en/)
+[Kashmir Shaivism](/en/ksh/) · [Back to main page](/)
 
 ## Basic Principles of Kashmir Shaivism
 
