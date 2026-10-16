@@ -6,7 +6,7 @@ ru: /yoga/
 
 Here will be notes on yoga.
 
-[Back to main](/en/)
+[Back to main](/)
 
 ## Yoga
 

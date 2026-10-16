@@ -4,7 +4,7 @@ lang: en
 ru: /theatre/
 ---
 
-[Back to main page](/en/)
+[Back to main page](/)
 
 ## History of Theatre (Kuprina)
 

@@ -2,7 +2,7 @@
 title: "Śivastotrāvalī — гимны Утпаладевы Шиве"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Вернуться на главную](/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/sv/glossary/) · [Поиск по сайту](/search/) · [Вернуться на главную](/ru/)</p>
 
 # Śivastotrāvalī
 

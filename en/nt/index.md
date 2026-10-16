@@ -6,7 +6,7 @@ ru: /nt/
 
 ## Natya talam
 
-[Back to main](/en/)
+[Back to main](/)
 
 * [Rupaka](/nt/rupaka/) 10
 * [Matya](/nt/matya/) 101

@@ -2,7 +2,7 @@
 title: "Pratyabhijñāhṛdayam — Сердце Узнавания, с разбором Кшемараджи"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/ph/glossary/) · [Писания Трики](/ksh/scriptures/) · [Поиск по сайту](/search/) · [Вернуться на главную](/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/ph/glossary/) · [Писания Трики](/ksh/scriptures/) · [Поиск по сайту](/search/) · [Вернуться на главную](/ru/)</p>
 
 # Pratyabhijñāhṛdayam
 

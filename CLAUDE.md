@@ -74,7 +74,7 @@ step that splits the search indexes into two tiers.
   - `copy.html`, `copy_erc20.html`, `copy_trc20.html` — Clipboard copy components for crypto donation addresses
 - `styles/css/style.scss` — Main stylesheet using SCSS with CSS custom properties, dark theme (`#0f1115` background), imports Minima classic skin
 
-**Content directories** are flat Markdown collections organized by topic: `art/`, `dance/`, `theatre/`, `ksh/`, `nt/`, `hoop/`, `yoga/`, `books/`. Each has an `index.md` entry point.
+**Content directories** are flat Markdown collections organized by topic: `art/`, `dance/`, `theatre/`, `ksh/`, `nt/`, `hoop/`, `yoga/`, `books/`, `math/` (English first, Russian in `ru/math/`). Each has an `index.md` entry point.
 
 The `dance/` directory contains Natya Shastra chapter translations (`ns-ch1.md` through `ns-ch14.md`, `ns-ch37.md`).
 
@@ -83,6 +83,24 @@ The `dance/` directory contains Natya Shastra chapter translations (`ns-ch1.md` 
 - Content pages are Markdown with Jekyll front matter
 - Embed external media using the `youtube.html` and `instagram.html` includes
 - Donation pages use the `donate` layout with crypto address copy components
+
+## Languages
+
+Two layouts of a translated pair live side by side:
+
+- **Russian first** — every older section. The Russian page is at the root of
+  its section (`/ksh/`), the English twin under `/en/` (`/en/ksh/`), written by
+  `tools/translate.py`; the English page names its original in front matter
+  (`ru: /ksh/`), and the Russian one finds its twin in `_data/i18n.yml`.
+- **English first** — the home page and `math/`. The English page has no
+  prefix (`/`, `/math/`), the Russian one lives under `/ru/` (`/ru/`,
+  `/ru/math/`) and names its twin itself (`en: /math/`). Both sides are written
+  by hand; `tools/translate.py` skips them (`index.md`, `ru/`, `math/`) and
+  rewrites a link to `/ru/…` into its English pair. `x-default` points at the
+  English page.
+
+`/en/` is no longer the English home: `en/index.html` sends the reader on to
+`/`. A link to the Russian home is `/ru/`, to the English one `/`.
 
 ## Ship (Marchaj Book) — S3 Integration
 

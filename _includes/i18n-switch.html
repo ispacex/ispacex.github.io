@@ -18,10 +18,18 @@
 она делает этот файл верным независимо от того, что настроено в конфиге, — а
 страница, у которой адрес разойдётся с ссылками снова, промолчит не здесь, а в
 `tools/check-address.py`.
+
+Третья ветка — для пар, где первой написана английская: главная (`/` и `/ru/`)
+и «Математика» (`/math/` и `/ru/math/`). Русская страница такой пары лежит в
+`/ru/` и адрес своего двойника знает сама — он у неё во front matter (`en:`),
+зеркально `ru:` у английских. В список `_data/i18n.yml` она не попадает: тот
+описывает обратное правило — двойник в `/en/` плюс тот же адрес.
 {%- endcomment -%}
 {%- assign here = page.url | split: '.html' | first -%}
 {%- if page.ru -%}
 <p class="pv-lang nosearch"><a href="{{ page.ru }}" hreflang="ru" lang="ru">Русский</a> · <strong>English</strong></p>
+{%- elsif page.en -%}
+<p class="pv-lang nosearch"><strong>Русский</strong> · <a href="{{ page.en }}" hreflang="en" lang="en">English</a></p>
 {%- elsif site.data.i18n.en contains here -%}
 <p class="pv-lang nosearch"><strong>Русский</strong> · <a href="{{ here | prepend: '/en' }}" hreflang="en" lang="en">English</a></p>
 {%- endif -%}

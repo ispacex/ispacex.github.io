@@ -2,7 +2,7 @@
 title: "Mālinīvijayottaratantra — главная тантра шиваизма Трики"
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/mv/glossary/) · [Поиск по сайту](/search/) · [Вернуться на главную](/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[КШ](/ksh/) · [Словарь терминов](/ksh/mv/glossary/) · [Поиск по сайту](/search/) · [Вернуться на главную](/ru/)</p>
 
 # Mālinīvijayottaratantra
 

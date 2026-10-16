@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/pv/
 ---
 
-[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/pv/glossary/) · [Site search](/en/search/) · [Return to homepage](/en/)
+[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/pv/glossary/) · [Site search](/en/search/) · [Return to homepage](/)
 
 # Parātrīśikāvivaraṇa
 

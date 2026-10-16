@@ -159,7 +159,20 @@ ROUND = ('ksh/pv/s', 'ksh/ta/ch', 'ksh/tantrasara/ch', 'ksh/ph/s', 'ksh/ph/begin
 
 # Что не идёт в перевод вовсе: служебное, не страницы.
 SKIP = ('_sitecheck/', 'sitesearch/', 'tools/', '.claude/', 'en/',
-        'search-index/', 'search/', 'dance/search.md', 'CLAUDE.md')
+        'search-index/', 'search/', 'dance/search.md', 'CLAUDE.md',
+        'index.md', 'ru/', 'math/')
+
+# Пары, где первой написана английская страница, а русская лежит в `/ru/`:
+# главная (`/` и `/ru/`) и «Математика» (`/math/` и `/ru/math/`). Обе стороны
+# пишутся руками, и машинный перевод их не касается — оттого `index.md` (это
+# только корневой: `startswith`), `ru/` и `math/` стоят в SKIP выше. Без этого
+# русская главная уехала бы в `/en/ru/`, а пустой `en/index.md` — указатель на
+# `/` — был бы затёрт переводом.
+#
+# Ссылки на такие страницы с русских страниц ведут в `/ru/…`, и английский
+# двойник ссылающейся страницы должен вести на английскую пару, а не на
+# русскую: `relink` берёт её из `en:` во front matter русской страницы.
+ENFIRST = 'ru/'
 
 # Двойник, написанный руками. Страница поиска машине не отдаётся (она наполовину
 # из <script>, и переводить в ней надо не прозу, а обещания движку), но
@@ -271,6 +284,25 @@ def blocks(body):
     return re.split(r'\n\s*\n', body)
 
 
+def enfirst():
+    """Русские страницы в `/ru/` и их английские пары: `{'/ru': '/'}`.
+
+    Ключ — адрес без косой черты на конце, как и в `relink`: `/ru/math` и
+    `/ru/math/` — одна страница.
+    """
+    out = {}
+    for base, _dirs, files in os.walk(os.path.join(ROOT, ENFIRST)):
+        for f in files:
+            if not f.endswith('.md'):
+                continue
+            rel = os.path.relpath(os.path.join(base, f), ROOT)
+            m = FM.match(open(os.path.join(ROOT, rel), encoding='utf-8').read())
+            en = m and re.search(r'^en:\s*(\S+)\s*$', m.group(1), re.M)
+            if en:
+                out[twin(rel)[len('/en'):].rstrip('/')] = en.group(1)
+    return out
+
+
 def relink(text, have):
     """Ссылки внутрь сайта — на английские двойники, где они есть.
 
@@ -287,9 +319,13 @@ def relink(text, have):
     дороге не будет.
     """
     canon = {u.rstrip('/'): u for u in have}
+    first = enfirst()
 
     def swap(url):
         base, sep, frag = url.partition('#')
+        own = first.get(base.rstrip('/'))
+        if own:
+            return own + sep + frag
         twin = canon.get(base.rstrip('/'))
         return ('/en' + twin + sep + frag) if twin else url
 

@@ -4,7 +4,7 @@ lang: en
 ru: /ksh/ph/
 ---
 
-<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/ph/glossary/) · [Scriptures of Trika](/en/ksh/scriptures/) · [Site search](/en/search/) · [Return to homepage](/en/)</p>
+<p class="pv-crumbs nosearch" markdown="1">[Kashmir Shaivism](/en/ksh/) · [Glossary of terms](/en/ksh/ph/glossary/) · [Scriptures of Trika](/en/ksh/scriptures/) · [Site search](/en/search/) · [Return to homepage](/)</p>
 
 # Pratyabhijñāhṛdayam
 

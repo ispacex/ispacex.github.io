@@ -1,0 +1,32 @@
+---
+layout: null
+lang: en
+search: false
+nav: false
+sitemap: false
+---
+{%- comment -%}
+Здесь жила английская главная, а русская — в `/`. Теперь читателя, чей язык
+неизвестен, сайт встречает по-английски: английская главная — `/`, русская —
+`/ru/`. Остальной сайт адресов не менял (русское в корне раздела, английское в
+`/en/`).
+
+Адрес оставлен живым для тех, у кого он в закладках и в чужих ссылках: своих
+переадресаций у GitHub Pages нет, поэтому страница отсылает читателя сама. Это
+не страница, а указатель: ни переключателя, ни поиска, ни строки в палитре,
+канонический адрес — `/`. `tools/check-switch.py` узнаёт её по `refresh` ниже и
+обратной дороги с неё не требует.
+{%- endcomment -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Inner space exploration institute</title>
+<link rel="canonical" href="{{ '/' | absolute_url }}">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=/">
+</head>
+<body>
+<p>The home page has moved to <a href="/">/</a>.</p>
+</body>
+</html>

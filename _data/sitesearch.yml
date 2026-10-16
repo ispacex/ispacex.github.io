@@ -30,6 +30,7 @@ sections:
   hoop:    { title: Обруч,                         named: { en: Hoop },             order: 7 }
   books:   { title: Книги,                         named: { en: Books },            order: 8 }
   ship:    { title: Теория плавания под парусами,  named: { en: Sailing theory },   order: 9 }
+  math:    { title: Математика,                    named: { en: Mathematics },      order: 10 }
 
 # Указатели, собранные не Jekyll: он их не видит и собрать не может. Основной
 # указатель называет их, и движок идёт по этому перечню сам — так состав сайта

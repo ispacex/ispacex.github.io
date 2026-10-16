@@ -12,7 +12,7 @@ byhand: true
 
 # Site search
 
-[Back to homepage](/en/) · [Glossary of terms](/en/dance/glossary)
+[Back to homepage](/) · [Glossary of terms](/en/dance/glossary)
 
 <p><input type="search" id="q" placeholder="for example: rasa, śaktipāta, anuttara" autocomplete="off" spellcheck="false" /></p>
 

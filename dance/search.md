@@ -5,7 +5,7 @@ search: false
 
 # Поиск по «Натьяшастре»
 
-[Оглавление](/dance) · [Словарь терминов](/dance/glossary) · [Вернуться на главную](/)
+[Оглавление](/dance) · [Словарь терминов](/dance/glossary) · [Вернуться на главную](/ru/)
 
 <p><input type="search" id="q" placeholder="например: раса, хаста, пурваранга" autocomplete="off" /></p>
 

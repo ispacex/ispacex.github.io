@@ -6,7 +6,7 @@ ru: /dance/
 
 Here will be notes on Indian dance and theatre.
 
-[Back to main](/en/)
+[Back to main](/)
 
 ## Nāṭyaśāstra
 

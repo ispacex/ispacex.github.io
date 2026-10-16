@@ -4,7 +4,7 @@ lang: en
 ru: /hoop/
 ---
 
-[Back to main](/en/)
+[Back to main](/)
 
 ## Hoop
 

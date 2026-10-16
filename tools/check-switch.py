@@ -25,6 +25,15 @@ VS-46, только на другой поверхности: там ссылк�
 2. у английской страницы `pv-lang` нет вовсе (обратная дорога);
 3. ссылка переключателя ведёт в никуда.
 
+## Пары, где первой написана английская
+
+Главная и «Математика» устроены наоборот: английская лежит без приставки (`/`,
+`/math/`), русская — в `/ru/` и знает двойника сама (`en:` во front matter).
+Обратная дорога поэтому требуется с каждой страницы в `ru/` и с каждой
+английской (`<html lang="en">`) вне `en/`. Указатель `en/index.html`, который
+отсылает прежний адрес английской главной на `/`, страницей не считается: его
+узнают по `http-equiv="refresh"`.
+
 ## Чего эта проверка не видит
 
 Локальная сборка идёт без `jekyll-optional-front-matter`, и страницы без front
@@ -46,6 +55,8 @@ ROSTER = os.path.join(ROOT, '_data', 'i18n.yml')
 SWITCH = re.compile(r'(?s)<p class="pv-lang[^>]*>.*?</p>')
 HREF = re.compile(r'href="([^"]+)"')
 ENTRY = re.compile(r'^\s*-\s*"([^"]+)"\s*$')
+ENGLISH = re.compile(r'<html lang="en')
+REFRESH = re.compile(r'http-equiv="refresh"', re.I)
 
 
 def roster():
@@ -85,9 +96,22 @@ def written(url, src):
     return any(name + '.md' in src for name in names(url))
 
 
-def switch(path):
+def read(path):
     with open(path, encoding='utf-8', errors='replace') as fh:
-        return SWITCH.search(fh.read())
+        return fh.read()
+
+
+def switch(path):
+    return SWITCH.search(read(path))
+
+
+def twinned(where, page):
+    """Должна ли у страницы быть обратная дорога к двойнику."""
+    if REFRESH.search(page):
+        return False
+    if where.startswith(('en' + os.sep, 'ru' + os.sep)):
+        return True
+    return bool(ENGLISH.search(page))
 
 
 def main():
@@ -111,9 +135,10 @@ def main():
                 continue
             path = os.path.join(base, name)
             where = os.path.relpath(path, SITE)
-            found = switch(path)
+            page = read(path)
+            found = SWITCH.search(page)
             if not found:
-                if where.startswith('en' + os.sep):
+                if twinned(where, page):
                     lone.append(where)
                 continue
             for href in HREF.findall(found.group(0)):
@@ -123,14 +148,14 @@ def main():
     for url in mute[:20]:
         print('%s: двойник есть, переключателя нет' % url)
     for where in lone[:20]:
-        print('%s: английская страница без пути назад' % where)
+        print('%s: страница пары без пути к двойнику' % where)
     for where, href in broken[:20]:
         print('%s: переключатель ведёт в никуда — %s' % (where, href))
 
     print('')
     print('в списке двойников: %d' % len(roster()))
     print('двойник есть, а переключателя нет: %d' % len(mute))
-    print('английских страниц без пути назад: %d' % len(lone))
+    print('страниц пары без пути к двойнику: %d' % len(lone))
     print('ссылок переключателя в никуда: %d' % len(broken))
     if unbuilt:
         print('не проверено (нет в локальной сборке, VS-43): %d' % len(unbuilt))
