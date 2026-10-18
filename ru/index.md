@@ -1,6 +1,7 @@
 ---
 title: "Inner space exploration institute"
 en: /
+description: "Синтез нового знания — и гуманитарного, и естественнонаучного, донесение культурного кода через произведения искусства и сохранение культурного наследия человечества (Pax culture)."
 ---
 
 # Inner space exploration institute

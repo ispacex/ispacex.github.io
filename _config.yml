@@ -19,6 +19,21 @@ defaults:
       path: ""
     values:
       layout: default
+      # Картинка превью ссылки (Telegram и другие): `{% seo %}` делает из неё
+      # `og:image` и `twitter:card: summary_large_image`. Без неё превью было
+      # голым текстом. Страница со своей `image:` во front matter перебивает.
+      image: /900_pax_culture.jpg
+
+  # У раздела «Математика» своя карточка, на каждом языке своя; её рисует
+  # tools/og_card.py (запустить заново, если поменяется заголовок).
+  - scope:
+      path: "math"
+    values:
+      image: /assets/og/math-en.png
+  - scope:
+      path: "ru/math"
+    values:
+      image: /assets/og/math-ru.png
 
   # Адрес страницы — тот, каким её зовут ссылки: без «.html».
   #
