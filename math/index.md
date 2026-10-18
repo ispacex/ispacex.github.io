@@ -2,6 +2,7 @@
 title: "Mathematics"
 lang: en
 ru: /ru/math/
+description: "The D₅ problem (Kourovka notebook, Problem 20.84), a recomputation of the coloured metalibrary, and a correctness audit of the GAP package ANUPQ."
 ---
 
 # Mathematics

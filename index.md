@@ -2,6 +2,7 @@
 title: "Institute of Inner Space Exploration"
 lang: en
 ru: /ru/
+description: "Synthesis of new knowledge in the humanities and the natural sciences, conveying the cultural code through works of art, and preservation of humanity's cultural heritage (Pax culture)."
 ---
 
 
