@@ -11,7 +11,7 @@ ru: /ru/
 
 The main tasks of the institute:
 
-* synthesis of new humanitarian knowledge
+* synthesis of new knowledge — in the humanities and in the natural sciences alike
 * conveying and restructuring the cultural code through works of art
 * preservation of humanity's cultural heritage (Pax culture)
 
@@ -30,3 +30,5 @@ The main tasks of the institute:
 * [Ship](/en/ship/)
 * [Mathematics](/math/)
   * [Coloured metalibraries](/math/libraries/) — R. Mikhailov's lecture and our recomputation
+  * [The D₅ problem](/d5/) — Kourovka notebook, Problem 20.84
+  * [ANUPQ: a correctness audit](/gap/) — the GAP package the D₅ computations rely on
