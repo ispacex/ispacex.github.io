@@ -109,4 +109,5 @@ exclude:
   - sitesearch/check-fold.js
   - sitesearch/check-prepare.js
   - sitesearch/check-say.js
+  - sitesearch/check-math.js
   - sitesearch/node/
