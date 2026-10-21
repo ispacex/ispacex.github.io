@@ -35,6 +35,10 @@ class El {
 	}
 	insertBefore(c) { return this.appendChild(c); }
 	addEventListener(type, fn) { (this.on || (this.on = {}))[type] = fn; }
+	// Движок помечает своё поле для менеджеров паролей (sitesearch 85a7a65), и
+	// без атрибутов обе проверки падали на первом же `mount`.
+	setAttribute(a, v) { (this.attrs || (this.attrs = {}))[a] = String(v); }
+	getAttribute(a) { return this.attrs && a in this.attrs ? this.attrs[a] : null; }
 	fire(type) { if (this.on && this.on[type]) this.on[type](); }
 	set textContent(v) { this._text = v; this.children = []; }
 	get textContent() {
